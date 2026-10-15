@@ -22,7 +22,7 @@ The full argument, with every position and who holds it, is in the report.
 | File | What it is |
 |---|---|
 | [`research/REPORT.md`](research/REPORT.md) | The survey. Origen's life and first censure, the controversy around 400, the documents of 543 and 553, whether the condemned doctrines are really Origen's, how binding the condemnations are in each tradition, whether they were just, and where the debate stands now. |
-| [`research/claims.md`](research/claims.md) | Every factual claim in the report (61 of them), each with its source and how far it was checked. |
+| [`research/claims.md`](research/claims.md) | Every factual claim in the report (63 of them), each with its source and how far it was checked. |
 | [`research/balance-audit.md`](research/balance-audit.md) | A review of the report for bias: who gets heard, whose case is put at its strongest, and what was changed as a result. |
 
 ## How it was checked
@@ -34,19 +34,26 @@ Each claim is marked with how far it was checked:
 - **R**: taken from standard scholarship and not yet checked against the book itself
 - **C**: corrected during checking
 
-Three claims were corrected and none turned out false. The balance audit asked whether a careful reader on each side would recognise their own case. Where the draft leaned one way, the text was changed.
+Four claims were corrected and none turned out false. The balance audit asked whether a careful reader on each side would recognise their own case. Where the draft leaned one way, the text was changed.
 
 ## Known gaps
 
-- Dr Cyril Jenkins and David Bentley Hart are heard only through their critics. Their own words should replace the summaries before anything here is quoted.
-- Guillaumont (1962), Edwards (2002) and Clark (1992) are cited from summaries. Those three carry the "Origen wasn't really condemned" side, so they're the first to check.
+- Dr Cyril Jenkins is heard only through his critic, Fr Aidan Kimel: the interview itself couldn't be found. Hart is now quoted from his own essay.
+- Guillaumont, Edwards and Clark are cited from secondary sources (the publisher, a reference guide, a review), not the books.
 - Page references to Richard Price's translation of the 553 Acts come from other writers' citations.
+
+## The canvas
+
+[`canvas/`](canvas/) holds the source of the **Origen Design Showcase**, the Claude Design canvas this project began from. It presents the reading list as a responsive web page: the free English translations, what survives of the commentaries, what isn't free yet, and, since this release, a section asking **Was Origen condemned?** That section sets the condemnations out in order, with the authority each one carried, and gives both answers to the universal-salvation question with the names behind each. It links back to the report here.
+
+- `canvas/Main.dc.html` is the page itself, as a Design Component file.
+- `canvas/canvas.json` is the canvas index.
+
+The live canvas is private to its owner on claude.ai. These files are the copy of record.
 
 ## Status
 
-The research is finished, apart from the gaps above. It feeds a designed artifact, the **Origen Design Showcase**, which presents the reading list as a web page.
-
-The repository is versioned by checkpoint. Notes and research go here, and nothing about this project goes into any other repository.
+Version 1.0.0 is finished. The one limit left is Dr Jenkins, whose interview couldn't be found, so his view is given as his critic reports it. See [`CHANGELOG.md`](CHANGELOG.md) for what changed in each version.
 
 ## License
 

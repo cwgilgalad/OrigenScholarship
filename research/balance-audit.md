@@ -24,4 +24,14 @@ Done 2026-10-15, on REPORT.md as drafted. The test: would a careful reader on ea
 - Several **R** claims (Guillaumont, Edwards, Clark) rest on standard summaries. If they are misstated, the error favours the "Origen not condemned" side, since those works carry that case. Check them first.
 - Hart's position is known here only through a critic (Truglia). Same remedy as Jenkins.
 
+## Second pass (2026-10-15)
+
+- **Hart** is now quoted from his own essay ("Saint Origen", *First Things*, 2015). His claim that the fifteen were attached after the council is set against Diekamp and Price, so the strongest form of his case doesn't stand unanswered.
+- **Jenkins**: credentials confirmed (PhD; St Basil Center, Eastern University). The interview isn't online among his podcast episodes, so his own words still can't be quoted. This stays the main open limit, and it's on the side the reader is less inclined toward. The artifact should say "as reported by Kimel" whenever it gives his view.
+- **Edwards**: the stronger form of his view (Origen didn't teach pre-existence at all) is now stated, and marked as a minority position, so it doesn't read as consensus.
+- **Guillaumont**: the draft's "often word for word" overstated what could be checked and is cut. Misiarczyk's dissent is now answered by the majority view that the Greek fragments favour S2.
+- **New voices on the traditional side** (Green, Maximov, Telea) were added from Kimel's 2026 series, which narrows the imbalance noted in finding 1.
+
+**Verdict after the second pass:** ready for the artifact, with Jenkins quoted only as reported.
+
 **Verdict:** balanced enough to hand to the design stage, with the two "heard through an opponent" gaps flagged for a follow-up read.

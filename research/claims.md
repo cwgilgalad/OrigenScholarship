@@ -23,7 +23,7 @@ Checked 2026-10-15. Status key:
 | 13 | Alexandrian synod of 400 condemned Origen; "hydra of all heresies" | S | Wikipedia *Origenist crises* (MacGregor, Harding) |
 | 14 | Anastasius I to John of Jerusalem (c. 401): doesn't know who Origen was; cites decree of Arcadius and Honorius | V | NPNF II.3 text |
 | 15 | Tall Brothers expelled; Chrysostom deposed at the Synod of the Oak, 403 | S | Wikipedia *Origenist crises* |
-| 16 | Clark (1992) the standard study, reads it as also about asceticism and power | R | Standard; not re-checked |
+| 16 | Clark (1992): "Origen" a code word for non-theological complaints; body, praxis and theory | S | Princeton UP description (updated 2026-10-15) |
 | 17 | Neither Epiphanius nor Theophilus made universalism decisive | S | Kimel's argument (his reading) |
 | 18 | Isochristoi / Protoktistoi | S | Wikipedia *Origenist crises* |
 | 19 | Hombergen: Cyril of Scythopolis unreliable; pre-synod March/April 553 | S | Kimel 2020 reporting Hombergen |
@@ -51,25 +51,29 @@ Checked 2026-10-15. Status key:
 | 41 | Constantinople III: fifth synod "against Theodore…, Origen, Didymus and Evagrius" | V | Text via EWTN; Wikipedia *Second Council* |
 | 42 | Nicaea II repeats it; later councils didn't re-examine | S | Misiarczyk 2016 abstract |
 | 43 | *Decretum Gelasianum* restricts Origen's works | S | Wikipedia *Origenist crises* (McGuckin) |
-| 44 | Guillaumont 1962: anathemas follow Evagrius's *Kephalaia Gnostica* (S2) | R | Standard; not re-checked against the book |
-| 45 | Misiarczyk: S2 may be contaminated; S1 may be authentic | V | *Vox Patrum* 65 abstract |
+| 44 | Guillaumont edited S2 (PO 28.1, 1958) and studied it against the anathemas (1962); KG a core text behind 553 | C, S | Guide to Evagrius Ponticus (draft said only 1962 and "often word for word"; the latter is cut) |
+| 45 | Misiarczyk: S2 may be contaminated; S1 may be authentic. Greek fragments favour S2 | V, S | *Vox Patrum* 65 abstract; Guide to Evagrius Ponticus |
 | 46 | Daley: radicalised Evagrian Christology beyond Origen or Nyssa | S | Kimel 2020 reporting Daley |
 | 47 | Ramelli: condemned apokatastasis is the version embedded in transmigration | S | Kimel 2020; Ramelli 2019 |
-| 48 | Edwards: Origen's view of human nature opposed to Platonism | S | Oxford faculty summary; detail not checked |
+| 48 | Edwards: Origen's view of human nature opposed to Platonism; Edwards and Tzamalikos deny Origen taught pre-existence | S | Oxford faculty summary; Martens's review of Scott |
 | 49 | Crouzel: Origen never officially condemned | S | Ramelli 2019 citing Crouzel |
 | 50 | *De principiis* 1.6.2 "the end is always like the beginning" | R | Quotation verified (Wikipedia); section number from memory |
 | 51 | *Against Celsus* 6.26 on punishment as deterrent | S | Wikipedia *Origen* |
 | 52 | McClymond review, *Theological Studies* 76.4 (2015); criticisms as given | V | theologicalstudies.net |
 | 53 | Ramelli replied in the same journal | V | theologicalstudies.net |
-| 54 | Jenkins's position (as Kimel reports it) | S | Kimel 2024; interview not seen; credentials not found |
+| 54 | Jenkins's position (as Kimel reports it); PhD, director of St Basil Center, Eastern University; hosts *Light Through the Past* | S, V | Kimel 2024; Ancient Faith profile. Interview still not found |
 | 55 | Kimel: reception argument circular; condemnation without content "dogmatically useless" | S | Kimel 2024; Truglia reporting Kimel |
-| 56 | Hart claims scholars show Origen wasn't condemned in 553 | S | Truglia's report; Hart's book not checked |
+| 56 | Hart: the fifteen "never even discussed", Origen "never named in any of them", attached after the council | V | Hart, "Saint Origen", *First Things*, Oct 2015 |
 | 57 | Benedict XVI, 25 April 2007: "crucial to the whole development of Christian thought", "true 'maestro'"; no condemnation mentioned | V | vatican.va |
 | 58 | A second audience on Origen on 2 May 2007 | R | Search results; text not opened |
 | 59 | Richardson 1937, *Church History* 6: "one of the saddest episodes" | V | Cambridge abstract |
 | 60 | Baghos: "on the altar of imperial politics" | S | Kimel 2024 |
 | 61 | Truglia 2019 / 2021 arguments | V | orthodoxchristiantheology.com |
+| 62 | Kimel 2026 series answers Green (2019), Price; weighs McGuckin (2017), Maximov (2020), Telea (2022) | S | Kimel, part 3, Jan 2026 |
+| 63 | Benedict XVI quotes as given; no condemnation mentioned | V | vatican.va (see #57) |
 
 **Corrections made:** #10 (dates), the ninth anathema of 543 (the draft quoted it in full; only the opening words are quoted now, the rest paraphrased from the NPNF), and canon 11 (the draft said "the majority of historians" accept the name; that couldn't be supported, so it now names only the NPNF editor).
+
+**Second pass (2026-10-15, later):** the gaps flagged in the balance audit were followed up. Hart is now quoted from his own essay, Jenkins's credentials are confirmed, and Guillaumont, Edwards and Clark rest on better secondary sources. Guillaumont's entry was corrected.
 
 **Nothing refuted.** Claims marked R should be checked against the books before the artifact quotes them.
