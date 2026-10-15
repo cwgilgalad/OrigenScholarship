@@ -1,4 +1,4 @@
-# origen-scholarship
+# OrigenScholarship
 
 Was Origen of Alexandria condemned as a heretic? This repository holds a survey of what the sources say and what scholars have argued about it, from Origen's own century to the arguments still going on today. It's written for readers of an open-access Origen reading list, and it doesn't pick a side.
 
