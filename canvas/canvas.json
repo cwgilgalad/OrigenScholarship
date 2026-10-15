@@ -1,0 +1,13 @@
+{
+  "v": 3,
+  "createdOnFiles": {"v": 1, "at": "2026-10-12T21:53:41Z"},
+  "title": "Origen Design Showcase",
+  "launch": {"view": "focused", "file": "Main.dc.html"},
+  "pages": [],
+  "boards": {
+    "Main.dc.html": {"x": 0, "y": 0, "w": 1280, "h": 4700, "title": "The Writings of Origen · responsive web page", "expand": "fill"}
+  },
+  "order": ["Main.dc.html"],
+  "notes": {},
+  "designSystems": []
+}
