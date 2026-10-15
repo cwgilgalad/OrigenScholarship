@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.1.0 (in progress)
+
+Work under way on this version. Each item gets ticked off here as it lands on the branch.
+
+- [ ] The source texts: each key passage in Greek, Latin or Syriac, with its edition, an English rendering, and how scholars on each side read it.
+- [ ] A fuller answer to whether Origen's name was added later to the councils that condemned him, place by place.
+- [ ] New and missing scholarship, and another try at the three known gaps.
+- [ ] A third pass of the balance audit, covering the new material.
+- [ ] A plain-voice pass over every file, so it reads well for someone who isn't a specialist.
+- [ ] The canvas carries the new material.
+- [ ] README and release notes brought up to date.
+
 ## v1.0.0 (2026-10-15)
 
 The first release: the research, finished, and the canvas it feeds.
