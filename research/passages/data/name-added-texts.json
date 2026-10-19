@@ -1,0 +1,1298 @@
+{
+ "cluster": "name-added-texts",
+ "summary": "Before 553 Origen's name is secure: Theophilus's synod of 400 and Pope Anastasius name him again and again (the reply of the Jerusalem bishops anathematizes the propositions and their teachers without naming him), and Justinian's edict of 543 ends with an anathema (a formal curse cutting someone off from the church) on 'Origen, who is also called Adamantius', where the Greek and Migne's Latin agree on one person; in my reading NPNF's English 'Origen and to that Adamantius' makes two people out of one (NPNF translated from Labbe's printing, whose Latin I could not see). All the doubt concerns 553: Justinian's confession of faith of 551 gives the same list of heretics as the council's eleventh anathema but stops at Eutyches, and the fifteen anti-Origenist anathemas name nobody at all, although the emperor's covering letter asks the bishops to condemn each chapter 'together with the impious Origen'. The council's own minutes (the Acts, which survive only in Latin) name Origen twice, in the fifth session as already anathematized 'even now' and last in canon 11's list (Arius, Eunomius, Macedonius, Apollinarius, Nestorius, Eutyches, Origen), and the Greek of canon 11 that survives outside the Acts has the name too. The case that the name was inserted later (Halloix, Garnier, Vincenzi; today Harding and Ramelli) is an inference from the list's order, the 551 parallel, the influence of the Origenist Theodore Askidas and Vigilius's silence; no scholar I read reports a manuscript without the name, and Hefele, the NPNF editor, Truglia and Kimel (who notes the interpolation view as a minority position that still has support) keep it. Vigilius's confirmations do not name Origen, but his letter of December 553 anathematizes no heresiarch (founder of a heresy) by name except Theodore of Mopsuestia, so its silence proves little, and his Constitutum II of 554 could not be checked. Cyril of Scythopolis (c. 557) joins Origen and Theodore in one 'common and universal anathema', while Evagrius Scholasticus (c. 593) tells of acclamations against Origen as a proceeding separate from the council's work on the Three Chapters; both are disputed witnesses, and from 649 on, conciliar texts name Origen with Didymus and Evagrius: the Lateran list of 649, and the definitions of 681 and 787, which say the fifth council acted against them. Ramelli's remark that interpolation was 'already suspected' at Constantinople III seems to refer to that council's discovery in 680-81 of Monothelete letters forged in the names of Menas and Vigilius and slipped into two copies of the Acts; nothing in the reports of that inquiry concerns Origen. The critical editions (ACO) were out of reach, except that Livorsi's quotation of Straub confirms Origen's name in canon 11 in Latin and Greek. The 543 and 551 texts were checked in Migne through OCR, canon 11 through Denzinger, Livorsi's ACO quotation and an unsourced Greek transcription, and the session V, Vigilius and 680-81 passages only in English.",
+ "passages": [
+  {
+   "id": "synod-400-theophilus-anastasius",
+   "title": "400-401: Theophilus's synodal letter and Pope Anastasius condemn Origen by name",
+   "author_work_ref": "Theophilus of Alexandria, Synodal letter to the bishops of Palestine and Cyprus (= Jerome, Ep. 92.1.4 and 92.2.1); Anastasius I, Letter to Simplicianus of Milan (= Jerome, Ep. 95); with the reply of the Jerusalem synod (= Jerome, Ep. 93)",
+   "date": "400 (Theophilus's synod at Alexandria / Nitria); c. 400-401 (Anastasius)",
+   "language": "Latin (Theophilus wrote in Greek; the letter survives in a Latin version preserved in Jerome's correspondence)",
+   "original": "Theophilus, Ep. 92.1.4 (CSEL 55, p. 148): \"et coram multis patribus monachorum, qui de tota paene Aegypto conuolauerunt, lecti sunt libri Origenis, in quibus inpio labore sudauit, et consensu omnium condemnati.\"\nEp. 92.2.1 (p. 149), after quoting propositions including \"Christi regnum finietur aliquando, zabulus cunctis peccatorum sordibus liberatus aequo honore decorabitur et cum Christo subicietur\": \"obturauimus aures nostras et tam Origenem quam discipulos eius consona uoce damnauimus, ne et modicum fermentum totam massam corrumperet.\"\nAnastasius, Ep. 95 (CSEL 55, p. 158): \"ne dei populus per diuersas ecclesias Origenem legendo in magnas incurrat blasphemias ... illud, quicquid est fidei nostrae contrarium ab Origene quondam scriptum, indicauimus a nobis esse alienum atque punitum ... si qua alia sunt ab Origene exposita, cum suo auctore pariter a nobis scias esse damnata.\"\nReply of the bishops at Jerusalem (Eulogius, John and the others), Ep. 93 (CSEL 55, pp. 155-156): \"neque enim audiuimus umquam docentes, quod Christi regnum aliquando sit terminandum ... neque, quod zabulus cunctis peccatorum uitiis liberatus dignitatem obtineat, quam habuit, antequam caderet ... quicumque haec praedicat, quae beatitudo tua damnanda significat ... et ipsi et dogmata eorum sint ecclesiae anathema cum Apollinare.\"",
+   "edition": "I. Hilberg, Sancti Eusebii Hieronymi Epistulae, CSEL 55 (Vienna 1912): Ep. 92 at pp. 147-155 (lines quoted at p. 148 and p. 149, ll. 1-10); Ep. 93 at pp. 155-156; Ep. 95 at pp. 157-158 (Ep. 92 runs pp. 147-155, confirmed from the page breaks and the next letter's heading). Line numbers are approximate: the first quotation is at the foot of p. 148 (about ll. 23-25).",
+   "checked_against": "Hilberg's CSEL 55 text (Open Greek and Latin csel-dev XML, with page breaks and apparatus), downloaded again and compared line by line: all quoted Latin matches, and pages 148, 149 and 158 are right. Ep. 93 read in the same file. The quoted phrases of Anastasius's letter to John of Jerusalem checked on the NPNF II.3 page (ccel.org).",
+   "english": "Theophilus: \"In the presence of many fathers of the monks, who had flocked together from almost the whole of Egypt, the books of Origen, over which he sweated with impious labour, were read and condemned by the consent of all.\" After quoting propositions that Theophilus says stand in Origen's 'de principiis' and in a book 'de oratione' (among them that \"the kingdom of Christ will one day come to an end, and the devil, freed from all the filth of sins, will be honoured equally and made subject together with Christ\"): \"we stopped our ears, and with one voice we condemned Origen as well as his disciples, so that a little leaven should not corrupt the whole lump.\"\nAnastasius: \"... lest the people of God in the various churches fall into great blasphemies by reading Origen ... whatever Origen once wrote that is contrary to our faith we have declared foreign to us and condemned ... and if there are other things set out by Origen, know that they, together with their author, are equally condemned by us.\"\nJerusalem reply (Ep. 93, own translation): \"We have never heard anyone teaching that Christ's kingdom will at some time be ended ... or that the devil, freed from all the vices of sins, will obtain the dignity he had before he fell ... whoever preaches these things that your Blessedness marks out for condemnation ... let both they and their teachings be an anathema to the church, together with Apollinaris.\"",
+   "english_source": "Own translation (Theophilus, Anastasius and the Jerusalem reply). The standard English of Anastasius's separate letter to John of Jerusalem is NPNF II.3 (public domain); I re-read its wording on the ccel.org page and the quoted phrases are right.",
+   "why_it_matters": "These are the oldest synodal and papal condemnations of Origen, and nobody questions that his name is in them: it runs through both texts. They are the baseline against which the sixth-century cases look uncertain. The Jerusalem reply (Ep. 93) shows how even a friendly synod answered: it condemned the listed propositions and whoever preaches them, and left Origen's own name out of its anathema.",
+   "textual_notes": "Both letters rest on one late manuscript, Milan, Ambrosianus H 59 sup. (13th century), which Hilberg calls u and which lacks their titles. In Ep. 95 Hilberg marks a lacuna after \"ut\" and supplies \"sint tuta\"; neither touches Origen's name. The propositions, including the one about the devil, are Theophilus's report of what Origen's books say (he names 'de principiis' and a book 'de oratione'), not Origen's own words, and I did not check them against Origen's text. Origen denied teaching the devil's salvation in a letter that Rufinus quotes in De adulteratione librorum Origenis (section number not confirmed here). Ep. 92, 93 and 95 all rest on the same manuscript (Hilberg's apparatus cites only it and Vallarsi's edition). In Ep. 93 the Jerusalem bishops name Origen only to describe what Theophilus had told them ('Origenis dogmatibus pestifera quaedam uelint introducere'); in the lines quoted they anathematize the propositions and whoever preaches them, and do not themselves condemn Origen by name. Anastasius's letter to John of Jerusalem says he has 'neither formerly known, nor do I now seek to know' who Origen was, yet condemns his writings and cites a decree of the emperors against reading them (NPNF II.3).",
+   "readings": [
+    {
+     "scholar": "John of Jerusalem (ancient reader), as reported by Mark Harding",
+     "work": "Harding 2004, p. 164 (Westminster Handbook to Origen), as cited in Wikipedia, 'Origenist crises'",
+     "position": "Refused Epiphanius's demand, made in the 390s during the first controversy and before the 400 synod, to condemn Origen. Wikipedia reports Harding's wording as: John refused 'because a person could not be retroactively condemned as a heretic after death'.",
+     "side": "objects to condemning Origen after his death",
+     "status": "S",
+     "source_url": "https://en.wikipedia.org/wiki/Origenist_crises"
+    },
+    {
+     "scholar": "Fr Aidan Kimel",
+     "work": "'An Open Letter to Dr Cyril Jenkins: Was Origen Condemned for Teaching Universal Salvation?', Eclectic Orthodoxy, posted 20 Aug 2024 (revised 5 Sep 2024)",
+     "position": "Dates Theophilus's turn against Origen to 399 and says he acted 'primarily for political and pastoral reasons'. Says that 'neither Epiphanius nor Theophilus condemn Origen for teaching the final salvation of all human beings', and reads that as a sign that the restoration of all people was still within orthodox limits at the end of the fourth century.",
+     "side": "reads 399-400 as not a condemnation of universal salvation as such",
+     "status": "V",
+     "source_url": "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/"
+    },
+    {
+     "scholar": "Dr Cyril Jenkins (as reported by Kimel)",
+     "work": "Ancient Faith interview, as quoted and answered in Kimel's open letter of 2024",
+     "position": "As quoted by Kimel: the 'real condemnations of Origen' come 'from people like St Epiphanius', and 'the Orthodox Church has always accepted the condemnations of 553'. Kimel says Jenkins thereby approves the condemnations by Epiphanius and Theophilus.",
+     "side": "treats the early condemnations as real and binding",
+     "status": "S",
+     "source_url": "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/"
+    },
+    {
+     "scholar": "Eulogius, John and the bishops at Jerusalem (ancient readers)",
+     "work": "Reply to Theophilus's synodal letter = Jerome, Ep. 93 (CSEL 55, pp. 155-156)",
+     "position": "They say they have never heard anyone teach that Christ's kingdom will end or that the devil will regain his old dignity, and they declare anyone who preaches such things, with their teachings, anathema to the church. They mention Origen only as the source Theophilus gave for these teachings.",
+     "side": "condemns the propositions and their teachers, not Origen by name",
+     "status": "V",
+     "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0162/stoa004/stoa0162.stoa004.opp-lat1.xml"
+    },
+    {
+     "scholar": "Rufinus of Aquileia (ancient reader)",
+     "work": "De adulteratione librorum Origenis (c. 400); the Origen letter is quoted there (section not confirmed)",
+     "position": "Argued that heretics had falsified Origen's books, and published a letter of Origen's in which Origen complains that people attribute to him the teaching that the devil will be saved.",
+     "side": "Origen did not teach the devil's salvation; the books were tampered with",
+     "status": "R",
+     "source_url": ""
+    },
+    {
+     "scholar": "Jerome (ancient reader)",
+     "work": "Apologia contra Rufinum, book 2 (c. 402); sections not checked",
+     "position": "Held that Origen's disclaimer in that letter did not clear him, because Jerome found the restoration of the devil taught in De principiis.",
+     "side": "Origen did teach the restoration of the devil",
+     "status": "R",
+     "source_url": ""
+    }
+   ],
+   "source_urls": [
+    "https://github.com/OpenGreekAndLatin/csel-dev",
+    "https://ccel.org/ccel/schaff/npnf203.vi.x.html",
+    "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0162/stoa004/stoa0162.stoa004.opp-lat1.xml"
+   ],
+   "status": "V"
+  },
+  {
+   "id": "edict-543-tenth-anathema",
+   "title": "543: the last anathema of Justinian's edict against Origen",
+   "author_work_ref": "Justinian, Letter (edict) to Menas against Origen (Liber adversus Origenem), the closing anathema (counted as the tenth: nine numbered anathemas come first, and this one is unnumbered in NPNF and sits after the ninth in Migne)",
+   "date": "543",
+   "language": "Greek, with the Latin printed beside it in Migne",
+   "original": "Greek (PG 86.1, col. 989), immediately after the ninth anathema \"Εἴ τις λέγει ἢ ἔχει, πρόσκαιρον εἶναι τὴν τῶν δαιμόνων καὶ ἀσεβῶν ἀνθρώπων κόλασιν, καὶ τέλος κατά τινα χρόνον αὐτὴν ἕξειν, ἤγουν ἀποκατάστασιν γενέσθαι δαιμόνων ἢ ἀσεβῶν ἀνθρώπων, ἀνάθεμα ἔστω\": \"Ἀνάθεμα καὶ Ὠριγένει τῷ καὶ Ἀδαμαντίῳ τῷ ταῦτα ἐκθεμένῳ μετὰ τῶν μυσαρῶν αὐτοῦ καὶ ἐπικαταράτων ἐναγῶν τε δογμάτων, καὶ παντὶ προσώπῳ φρονοῦντι ταῦτα, ἢ ἐκδικοῦντι, ἢ [κατά τινα τρόπον] κατά τι παντελῶς ἐν οἱῳδήποτε χρόνῳ τούτων ἀντιποιεῖσθαι τολμῶντι.\"\nLatin (PG 86.1, col. 990): \"Anathema et Origeni, qui et Adamantius, qui haec exposuit una cum nefaria atque exsecrabili scelestaque ejus doctrina, et cuivis qui ea sentiat, aut defendat, aut ullo modo prorsus quocunque tempore tueri [last word illegible in the OCR].\"",
+   "edition": "E. Schwartz, ACO III (Berlin 1940), pp. 189-214 (page range as cited in the earlier draft; I could not confirm it), the page and line of the closing anathema not confirmed. Older printings: Labbe-Cossart, Concilia V, col. 677 (cited by NPNF); Mansi IX; PG 86.1, cols. 945-990.",
+   "checked_against": "PG 86.1, cols. 989-990, in the Open Greek and Latin OCR (OGL-PatrologiaGraecaDev/Vol.-86.1, hvd.32044019208909, files 502.txt and 502.hocr), downloaded again and compared word for word. OCR errors corrected: Ὠριγὲνει, ’Δδαμαντίῳ, ἑκθεμίνῳ, ἑπικαταράτων, οίῳδῆποτε, τολμῶντε (read τολμῶντι), de— fendat; the Latin ends in OCR garbage after 'tueri'. ACO III was not available.",
+   "english": "Ninth anathema (own translation): \"If anyone says or holds that the punishment of demons and impious men is temporary and will have an end at some time, that is, that there will be a restoration (apokatastasis) of demons or of impious men: let him be anathema.\" Contested rendering: ἀποκατάστασις is 'restoration' here, not 'universal salvation'; the sentence speaks of demons and impious men and says nothing of salvation. Closing anathema: \"Anathema also to Origen, who is also called Adamantius, who set out these things, together with his loathsome, accursed and abominable doctrines, and to every person who thinks these things or defends them, or in any way at all, at any time whatever, dares to take their part.\"",
+   "english_source": "Own translation. Compare NPNF II.14 (public domain): \"Anathema to Origen and to that Adamantius, who set forth these opinions together with his nefarious and execrable and wicked doctrine...\"",
+   "why_it_matters": "This is the earliest surviving imperial text I know of that anathematizes Origen by name (Anastasius's letter of c. 400 mentions an earlier decree of the emperors against reading him, which I did not see), and it is the text that the 553 sources keep referring back to. The ninth anathema just before it is the edict's own condemnation of the end of punishment. Whether its Greek and Latin disagree about the name bears on how reliable the record is.",
+   "textual_notes": "The NPNF editor says the text is 'corrupt, at all events the Latin and Greek do not agree'. In the text I checked, the two agree on the name: Greek τῷ καὶ Ἀδαμαντίῳ and Latin 'qui et Adamantius' both mean 'who is also called Adamantius', one person. NPNF's 'Origen and to that Adamantius' makes two people out of one and is a contested rendering; in my reading the Greek does not support it. NPNF cites Labbe and Cossart (col. 677) as its source, and I could not see that edition's Latin, so the editor's note ('the Latin and Greek do not agree') may describe a difference in that text that Migne's does not have. Where the versions differ is in the rest: Greek δόγματα (plural, 'doctrines') against Latin 'doctrina'; παντὶ προσώπῳ ('every person') against 'cuivis'; ἀντιποιεῖσθαι ('to lay claim to, take the side of') against 'tueri' ('protect'). The words in square brackets are an alternative reading printed by Migne. The Latin in PG is a translation printed with the Greek; I did not establish whether it is ancient or early modern, and I found no separate ancient Latin version. ACO III may differ in detail from PG.",
+   "readings": [
+    {
+     "scholar": "Henry R. Percival (NPNF editor)",
+     "work": "NPNF II.14 (1900), note to 'The Anathematisms of the Emperor Justinian against Origen'",
+     "position": "Thinks the closing text is corrupt and that the Greek and Latin do not agree. He does not say which words he means.",
+     "side": "doubts the text, not the condemnation",
+     "status": "V",
+     "source_url": "https://ccel.org/ccel/schaff/npnf214.xii.x.html"
+    },
+    {
+     "scholar": "Aloisius Vincenzi (as reported by Diekamp)",
+     "work": "In S. Gregorii Nysseni et Origenis scripta et doctrinam nova recensio, as reported in Diekamp, Die origenistischen Streitigkeiten im sechsten Jahrhundert (1899), Einleitung p. 4",
+     "position": "Went further than Halloix: declared even Justinian's edict against Origen spurious, 'a document handed to the emperor and produced in Syria', in Diekamp's German paraphrase ('nur ein dem Kaiser überreichtes, in Syrien entstandenes Aktenstück').",
+     "side": "denies the edict is genuine",
+     "status": "S",
+     "source_url": "https://archive.org/stream/dieorigenistisch00diek/dieorigenistisch00diek_djvu.txt"
+    },
+    {
+     "scholar": "Karl Joseph von Hefele (as reported by Diekamp)",
+     "work": "Conciliengeschichte (2nd ed.), as reported in Diekamp (1899), Einleitung p. 5",
+     "position": "Held a middle view: the fifth council named Origen only 'nur transeundo und in cumulo' (in passing and in a group) in its eleventh anathema, so the real proceedings against him belong to the earlier synod of 543.",
+     "side": "the 543 edict is the real condemnation of Origen",
+     "status": "S",
+     "source_url": "https://archive.org/stream/dieorigenistisch00diek/dieorigenistisch00diek_djvu.txt"
+    },
+    {
+     "scholar": "Richard Price",
+     "work": "The Acts of the Council of Constantinople of 553 (2009), as quoted by Kimel 2020",
+     "position": "The 543 canons were issued as an imperial decree, so 'their authority was imperial rather than synodal'.",
+     "side": "accepts the edict; limits its authority",
+     "status": "S",
+     "source_url": "https://afkimel.wordpress.com/2020/05/31/did-the-fifth-ecumenical-council-condemn-universal-salvation/"
+    }
+   ],
+   "source_urls": [
+    "https://github.com/OGL-PatrologiaGraecaDev/Vol.-86.1",
+    "https://ccel.org/ccel/schaff/npnf214.xii.x.html",
+    "https://archive.org/stream/dieorigenistisch00diek/dieorigenistisch00diek_djvu.txt",
+    "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-86.1/master/hvd.32044019208909_ocr/502.txt",
+    "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-86.1/master/hvd.32044019208909_ocr/502.hocr"
+   ],
+   "status": "V"
+  },
+  {
+   "id": "homologia-551-heretic-list",
+   "title": "551: Justinian's confession of faith lists the same heretics without Origen",
+   "author_work_ref": "Justinian, Confession of the Right Faith against the Three Chapters (Ὁμολογία πίστεως / Confessio rectae fidei), tenth anathema",
+   "date": "551",
+   "language": "Greek, with the Latin printed beside it in Migne",
+   "original": "Greek (PG 86.1, col. 1017): \"Εἴ τις μὴ ἀναθεματίζει Ἄρειον, Εὐνόμιον, Μακεδόνιον, Ἀπολινάριον, Νεστόριον, Εὐτυχέα, καὶ τοὺς τὰ ὅμοια τούτοις φρονοῦντας, ἢ φρονήσαντας, ἀνάθεμα ἔστω.\"\nLatin (PG 86.1, col. 1018): \"Si quis non anathematizat Arium, Eunomium, Macedonium, Apollinarium, Nestorium, Eutychen, et eos qui similia eis sapuerunt vel sapiunt, talis anathema sit.\"",
+   "edition": "E. Schwartz, Drei dogmatische Schriften Iustinians (Abhandlungen der Bayerischen Akademie der Wissenschaften, phil.-hist. Abt., NF 18, Munich 1939); page not confirmed. PG 86.1, cols. 993-1036 (the Confessio begins at col. 993).",
+   "checked_against": "PG 86.1, cols. 1017-1018, in the OGL OCR (hvd.32044019208909, file 516.txt), downloaded again: the Latin matches exactly; the Greek matches except at Macedonius, which the OCR gives as 'Μακεδόνων' (I print Μακεδόνιον on the strength of the Latin and canon 11; the page image was not seen). The second scan named in the earlier draft was not re-opened. Schwartz 1939 was not available.",
+   "english": "\"If anyone does not anathematize Arius, Eunomius, Macedonius, Apollinarius, Nestorius, Eutyches, and those who think or have thought the like, let him be anathema.\"",
+   "english_source": "Own translation (standard English: K. P. Wesche, On the Person of Christ: The Christology of Emperor Justinian, 1991).",
+   "why_it_matters": "This is the parallel that the case for interpolation rests on. Two years before the council, the emperor's own list of heretics stops at Eutyches, and the council's eleventh anathema has the same list with Origen added at the end.",
+   "textual_notes": "Both OCR scans read Μακεδόνων. I print Μακεδόνιον because the Latin has 'Macedonium' and the council's canon 11 has Μακεδόνιον; I did not see the page image. Hefele calls this 'the tenth in the omologia'. In the PG Latin (col. 1018) the Arius list is the last sentence of the section numbered X ('X. Anathematizat enim et eos qui per partem dividunt ... Si quis non anathematizat Arium ...'), and the next section is numbered XI, which agrees with Hefele's 'tenth'. Ramelli, Harding and Kimel call the document the 'Homonoia' (Ramelli glosses it 'Concord'). I could not identify a separate document of that name. The list they describe is the one printed here, in the Homologia ('Confession'), so 'Homonoia' looks like a slip. Canon 11 of 553 differs from this text in more than Origen's name: it adds 'with their impious writings', the clause about all other heretics condemned by the church and the four councils, and the words about those who 'persisted in their impiety until death'.",
+   "readings": [
+    {
+     "scholar": "Karl Joseph von Hefele",
+     "work": "A History of the Councils of the Church, Eng. trans., vol. iv, p. 336, as reproduced in NPNF II.14 notes to Capitulum XI",
+     "position": "Grants that the eleventh anathema 'is identical with the tenth in the omologia of the Emperor, but in the latter the name of Origen is lacking'. But he finds this too weak to change the text: 'it is quite possible that either the Emperor subsequently went further than in his omologia, or that the bishops at the fifth Synod, of their own accord, added Origen'.",
+     "side": "reads the name in canon 11 as original",
+     "status": "V",
+     "source_url": "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-114.htm"
+    },
+    {
+     "scholar": "Halloix, Garnier, Basnage, Walch and Vincenzi (as reported by Hefele)",
+     "work": "Reported in Hefele, History of the Councils, vol. iv, p. 336 (NPNF II.14)",
+     "position": "Hold that Origen's name is a later insertion in the eleventh anathema, partly because the parallel anathema in the emperor's confession lacks it.",
+     "side": "reads the name in canon 11 as interpolated",
+     "status": "S",
+     "source_url": "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-114.htm"
+    },
+    {
+     "scholar": "Ilaria L. E. Ramelli",
+     "work": "'Constantinople, 03: Second Council of (Fifth Ecumenical Council; 553 CE)', Brill Encyclopedia of Early Christianity Online (2019)",
+     "position": "'In its sketch in Justinian's Homonoia (Concord), that list does not include the name of Origen. This suggests an interpolation.'",
+     "side": "reads the name in canon 11 as interpolated",
+     "status": "V",
+     "source_url": "https://afkimel.wordpress.com/wp-content/uploads/2026/01/ilaria-ramelli-on-second-council-of-constantinople.pdf"
+    },
+    {
+     "scholar": "Mark Harding",
+     "work": "Entry in J. A. McGuckin (ed.), The Westminster Handbook to Origen (2004), p. 166, as cited in Wikipedia, 'Origenist crises'",
+     "position": "Origen's name 'does not appear at all in the Homonoia, the first draft of the anathemata issued by the imperial chancery', and the name 'may have been retrospectively inserted into the text after the Council'.",
+     "side": "inclines to interpolation",
+     "status": "S",
+     "source_url": "https://en.wikipedia.org/wiki/Origenist_crises"
+    }
+   ],
+   "source_urls": [
+    "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-86.1/master/hvd.32044019208909_ocr/516.txt",
+    "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-114.htm",
+    "https://afkimel.wordpress.com/wp-content/uploads/2026/01/ilaria-ramelli-on-second-council-of-constantinople.pdf"
+   ],
+   "status": "V"
+  },
+  {
+   "id": "letter-553-and-fifteen-anathemas",
+   "title": "553: Justinian's letter to the bishops names Origen; the fifteen anathemas do not",
+   "author_work_ref": "Justinian, Letter to the holy synod concerning Origen and those like-minded with him (Epistula ad synodum de Origene), followed in the tradition by the fifteen anathemas against Origenist teaching",
+   "date": "553, before the council opened on 5 May (Diekamp's dating); Migne's editor placed the letter at the synod under Menas c. 543",
+   "language": "Greek (letter, with Migne's Latin); the fifteen anathemas in Greek (not checked)",
+   "original": "Heading (PG 86.1, col. 989): \"Γράμμα τοῦ βασιλέως Ἰουστινιανοῦ πρὸς τὴν ἁγίαν σύνοδον περὶ Ὠριγένους καὶ τῶν ὁμοφρόνων αὐτοῦ.\"\nLetter (col. 991): \"Ἐπεὶ τοίνυν διέγνωσται ἡμῖν, ὥς τινες ἐν Ἱεροσολύμοις εἰσὶ μοναχοὶ δήπουθεν, Πυθαγόρᾳ, καὶ Πλάτωνι, καὶ Ὠριγένει τῷ Ἀδαμαντίῳ, καὶ τῇ τούτων δυσσεβείᾳ καὶ πλάνῃ κατακολουθοῦντες, καὶ διδάσκοντες ...\"\n(col. 993): \"... προτρέπομεν τοὺς ὁσιωτάτους ὑμᾶς, εἰς ἓν συνηγμένους, ἐπιμελῶς ἐντυχεῖν τῇ ὑποτεταγμένῃ ἐκθέσει, καὶ ἕκαστον τῶν αὐτοῦ κεφαλαίων κατακρῖναί τε, καὶ ἀναθεματίσαι μετὰ τοῦ δυσσεβοῦς Ὠριγένους καὶ πάντων τῶν τὰ τοιαῦτα φρονούντων, ἢ φρονησόντων εἰς τέλος.\"\nLatin (col. 990, editor's footnote to the heading): \"Pertinent hae litterae ad synodum a Menna celebratam cir. an. Ch. 543.\"",
+   "edition": "Letter: Straub, ACO IV.1 (1971), Appendix (page not confirmed); F. Diekamp, Die origenistischen Streitigkeiten im sechsten Jahrhundert (Münster 1899), with the fifteen anathemas (pages not confirmed); PG 86.1, cols. 989-993. Fifteen anathemas: Straub, ACO IV.1, pp. 248-249 (page not confirmed); Mansi IX.",
+   "checked_against": "Letter: PG 86.1, cols. 989-993, in the OGL OCR (hvd.32044019208909, files 502-504), downloaded again and compared; heading, opening, the Jerusalem passage and the closing request match once OCR errors (Ὠριγίνει, ’Δδαμαντίῳ, δυσσεϐείκ, προτρέπεμεν, ἶκαστον, ὁμογρόνων) are corrected. Fifteen anathemas: only the NPNF II.14 English was read.",
+   "english": "Heading: \"Letter of the emperor Justinian to the holy synod concerning Origen and those who think as he did.\" \"Since, then, it has come to our knowledge that there are some at Jerusalem, monks no less, who follow Pythagoras and Plato and Origen Adamantius, and their impiety and error, and who teach them ...\" \"... we urge your holinesses, gathered into one, to read carefully the exposition set out below and to condemn and anathematize each of its chapters, together with the impious Origen and all who think such things, or will think them to the end.\"\nThe fifteen anathemas themselves name no one. In the Vienna manuscript they are headed \"Canons of the 165 holy Fathers of the holy fifth Synod, held in Constantinople\" (NPNF).",
+   "english_source": "Own translation of the letter; standard English in Price 2009, vol. 2, pp. 282-284 (as cited by Kimel 2026, part 4). The manuscript heading is quoted from NPNF II.14 (public domain).",
+   "why_it_matters": "This answers the question whether Origen is named in the fifteen anathemas or only in a heading. He is in neither. He is named in the emperor's covering letter, which asks the bishops to anathematize each chapter 'together with the impious Origen'. The title 'Anathemas against Origen' is a modern editor's.",
+   "textual_notes": "Migne's editor attached the letter to the synod of c. 543, printing it straight after the 543 edict. Diekamp (1899) argued that the letter and the fifteen anathemas belong to spring 553, before the council opened, and most scholars now follow him. The phrase 'the exposition set out below' links the letter to a set of chapters; which set it is depends on that dating. The OCR reads φρονησόντων εἰς τέλος after φρονούντων, ἢ, and the Latin has 'aut sentient ad finem', so the phrase is printed and translated above (an earlier draft left it out as uncertain). δήπουθεν ('doubtless, of course') is ironical: 'monks, forsooth'. Hefele, Walch and Döllinger regarded the Vienna heading as untrustworthy (NPNF).",
+   "readings": [
+    {
+     "scholar": "Franz Diekamp (as reported by Kimel)",
+     "work": "Die origenistischen Streitigkeiten im sechsten Jahrhundert (Münster, 1899), as described in Kimel 2026, part 3",
+     "position": "Argued that Justinian and his advisers drafted the fifteen anathemas in 552-553 and that the bishops gathered in Constantinople endorsed them in early 553, before the council formally opened on 5 May. Kimel says this view 'has since been adopted by most modern scholars and may now be regarded as the standard view'.",
+     "side": "anathemas and letter belong to 553, outside the council's sessions",
+     "status": "S",
+     "source_url": "https://afkimel.wordpress.com/2026/01/09/apokatastasis-origen-and-the-fifth-ecumenical-council-part-3/"
+    },
+    {
+     "scholar": "Karl Joseph von Hefele",
+     "work": "History of the Councils, vol. iv, p. 221 sq., as quoted in NPNF II.14 excursus",
+     "position": "Assigned the fifteen anathemas to the synod of 543 while admitting 'We certainly possess no strong and decisive proof'. He also distrusted the Vienna heading that gives them to the fifth synod.",
+     "side": "anathemas belong to 543",
+     "status": "V",
+     "source_url": "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-115.htm"
+    },
+    {
+     "scholar": "David Bentley Hart",
+     "work": "'Saint Origen', First Things, 1 October 2015",
+     "position": "Writes that the fifteen anathemas 'were never even discussed by the assembled bishops' (and, he adds, were not approved or formally issued by the council), that few of them resemble Origen's actual ideas except in a distorted form, and that Origen 'in fact is never named in any of them'.",
+     "side": "denies the fifteen are an act of the council and says they do not match Origen's ideas",
+     "status": "V",
+     "source_url": "https://firstthings.com/saint-origen/"
+    },
+    {
+     "scholar": "Richard Price",
+     "work": "The Acts of the Council of Constantinople of 553 (Liverpool, 2009), as quoted by Kimel 2020 (n. 20); the volume and page of the phrase are not given there",
+     "position": "Quoted by Kimel as saying that 'condemning Origenism was one of the activities that filled the bishops' time'. I did not see the sentences around the phrase. Price prints Justinian's letter to the bishops in vol. 2, pp. 282-284 (Kimel 2026, part 4, n. 8).",
+     "side": "Origenism occupied the bishops alongside the council's business (as quoted)",
+     "status": "S",
+     "source_url": "https://afkimel.wordpress.com/2020/05/31/did-the-fifth-ecumenical-council-condemn-universal-salvation/"
+    },
+    {
+     "scholar": "Norman Tanner",
+     "work": "Decrees of the Ecumenical Councils (1990), p. 106, as quoted by Ramelli 2019",
+     "position": "Leaves the fifteen out of his edition: they 'cannot be attributed to this council'.",
+     "side": "not an act of the council",
+     "status": "S",
+     "source_url": "https://afkimel.wordpress.com/wp-content/uploads/2026/01/ilaria-ramelli-on-second-council-of-constantinople.pdf"
+    },
+    {
+     "scholar": "Henry R. Percival (editor of NPNF II.14)",
+     "work": "NPNF II.14 (1900), excursus on the XV anathemas",
+     "position": "Reaches no firm verdict on whether the fifth council adopted the fifteen anathemas: a dogmatic answer would be 'the height of rashness' on the present evidence. He leans against direct adoption ('nothing whatever is said about Origen in the call of the council'), but holds that, even if they were first adopted at the home synod, putting Origen's name in the eleventh canon 'practically ratified and made its own the action of that Synod'.",
+     "side": "undecided; canon 11 would then adopt the home synod's act",
+     "status": "V",
+     "source_url": "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-115.htm"
+    },
+    {
+     "scholar": "John A. McGuckin (as reported by Kimel)",
+     "work": "work not identified in the note I read; Kimel 2026, part 3, n. 3",
+     "position": "Held that the fifteen anathemas were interpolated into the Greek Acts. Kimel writes: 'I confess that I personally find the simplicity of the interpolation hypothesis attractive.'",
+     "side": "the fifteen were added to the Greek Acts later",
+     "status": "S",
+     "source_url": "https://afkimel.wordpress.com/2026/01/09/apokatastasis-origen-and-the-fifth-ecumenical-council-part-3/"
+    }
+   ],
+   "source_urls": [
+    "https://github.com/OGL-PatrologiaGraecaDev/Vol.-86.1",
+    "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-115.htm",
+    "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-116.htm",
+    "https://afkimel.wordpress.com/2026/01/12/apokatastasis-origen-and-the-fifth-ecumenical-council-part-4/"
+   ],
+   "status": "V"
+  },
+  {
+   "id": "session-5-origen-anathematized-after-death",
+   "title": "553, fifth session: Origen named as already anathematized 'even now'",
+   "author_work_ref": "Council of Constantinople II, Acts, session V (17 May 553), the discussion of whether heretics may be condemned after death (Price's paragraph 87)",
+   "date": "17 May 553",
+   "language": "Latin (the Greek Acts are lost)",
+   "original": "Not obtained. I could not open the Latin of this passage (Mansi IX, col. 272 D; Straub, ACO IV.1, session V). No scholar I read quotes it in Latin. The English below is the NPNF's.",
+   "edition": "J. Straub, ACO IV.1 (Berlin 1971), session V, page not confirmed; Mansi IX, col. 272 D (given in the earlier draft as Diekamp's reference; I could not confirm it); Price 2009, vol. 1, session V, para. 87 (as cited by Truglia).",
+   "checked_against": "English only: NPNF II.14 excursus on the XV anathemas (public domain), re-read on tertullian.org, where the sentence matches word for word; and Price's translation as quoted by Truglia 2019 and Kimel 2020.",
+   "english": "\"And we found that many others had been anathematised after death, also even Origen; and if any one were to go back to the times of Theophilus of blessed memory or further, he would have found him anathematised after death; which also now your holiness and Vigilius, the most religious Pope of Old Rome has done in his case.\"",
+   "english_source": "NPNF II.14 (1900), excursus on the XV anathemas, public domain. Price 2009 renders the last clause with 'even now' and 'your holinesses' in the plural (as quoted by Kimel 2020, n. 29); NPNF has 'your holiness' in the singular.",
+   "why_it_matters": "This is the second place where the Acts of 553 themselves name Origen. If genuine, it shows the council in session treating him as already condemned, by the bishops present and by Vigilius. That is why defenders of interpolation have had to reject it as well as canon 11.",
+   "textual_notes": "An earlier draft said NPNF footnotes the passage as a 'Speech of Ascidas in the V. Session'. I could not find that footnote on the NPNF page, which introduces the words only as 'these words now found in the acts as we have them' and names no speaker, and I could not confirm the speaker against the Latin. Diekamp reports the objection that 'your holiness' and Vigilius may refer only to their assent to Justinian's 543 edict (Vigilius did subscribe that edict, according to Price as reported by Truglia). Halloix treated this passage and canon 11 as 'unzweifelhafte Fälschungen' (undoubted forgeries), and Vincenzi declared it tampered with. The surrounding argument, that heretics may be condemned after death, is the one the council needed for Theodore of Mopsuestia, who died in 428.",
+   "readings": [
+    {
+     "scholar": "Henry R. Percival (editor of NPNF II.14)",
+     "work": "NPNF II.14 (1900), excursus on the XV anathemas",
+     "position": "'It would seem that this cannot possibly refer to anything else than a condemnation of Origen by the Fifth Ecumenical Synod.'",
+     "side": "reads it as a condemnation by the 553 council",
+     "status": "V",
+     "source_url": "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-115.htm"
+    },
+    {
+     "scholar": "Aloisius Vincenzi (as reported by NPNF)",
+     "work": "Reported in the NPNF II.14 excursus on the XV anathemas",
+     "position": "The NPNF editor says Vincenzi 'declares the passage to have been tampered with'.",
+     "side": "reads it as interpolated",
+     "status": "S",
+     "source_url": "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-115.htm"
+    },
+    {
+     "scholar": "Pierre Halloix (as reported by Diekamp)",
+     "work": "Origenes defensus (17th century; year as given in the earlier draft, not checked), reported in Diekamp 1899, Einleitung p. 3",
+     "position": "Denied any condemnation of Origen at the fifth council and held the two passages in the fifth and eighth sessions to be forgeries; Diekamp's words: 'unzweifelhafte Fälschungen' (undoubted forgeries). Diekamp calls the book 'eine krasse Tendenzschrift' (a crassly partisan work).",
+     "side": "reads it as interpolated",
+     "status": "S",
+     "source_url": "https://archive.org/stream/dieorigenistisch00diek/dieorigenistisch00diek_djvu.txt"
+    },
+    {
+     "scholar": "Ignatius Green and Richard Price (as reported by Kimel)",
+     "work": "Green's introduction to Gregory of Nyssa, Catechetical Discourse (2019), as named in the earlier draft; Price 2009; both as reported in Kimel 2020 and 2026",
+     "position": "Kimel reports that Green, following Price, reads 'even now ... by your holinesses and by Vigilius' as pointing to the home synod (synodos endemousa: the standing synod of bishops resident in the capital), not to a decision of the council in session. I did not see Green's own wording.",
+     "side": "genuine, but refers to an earlier extra-conciliar act",
+     "status": "S",
+     "source_url": "https://afkimel.wordpress.com/2020/05/31/did-the-fifth-ecumenical-council-condemn-universal-salvation/"
+    },
+    {
+     "scholar": "Craig Truglia",
+     "work": "'Apocatastasis' Condemnation During the Council of Constantinople II', Orthodox Christian Theology, 17 Nov 2019",
+     "position": "Cites Session V, paragraph 87. Reads 'even now ... by your holinesses and by Vigilius' as pointing to a recent condemnation, probably Vigilius's signing of the 543 edict (Price: 'In 543 Vigilius signed Justinian's edict condemning Origen'), and concludes 'there can be zero doubt that Origen was anathematized'.",
+     "side": "genuine; refers to an earlier condemnation (probably 543)",
+     "status": "V",
+     "source_url": "https://orthodoxchristiantheology.com/2019/11/17/apocatastasis-condemnation-during-the-council-of-constantinople-ii/"
+    },
+    {
+     "scholar": "Fr Aidan Kimel",
+     "work": "'Apokatastasis, Origen, and the Fifth Ecumenical Council (Part 3)', Eclectic Orthodoxy, 9 Jan 2026",
+     "position": "Of the home-synod reading he writes: 'This is a plausible conjecture, but conjecture nonetheless.' He leaves it open.",
+     "side": "home-synod reading possible but unproven",
+     "status": "V",
+     "source_url": "https://afkimel.wordpress.com/2026/01/09/apokatastasis-origen-and-the-fifth-ecumenical-council-part-3/"
+    }
+   ],
+   "source_urls": [
+    "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-115.htm",
+    "https://orthodoxchristiantheology.com/2019/11/17/apocatastasis-condemnation-during-the-council-of-constantinople-ii/",
+    "https://afkimel.wordpress.com/2020/05/31/did-the-fifth-ecumenical-council-condemn-universal-salvation/",
+    "https://archive.org/stream/dieorigenistisch00diek/dieorigenistisch00diek_djvu.txt"
+   ],
+   "status": "R"
+  },
+  {
+   "id": "canon-11-553",
+   "title": "553, eighth session, canon 11: Origen last in the list of heretics",
+   "author_work_ref": "Council of Constantinople II, session VIII (2 June 553), anathemas (capitula) against the Three Chapters, canon 11",
+   "date": "2 June 553",
+   "language": "Latin (Acts); Greek (text of the canons preserved outside the Latin Acts)",
+   "original": "Latin: \"Si quis non anathematizat Arium, Eunomium, Macedonium, Apollinarium, Nestorium, Eutychen, Origenem cum impiis eorum conscriptis, et alios omnes haereticos, qui condemnati et anathematizati sunt a sancta catholica et apostolica Ecclesia et a praedictis sanctis quattuor Conciliis, et eos, qui similia praedictis haereticis sapuerunt vel sapiunt et usque ad mortem in sua impietate permanserunt vel permanent, talis anathema sit.\"\nGreek: \"Εἴ τις μὴ ἀναθεματίζει Ἄρειον, Εὐνόμιον, Μακεδόνιον, Ἀπολινάριον, Νεστόριον, Εὐτυχέα, καὶ Ὠριγένην, μετὰ τῶν ἀσεβῶν αὐτῶν συγγραμμάτων, καὶ τοὺς ἄλλους πάντας αἱρετικούς, τοὺς κατακριθέντας καὶ ἀναθεματισθέντας ὑπὸ τῆς ἁγίας καθολικῆς καὶ ἀποστολικῆς Ἐκκλησίας καὶ τῶν προειρημένων ἁγίων τεσσάρων συνόδων, καὶ τοὺς τὰ ὅμοια τῶν προειρημένων αἱρετικῶν φρονήσαντας ἢ φρονοῦντας καὶ μέχρι τέλους τῇ οἰκείᾳ ἀσεβείᾳ ἐμμείναντας, ὁ τοιοῦτος ἀνάθεμα ἔστω.\"",
+   "edition": "J. Straub, ACO IV.1 (Berlin 1971): Latin at p. 218, lines 8-9; Greek at p. 242, lines 32-33 (both references as given by Livorsi 2025, n. 38). Mansi IX, col. 384 AB (Latin; reference from Diekamp). Denzinger-Hünermann 433 (older numbering 223).",
+   "checked_against": "Latin: Denzinger-Hünermann 433 on clerus.org, re-opened and matching word for word ('talis an. s.' expanded). The Origen clause in both languages is confirmed by L. Livorsi, Greek, Roman, and Byzantine Studies 65 (2025), n. 38, quoting ACO IV.1 (Latin 218.8-9, Greek 242.32-33). The rest of the Greek is from an unsourced Greek blog (ostratiotistisagapis.blogspot.com, 2014), identical to the draft; only its opening and Origen clause are independently confirmed.",
+   "english": "\"If anyone does not anathematize Arius, Eunomius, Macedonius, Apollinaris, Nestorius, Eutyches and Origen, as well as their impious writings, as also all other heretics already condemned and anathematized by the Holy Catholic and Apostolic Church, and by the aforesaid four Holy Synods and [if anyone does not equally anathematize] all those who have held and hold or who in their impiety persist in holding to the end the same opinion as those heretics just mentioned: let him be anathema.\"",
+   "english_source": "NPNF II.14 (1900), 'The Capitula of the Council', public domain. Price 2009 and Tanner 1990 are the standard modern translations.",
+   "why_it_matters": "This is the only place where an anathema of the council itself names Origen. The names, in order, are Arius, Eunomius, Macedonius, Apollinarius, Nestorius, Eutyches, Origen. Every argument that Origen's name was added later is an argument about this line.",
+   "textual_notes": "The Greek original of the Acts is lost (Ramelli). The Latin Acts are a translation; Hefele thought the Roman copy of them was probably prepared for Vigilius himself (NPNF II.14). Straub's Latin spells 'Arrium' (Livorsi). The Greek has 'καὶ Ὠριγένην' where the Latin in Denzinger runs 'Eutychen, Origenem' without 'et'. The Greek of the canons survives outside the Latin Acts. Bidez and Parmentier's notes to Evagrius point to George the Monk for the Greek of the council's sentence, but I did not confirm which witness Straub used for canon 11. No scholar I read reports a manuscript of the Latin or the Greek that lacks Origen's name; the case for interpolation is inferential. Compared with the 551 Homologia, the canon adds not only Origen but also 'with their impious writings', the four councils, and 'persisted in their impiety until death'. That last clause matches the council's argument in session V for condemning the dead.",
+   "readings": [
+    {
+     "scholar": "Karl Joseph von Hefele",
+     "work": "A History of the Councils of the Church, Eng. trans., vol. iv, p. 336 (as reproduced in NPNF II.14)",
+     "position": "Keeps the name. The Roman copy of the Acts, 'which has the highest credibility, and was probably prepared for Vigilius himself', contains the name of Origen in the eleventh anathema. He also points to the Origenist monks of the New Lavra in Palestine, 'known to have been zealous Origenists', and to 'the widely-circulated ancient rumour that our Synod anathematized Origen and the Origenists'. (Diekamp reports Hefele's view that the council named him only 'nur transeundo und in cumulo', in passing and in a group.)",
+     "side": "name original",
+     "status": "V",
+     "source_url": "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-114.htm"
+    },
+    {
+     "scholar": "Henry R. Percival (editor of NPNF II.14)",
+     "work": "NPNF II.14 (1900), excursus on the XV anathemas (opening sentence)",
+     "position": "'That Origen was condemned by name in the Eleventh Canon of this council there seems no possible reason to doubt.' Elsewhere in the same excursus he says that, even if the fifteen anathemas were first adopted at the home synod, naming Origen in the eleventh canon 'practically ratified and made its own the action of that Synod'.",
+     "side": "name original",
+     "status": "V",
+     "source_url": "https://www.ccel.org/ccel/schaff/npnf214.xii.viii.html"
+    },
+    {
+     "scholar": "Halloix, Garnier, Basnage, Walch and Vincenzi (as reported by Hefele)",
+     "work": "Reported in Hefele, vol. iv, p. 336 (NPNF II.14)",
+     "position": "The name is a later insertion. Their reasons: Theodore Askidas, an Origenist, was powerful at the council; the list otherwise names only heretics condemned by the first four councils; the parallel anathema in the emperor's Homologia lacks Origen; and Origen's errors do not belong with this group.",
+     "side": "name interpolated",
+     "status": "S",
+     "source_url": "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-114.htm"
+    },
+    {
+     "scholar": "Ilaria L. E. Ramelli",
+     "work": "'Constantinople, 03: Second Council of', Brill Encyclopedia of Early Christianity Online (2019)",
+     "position": "'Only anathema 11 in the official acts mentions Origen, in the last position, and notably out of chronological order'. The parallel list in Justinian's 'Homonoia' lacks him: 'This suggests an interpolation.'",
+     "side": "name interpolated",
+     "status": "V",
+     "source_url": "https://afkimel.wordpress.com/wp-content/uploads/2026/01/ilaria-ramelli-on-second-council-of-constantinople.pdf"
+    },
+    {
+     "scholar": "Fr Aidan Kimel",
+     "work": "'Did the Fifth Ecumenical Council Condemn Universal Salvation?' (2020); 'Apokatastasis, Origen, and the Fifth Ecumenical Council', parts 3-4 (2026)",
+     "position": "Treats the name as genuine. In 2020 he writes that Origen 'is simply included among the anathematized' in canon 11; in part 4 (2026): 'Origen remains condemned in the eleventh canon of the Fifth Council' and 'To condemn Origen \"generally,\" as Constantinople II does in its eleventh canon, is not to condemn every doctrine he ever taught.' In part 3, n. 33, he notes that the interpolation view is a 'minority view' that 'continues to find support among contemporary Church historians' (citing Ramelli).",
+     "side": "name probably original; content unspecified",
+     "status": "V",
+     "source_url": "https://afkimel.wordpress.com/2026/01/12/apokatastasis-origen-and-the-fifth-ecumenical-council-part-4/"
+    },
+    {
+     "scholar": "H. N. Oxenham (as quoted by Kimel)",
+     "work": "Quoted in Kimel 2020 (n. 35); Oxenham's work and page not named on the page I read",
+     "position": "'Origen's name stands alone in this eleventh Canon, and no mention is made of Didymus or Evagrius.'",
+     "side": "name original; no Didymus or Evagrius",
+     "status": "S",
+     "source_url": "https://afkimel.wordpress.com/2020/05/31/did-the-fifth-ecumenical-council-condemn-universal-salvation/"
+    },
+    {
+     "scholar": "Craig Truglia",
+     "work": "Orthodox Christian Theology, 17 Nov 2019",
+     "position": "Treats the canon as original and as condemning 'Origen and his writings'. He withdraws his earlier claim that it refers explicitly to the 543 anathemas.",
+     "side": "name original; condemnation real",
+     "status": "V",
+     "source_url": "https://orthodoxchristiantheology.com/2019/11/17/apocatastasis-condemnation-during-the-council-of-constantinople-ii/"
+    }
+   ],
+   "source_urls": [
+    "https://www.clerus.org/bibliaclerusonline/en/dvg.htm",
+    "https://grbs.library.duke.edu/index.php/grbs/article/download/17027/7595/23050",
+    "http://ostratiotistisagapis.blogspot.com/2014/11/blog-post_62.html",
+    "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-114.htm",
+    "https://afkimel.wordpress.com/wp-content/uploads/2026/01/ilaria-ramelli-on-second-council-of-constantinople.pdf"
+   ],
+   "status": "S"
+  },
+  {
+   "id": "vigilius-553-554",
+   "title": "553-554: Pope Vigilius's letter to Eutychius and his second Constitutum",
+   "author_work_ref": "Vigilius, Letter to Eutychius of Constantinople ('Scandala', 8 December 553); Constitutum II pro damnatione trium capitulorum (23 February 554)",
+   "date": "8 December 553; 23 February 554",
+   "language": "Latin and Greek (the letter); Latin (Constitutum II)",
+   "original": "Not obtained. I could not open the Latin or Greek of either document. The English below of the letter's anathema comes from the NPNF translation, which follows the text in Labbe-Cossart and PL 69.",
+   "edition": "Letter to Eutychius: Straub, ACO IV.1 (1971), page not confirmed; PL 69, col. 121 ff.; Labbe-Cossart V, col. 596 ff. (both as cited by NPNF). Constitutum II: E. Schwartz, ACO IV.2 (1914), commonly cited as pp. 138-168 (page not confirmed); PL 69, col. 143 ff. (not confirmed).",
+   "checked_against": "English only: NPNF II.14, 'The Decretal Letter of Pope Vigilius' (public domain), re-read on ccel.org. The Constitutum II was not seen in any form.",
+   "english": "Letter to Eutychius: \"we condemn and anathematize Theodore, formerly bishop of Mopsuestia, and his impious writings, together with all other heretics, who (as is manifest) have been condemned and anathematized by the four holy Synods aforesaid, and by the Catholic Church: also the writings of Theodoret which are opposed to the right faith ... Moreover we anathematize and condemn the letter to the Persian heretic Maris, which is said to have been written by Ibas ...\"",
+   "english_source": "NPNF II.14 (1900), public domain; Price 2009, vol. 2, for the standard modern translation.",
+   "why_it_matters": "Interpolation theorists point out that the pope's own confirmations of the council never name Origen. The text matters because it shows what kind of silence this is.",
+   "textual_notes": "In the letter as translated in NPNF, the anathema names no heresiarch at all except Theodore of Mopsuestia, and covers the rest as 'all other heretics' condemned by the four councils. (Nestorius and Apollinaris do appear in the letter, but only in its descriptions of what Theodoret's and Ibas's writings defended or said, not in an anathema; the letter is dated 'VI. Id. Dec.', 8 December 553.) Arius, Eunomius, Macedonius and Eutyches are absent, just as Origen is. So the letter has no list parallel to canon 11 from which Origen could be missing. I could not check whether the Constitutum II has such a list. NPNF reports old doubts about the letter's genuineness, which most scholars reject.",
+   "readings": [
+    {
+     "scholar": "Ilaria L. E. Ramelli",
+     "work": "Brill Encyclopedia of Early Christianity Online (2019)",
+     "position": "'Vigilius' documents, emanated by a council that was not wanted by him, do not contain Origen's name.' She treats this as part of the case that the name in canon 11 is an interpolation.",
+     "side": "silence supports interpolation",
+     "status": "V",
+     "source_url": "https://afkimel.wordpress.com/wp-content/uploads/2026/01/ilaria-ramelli-on-second-council-of-constantinople.pdf"
+    },
+    {
+     "scholar": "Mark Harding",
+     "work": "Entry in J. A. McGuckin (ed.), The Westminster Handbook to Origen (2004), p. 166, as quoted in Wikipedia, 'Origenist crises'",
+     "position": "Origen's name is absent from the earliest draft of the anathemas and 'does not appear in the version of the conciliar proceedings that was eventually signed by Pope Vigillius [sic in Wikipedia], a long time afterwards'. This 'may indicate that Origen's name may have been retrospectively inserted into the text after the Council'.",
+     "side": "silence supports interpolation",
+     "status": "S",
+     "source_url": "https://en.wikipedia.org/wiki/Origenist_crises"
+    },
+    {
+     "scholar": "Fr Aidan Kimel",
+     "work": "'Apokatastasis, Origen, and the Fifth Ecumenical Council (Part 4)', Eclectic Orthodoxy, 12 Jan 2026",
+     "position": "In his summary of Ramelli's argument he writes: 'Even more strikingly, the official documents of Pope Vigilius, eventually promulgated in connection with the council, do not contain Origen's name at all.' The sentence is his own, and he draws no separate conclusion about Vigilius from it; he goes on to say that, if Ramelli is right, canon 11 'cannot function as a precise doctrinal judgment against universal salvation'.",
+     "side": "reports the silence as part of Ramelli's case",
+     "status": "V",
+     "source_url": "https://afkimel.wordpress.com/2026/01/12/apokatastasis-origen-and-the-fifth-ecumenical-council-part-4/"
+    },
+    {
+     "scholar": "Ferdinand Prat",
+     "work": "'Origen and Origenism', Catholic Encyclopedia (1911)",
+     "position": "Writes that 'only the Acts concerning the affair of the Three Chapters were submitted to the pope for his approval', which was given on 8 December 553 and 23 February 554, and that Vigilius, Pelagius I, Pelagius II and Gregory the Great 'in treating of the fifth council deal only with the Three Chapters, make no mention of Origenism, and speak as if they did not know of its condemnation'.",
+     "side": "papal documents deal only with the Three Chapters",
+     "status": "V",
+     "source_url": "https://www.newadvent.org/cathen/11306b.htm"
+    },
+    {
+     "scholar": "Karl Joseph von Hefele",
+     "work": "History of the Councils, vol. iv, p. 336 (NPNF II.14)",
+     "position": "Points the other way: the copy of the Acts in the Roman archives, 'probably prepared for Vigilius himself', contains the name of Origen in the eleventh anathema.",
+     "side": "Vigilius's copy of the Acts has the name",
+     "status": "V",
+     "source_url": "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-114.htm"
+    }
+   ],
+   "source_urls": [
+    "https://www.ccel.org/ccel/schaff/npnf214.xii.xii.html",
+    "https://afkimel.wordpress.com/wp-content/uploads/2026/01/ilaria-ramelli-on-second-council-of-constantinople.pdf",
+    "https://afkimel.wordpress.com/2026/01/12/apokatastasis-origen-and-the-fifth-ecumenical-council-part-4/",
+    "https://www.newadvent.org/cathen/11306b.htm"
+   ],
+   "status": "R"
+  },
+  {
+   "id": "evagrius-scholasticus-he-4-38",
+   "title": "Evagrius Scholasticus (c. 593): the council's acclamations against Origen",
+   "author_work_ref": "Evagrius Scholasticus, Ecclesiastical History 4.38",
+   "date": "c. 593-594",
+   "language": "Greek",
+   "original": "\"Καὶ μετὰ ἔνια, ἐξέθεντο τέσσαρα καὶ δέκα κεφάλαια περὶ τῆς ὀρθῆς καὶ ἀμωμήτου πίστεως. Καὶ ταῦτα μὲν οὕτω προκεχωρήκει. Ἐκ λιβέλλων δὲ ἐπιδεδομένων πρὸς Εὐλογίου, Κόνωνος, Κυριακοῦ, καὶ Παγκρατίου μοναχῶν κατὰ τῶν Ὠριγένους τοῦ καὶ Ἀδαμαντίου δογμάτων καὶ τῶν ἑπομένων τῇ τούτου δυσσεβείᾳ καὶ πλάνῃ, πυνθάνεται Ἰουστινιανὸς τῆς ἁλισθείσης συνόδου περὶ τούτων ... Ἀναφορὰ τοίνυν γέγονε πρὸς Ἰουστινιανὸν παρὰ τῆς συνόδου μετὰ τὰς γενομένας παρ’ αὐτῆς ἐκβοήσεις κατὰ Ὠριγένους καὶ τῶν τὰ αὐτὰ ἐκείνῳ πεπλανημένων. ... Ἀνηνέχθησαν αὐτοῖς καὶ Διδύμου καὶ Εὐαγρίου καὶ Θεοδώρου ἕτεραι πολλαὶ βλασφημίαι μάλα σπουδαίως τὰ περὶ τούτων ἐκλεξαμένοις.\"",
+   "edition": "J. Bidez and L. Parmentier, The Ecclesiastical History of Evagrius with the Scholia (London 1898), pp. 188-189; PG 86.2, cols. 2780-2784 (as cited by Misiarczyk).",
+   "checked_against": "First1KGreek digital edition of Bidez-Parmentier (tlg2733.tlg001.1st1K-grc1.xml; OCR corrected by Annette von Stockhausen), downloaded again: every Greek word of the quotation matches, and the passage runs over pp. 188-189.",
+   "english": "\"And after some other things they set out fourteen chapters on the right and blameless faith. So these matters went forward. But on the strength of petitions submitted by the monks Eulogius, Conon, Cyriacus and Pancratius against the doctrines of Origen, also called Adamantius, and of those who follow his impiety and error, Justinian questioned the assembled synod about these things ... A report was therefore made to Justinian by the synod, after the acclamations it had made against Origen and those who had strayed into the same errors as he. ... Many other blasphemies of Didymus, Evagrius and Theodore were also reported to them, who had collected the material about these men with great zeal.\"",
+   "english_source": "Own translation; compare E. Walford (1846, public domain) and M. Whitby, The Ecclesiastical History of Evagrius Scholasticus (Liverpool 2000), pp. 248-259.",
+   "why_it_matters": "This is the main ancient witness that the bishops of 553 condemned Origen by name. It was the chief evidence for Noris and the Ballerini, and the NPNF editor thought it was set aside too quickly.",
+   "textual_notes": "Evagrius quotes the council's sentence against the Three Chapters (with its 'we condemn and anathematize ... all other heretics') without naming Origen, and says only that the council 'set out fourteen chapters'. He does not quote canon 11. He puts the Origen business after those chapters ('So these matters went forward'), as a separate proceeding begun by the monks' petitions, and he quotes the synod's address to Justinian ('Τῆς ἄνωθεν εὐγενείας ... ἐφύγομεν ταύτην'). The 'fifth chapter' he cites is called, in his Greek, 'the fifth chapter of the blasphemies of private persons of the so-called New Lavra' (πέμπτον κεφάλαιον τῶν βλασφημηθέντων ἀπὸ ἰδικῶν προσώπων τῆς καλουμένης νέας λαύρας), and holds Theodore Askidas's saying about the apostles in the restoration; Hefele (via Oxenham, quoted in Kimel 2026, part 3, n. 14) says this proposition is not among the fifteen anathemas. The 'fourteen chapters' that Evagrius says the council set out agree in number with the fourteen canons of the council as usually printed (canon 11 is one of them), not with the fifteen anti-Origenist anathemas; he does not say whether Origen is named in them. Which Theodore is meant in 'Didymus, Evagrius and Theodore' is not stated. ἐκβοήσεις are acclamations: shouted declarations, the normal way a synod recorded assent.",
+   "readings": [
+    {
+     "scholar": "Henry R. Percival (NPNF editor)",
+     "work": "NPNF II.14 (1900), excursus on the XV anathemas",
+     "position": "'Evagrius, the historian, distinctly says that Origen was condemned with special anathemas at this Council, but his evidence is likewise (and, as it seems to me, too peremptorily) set aside.'",
+     "side": "takes Evagrius as evidence of conciliar condemnation",
+     "status": "V",
+     "source_url": "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-115.htm"
+    },
+    {
+     "scholar": "Cardinal Henry Noris (as reported by NPNF)",
+     "work": "Dissertatio historica de synodo quinta (17th century; place and year not confirmed); reported in NPNF II.14",
+     "position": "Held that the fifth synod condemned Origen twice: once by himself before the eight sessions whose Acts survive, and again after them together with his followers Didymus and Evagrius.",
+     "side": "the council condemned Origen",
+     "status": "S",
+     "source_url": "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-115.htm"
+    },
+    {
+     "scholar": "Peter and Girolamo Ballerini (as reported by NPNF)",
+     "work": "Defensio of Noris's dissertation against Garnier; reported in NPNF II.14",
+     "position": "Defended Noris's view against Garnier and, in NPNF's words, expanded and amended it.",
+     "side": "the council condemned Origen",
+     "status": "S",
+     "source_url": "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-115.htm"
+    },
+    {
+     "scholar": "Michael Whitby (as quoted by Kimel)",
+     "work": "The Ecclesiastical History of Evagrius Scholasticus (Liverpool, 2000), p. 248 n. 131, as quoted in Kimel 2026, part 3",
+     "position": "On the anti-Origenist proceedings Evagrius describes: 'they preceded the Council and were not regarded as a formal part of proceedings'.",
+     "side": "Evagrius describes proceedings outside the council's formal acts",
+     "status": "S",
+     "source_url": "https://afkimel.wordpress.com/2026/01/09/apokatastasis-origen-and-the-fifth-ecumenical-council-part-3/"
+    },
+    {
+     "scholar": "Daniël Hombergen (as reported by Kimel)",
+     "work": "The Second Origenist Controversy (2001), p. 304 n. 236, as cited in Kimel 2026, part 3, n. 17",
+     "position": "Says Evagrius relied on documents and on 'existing contradictory traditions' about what happened at the council.",
+     "side": "Evagrius's account rests on conflicting traditions",
+     "status": "S",
+     "source_url": "https://afkimel.wordpress.com/2026/01/09/apokatastasis-origen-and-the-fifth-ecumenical-council-part-3/"
+    }
+   ],
+   "source_urls": [
+    "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2733/tlg001/tlg2733.tlg001.1st1K-grc1.xml",
+    "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-115.htm",
+    "https://afkimel.wordpress.com/2026/01/09/apokatastasis-origen-and-the-fifth-ecumenical-council-part-3/"
+   ],
+   "status": "V"
+  },
+  {
+   "id": "cyril-scythopolis-vita-sabae-90",
+   "title": "Cyril of Scythopolis (c. 557): 'a common and universal anathema' against Origen",
+   "author_work_ref": "Cyril of Scythopolis, Life of Sabas 90",
+   "date": "c. 556-558 (the date of composition is not confirmed)",
+   "language": "Greek",
+   "original": "Only a fragment checked: \"... καὶ τὰ περὶ προϋπάρξεως καὶ ἀποκαταστάσεως Εὐαγρίῳ καὶ Διδύμῳ εἰρημένα ...\" (the rest of the sentence, naming Origen and Theodore of Mopsuestia, was not obtained in Greek)",
+   "edition": "E. Schwartz, Kyrillos von Skythopolis (Texte und Untersuchungen 49.2, Leipzig 1939), p. 199 (as cited by Misiarczyk, who writes 'TU 9/2'); line not confirmed.",
+   "checked_against": "Quoted by L. Misiarczyk, Vox Patrum 65 (2016), n. 37, in a Greek font that the PDF stores in Symbol encoding ('kaˆ t¦ perˆ proup£rxewj kaˆ ¢pokatast£sewj EÙagr…J kaˆ DidÚmJ e„rhmšna'); I transcribed it into Greek letters. The English sense of the whole sentence is taken from Price's translation as quoted by Truglia and Kimel.",
+   "english": "Fragment: \"... and the things said by Evagrius and Didymus about pre-existence and restoration ...\" In R. M. Price's translation the whole sentence says that when the fifth council met at Constantinople 'a common and universal anathema' was directed against Origen and Theodore of Mopsuestia and against this teaching of Evagrius and Didymus, in the presence and with the approval of the four patriarchs.",
+   "english_source": "Own translation of the fragment; paraphrase of R. M. Price (trans.), Cyril of Scythopolis, The Lives of the Monks of Palestine (Cistercian 1991), p. 208, as quoted by Kimel 2026 part 3 and by Truglia 2019 (citing Price 2009, vol. 2, p. 270).",
+   "why_it_matters": "This is the nearest contemporary narrative. Cyril was a Palestinian monk (one of the orthodox monks sent to the New Lavra in 555, then at the Great Lavra of Saint Sabas, where he died c. 557-558) writing within a few years of the council, and he says a 'common and universal anathema' was directed against Origen and Theodore of Mopsuestia.",
+   "textual_notes": "ἀποκατάστασις is rendered 'restoration' here. Price's 'universal restoration' adds a word that is not in the Greek fragment, a contested rendering. Cyril joins in one sentence Origen, Theodore of Mopsuestia (condemned in the council's sentence and canons) and the teaching of Evagrius and Didymus (named in no surviving act of 553). Misiarczyk notes that Evagrius's name is absent from the council's Acts, from Justinian's letter to the synod and from the fifteen anathemas (and, as Hefele suggests, from the 543 synod's letter to Menas).",
+   "readings": [
+    {
+     "scholar": "Craig Truglia",
+     "work": "Orthodox Christian Theology, 17 Nov 2019 (quoting Price 2009, vol. 2, p. 270)",
+     "position": "Quotes the Life of Sabas as saying that 'a common and universal anathema was directed against Origen and Theodore of Mopsuestia' (he does not name Cyril in the post), and cites it in support of his case that the council condemned Origen.",
+     "side": "takes Cyril as evidence of conciliar condemnation",
+     "status": "V",
+     "source_url": "https://orthodoxchristiantheology.com/2019/11/17/apocatastasis-condemnation-during-the-council-of-constantinople-ii/"
+    },
+    {
+     "scholar": "Fr Aidan Kimel",
+     "work": "Eclectic Orthodoxy, 'Apokatastasis, Origen, and the Fifth Ecumenical Council (Part 3)', 9 Jan 2026",
+     "position": "Says Cyril shows 'a marked tendency to compress and conflate distinct ecclesiastical actions', that 'the Acts of Constantinople II attest to no such condemnation' of Didymus and Evagrius, and that Cyril's words make 'considerably more sense ... if Cyril is referring instead to the council's general condemnation of Origen in its eleventh canon'. He passes on, as Hombergen's caution, that Cyril was 'a committed anti-Origenist partisan'.",
+     "side": "Cyril conflates the council with earlier acts",
+     "status": "V",
+     "source_url": "https://afkimel.wordpress.com/2026/01/09/apokatastasis-origen-and-the-fifth-ecumenical-council-part-3/"
+    },
+    {
+     "scholar": "Daniël Hombergen (as quoted by Kimel)",
+     "work": "The Second Origenist Controversy (2001), p. 293, as quoted in Kimel 2026, part 3, n. 10",
+     "position": "Judges that Cyril's representation of the facts 'seriously contradicts the historical evidence'. Kimel passes on, in the same place, that Cyril 'was himself a committed anti-Origenist partisan'.",
+     "side": "Cyril a partisan source",
+     "status": "S",
+     "source_url": "https://afkimel.wordpress.com/2026/01/09/apokatastasis-origen-and-the-fifth-ecumenical-council-part-3/"
+    },
+    {
+     "scholar": "Ilaria L. E. Ramelli",
+     "work": "'Constantinople, 03: Second Council of', Brill Encyclopedia of Early Christianity Online (2019)",
+     "position": "Reports that the Sabaite opponents of Origen, as Cyril of Scythopolis summarizes them, 'maintained that the council issued a definitive anathema against Origen', along with Theodore, Evagrius and Didymus. She presents this as their claim, not as her own finding.",
+     "side": "reports Cyril's claim without endorsing it",
+     "status": "V",
+     "source_url": "https://afkimel.wordpress.com/wp-content/uploads/2026/01/ilaria-ramelli-on-second-council-of-constantinople.pdf"
+    },
+    {
+     "scholar": "Leszek Misiarczyk",
+     "work": "'Czy Ewagriusz z Pontu został rzeczywiście potępiony?', Vox Patrum 65 (2016), pp. 441-459",
+     "position": "Quotes Cyril's sentence and notes that Evagrius's name is absent from the Acts of 553, from Justinian's letter to the synod and from the fifteen anathemas. His abstract says Evagrius 'was condemned probably only by some endemic synod before the official opening of the Council in 553'.",
+     "side": "Evagrius was condemned, if at all, outside the council",
+     "status": "V",
+     "source_url": "https://czasopisma.kul.pl/index.php/vp/article/download/3510/3470"
+    }
+   ],
+   "source_urls": [
+    "https://czasopisma.kul.pl/index.php/vp/article/download/3510/3470",
+    "https://afkimel.wordpress.com/2026/01/09/apokatastasis-origen-and-the-fifth-ecumenical-council-part-3/",
+    "https://orthodoxchristiantheology.com/2019/11/17/apocatastasis-condemnation-during-the-council-of-constantinople-ii/"
+   ],
+   "status": "S"
+  },
+  {
+   "id": "later-councils-649-680-787",
+   "title": "649, 680-81, 787: later councils name Origen with Didymus and Evagrius",
+   "author_work_ref": "Lateran Synod (649), canon 18; Constantinople III (680-81), definition of faith (session XVIII); Nicaea II (787), definition of faith",
+   "date": "649; 16 September 681; 13 October 787",
+   "language": "Latin (649); Greek (681, 787)",
+   "original": "Lateran 649, can. 18 (DH 518-520): \"... id est, Sabellium, Arium, Eunomium, Macedonium, Apollinarem, Polemonem, Eutychen, Dioscurum, Timotheum Aelurum, Severum, Theodosium, Colluthum, Themistium, Paulum Samosatenum, Diodorum, Theodorum, Nestorium, Theodulum Persam, Origenem, Didymum, Evagrium, et compendiose omnes reliquos haereticos ...\"\nConstantinople III, definition: \"πρὸς ταύταις καὶ τῇ τελευταίᾳ τούτων πέμπτῃ ἁγίᾳ συνόδῳ τῇ ἐνταῦθα συναθροισθείσῃ κατὰ Θεοδώρου τοῦ Μομψουεστίας, Ὠριγένους, Διδύμου τε καὶ Εὐαγρίου καὶ τῶν συγγραμμάτων Θεοδωρίτου ...\"\nNicaea II, definition: \"... καὶ τὰ Ὠριγένους, Εὐαγρίου τε καὶ Διδύμου μυθεύματα ἀναθεματίζομεν ...\"",
+   "edition": "Lateran 649: R. Riedinger, ACO ser. II vol. 1 (1984), canon 18 (page not confirmed); Denzinger-Hünermann 518-520. Constantinople III: R. Riedinger, ACO ser. II vol. 2.2 (1992), session XVIII, definition (page not confirmed; the nearest page marker after this sentence on Dysinger's page is 774). Nicaea II: E. Lamberz, ACO ser. II vol. 3.3 (2016) (page not confirmed); Conciliorum Oecumenicorum Decreta (Alberigo).",
+   "checked_against": "Lateran: Denzinger's Latin on clerus.org (DH 518-520), re-opened; the list matches and is followed by 'et compendiose omnes reliquos haereticos'. Constantinople III: L. Dysinger's page (ldysinger.com), which cites the Greek to Labbe-Cossart, Concilia VI, col. 1019 and does not name Riedinger on the part I read; the Greek matches the draft once two missing spaces (τῇτελευταίᾳ, τοῦΜομψουεστίας) are restored. Nicaea II: quoted by Misiarczyk 2016, n. 50, from Dokumenty Soborów Powszechnych 1, pp. 334-335, stored in Symbol encoding ('ka… t¦ 'Wrigšnou, EÙagr…ou te kaˆ DidÚmou muqeÚmata ¢naqemat…zomen') and transcribed by the drafter; I checked the transcription.",
+   "english": "649: \"... that is, Sabellius, Arius, Eunomius, Macedonius, Apollinaris, Polemon, Eutyches, Dioscorus, Timothy Aelurus, Severus, Theodosius, Colluthus, Themistius, Paul of Samosata, Diodore, Theodore, Nestorius, Theodulus the Persian, Origen, Didymus, Evagrius, and in short all the other heretics ...\" (own translation).\n681 (own translation): \"... and in addition to these, the last of them, this fifth holy synod assembled here, against Theodore of Mopsuestia, Origen, Didymus and Evagrius, and the writings of Theodoret ...\" (the NPNF-based English printed with the Greek on ldysinger.com reads much the same).\n787: \"... we anathematize the fables of Origen, Evagrius, and Didymus, in accordance with the decision of the Fifth Council held at Constantinople.\" (NPNF II.14, p. 549, as printed on orthodoxethos.com; I did not check the words before 'we anathematize').",
+   "english_source": "Own translation (649 and 681); NPNF II.14 (public domain) for 787.",
+   "why_it_matters": "By 649 the West, by 681 an ecumenical council, and by 787 the last council the Orthodox and Catholic churches both count all describe the fifth council as directed against Origen, Didymus and Evagrius. In these texts the name is secure. The question is only what they are evidence of.",
+   "textual_notes": "In 649 Origen comes near the end of a list that is not chronological: Paul of Samosata (3rd century) follows the 6th-century Severus and Theodosius. The list is not in date order. Ramelli's objection to canon 11 of 553 is that Origen stands last 'out of chronological order'; a later conciliar list that also ignores date shows that such lists were not always compiled by date, which weakens that objection a little but does not show that Origen's place in canon 11 is original (my own observation, not a scholar's argument). The Lateran acts were drawn up in Greek and Latin; I checked only the Latin as given by Denzinger. μυθεύματα (787) means 'fables' or 'fictions'. These three texts pair Origen with Didymus and Evagrius, whom no surviving act of 553 names (Misiarczyk). The Latin version of the 681 definition was not checked.",
+   "readings": [
+    {
+     "scholar": "Leszek Misiarczyk",
+     "work": "Vox Patrum 65 (2016), pp. 441-459 (article and abstract)",
+     "position": "His abstract says Constantinople III (680-681), Nicaea II (787) and patristic authors 'simply repeat the condemnation of the previus [sic] endemic synod without examining the case'. In the article he names the Lateran synod of 649 (canon 18) as the first document in which Evagrius appears by name as a heretic.",
+     "side": "reception repeats, does not verify",
+     "status": "V",
+     "source_url": "https://doaj.org/article/98e75cc7b27d437583ae337c34d2c8a2"
+    },
+    {
+     "scholar": "Fr Aidan Kimel",
+     "work": "'Apokatastasis, Origen, and the Fifth Ecumenical Council (Part 3)', 2026",
+     "position": "Takes Constantinople III's description of the fifth council as evidence that the belief that it condemned Origen, Didymus and Evagrius was firmly established by the end of the seventh century, whatever the Acts say.",
+     "side": "reception reflects a settled tradition, not the Acts",
+     "status": "V",
+     "source_url": "https://afkimel.wordpress.com/2026/01/09/apokatastasis-origen-and-the-fifth-ecumenical-council-part-3/"
+    },
+    {
+     "scholar": "Craig Truglia",
+     "work": "Orthodox Christian Theology, 17 Nov 2019",
+     "position": "Says the seventh council itself took the fifth council's condemnation of Origen for granted, and argues that 'the consciousness of the Orthodox Church over centuries dictated' that the fifth council condemned apocatastasis and Origenism. He does not cite Constantinople III or the Lateran synod in this post.",
+     "side": "reception confirms the condemnation",
+     "status": "V",
+     "source_url": "https://orthodoxchristiantheology.com/2019/11/17/apocatastasis-condemnation-during-the-council-of-constantinople-ii/"
+    }
+   ],
+   "source_urls": [
+    "https://www.clerus.org/bibliaclerusonline/en/dvh.htm",
+    "http://www.ldysinger.com/@magist/0692_Const3_ec6/02_const3.htm",
+    "https://czasopisma.kul.pl/index.php/vp/article/download/3510/3470",
+    "https://www.orthodoxethos.com/post/the-decree-of-the-holy-great-7th-ecumenical-synod-the-second-of-nicaea"
+   ],
+   "status": "S"
+  },
+  {
+   "id": "constantinople-iii-forged-documents",
+   "title": "680-81: Constantinople III finds forged documents in the Acts of 553",
+   "author_work_ref": "Council of Constantinople III, Acts, sessions III, XII and XIV (examination of the codices of the fifth council's Acts)",
+   "date": "680-681 (sessions III, XII and XIV; exact dates not confirmed)",
+   "language": "Greek (with a Latin version)",
+   "original": "Not obtained. I could not open the Greek or Latin of sessions III, XII or XIV. The English below is Hefele's account as reproduced in NPNF.",
+   "edition": "R. Riedinger, ACO ser. II vol. 2.1-2.2 (1990-1992), sessions III, XII and XIV (pages not confirmed); Mansi XI.",
+   "checked_against": "English only: NPNF II.14, 'Excursus on the Genuineness of the Acts of the Fifth Council' (public domain, drawing on Hefele), and a summary based on Hefele vol. 5 by S. Nesch on A. Psarev's Substack.",
+   "english": "\"At the XIVth Session of that synod the examination of the genuineness of the acts of the Second Council of Constantinople was resumed. It had been begun at the XIIth Session. Up to this time only two mss. had been used, now the librarian of the patriarchate presented a third ms. ... These were then compared and it was found that the two first agreed in containing the pretended letter of Mennas to Pope Vigilius, and the two writings addressed by Vigilius to Justinian and Theodora; but that none of these were found in the third ms. It was further found that the documents in dispute were in a different hand from the rest of the ms. and that in the first book of the parchment ms., three quarternions had been inserted, and in the second book between quarternions 15 and 16, four unpaged leaves had been placed.\" The council decreed that \"these additions must be quashed in both mss., and marked with an obelus, and the falsifiers must be smitten with anathema\", and acclaimed: \"Anathema to the pretended letters of Mennas and Vigilius! Anathema to the forger of Acts!\"",
+   "english_source": "NPNF II.14 (1900), excursus drawing on Hefele, public domain.",
+   "why_it_matters": "This is what Ramelli's remark rests on, that 'suspicions have been raised already in 680 CE ... that the original Greek acts of the 553 CE council were interpolated'. It shows the Acts could be and were tampered with. It also shows what was tampered with, and that was not Origen.",
+   "textual_notes": "The inserted documents were a letter of Patriarch Menas to Vigilius and two letters of Vigilius to Justinian and Theodora teaching one will or one operation in Christ. They were evidence in the Monothelete dispute (the 7th-century quarrel over whether Christ had one will or two); the NPNF excursus as I re-read it does not say what the letters taught, and that they favoured one will is the usual account of the inquiry, not something I checked here. The papal legates are said to have challenged the Acts in session III. Nothing in the reports of the inquiry concerns Origen, canon 11 or the fifth session. The 680-81 council confirmed the rest of the codices it examined. In the same council's definition (passage 'later-councils-649-680-787') it names Origen among those the fifth council condemned. Ramelli's sentence, as published, is about the Greek Acts in general and does not say that the 680 suspicion touched Origen's name.",
+   "readings": [
+    {
+     "scholar": "Ilaria L. E. Ramelli",
+     "work": "'Constantinople, 03: Second Council of', Brill Encyclopedia of Early Christianity Online (2019)",
+     "position": "'It must be considered that the original Greek text of the acts of this council is lost, and that suspicions have been raised already in 680 CE (at the Third Ecumenical Council of Constantinople) that the original Greek acts of the 553 CE council were interpolated.' She does not say what the suspicions were about.",
+     "side": "tampering in 680 is a reason for caution about the Acts",
+     "status": "V",
+     "source_url": "https://afkimel.wordpress.com/wp-content/uploads/2026/01/ilaria-ramelli-on-second-council-of-constantinople.pdf"
+    },
+    {
+     "scholar": "Henry R. Percival (editor of NPNF II.14), following Hefele",
+     "work": "NPNF II.14 (1900), 'Excursus on the Genuineness of the Acts of the Fifth Council'",
+     "position": "The inquiry removed the forged letters, and 'the substantial accuracy of the rest of the acts have been established by the authority of the Sixth Synod'.",
+     "side": "the 680 inquiry vindicates the rest of the Acts",
+     "status": "V",
+     "source_url": "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-110.htm"
+    },
+    {
+     "scholar": "Aloisius Vincenzi (as reported by NPNF)",
+     "work": "Reported in NPNF II.14 excursus on the genuineness of the Acts",
+     "position": "Attacked the genuineness of the Acts at large, 'in defence of Pope Vigilius and of Origen'.",
+     "side": "the Acts as a whole are unreliable",
+     "status": "S",
+     "source_url": "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-110.htm"
+    }
+   ],
+   "source_urls": [
+    "https://tertullian.org/fathers2/NPNF2-14/Npnf2-14-110.htm",
+    "https://afkimel.wordpress.com/wp-content/uploads/2026/01/ilaria-ramelli-on-second-council-of-constantinople.pdf",
+    "https://andreipsarev.substack.com/p/the-historical-methodology-of-the"
+   ],
+   "status": "R"
+  }
+ ],
+ "other_findings": [
+  {
+   "claim": "Place by place, how secure is Origen's name? 400 synod and Anastasius: secure (named repeatedly; the texts depend on one 13th-century manuscript). The reply of the Jerusalem bishops (Ep. 93) anathematizes the listed propositions and whoever preaches them without naming Origen in the anathema. 543 edict: secure (Greek and Migne's Latin agree; of the scholars reported here only Vincenzi denied the edict). 551 Homologia: securely absent. 553 Justinian's letter to the bishops: present (date disputed, 543 or 553). 553 fifteen anathemas: absent from the text and from the manuscript heading; present only in modern titles. 553 session V: present in the Latin Acts; challenged only by Halloix and Vincenzi; what it refers to is disputed. 553 canon 11: present in the Latin Acts and the extra-conciliar Greek; doubted on inference only. Vigilius 553-554: absent (the letter has no list of heresiarchs at all; Constitutum II not checked). Cyril c. 557 and Evagrius c. 593: present, in partisan or later narratives. 649, 681, 787: present, with Didymus and Evagrius.",
+   "source": "This cluster's passages (see each passage's sources)",
+   "status": "S"
+  },
+  {
+   "claim": "NPNF's English of the 543 closing anathema ('Anathema to Origen and to that Adamantius') splits one person into two. The Greek τῷ καὶ Ἀδαμαντίῳ and Migne's Latin 'qui et Adamantius' both mean 'Origen, also called Adamantius'. Where the versions differ is in the rest of the sentence. NPNF cites Labbe and Cossart as its source, so the editor's note ('the Latin and Greek do not agree') may describe a printing I could not see.",
+   "source": "PG 86.1, cols. 989-990 (OGL OCR); NPNF II.14",
+   "status": "V"
+  },
+  {
+   "claim": "The document that Ramelli, Harding and Kimel call Justinian's 'Homonoia' ('Concord') is evidently the Homologia ('Confession of Faith') of 551, where Hefele located the list without Origen ('the tenth in the omologia'). I could not find a separate document called the Homonoia.",
+   "source": "Ramelli 2019 (Brill); Harding 2004 via Wikipedia; Hefele vol. iv p. 336 via NPNF; PG 86.1 col. 1017",
+   "status": "S"
+  },
+  {
+   "claim": "Canon 11 of 553 differs from the Homologia's tenth anathema in more than Origen's name. It adds 'with their impious writings', the clause on heretics condemned by the four councils, and 'persisted in their impiety until death'. So canon 11 is a longer, reworked text. That fits Hefele's suggestion that the emperor or the bishops added Origen at the council, and it also fits an interpolator who started from the 551 list; the differences do not settle which.",
+   "source": "PG 86.1 col. 1017-1018 compared with DH 433 and the Greek text",
+   "status": "V"
+  },
+  {
+   "claim": "The argument that Origen's last place in canon 11 is 'out of chronological order' is weakened by the Lateran list of 649, which is not chronological either (Paul of Samosata follows Severus and Theodosius). That shows such lists were not always compiled by date; it does not show that Origen's place in canon 11 is original. This is my own observation from the texts, not an argument I found in a scholar.",
+   "source": "DH 518-520 (clerus.org)",
+   "status": "V"
+  },
+  {
+   "claim": "Vigilius's letter to Eutychius of 8 December 553 (in the NPNF translation) anathematizes Theodore of Mopsuestia 'together with all other heretics' condemned by the four councils and anathematizes no other heresiarch by name (Nestorius and Apollinaris are named only in descriptions of what Theodoret and Ibas wrote or defended). Its silence about Origen is therefore not a deliberate omission from a parallel list.",
+   "source": "NPNF II.14, 'The Decretal Letter of Pope Vigilius'",
+   "status": "V"
+  },
+  {
+   "claim": "Theophilus's synodal letter of 400 lists among Origen's errors that 'the devil, freed from all the filth of sins, will be honoured equally and made subject together with Christ': an early charge touching the restoration of the devil, made against Origen's books. Rufinus preserves a letter in which Origen denies teaching it (not opened here).",
+   "source": "Jerome, Ep. 92.2.1, CSEL 55 p. 149 (OGL csel-dev)",
+   "status": "V"
+  },
+  {
+   "claim": "Diekamp devotes a section (§ 7, from p. 67) to 'the transmission of the surviving Acts of the fifth general council and the genuineness of the two statements about Origen in them' (the fifth-session passage and canon 11). I could not read that section, so his conclusion is not reported here.",
+   "source": "Diekamp 1899, table of contents (archive.org OCR)",
+   "status": "V"
+  },
+  {
+   "claim": "Misiarczyk observes that Evagrius of Pontus is not named in the Acts of 553, in Justinian's letter to the synod, or in the fifteen anathemas (nor, as Hefele suggests, in the 543 synod's letter to Menas), and that the first document to name him as a heretic is the Lateran synod of 649, canon 18.",
+   "source": "Misiarczyk, Vox Patrum 65 (2016), abstract and text",
+   "status": "V"
+  },
+  {
+   "claim": "Kimel treats Origen's name in canon 11 as genuine ('Origen remains condemned in the eleventh canon', 2026, part 4) while saying it condemns him only 'generally'. In part 3 (n. 33) he notes the interpolation view as a minority view with current support, and separately (n. 3) he says he finds the hypothesis that the fifteen anathemas were interpolated into the Greek Acts 'attractive'.",
+   "source": "Kimel 2020; Kimel 2026 parts 3 and 4",
+   "status": "V"
+  },
+  {
+   "claim": "In PG 86.1 (col. 989) the nine numbered anathemas of the 543 edict come first, and the ninth is the one on the end of punishment: 'If anyone says or holds that the punishment of demons and impious men is temporary ... that is, that there will be a restoration (ἀποκατάστασις) of demons or of impious men: let him be anathema.' The closing anathema against Origen, 'who set out these things', follows directly. The Latin beside it has 'restitutionem et redintegrationem' for the same word.",
+   "source": "PG 86.1, cols. 989-990 (OGL OCR, files 502.txt and 502.hocr), compared by the fact-checker",
+   "status": "V"
+  },
+  {
+   "claim": "Straub's critical edition (ACO IV.1) has Origen's name in canon 11 in both languages, if Livorsi's quotations are right: Latin 'Origenem cum impiis eorum conscriptis' (218.8-9) and Greek 'καὶ Ὠριγένην μετὰ τῶν ἀσεβῶν αὐτῶν συγγραμμάτων' (242.32-33). Livorsi cites them in an article on another subject, so he gives no apparatus; I did not see the edition's notes on variants.",
+   "source": "L. Livorsi, 'From Latin to Greek and Back Again', Greek, Roman, and Byzantine Studies 65 (2025), 48-79, n. 38 (read by the fact-checker)",
+   "status": "S"
+  },
+  {
+   "claim": "Diekamp's table of contents has a section (§ 8, from p. 77) headed 'Die Zeugnisse für die Annahme, daß die fünfte allgemeine Synode nur über die drei Capitel verhandelt hat' (the testimonies for the view that the fifth general synod dealt only with the Three Chapters). I read the heading only, not his conclusion.",
+   "source": "Diekamp 1899, table of contents (archive.org OCR)",
+   "status": "V"
+  },
+  {
+   "claim": "Jerome's Ep. 93, the Jerusalem bishops' reply to Theophilus's synodal letter, survives only in the same 13th-century manuscript as Ep. 92 and 95 (Ambrosianus H 59 sup.). It reports that some in Egypt wish to bring 'pestifera quaedam' into the churches on the strength of 'Origenis dogmatibus' and anathematizes anyone who preaches that Christ's kingdom will end or that the devil will regain his old dignity.",
+   "source": "Hilberg, CSEL 55, pp. 155-156 (OGL csel-dev XML, read by the fact-checker)",
+   "status": "V"
+  }
+ ],
+ "unverified": [
+  "The Latin of the fifth-session passage (Mansi IX, Straub ACO IV.1 session V) was not obtained; only the NPNF English was. The speaker, and the Mansi column '272 D' given in the earlier draft, are unconfirmed. An NPNF footnote naming Ascidas as speaker could not be found.",
+  "The Latin and Greek of Vigilius's letter to Eutychius and of his Constitutum II were not obtained; the letter was read only in NPNF's English, and whether the Constitutum II contains any list of heresiarchs is unknown.",
+  "The Greek and Latin of Constantinople III, sessions III, XII and XIV were not obtained. The session dates, the page of the definition in Riedinger, and what the forged letters taught are not confirmed from any source opened here.",
+  "The critical editions of the 543 edict (Schwartz, ACO III), of Justinian's letter and the fifteen anathemas (Straub, ACO IV.1) and of the 551 Confession (Schwartz 1939) were not available; page numbers given for them are as cited by others or marked 'not confirmed'. The Greek of the fifteen anathemas was not checked.",
+  "In the 551 Confession the PG OCR gives 'Μακεδόνων' for the name Macedonius in both Greek and the other scan; the page image was not seen, and the printed 'Μακεδόνιον' rests on the Latin and on canon 11.",
+  "The full Greek of canon 11 rests on an unsourced Greek blog; only its opening and the Origen clause are confirmed (by Livorsi's quotation of ACO IV.1 242.32-33). Which Greek witness Straub used is not known to me.",
+  "Cyril of Scythopolis, Vita Sabae 90: only a fragment of the Greek (via Misiarczyk, stored in a legacy font and transcribed) was obtained, the line number in Schwartz's edition is unconfirmed, and the English comes from Price's translation as quoted by Kimel and Truglia. The date of composition is not confirmed.",
+  "The Greek of the Nicaea II clause comes only from Misiarczyk, in a legacy font; the NPNF sentence was checked only from 'we anathematize the fables' onward.",
+  "The Rufinus and Jerome readings in the first passage are marked R; De adulteratione librorum Origenis, the section holding Origen's letter, and the relevant sections of Jerome's Apologia against Rufinus were not opened.",
+  "Whether the Labbe-Cossart Latin of the 543 closing anathema differs from Migne's Latin (the editor's note in NPNF suggests it may) was not checked.",
+  "Scholars known only through reports: Halloix (year of Origenes defensus not checked), Garnier, Vincenzi (through Hefele/NPNF and Diekamp), Noris and the Ballerini (place and year not confirmed), Hefele (through NPNF and Diekamp), Green (own wording and work not seen), McGuckin (work not identified), Oxenham (work and page not named), Whitby, Hombergen, Price (pages of the quoted phrases), Tanner, Jenkins. All marked S.",
+  "The NPNF excursus on the XV anathemas is credited here to H. R. Percival as editor of the volume; the web page I read does not name its author.",
+  "Which document Ramelli, Harding and Kimel mean by Justinian's 'Homonoia' is not settled; the list described is the one in the 551 Confession (Homologia).",
+  "That the council's canons number fourteen in the usual text, and so match Evagrius's 'fourteen chapters', was not re-counted here."
+ ],
+ "balance_note": "Every passage hears more than one side after this pass. The 400 passage now has the Jerusalem bishops' own reply (Ep. 93, read in the CSEL text) and Rufinus and Jerome (both unchecked, status R) beside Kimel and Jenkins. The 543 edict has Percival and Hefele (who keep it) against Vincenzi (who calls it spurious). The 551 list and canon 11 are split between Hefele, the NPNF editor, Truglia and Kimel (name original) and Halloix, Garnier, Vincenzi, Harding and Ramelli (name added). For the fifteen anathemas I added Percival's undecided verdict and McGuckin's interpolation hypothesis next to Diekamp's standard view, Hefele's 543 dating, Hart and Tanner. The session V passage hears Percival and Truglia (genuine), Green and Price (genuine but earlier act), Halloix and Vincenzi (forged). Vigilius's silence is read three ways (Ramelli and Harding, Prat, Kimel). Evagrius and Cyril are read as evidence of a council condemnation (Percival, Noris, Truglia) and as conflation or partisanship (Whitby, Hombergen, Kimel, Misiarczyk). The later councils are read as reception that confirms the condemnation (Truglia) and as repetition without checking (Misiarczyk, Kimel). What I could not add is a scholar of the interpolation side who has examined the Latin manuscripts: none of the sources I opened reports a manuscript lacking the name, and the case for interpolation remains an argument from the list, the 551 parallel and the politics.",
+ "corrections": [
+  {
+   "passage_id": "synod-400-theophilus-anastasius",
+   "field": "original",
+   "before": "si qua alia sunt ab Origene exposita, cum suo auctore pariter a nobis [...]",
+   "after": "si qua alia sunt ab Origene exposita, cum suo auctore pariter a nobis scias esse damnata. [...]",
+   "reason": "Added Ep. 93 (the reply of John of Jerusalem's synod) from the CSEL XML. It is the only other-side voice in the 400 exchange that survives in the primary texts [...]"
+  },
+  {
+   "passage_id": "synod-400-theophilus-anastasius",
+   "field": "english",
+   "before": "the devil, freed from all the filth of his sins, will be honoured equally",
+   "after": "the devil, freed from all the filth of sins, will be honoured equally",
+   "reason": "The Latin is 'cunctis peccatorum sordibus liberatus' with no possessive; 'his' was an addition."
+  },
+  {
+   "passage_id": "synod-400-theophilus-anastasius",
+   "field": "english",
+   "before": "After quoting propositions (among them",
+   "after": "After quoting propositions that Theophilus says stand in Origen's 'de principiis' and in [...]",
+   "reason": "Latin names the two works; the draft's English dropped that."
+  },
+  {
+   "passage_id": "synod-400-theophilus-anastasius",
+   "field": "textual_notes",
+   "before": "The proposition about the devil is Theophilus's report of what Origen [...]",
+   "after": "The propositions, including the one about the devil, are Theophilus's report of what Orig [...]",
+   "reason": "The draft's 'De adulteratione 6' section number was not checked; the Rufinus letter is not in any source I opened. Added what Ep. 93 does and does not say."
+  },
+  {
+   "passage_id": "synod-400-theophilus-anastasius",
+   "field": "reading: John of Jerusalem (ancient reader)",
+   "before": "Refused the demand to condemn Origen, holding that a man who had died [...]",
+   "after": "Refused Epiphanius's demand, made in the 390s during the first controversy and before the [...]",
+   "reason": "The draft said John refused 'the demand to condemn Origen' in the context of the 400 synod and added 'in the peace of the church', which is not in the source. [...]"
+  },
+  {
+   "passage_id": "synod-400-theophilus-anastasius",
+   "field": "reading added: Eulogius, John and the [...]",
+   "before": "",
+   "after": "They say they have never heard anyone teach that Christ's kingdom will end or that the de [...]",
+   "reason": "Added a primary-source reading from the other side of the 400 exchange; I read the Latin in the CSEL XML."
+  },
+  {
+   "passage_id": "synod-400-theophilus-anastasius",
+   "field": "reading: Fr Aidan Kimel",
+   "before": "Accepts that Origen was condemned in 400, but argues that neither Epi [...]",
+   "after": "Dates Theophilus's turn against Origen to 399 and says he acted 'primarily for political [...]",
+   "reason": "The draft said Kimel 'accepts that Origen was condemned in 400'. His letter does not date a synod to 400; it dates Theophilus's turn to 399 and gives political [...]"
+  },
+  {
+   "passage_id": "synod-400-theophilus-anastasius",
+   "field": "reading: Dr Cyril Jenkins (as reported [...]",
+   "before": "Counts the condemnations of Origen from Demetrius onward, including 4 [...]",
+   "after": "As quoted by Kimel: the 'real condemnations of Origen' come 'from people like St Epiphani [...]",
+   "reason": "The draft said Jenkins counts condemnations 'from Demetrius onward, including 400' as 'part of the cumulative case'. Kimel's letter, as I re-read it, quotes Je [...]"
+  },
+  {
+   "passage_id": "synod-400-theophilus-anastasius",
+   "field": "reading: Elizabeth A. Clark",
+   "before": "Argues that in this round 'Origen' became a code word for disputes ab [...]",
+   "after": "The publisher's description says the controversy was 'shaped by the Trinitarian and ascet [...]",
+   "reason": "The draft's wording ('asceticism, the body and practice as much as speculative doctrine') went beyond the publisher's description. Reworded to what the page says."
+  },
+  {
+   "passage_id": "synod-400-theophilus-anastasius",
+   "field": "readings added: Rufinus, Jerome",
+   "before": "",
+   "after": "two ancient readers, status R",
+   "reason": "Added the two ancient readers on the devil-restoration charge (Rufinus: books falsified; Jerome: Origen did teach it); not opened here, so marked R."
+  },
+  {
+   "passage_id": "edict-543-tenth-anathema",
+   "field": "author_work_ref",
+   "before": "closing anathemas, tenth anathema",
+   "after": "the closing anathema (counted as the tenth: nine numbered anathemas come first, and this [...]",
+   "reason": "NPNF prints nine numbered anathemas and then an unnumbered closing one; the PG Latin numbers I-IX and then prints the closing anathema without a number. Counti [...]"
+  },
+  {
+   "passage_id": "edict-543-tenth-anathema",
+   "field": "original",
+   "before": "(PG 86.1, col. 989): \"Ἀνάθεμα καὶ Ὠριγένει",
+   "after": "(PG 86.1, col. 989), immediately after the ninth anathema \"Εἴ τις λέγει ἢ ἔχει, πρόσκαιρο [...]",
+   "reason": "Added the ninth anathema, which sits directly before and is the edict's own statement on the end of punishment and apokatastasis; without it the closing anathe [...]"
+  },
+  {
+   "passage_id": "edict-543-tenth-anathema",
+   "field": "edition",
+   "before": "pp. 189-214, the tenth anathema on p. 214 (line not confirmed).",
+   "after": "pp. 189-214 (page range as cited in the earlier draft; I could not confirm it), the page [...]",
+   "reason": "The page 214 and 'tenth anathema' placement were not checkable; they were presented as nearly confirmed."
+  },
+  {
+   "passage_id": "edict-543-tenth-anathema",
+   "field": "textual_notes",
+   "before": "NPNF's 'Origen and to that Adamantius' makes two people out of one an [...]",
+   "after": "NPNF's 'Origen and to that Adamantius' makes two people out of one and is a contested ren [...]",
+   "reason": "The draft treated the NPNF note and the English as an error on NPNF's part without noting that NPNF translated from a different printing than the one checked."
+  },
+  {
+   "passage_id": "edict-543-tenth-anathema",
+   "field": "why_it_matters",
+   "before": "This is the first imperial document to anathematize Origen by name, a [...]",
+   "after": "This is the earliest surviving imperial text I know of that anathematizes Origen by name [...]",
+   "reason": "'First imperial document' was stated flatly; Anastasius's letter mentions an earlier imperial decree. Hedged."
+  },
+  {
+   "passage_id": "edict-543-tenth-anathema",
+   "field": "reading: Aloisius Vincenzi (as reporte [...]",
+   "before": "Went beyond Halloix and declared Justinian's edict against Origen its [...]",
+   "after": "Went further than Halloix: declared even Justinian's edict against Origen spurious, 'a do [...]",
+   "reason": "Re-read Diekamp's introduction on archive.org (German OCR): he does say Vincenzi declared the edict 'unecht'. Added the page and the paraphrase, which the draf [...]"
+  },
+  {
+   "passage_id": "homologia-551-heretic-list",
+   "field": "english_source",
+   "before": "Own translation (standard English: K. P. Wesche, On the Person of Chr [...]",
+   "after": "Own translation (standard English: K. P. Wesche, On the Person of Christ: The Christology [...]",
+   "reason": "I could not confirm that Price 2009, vol. 1 prints the 551 Confession in English; removed the unchecked reference."
+  },
+  {
+   "passage_id": "homologia-551-heretic-list",
+   "field": "textual_notes",
+   "before": "The PG numerals sit awkwardly in the OCR, so I take the number from Hefele.",
+   "after": "In the PG Latin (col. 1018) the Arius list is the last sentence of the section numbered X [...]",
+   "reason": "I read the Latin numerals in the OCR of PG page 516 and they do show X and XI; the draft had said the numerals could not be read."
+  },
+  {
+   "passage_id": "letter-553-and-fifteen-anathemas",
+   "field": "original",
+   "before": "καὶ πάντων τῶν τὰ τοιαῦτα φρονούντων ...\"",
+   "after": "καὶ πάντων τῶν τὰ τοιαῦτα φρονούντων, ἢ φρονησόντων εἰς τέλος.\"",
+   "reason": "The draft cut the sentence short. The OCR of PG col. 993 reads 'ἦ φρονησόντων εἰς τέλος' and the Latin beside it has 'aut sentient ad finem'; φρονησόντων is a [...]"
+  },
+  {
+   "passage_id": "letter-553-and-fifteen-anathemas",
+   "field": "textual_notes",
+   "before": " The NPNF translation of the fifteen gives Greek words in Latin lette [...]",
+   "after": "",
+   "reason": "Unverified aside; I could not find it in the NPNF page and it is not needed."
+  },
+  {
+   "passage_id": "letter-553-and-fifteen-anathemas",
+   "field": "reading: Franz Diekamp (as reported by [...]",
+   "before": "Justinian and his advisers drafted the fifteen anathemas in 552-553, [...]",
+   "after": "Argued that Justinian and his advisers drafted the fifteen anathemas in 552-553 and that [...]",
+   "reason": "Reworded to Kimel's own words (re-read on his page) and dropped 'and by Prat', which I could not confirm."
+  },
+  {
+   "passage_id": "letter-553-and-fifteen-anathemas",
+   "field": "reading: David Bentley Hart",
+   "before": "The oldest records show the fifteen 'were never even discussed by the [...]",
+   "after": "Writes that the fifteen anathemas 'were never even discussed by the assembled bishops' (a [...]",
+   "reason": "Re-read the article. The draft's 'oldest records show' framing is not in the quoted sentences, and the article also makes the point about the anathemas' conten [...]"
+  },
+  {
+   "passage_id": "letter-553-and-fifteen-anathemas",
+   "field": "reading: Richard Price",
+   "before": "The bishops signed the anti-Origenist canons before the council forma [...]",
+   "after": "Quoted by Kimel as saying that 'condemning Origenism was one of the activities that fille [...]",
+   "reason": "The draft gave a page range (vol. 2, pp. 270-286) and a claim that the bishops 'signed ... before the council formally opened' that I could not find in Kimel; [...]"
+  },
+  {
+   "passage_id": "letter-553-and-fifteen-anathemas",
+   "field": "reading added: Henry R. Percival (edit [...]",
+   "before": "",
+   "after": "Reaches no firm verdict on whether the fifth council adopted the fifteen anathemas: a dog [...]",
+   "reason": "Added an editor reading for this passage that is not on Hefele's or Hart's side; quotations re-read on the NPNF page."
+  },
+  {
+   "passage_id": "letter-553-and-fifteen-anathemas",
+   "field": "reading added: John A. McGuckin (as re [...]",
+   "before": "",
+   "after": "Held that the fifteen anathemas were interpolated into the Greek Acts. Kimel writes: 'I c [...]",
+   "reason": "Added a further named position on the fifteen; marked S because the McGuckin work is not identified in what I read."
+  },
+  {
+   "passage_id": "session-5-origen-anathematized-after-death",
+   "field": "textual_notes",
+   "before": "NPNF footnotes the passage as a 'Speech of Ascidas in the V. Session' [...]",
+   "after": "An earlier draft said NPNF footnotes the passage as a 'Speech of Ascidas in the V. Sessio [...]",
+   "reason": "The speaker attribution did not survive a re-read of the NPNF page."
+  },
+  {
+   "passage_id": "session-5-origen-anathematized-after-death",
+   "field": "reading: Ignatius Green and Richard Pr [...]",
+   "before": "Both take 'even now ... by your holinesses and by Vigilius' to refer [...]",
+   "after": "Kimel reports that Green, following Price, reads 'even now ... by your holinesses and by [...]",
+   "reason": "Kimel does not quote Green's wording on his 2020 page; the claim is Kimel's report, and the title of Green's work is the earlier draft's."
+  },
+  {
+   "passage_id": "session-5-origen-anathematized-after-death",
+   "field": "reading: Craig Truglia",
+   "before": "Cites the passage (Session V, para. 87) as showing that the council r [...]",
+   "after": "Cites Session V, paragraph 87. Reads 'even now ... by your holinesses and by Vigilius' as [...]",
+   "reason": "The draft said Truglia reads the passage as 'conciliar endorsement'. In the post he takes it to point back to a recent act, probably the 543 edict. Re-read the post."
+  },
+  {
+   "passage_id": "session-5-origen-anathematized-after-death",
+   "field": "reading: Fr Aidan Kimel",
+   "before": "Calls the home-synod reading 'a plausible conjecture, but conjecture [...]",
+   "after": "Of the home-synod reading he writes: 'This is a plausible conjecture, but conjecture none [...]",
+   "reason": "The draft added that Kimel argues the passage 'is not a formal adoption of the anathemas by the council'. That sentence is not in what I read; kept the verifie [...]"
+  },
+  {
+   "passage_id": "canon-11-553",
+   "field": "textual_notes",
+   "before": "The Latin Acts are a translation, held by de Marca and Hefele to have [...]",
+   "after": "The Latin Acts are a translation; Hefele thought the Roman copy of them was probably prep [...]",
+   "reason": "I could not confirm that de Marca held this; the Hefele statement is confirmed in NPNF."
+  },
+  {
+   "passage_id": "canon-11-553",
+   "field": "reading: Karl Joseph von Hefele",
+   "before": "Keeps the name. The Roman copy of the Acts, 'which has the highest cr [...]",
+   "after": "Keeps the name. The Roman copy of the Acts, 'which has the highest credibility, and was p [...]",
+   "reason": "Re-read the NPNF note. The draft said the monks 'broke communion with the Palestinian bishops who signed the Acts' and that 'only the name explains' the rumour [...]"
+  },
+  {
+   "passage_id": "canon-11-553",
+   "field": "reading: Fr Aidan Kimel",
+   "before": "In 2020 and in part 4 he treats the name as genuine ('Origen remains [...]",
+   "after": "Treats the name as genuine. In 2020 he writes that Origen 'is simply included among the a [...]",
+   "reason": "The draft put 'Origen remains condemned in the eleventh canon' in the 2020 article as well; it is in part 4 only. Quotations re-read on both pages."
+  },
+  {
+   "passage_id": "canon-11-553",
+   "field": "reading: H. N. Oxenham (as quoted by Kimel)",
+   "before": "'Origen's name stands alone in this eleventh Canon, and no mention is [...]",
+   "after": "'Origen's name stands alone in this eleventh Canon, and no mention is made of Didymus or [...]",
+   "reason": "Kept only the sentence the page attributes to Oxenham. The second phrase (condemning 'a man in general' against 'certain opinions in particular') appears in Ki [...]"
+  },
+  {
+   "passage_id": "vigilius-553-554",
+   "field": "textual_notes",
+   "before": "In the letter as translated in NPNF, the anathema names no heresiarch [...]",
+   "after": "In the letter as translated in NPNF, the anathema names no heresiarch at all except Theod [...]",
+   "reason": "Re-read the NPNF page: two heresiarchs' names do occur in the letter, in a different role; saying the letter names none could mislead."
+  },
+  {
+   "passage_id": "vigilius-553-554",
+   "field": "reading: Mark Harding",
+   "before": "Origen's name does not appear 'in the version of the conciliar procee [...]",
+   "after": "Origen's name is absent from the earliest draft of the anathemas and 'does not appear in [...]",
+   "reason": "Restored the quotation as Wikipedia prints it (including its spelling of Vigilius and the words 'a long time afterwards'), which the draft had silently tidied."
+  },
+  {
+   "passage_id": "vigilius-553-554",
+   "field": "reading: Fr Aidan Kimel",
+   "before": "'Even more strikingly, the official documents of Pope Vigilius, event [...]",
+   "after": "In his summary of Ramelli's argument he writes: 'Even more strikingly, the official docum [...]",
+   "reason": "The draft said Kimel 'infers that condemning Origen was not part of the council's aim as Vigilius received it'. The page shows the sentence inside his account [...]"
+  },
+  {
+   "passage_id": "vigilius-553-554",
+   "field": "reading: Ferdinand Prat",
+   "before": "Only the Acts on the Three Chapters were sent to the pope for approva [...]",
+   "after": "Writes that 'only the Acts concerning the affair of the Three Chapters were submitted to [...]",
+   "reason": "Replaced the draft's paraphrase with Prat's own wording (re-read on New Advent) and a neutral side label; the draft's label 'Origenism was condemned outside th [...]"
+  },
+  {
+   "passage_id": "evagrius-scholasticus-he-4-38",
+   "field": "english",
+   "before": "Many other blasphemies of Didymus, Evagrius and Theodore were also br [...]",
+   "after": "Many other blasphemies of Didymus, Evagrius and Theodore were also reported to them, who [...]",
+   "reason": "αὐτοῖς is a dative ('to them'), and the participle ἐκλεξαμένοις agrees with it, so the blasphemies were reported to those who had gathered the material; 'broug [...]"
+  },
+  {
+   "passage_id": "evagrius-scholasticus-he-4-38",
+   "field": "reading: Cardinal Henry Noris (as repo [...]",
+   "before": "Origen was condemned twice by the fifth synod: once before the eight [...]",
+   "after": "Held that the fifth synod condemned Origen twice: once by himself before the eight sessio [...]",
+   "reason": "The draft gave 'Padua 1673' for the dissertation; the NPNF page names the work but not the place or year."
+  },
+  {
+   "passage_id": "evagrius-scholasticus-he-4-38",
+   "field": "reading: Peter and Hieronymus Ballerin [...]",
+   "before": "Defended and 'expand and amend' Noris's view against Garnier.",
+   "after": "Defended Noris's view against Garnier and, in NPNF's words, expanded and amended it.",
+   "reason": "Dropped the full Latin title and the first-name spelling that I could not confirm on the NPNF page (it says the Ballerini brothers of Verona wrote a Defensio)."
+  },
+  {
+   "passage_id": "evagrius-scholasticus-he-4-38",
+   "field": "reading: Michael Whitby (as quoted by Kimel)",
+   "before": "The anti-Origenist proceedings Evagrius describes 'preceded the Counc [...]",
+   "after": "On the anti-Origenist proceedings Evagrius describes: 'they preceded the Council and were [...]",
+   "reason": "Dropped 'Evagrius has run the home synod together with the council', which is not in what Kimel quotes."
+  },
+  {
+   "passage_id": "evagrius-scholasticus-he-4-38",
+   "field": "reading: Daniël Hombergen (as reported [...]",
+   "before": "Attributes Evagrius's mistakes partly to 'existing contradictory trad [...]",
+   "after": "Says Evagrius relied on documents and on 'existing contradictory traditions' about what h [...]",
+   "reason": "Matched to Kimel's footnote wording and gave the page Kimel cites; the draft's 'attributes Evagrius's mistakes' was stronger than 'relied on ... contradictory [...]"
+  },
+  {
+   "passage_id": "cyril-scythopolis-vita-sabae-90",
+   "field": "why_it_matters",
+   "before": "Cyril was a monk of the New Lavra writing within about four years of [...]",
+   "after": "Cyril was a Palestinian monk (one of the orthodox monks sent to the New Lavra in 555, the [...]",
+   "reason": "The draft put Cyril at the New Lavra when he wrote; Wikipedia says he went there in 555 and moved to the Great Lavra two years later. Also the sentence names O [...]"
+  },
+  {
+   "passage_id": "cyril-scythopolis-vita-sabae-90",
+   "field": "date",
+   "before": "c. 556-557",
+   "after": "c. 556-558 (the date of composition is not confirmed)",
+   "reason": "The date was stated more narrowly than the sources I opened allow."
+  },
+  {
+   "passage_id": "cyril-scythopolis-vita-sabae-90",
+   "field": "textual_notes",
+   "before": "Misiarczyk notes that Evagrius's name is absent from the council's Ac [...]",
+   "after": "Misiarczyk notes that Evagrius's name is absent from the council's Acts, from Justinian's [...]",
+   "reason": "Matched to Misiarczyk's list; the draft said '543 edict' where he names the fifteen anathemas."
+  },
+  {
+   "passage_id": "cyril-scythopolis-vita-sabae-90",
+   "field": "reading: Fr Aidan Kimel",
+   "before": "Cyril was a committed anti-Origenist who compresses distinct actions [...]",
+   "after": "Says Cyril shows 'a marked tendency to compress and conflate distinct ecclesiastical acti [...]",
+   "reason": "Matched to the quotations on Kimel's page; the 'partisan' label is presented there as Hombergen's caution, not Kimel's own, and the draft gave no direct quotation."
+  },
+  {
+   "passage_id": "cyril-scythopolis-vita-sabae-90",
+   "field": "reading: Ilaria L. E. Ramelli",
+   "before": "Reports that Cyril 'maintained that the council issued a definitive a [...]",
+   "after": "Reports that the Sabaite opponents of Origen, as Cyril of Scythopolis summarizes them, 'm [...]",
+   "reason": "The draft said Ramelli 'reads him as a partisan witness'. In the article the words describe the Sabaite opponents' position, and nothing there calls Cyril partisan."
+  },
+  {
+   "passage_id": "cyril-scythopolis-vita-sabae-90",
+   "field": "reading: Leszek Misiarczyk",
+   "before": "Quotes Cyril's sentence but notes that Evagrius's name is absent from [...]",
+   "after": "Quotes Cyril's sentence and notes that Evagrius's name is absent from the Acts of 553, fr [...]",
+   "reason": "Matched to the article's list and abstract; removed 'a condemnation whose validity is open', which I could not find, and the side label 'names beyond Origen we [...]"
+  },
+  {
+   "passage_id": "later-councils-649-680-787",
+   "field": "english",
+   "before": "681: \"and in addition to these, to the last, that is the Fifth holy S [...]",
+   "after": "681 (own translation): \"... and in addition to these, the last of them, this fifth holy s [...]",
+   "reason": "I could not confirm that the English the draft printed is NPNF's own wording: the page where I found it says only that it is 'based on NPNF ... and Tanner'. Re [...]"
+  },
+  {
+   "passage_id": "later-councils-649-680-787",
+   "field": "english",
+   "before": "787: \"Moreover, with these we anathematize the fables of Origen, Evag [...]",
+   "after": "787: \"... we anathematize the fables of Origen, Evagrius, and Didymus, in accordance with [...]",
+   "reason": "'Moreover, with these' was not on the page I checked."
+  },
+  {
+   "passage_id": "later-councils-649-680-787",
+   "field": "checked_against",
+   "before": "Constantinople III: L. Dysinger's transcription of Riedinger's Greek [...]",
+   "after": "Constantinople III: L. Dysinger's transcription (ldysinger.com), which prints the Greek w [...]",
+   "reason": "I could not confirm that Dysinger's Greek is Riedinger's; the page I read cites Labbe-Cossart."
+  },
+  {
+   "passage_id": "later-councils-649-680-787",
+   "field": "textual_notes",
+   "before": "The list seems grouped by kind of error, so Origen's last place in ca [...]",
+   "after": "The list is not in date order. Ramelli's objection to canon 11 of 553 is that Origen stan [...]",
+   "reason": "The draft's 'grouped by kind of error' is not supported by the order of names (it runs from Monophysites to Paul of Samosata to Diodore, Theodore and Nestorius [...]"
+  },
+  {
+   "passage_id": "later-councils-649-680-787",
+   "field": "reading: Leszek Misiarczyk",
+   "before": "Later councils and authors, Constantinople III and Nicaea II among th [...]",
+   "after": "His abstract says Constantinople III (680-681), Nicaea II (787) and patristic authors 'si [...]",
+   "reason": "The draft put 'without re-examining the case' in quotation marks; the abstract's words are 'without examining the case'. Also the abstract says 'previous endem [...]"
+  },
+  {
+   "passage_id": "later-councils-649-680-787",
+   "field": "reading: Craig Truglia",
+   "before": "Appeals to the church's reception of the fifth council, including the [...]",
+   "after": "Says the seventh council itself took the fifth council's condemnation of Origen for grant [...]",
+   "reason": "The draft cited 'Orthodox Christian Theology (2019, 2021) as summarized in this survey's report', which is not a source I can open. Replaced with what the 2019 [...]"
+  },
+  {
+   "passage_id": "constantinople-iii-forged-documents",
+   "field": "reading: Ilaria L. E. Ramelli",
+   "before": "'It must be considered that the original Greek text of the acts of th [...]",
+   "after": "'It must be considered that the original Greek text of the acts of this council is lost, [...]",
+   "reason": "The draft said she offers it 'as context for doubting canon 11's text'; the sentence is general, and I changed the summary and side label to match."
+  },
+  {
+   "passage_id": "constantinople-iii-forged-documents",
+   "field": "reading: Henry R. Percival (NPNF edito [...]",
+   "before": "The inquiry removed the forged letters, and 'the substantial accuracy [...]",
+   "after": "The inquiry removed the forged letters, and 'the substantial accuracy of the rest of the [...]",
+   "reason": "Dropped 'He follows Hefele and Mansi's Paris manuscript for the text', which I could not find on the page; the page does not name its author."
+  },
+  {
+   "passage_id": "other_findings",
+   "field": "other_findings[1].claim",
+   "before": "NPNF's English of the 543 anathema ('Anathema to Origen and to that A [...]",
+   "after": "NPNF's English of the 543 closing anathema ('Anathema to Origen and to that Adamantius') [...]",
+   "reason": "NPNF translated from another printing than the one checked."
+  },
+  {
+   "passage_id": "other_findings",
+   "field": "other_findings[3].claim",
+   "before": "So the 553 text was revised as a whole, which is consistent with Hefe [...]",
+   "after": "So canon 11 is a longer, reworked text. That fits Hefele's suggestion that the emperor or [...]",
+   "reason": "The draft's conclusion favoured one side; the differences are consistent with both."
+  },
+  {
+   "passage_id": "other_findings",
+   "field": "other_findings[4].claim",
+   "before": "That list appears to group heretics by kind of error. This is my own [...]",
+   "after": "That shows such lists were not always compiled by date; it does not show that Origen's pl [...]",
+   "reason": "'Appears to group heretics by kind of error' is not borne out by the order of names."
+  },
+  {
+   "passage_id": "other_findings",
+   "field": "other_findings[5].claim",
+   "before": "Vigilius's letter to Eutychius of 8 December 553 (in the NPNF transla [...]",
+   "after": "Vigilius's letter to Eutychius of 8 December 553 (in the NPNF translation) anathematizes [...]",
+   "reason": "Two heresiarchs' names do occur in the letter, in another role."
+  },
+  {
+   "passage_id": "other_findings",
+   "field": "other_findings[11].claim",
+   "before": "Misiarczyk observes that Evagrius of Pontus is not named in the Acts [...]",
+   "after": "Misiarczyk observes that Evagrius of Pontus is not named in the Acts of 553, in Justinian [...]",
+   "reason": "Matched to the article's own list (it names the fifteen anathemas, not the 543 edict) and to its statement about 649."
+  },
+  {
+   "passage_id": "other_findings",
+   "field": "other_findings[12].claim",
+   "before": "Kimel's position on canon 11 has shifted in emphasis. In 2020 and in [...]",
+   "after": "Kimel treats Origen's name in canon 11 as genuine ('Origen remains condemned in the eleve [...]",
+   "reason": "'Shifted in emphasis' was the drafter's inference; I found two distinct statements, about two different texts."
+  },
+  {
+   "passage_id": "summary",
+   "field": "summary",
+   "before": "and Pope Anastasius name him again and again,",
+   "after": "and Pope Anastasius name him again and again (the reply of the Jerusalem bishops anathema [...]",
+   "reason": "Added the Jerusalem reply."
+  },
+  {
+   "passage_id": "summary",
+   "field": "summary",
+   "before": "in my reading NPNF's English 'Origen and to that Adamantius' makes tw [...]",
+   "after": "in my reading NPNF's English 'Origen and to that Adamantius' makes two people out of one [...]",
+   "reason": "NPNF's source printing differs from the one checked."
+  },
+  {
+   "passage_id": "summary",
+   "field": "summary",
+   "before": "Hefele, the NPNF editor, Truglia and, in most of his writing, Kimel k [...]",
+   "after": "Hefele, the NPNF editor, Truglia and Kimel (who notes the interpolation view as a minorit [...]",
+   "reason": "Kimel's treatment is the same across the pieces I read; the 'in most of his writing' hedge was not borne out."
+  },
+  {
+   "passage_id": "summary",
+   "field": "summary",
+   "before": "names no heresiarch (founder of a heresy) except Theodore of Mopsuestia",
+   "after": "anathematizes no heresiarch (founder of a heresy) by name except Theodore of Mopsuestia",
+   "reason": "Nestorius and Apollinaris are named in the letter, in descriptions."
+  },
+  {
+   "passage_id": "summary",
+   "field": "summary",
+   "before": "and from 649 on every council that describes the fifth names Origen, [...]",
+   "after": "and from 649 on, conciliar texts name Origen with Didymus and Evagrius: the Lateran list [...]",
+   "reason": "Lateran 649 is a list of heretics, not a description of the fifth council."
+  },
+  {
+   "passage_id": "summary",
+   "field": "summary",
+   "before": "rests on that council's discovery in 680-81",
+   "after": "seems to refer to that council's discovery in 680-81",
+   "reason": "Ramelli does not say what the suspicions were about; the link is an inference."
+  },
+  {
+   "passage_id": "summary",
+   "field": "summary",
+   "before": "The critical editions (ACO) were out of reach, so the 543 and 551 tex [...]",
+   "after": "The critical editions (ACO) were out of reach, except that Livorsi's quotation of Straub [...]",
+   "reason": "Livorsi's n. 38 gives the critical edition's reading for the Origen clause."
+  },
+  {
+   "passage_id": "cluster",
+   "field": "balance_note",
+   "before": "(absent from the draft)",
+   "after": "Every passage hears more than one side after this pass. The 400 passage now has the Jerus [...]",
+   "reason": "The draft had no balance note."
+  },
+  {
+   "passage_id": "cluster",
+   "field": "checked_against, edition, source_urls",
+   "before": "(unchecked statements and repository links)",
+   "after": "re-check notes; direct file links; unconfirmed page numbers marked",
+   "reason": "In every passage whose original I could re-open, I downloaded the same or a second source and compared; the checked_against fields now say what was compared an [...]"
+  },
+  {
+   "passage_id": "cluster",
+   "field": "other_findings (added) and problems",
+   "before": "four findings absent; problems as one paragraph",
+   "after": "four findings added; unverified as a list",
+   "reason": "Added what the check turned up (ninth anathema of 543, Livorsi on Straub, Diekamp section 8, Jerome Ep. 93) and turned the limits paragraph into a list."
+  },
+  {
+   "passage_id": "synod-400-theophilus-anastasius",
+   "field": "reading removed: Elizabeth A. Clark",
+   "before": "code word for asceticism, the body and practice",
+   "after": "",
+   "reason": "Known to me only through a publisher blurb, which says less than the draft claimed, and peripheral to the name question; removed."
+  }
+ ]
+}
