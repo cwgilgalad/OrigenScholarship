@@ -22,7 +22,7 @@ The full argument, with every position and who holds it, is in the report.
 | File | What it is |
 |---|---|
 | [`research/REPORT.md`](research/REPORT.md) | The survey. Origen's life and first censure, the controversy around 400, the documents of 543 and 553, whether the condemned doctrines are really Origen's, how binding the condemnations are in each tradition, whether they were just, and where the debate stands now. |
-| [`research/claims.md`](research/claims.md) | Every factual claim in the report (63 of them), each with its source and how far it was checked. |
+| [`research/claims.md`](research/claims.md) | Every factual claim in the report (70 of them), each with its source and how far it was checked. |
 | [`research/balance-audit.md`](research/balance-audit.md) | A review of the report for bias: who gets heard, whose case is put at its strongest, and what was changed as a result. |
 
 ## How it was checked

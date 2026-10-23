@@ -45,8 +45,8 @@ Checked 2026-10-15. Status key:
 | 35 | Cyril of Scythopolis: "a common and universal anathema" | S | Truglia, from Price's translation |
 | 36 | Casiday and Ware: the fifteen form one rejected system | S | Kimel (Casiday by private email) |
 | 37 | Canon 11 names Origen last in a list of heretics | V | Ramelli 2019; NPNF note |
-| 38 | Origen missing from Justinian's *Homonoia* and Vigilius's version | S | Wikipedia (Harding 2004); Ramelli 2019 |
-| 39 | Ramelli and Vincenzi: interpolation; suspicion raised at Constantinople III | S | Ramelli 2019; NPNF note (Vincenzi) |
+| 38 | Origen is missing from the 551 *Confession of the Right Faith* (the document Ramelli and Harding seem to mean by *Homonoia*; the name's reference isn't settled). Vigilius's letter of 8 Dec 553 names no heretic but Theodore, so it has no list to leave him out of; "the version Vigilius signed" is Harding's phrase, via Wikipedia, and names no manuscript | C, V, S | PG 86.1 (Greek and Latin); Hefele in NPNF II.14; NPNF English of Vigilius's letter; Wikipedia (Harding 2004); Ramelli 2019 |
+| 39 | Interpolation held by Halloix (1648), Garnier, Basnage, Walch and Vincenzi (who also rejected the 543 edict), and today by Ramelli ("suggests"), Harding ("may indicate"), Słomski and Hart. Constantinople III's inquiry found forged Monothelete letters in the 553 Acts, not anything about Origen | C, V, S | Diekamp 1899; Garnier reporting Halloix (PL 68); Ramelli 2019; NPNF/Hefele on 680–81 (R) |
 | 40 | Fifth session: Origen already anathematized "even now" | S | Truglia, from Price's translation |
 | 41 | Constantinople III: fifth synod "against Theodore…, Origen, Didymus and Evagrius" | V | Text via EWTN; Wikipedia *Second Council* |
 | 42 | Nicaea II repeats it; later councils didn't re-examine | S | Misiarczyk 2016 abstract |
@@ -56,7 +56,7 @@ Checked 2026-10-15. Status key:
 | 46 | Daley: radicalised Evagrian Christology beyond Origen or Nyssa | S | Kimel 2020 reporting Daley |
 | 47 | Ramelli: condemned apokatastasis is the version embedded in transmigration | S | Kimel 2020; Ramelli 2019 |
 | 48 | Edwards: Origen's view of human nature opposed to Platonism; Edwards and Tzamalikos deny Origen taught pre-existence | S | Oxford faculty summary; Martens's review of Scott |
-| 49 | Crouzel: Origen never officially condemned | S | Ramelli 2019 citing Crouzel |
+| 49 | Crouzel accepts that canon 11 names Origen, asks what the addition means, and answers no to whether the council's texts condemn him | C, V | Crouzel, *New Catholic Encyclopedia*; Crouzel 1999 (Alura's translation) |
 | 50 | *De principiis* 1.6.2 "the end is always like the beginning" | R | Quotation verified (Wikipedia); section number from memory |
 | 51 | *Against Celsus* 6.26 on punishment as deterrent | S | Wikipedia *Origen* |
 | 52 | McClymond review, *Theological Studies* 76.4 (2015); criticisms as given | V | theologicalstudies.net |
@@ -71,6 +71,13 @@ Checked 2026-10-15. Status key:
 | 61 | Truglia 2019 / 2021 arguments | V | orthodoxchristiantheology.com |
 | 62 | Kimel 2026 series answers Green (2019), Price; weighs McGuckin (2017), Maximov (2020), Telea (2022) | S | Kimel, part 3, Jan 2026 |
 | 63 | Benedict XVI quotes as given; no condemnation mentioned | V | vatican.va (see #57) |
+| 64 | Gregory the Great says of the fifth council that "nothing was done in it with respect to the faith, but only with respect to persons"; neither of his letters on the councils names Origen | V | NPNF II.12, Epistles XXV and XXXIX |
+| 65 | Słomski (2025): Origen's place in canon 11 "can be considered a later insertion" because he comes last | V | *Elpis* 27 (2025), p. 43 |
+| 66 | Hefele's four reasons for interpolation, and his verdict that they are "of insufficient strength, or mere conjecture"; he allows the name may have been added at the council | V | Hefele, *History of the Councils* IV, in NPNF II.14 (tertullian.org) |
+| 67 | Diekamp (1899): by far most scholars held the name genuine | V | Diekamp 1899, introduction (archive.org scan) |
+| 68 | Kimel (2026) calls interpolation of the name a minority view that "continues to find support among contemporary Church historians" | V | Kimel, part 3, 9 Jan 2026, n. 33 |
+| 69 | The Lateran synod of 649 (canon 18) and the Council in Trullo (692, canon 1) name Origen with Didymus and Evagrius | V | Denzinger (Lateran); NPNF (Trullo) |
+| 70 | Straub's edition prints the name in canon 11 in Latin (218.8–9) and Greek (242.32–33); no manuscript without it is reported, and no published collation was found | S | Livorsi, *GRBS* 65 (2025), quoting ACO IV.1 |
 
 **Corrections made:** #10 (dates), the ninth anathema of 543 (the draft quoted it in full; only the opening words are quoted now, the rest paraphrased from the NPNF), and canon 11 (the draft said "the majority of historians" accept the name; that couldn't be supported, so it now names only the NPNF editor).
 

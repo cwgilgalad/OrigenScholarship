@@ -5,7 +5,7 @@
 Work under way on this version. Each item gets ticked off here as it lands on the branch.
 
 - [ ] The source texts: each key passage in Greek, Latin or Syriac, with its edition, an English rendering, and how scholars on each side read it.
-- [ ] A fuller answer to whether Origen's name was added later to the councils that condemned him, place by place.
+- [x] A fuller answer to whether Origen's name was added later to the councils that condemned him, place by place.
 - [ ] New and missing scholarship, and another try at the three known gaps.
 - [ ] A third pass of the balance audit, covering the new material.
 - [ ] A plain-voice pass over every file, so it reads well for someone who isn't a specialist.
