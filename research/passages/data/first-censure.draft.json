@@ -1,0 +1,651 @@
+{
+  "cluster": "first-censure: Origen's ordination, his break with Demetrius of Alexandria (c. 231-232), and his own defence",
+  "summary": "Nearly everything we know about Origen's first censure comes from his friends: Eusebius, who wrote an Apology for him with Pamphilus; Photius's ninth-century summary of that Apology; Jerome before he turned against Origen; and Origen's own letters. Eusebius says that Demetrius, out of jealousy, wrote to bishops everywhere about Origen's castration at the time the bishops of Caesarea and Jerusalem ordained him priest on his way to Greece, and that Origen moved to Caesarea in the tenth year of Alexander Severus (231/232); Eusebius sends the reader to the lost second book of the Apology for the decisions themselves. Photius, reporting Pamphilus, describes two steps: a synod of bishops and some presbyters ordered Origen to leave Alexandria but left him his rank as priest, and then Demetrius with some Egyptian bishops stripped him of the priesthood; the only ground named is ordination without his own bishop's consent. Jerome in 384 says Rome agreed to the condemnation (and, in Hilberg's emended text, most of the world as well), but not over doctrine. The letter Origen wrote to friends in Alexandria survives only in two Latin versions, and they disagree at the point that matters most: in Rufinus, Origen denies ever saying the devil 'is to be saved'; in Jerome, Origen's opponents say the devil 'can be saved', inside a passage about refusing to curse anyone, and Jerome adds a debate with Candidus in which Origen held that the devil fell by choice and so could be saved. Modern readers disagree on the main cause of the censure. Some say it was church order (the ordination, perhaps the castration); some say jealousy; some say a bishop asserting his authority over an independent teacher; some say doctrine played a part. The texts gathered here settle none of these, and the doctrinal reading depends on later and partisan witnesses.",
+  "passages": [
+    {
+      "id": "eusebius-he-6-8-4-5",
+      "title": "Eusebius: Demetrius turns on Origen and uses the castration against him",
+      "author_work_ref": "Eusebius of Caesarea, Church History (Historia ecclesiastica) 6.8.4-5, with 6.8.3 for context",
+      "date": "Early fourth century (Book 6 of the Church History); the events described c. 230-231",
+      "language": "Greek",
+      "original": "[6.8.3] γνοὺς δῆτα ὕστερον ὁ Δημήτριος, ἅτε τῆς αὐτόθι παροικίας προεστώς, εὖ μάλα μὲν αὐτὸν ἀποθαυμάζει τοῦ τολμήματος, τὴν δέ γε προθυμίαν καὶ τὸ γνήσιον αὐτοῦ τῆς πίστεως ἀποδεξάμενος, θαρρεῖν παρακελεύεται ... [6.8.4] Ἀλλὰ τότε μὲν οὗτος τοιοῦτός τις ἦν· οὐ μακροῖς δὲ χρόνοις ὕστερον ὁ αὐτὸς ὁρῶν εὖ πράττοντα μέγαν τε καὶ λαμπρὸν καὶ παρὰ πᾶσιν ὄντα βεβοημένον, ἀνθρώπινόν τι πεπονθώς τοῖς ἀνὰ τὴν οἰκουμένην ἐπισκόποις καταγράφειν ὡς ἀτοπωτάτου τοῦ πραχθέντος ἐπειρᾶτο, ὅτε τῶν κατὰ Παλαιστίνων οἱ μάλιστα δόκιμοι καὶ διαπρέποντες Καισαρείας τε καὶ Ἱεροσολύμων ἐπίσκοποι πρεσβείων τὸν Ὠριγένην καὶ τῆς ἀνωτάτω τιμῆς ἄξιον εἶναι δοκιμάσαντες, χεῖρας εἰς πρεσβυτέριον αὐτῷ τεθείκασιν. [6.8.5] τηνικαῦτα δ’ οὖν εἰς μέγα δόξης προελθόντος ὄνομά τε παρὰ τοῖς πανταχῆ πᾶσιν ἀνθρώποις καὶ κλέος ἀρετῆς καὶ σοφίας οὐ σμικρὸν κτησαμένου, μηδεμιᾶς ἄλλης εὐπορῶν ὁ Δημήτριος κατηγορίας, τῆς πάλαι ἐν παιδὶ γεγονυίας αὐτῷ πράξεως δεινὴν ποιεῖται διαβολήν, συμπεριλαβεῖν τολμήσας ταῖς κατηγορίαις τοὺς ἐπὶ τὸ πρεσβυτέριον αὐτὸν προάξαντας.",
+      "edition": "E. Schwartz, Eusebius Werke II.2: Die Kirchengeschichte, Bücher VI bis X, GCS 9.2 (Leipzig: Hinrichs, 1908), Book 6 ch. 8; page not confirmed. The Loeb reprint of Schwartz's text: Eusebius, The Ecclesiastical History, vol. 2, ed. and trans. J. E. L. Oulton (Loeb Classical Library 265, 1932), Greek on p. 30 (page break as marked in the digital file; the printed page was not seen).",
+      "checked_against": "First1KGreek EpiDoc transcription of the Loeb Greek text (tlg2018.tlg002.1st1K-grc1), compared line by line with the First1KGreek transcription of W. Dindorf's Teubner text (tlg2018.tlg002.1st1K-grc2, vol. 4, p. 250). One obvious OCR slip corrected: ἢν to ἦν. Παλαιστίνων is printed as it stands in the Loeb file; Dindorf has Παλαιστίνην, and the printed Loeb could not be checked.",
+      "english": "[6.8.3] Demetrius, as head of the community there, learned of it later. He was greatly astonished at the boldness of the act, but he welcomed Origen's zeal and the sincerity of his faith and told him to take heart ... [6.8.4] That was how he was then. But not long afterwards the same man saw Origen prospering, great and brilliant and talked of by everyone. Something human came over him, and he tried to denounce the deed in writing to the bishops throughout the world as utterly outrageous. This was at the time when the most respected and distinguished bishops in Palestine, those of Caesarea and of Jerusalem, judged Origen worthy of the first rank and of the highest honour and laid hands on him for the presbyterate. [6.8.5] Since Origen had by then risen to great repute and had won a considerable name and fame for virtue and wisdom among people everywhere, Demetrius, having no other charge to bring, made a grave accusation out of the act done long before, when he was a boy, and dared to include in his accusations those who had advanced him to the presbyterate.",
+      "english_source": "Own close translation. The standard public-domain English is A. C. McGiffert, NPNF second series vol. 1 (1890); the Loeb English is J. E. L. Oulton (1932). McGiffert renders ἀνθρώπινόν τι πεπονθώς as 'overcome by human weakness' and joins the ὅτε clause as a new sentence ('But the bishops of Cesarea and Jerusalem ... ordained him a presbyter'), which loosens Eusebius's link in time between the ordination and the letters.",
+      "textual_notes": "Dindorf's text differs at three points: τοῦ πραχθέντος αὐτῷ ἐπειρᾶτο, ὅτε γε (6.8.4); Παλαιστίνην for Παλαιστίνων; προελθόντος αὐτοῦ (6.8.5). Neither reading changes the sense. The small word ὅτε ('at the time when') ties Demetrius's circular letters to the moment of the ordination; Eusebius then admits at 6.8.6 that he has run ahead (Ταῦτα μὲν οὖν μικρὸν ἐπράχθη ὕστερον, 'these things happened a little later'). πρεσβεῖα means 'seniority, first rank, privileges'; it is not the technical word for the presbyterate, which follows (εἰς πρεσβυτέριον). ἐν παιδί ('as a boy') places the castration in Origen's youth, in the narrative of 6.8.1-3, where Demetrius had at first approved of it. Eusebius does not say that Demetrius raised any matter of doctrine.",
+      "why_it_matters": "This is the only ancient narrative of the break that tells it in sequence, and it comes from Origen's defender. It gives a motive (jealousy), a charge (the castration) and an occasion (the ordination), and it says nothing of doctrine; every later account has to be read against it.",
+      "readings": [
+        {
+          "scholar": "Eusebius of Caesarea (ancient)",
+          "work": "Church History 6.8.4-5 (the passage itself)",
+          "position": "Demetrius acted out of 'something human' (envy at Origen's fame). He had no other charge to bring, so he revived an act from Origen's youth that he had once approved, and he included the ordaining bishops in the charge.",
+          "side": "reads the censure as personal jealousy, with the castration as a pretext",
+          "status": "V",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc1.xml"
+        },
+        {
+          "scholar": "Henri Crouzel (as quoted by Aidan Kimel)",
+          "work": "Origen, Eng. trans. A. S. Worrall (Edinburgh: T&T Clark, 1989), p. 23 n. 7, as cited in A. F. Kimel, 'An Open Letter to Dr Cyril Jenkins: Was Origen Condemned for Teaching Universal Salvation?', Eclectic Orthodoxy blog, 20 Aug 2024; page not confirmed against Crouzel's book",
+          "position": "'The main reason for the measures taken against him was certainly, if we are to believe Eusebius and Photius, the ordination he received from a bishop other than his own.' The castration that Demetrius made public 'played a supplementary part'. Crouzel adds that a formal canon on the point (Nicaea, canon 1) came only a century later.",
+          "side": "reads the ordination as the main cause and the castration as secondary",
+          "status": "S",
+          "source_url": "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/"
+        },
+        {
+          "scholar": "Arthur Cushman McGiffert",
+          "work": "Eusebius, Church History, NPNF second series vol. 1 (1890), supplementary Note 16, 'Origen and Demetrius' (on HE 6.8.5), pp. 394-395",
+          "position": "'The two grounds of the sentence passed by these synods were plainly his irregular ordination to the priesthood when constitutionally unfit for it ... and his heterodoxy.' For the doctrinal ground he points to later documents (an Egyptian synodal letter in Mansi IX col. 524; Jerome, Letter 84.10; Rufinus, Apology against Jerome 2.21). He notes that 'both Eusebius and Jerome attribute the change in his attitude to jealousy', and allows that motive without proving it.",
+          "side": "reads the censure as canonical (castration as disqualifying) and doctrinal together",
+          "status": "S",
+          "source_url": "https://st-takla.org/books/en/ecf/201/2010323.html"
+        },
+        {
+          "scholar": "Frederick Crombie",
+          "work": "Introductory notice to Origen, ANF vol. 4 (1885), as transcribed on the Elpenor site ('Introducing Origen', page 8)",
+          "position": "He thinks jealousy was likely 'one main cause of the resentment displayed by Demetrius'. He doubts that a church law against Origen's ordination was generally understood at that early date, and he disputes Hefele's view that such a law justified Demetrius.",
+          "side": "accepts Eusebius's jealousy motive and doubts the canonical case",
+          "status": "S",
+          "source_url": "https://www.ellopos.net/elpenor/greek-texts/fathers/origen/introduction.asp?pg=8"
+        },
+        {
+          "scholar": "Pierre Nautin (as reported by Robert J. Daly)",
+          "work": "P. Nautin, Origène: sa vie et son oeuvre (Paris: Beauchesne, 1977), reviewed by R. J. Daly, 'Origen Studies and Pierre Nautin's Origène', Theological Studies 39 (1978), pp. 508-519, here p. 515 (volume and year read from the file name, not from the printed page)",
+          "position": "On Daly's report, Nautin holds that for the first forty-eight years of Origen's life 'Eusebius seems to have been blessed with access to an autobiographical account', probably a letter Origen sent from Athens to the bishop of Jerusalem in 233 to defend himself against Demetrius. If so, the narrative of 6.8 would rest in part on Origen's own self-defence.",
+          "side": "reads Eusebius's account as resting on Origen's own apologetic letter",
+          "status": "S",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/08/39.3.5.pdf"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc1.xml",
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc2.xml",
+        "https://www.newadvent.org/fathers/250106.htm"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "eusebius-he-6-19-16-19",
+      "title": "Eusebius: the earlier quarrel over a layman preaching at Caesarea, with the Palestinian bishops' reply",
+      "author_work_ref": "Eusebius of Caesarea, Church History 6.19.16-19, quoting a letter of Alexander of Jerusalem and Theoctistus of Caesarea",
+      "date": "Events probably c. 215-216 (Eusebius gives no date; the 'war' in Alexandria is usually linked to Caracalla's visit, a link not checked here against a named scholar); Eusebius writing in the early fourth century",
+      "language": "Greek",
+      "original": "[6.19.16] χρόνου δὲ μεταξὺ διαγενομένου, οὐ σμικροῦ κατὰ τὴν πόλιν ἀναρριπισθέντος πολέμου, ὑπεξελθὼν τῆς Ἀλεξανδρείας, ᾔει μὲν ἐπὶ Παλαιστίνης, ἐν Καισαρείᾳ δὲ τὰς διατριβὰς ἐποιεῖτο· ἔνθα καὶ διαλέγεσθαι τάς τε θείας ἑρμηνεύειν γραφὰς ἐπὶ τοῦ κοινοῦ τῆς ἐκκλησίας οἱ τῇδε ἐπίσκοποι, καίτοι τῆς τοῦ πρεσβυτερίου χειροτονίας οὐδέπω τετυχηκότα, αὐτὸν ἠξίουν· [6.19.17] ὃ καὶ αὐτὸ γένοιτ’ ἂν ἔκδηλον ἀφ’ ὧν περὶ τοῦ Δημητρίου γράφοντες Ἀλέξανδρος ὁ Ἱεροσολύμων ἐπίσκοπος καὶ Θεόκτιστος ὁ Καισαρείας ὧδέ πως ἀπολογοῦνται· «προσέθηκεν δὲ τοῖς γράμμασιν ὅτι τοῦτο οὐδέποτε ἠκούσθη οὐδὲ νῦν γεγένηται, τὸ παρόντων ἐπισκόπων λαϊκοὺς ὁμιλεῖν, οὐκ οἶδ’ ὅπως προφανῶς οὐκ ἀληθῆ λέγων. [6.19.18] ὅπου γοῦν εὑρίσκονται οἱ ἐπιτήδειοι πρὸς τὸ ὠφελεῖν τοὺς ἀδελφούς, καὶ παρακαλοῦνται τῷ λαῷ προσομιλεῖν ὑπὸ τῶν ἁγίων ἐπισκόπων, ὥσπερ ἐν Λαράνδοις Εὔελπις ὑπὸ Νέωνος καὶ ἐν Ἰκονίῳ Παυλῖνος ὑπὸ Κέλσου καὶ ἐν Συνάδοις Θεόδωρος ὑπὸ Ἀττικοῦ, τῶν μακαρίων ἀδελφῶν. εἰκὸς δὲ καὶ ἐν ἄλλοις τόποις τοῦτο γίνεσθαι, ἡμᾶς δὲ μὴ εἰδέναι.» ... [6.19.19] ἀλλὰ γὰρ αὖθις τοῦ Δημητρίου διὰ γραμμάτων αὐτὸν ἀνακαλέσαντος δι’ ἀνδρῶν τε διακόνων τῆς ἐκκλησίας ἐπισπεύσαντος ἐπανελθεῖν εἰς τὴν Ἀλεξάνδρειαν, ἀφικόμενος τὰς συνήθεις ἀπετέλει σπουδάς.",
+      "edition": "E. Schwartz, GCS 9.2 (1908), Book 6 ch. 19; page not confirmed. Loeb (Oulton, 1932) vol. 2, Greek on pp. 62-64 as marked in the digital file (printed page not seen).",
+      "checked_against": "First1KGreek transcription of the Loeb Greek (tlg2018.tlg002.1st1K-grc1), compared with Dindorf's text (tlg2018.tlg002.1st1K-grc2). OCR slips in the Loeb file corrected: δ’ καὶ to ὃ καὶ, ἐκκΛησίας to ἐκκλησίας, Ἰκονίω to Ἰκονίῳ, and a repeated ίαν removed after Ἀλεξάνδρειαν. The Loeb file prints 'Παυλῖνος ὑπὸ ὑπὸ'; the name Κέλσου is supplied from Dindorf, whose text has it.",
+      "english": "[16] Some time later, when no small war had flared up in the city, he slipped away from Alexandria, went to Palestine and settled for a while at Caesarea. There the bishops of the place asked him to give addresses and to expound the divine scriptures publicly in the church, although he had not yet received ordination to the presbyterate. [17] This too would become plain from what Alexander, bishop of Jerusalem, and Theoctistus of Caesarea write about Demetrius, defending themselves roughly as follows: 'He added to his letter that such a thing had never been heard of and does not happen now, that laymen should preach when bishops are present. How he comes to say this I do not know, for it is plainly untrue. [18] Wherever people are found who are fit to help the brethren, the holy bishops invite them to address the people: at Laranda, Euelpis was invited by Neon; at Iconium, Paulinus by Celsus; at Synnada, Theodorus by Atticus, our blessed brothers. It is likely that this happens in other places too without our knowing it.' ... [19] But Demetrius called him back again by letter, and through men who were deacons of the church he pressed him to return to Alexandria. He came back and carried on with his usual work.",
+      "english_source": "Own close translation. Standard English: A. C. McGiffert, NPNF second series vol. 1 (1890), and J. E. L. Oulton, Loeb (1932).",
+      "textual_notes": "(1) After ὑπεξελθὼν τῆς Ἀλεξανδρείας Dindorf's text adds καὶ μηδὲ τὰς κατ’ Αἴγυπτον διατριβὰς ἀσφαλεῖς ἑαυτῷ ἡγούμενος ('and thinking it unsafe for him to stay in Egypt'), which McGiffert translates; the Loeb file does not have it. Whether Schwartz prints it in his apparatus was not checked. (2) Loeb περὶ τοῦ Δημητρίου γράφοντες ('writing about Demetrius') against Dindorf περὶ τούτου Δημητρίῳ γράφοντες ('writing to Demetrius about this'). McGiffert has 'wrote to Demetrius'. The quoted letter speaks of Demetrius in the third person ('he added to his letter'), which fits the Loeb reading better; on that reading the bishops' letter may have gone to a third party. (3) Συνάδοις (Loeb file) against Συννάδοις (Dindorf). (4) λαϊκοὺς ὁμιλεῖν: ὁμιλεῖν here means to preach or give a homily.",
+      "why_it_matters": "It is the earliest document in the dispute, and it is genuine correspondence, not narrative. It shows Demetrius objecting, years before the ordination, to Origen teaching publicly in another bishop's church. Readers who see the censure as a contest over a bishop's authority start from this letter.",
+      "readings": [
+        {
+          "scholar": "Alexander of Jerusalem and Theoctistus of Caesarea (ancient, quoted by Eusebius)",
+          "work": "Their letter, in Eusebius, Church History 6.19.17-18",
+          "position": "Demetrius's claim that laymen never preach before bishops is 'plainly untrue'. They cite three precedents in Asia Minor and assume there are others.",
+          "side": "the Palestinian bishops: lay preaching at a bishop's invitation is normal practice",
+          "status": "V",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc1.xml"
+        },
+        {
+          "scholar": "Demetrius of Alexandria (ancient, as reported in the same letter)",
+          "work": "His letter, known only from the Palestinian bishops' paraphrase in Church History 6.19.17",
+          "position": "It is unheard of, and does not happen now, for laymen to preach when bishops are present. He then recalls Origen by letter and by deacons.",
+          "side": "the Alexandrian bishop: preaching by a layman before bishops is out of order",
+          "status": "V",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc1.xml"
+        },
+        {
+          "scholar": "Robert J. Daly (as reported by Aidan Kimel)",
+          "work": "'Origen: Man of the Church and Focus of Controversy', Proceedings of the Catholic Theological Society of America 40 (1985), pp. 107-113, cited in Kimel 2024, note 1",
+          "position": "On Kimel's report, Daly argues that the real reason for Demetrius's expulsion of Origen 'lies in the conflict between' monoepiscopal authority and a charismatic, independent authority.",
+          "side": "reads the dispute as a structural conflict between a bishop's authority and a teacher's",
+          "status": "S",
+          "source_url": "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/"
+        },
+        {
+          "scholar": "Alistair Stewart-Sykes (as summarised by Aidan Kimel)",
+          "work": "'Origen, Demetrius, and the Alexandrian Presbyters', St Vladimir's Theological Quarterly 48 (2004), pp. 415-429, cited in Kimel 2024, note 1",
+          "position": "On Kimel's summary, Stewart-Sykes holds that the rise of a single ruling bishop at Alexandria made Origen's ordination to the presbyterate intolerable to Demetrius. Kimel gives no quotation from the article, and the article was not read.",
+          "side": "reads the dispute as a structural conflict over church office",
+          "status": "R",
+          "source_url": "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/"
+        },
+        {
+          "scholar": "Eusebius of Caesarea (ancient)",
+          "work": "Church History 6.19.18-19",
+          "position": "He uses the letter to show that Origen was honoured even as a young man 'not only by his own people but also by bishops abroad', and he reports Demetrius's recall of Origen without comment.",
+          "side": "reads the episode as evidence of Origen's standing, not of conflict",
+          "status": "V",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc1.xml"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc1.xml",
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc2.xml",
+        "https://www.newadvent.org/fathers/250106.htm"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "eusebius-he-6-23-4",
+      "title": "Eusebius: the ordination at Caesarea on the way to Greece, and the decisions he will not narrate",
+      "author_work_ref": "Eusebius of Caesarea, Church History 6.23.3-4",
+      "date": "Events under Pontianus of Rome (from 230) and Zebennus of Antioch, so c. 230-231; Eusebius writing in the early fourth century",
+      "language": "Greek",
+      "original": "[6.23.4] καθ’ οὓς Ὠριγένης, ἐπειγούσης χρείας ἐκκλησιαστικῶν ἕνεκα πραγμάτων ἐπὶ τὴν Ἑλλάδα στειλάμενος τὴν διὰ Παλαιστίνης, πρεσβείου χειροθεσίαν ἐν Καισαρείᾳ πρὸς τῶν τῇδε ἐπισκόπων ἀναλαμβάνει. τὰ μὲν οὖν ἐπὶ τούτῳ περὶ αὐτοῦ κεκινημένα τά τε ἐπὶ τοῖς κινηθεῖσι δεδογμένα τοῖς τῶν ἐκκλησιῶν προεστῶσιν ὅσα τε ἄλλα ἀκμάζων περὶ τὸν θεῖον εἰσενήνεκται λόγον, ἰδίας δεόμενα συντάξεως, μετρίως ἐν τῷ δευτέρῳ ἧς ὑπὲρ αὐτοῦ πεποιήμεθα ἀπολογίας ἀνεγράψαμεν.",
+      "edition": "E. Schwartz, GCS 9.2 (1908), Book 6 ch. 23; page not confirmed. Loeb (Oulton, 1932) vol. 2, Greek on p. 70 as marked in the digital file (printed page not seen).",
+      "checked_against": "First1KGreek transcription of the Loeb Greek (tlg2018.tlg002.1st1K-grc1), compared word by word with Dindorf's text (tlg2018.tlg002.1st1K-grc2, vol. 4, p. 268). The Loeb file confuses σ and α here; corrected: ατειλάμενος to στειλάμενος, χειροθεαίαν to χειροθεσίαν, ἀκμάξων to ἀκμάζων, εἰαενήνεκτα to εἰσενήνεκται. Each correction agrees with Dindorf.",
+      "english": "In their time Origen, travelling to Greece by way of Palestine because of a pressing need in church affairs, received at Caesarea from the bishops there the laying-on of hands for the presbyterate. What was stirred up about him on this account, what was decided about the dispute by those who preside over the churches, and everything else he contributed to the study of the divine word in his prime, need a treatise of their own. We have written about them, within limits, in the second book of the Apology we composed on his behalf.",
+      "english_source": "Own close translation. Standard English: A. C. McGiffert, NPNF second series vol. 1 (1890), which has 'was ordained as presbyter in Caesarea by the bishops of that country' and 'the second book of the Defense which we have composed in his behalf'; J. E. L. Oulton, Loeb (1932).",
+      "textual_notes": "(1) πρεσβείου χειροθεσίαν (Loeb file) against πρεσβυτερίου χειροθεσίαν (Dindorf). The sense is the same, ordination to the presbyterate. (2) Ζέβεννος (Loeb file) against Ζεβῖνος (Dindorf) for the bishop of Antioch at 6.23.3. (3) τὴν διὰ Παλαιστίνης: 'by the road through Palestine' (ὁδόν understood). Photius (codex 118) gives the destination as Athens. (4) τὰ ... δεδογμένα τοῖς τῶν ἐκκλησιῶν προεστῶσιν, 'the decisions of those who preside over the churches', is plural and general. Eusebius names no synod, no place and no charge. (5) The second book of the Apology is lost. Only Book 1 survives, in Rufinus's Latin, so for its contents we depend on Photius, codex 118.",
+      "why_it_matters": "This is Eusebius's own dated account of the ordination, and his only reference to formal decisions against Origen. He deliberately sends the reader elsewhere, to a book now lost. That gap is the main reason the grounds of the censure are still disputed.",
+      "readings": [
+        {
+          "scholar": "Eusebius of Caesarea (ancient)",
+          "work": "Church History 6.23.4",
+          "position": "He records the ordination as a normal act of the Palestinian bishops during a journey on church business, and leaves the controversy and the decisions to the Apology.",
+          "side": "treats the ordination as legitimate and passes over the censure",
+          "status": "V",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc1.xml"
+        },
+        {
+          "scholar": "Arthur Cushman McGiffert",
+          "work": "NPNF second series vol. 1 (1890), supplementary Note 18, 'Origen's Visit to Achaia' (on HE 6.23.4)",
+          "position": "Origen went to Achaia with Demetrius's approval, and it was the synod that changed 'his temporary absence ... into permanent exile'. He dates 'Origen's final departure from Alexandria ... in the tenth year of Alexander's reign (231 a.d.)'. He notes that Jerome and Photius give different reasons for the journey.",
+          "side": "reads the journey as authorised and the exile as the synod's doing",
+          "status": "S",
+          "source_url": "https://st-takla.org/books/en/ecf/201/2010325.html"
+        },
+        {
+          "scholar": "R. A. Lipsius (as reported by McGiffert)",
+          "work": "Chronologie der römischen Bischöfe (1869), p. 195 note, cited in NPNF second series vol. 1, Note 18",
+          "position": "Pontianus did not become bishop of Rome until 230, so the journey cannot be earlier. 'We do not know whether Origen ever returned to Alexandria after his ordination.'",
+          "side": "leaves open whether Origen returned to Alexandria after the ordination",
+          "status": "S",
+          "source_url": "https://st-takla.org/books/en/ecf/201/2010325.html"
+        },
+        {
+          "scholar": "Ferdinand Prat",
+          "work": "'Origen and Origenism', Catholic Encyclopedia vol. 11 (1911)",
+          "position": "Demetrius was offended by an ordination 'which had taken place without his knowledge and, as he thought, in derogation of his rights'.",
+          "side": "reads the offence as one against the bishop's rights (a matter of church order)",
+          "status": "S",
+          "source_url": "https://www.newadvent.org/cathen/11306b.htm"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc1.xml",
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc2.xml",
+        "https://www.newadvent.org/fathers/250106.htm"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "eusebius-he-6-26",
+      "title": "Eusebius: the move to Caesarea in Alexander Severus's tenth year, and the death of Demetrius",
+      "author_work_ref": "Eusebius of Caesarea, Church History 6.26",
+      "date": "The tenth year of Severus Alexander, who became emperor in March 222, so 231/232 (my calculation); Eusebius writing in the early fourth century",
+      "language": "Greek",
+      "original": "ἔτος δ’ ἦν τοῦτο δέκατον τῆς δηλουμένης ἡγεμονίας, καθ’ ὃ τὴν ἀπ’ Ἀλεξανδρείας μετανάστασιν ἐπὶ τὴν Καισάρειαν ὁ Ὠριγένης ποιησάμενος, Ἡρακλᾷ τὸ τῆς κατηχήσεως τῶν αὐτόθι διδασκαλεῖον καταλείπει· οὐκ εἰς μακρὸν δὲ καὶ Δημήτριος ὁ τῆς Ἀλεξανδρέων ἐκκλησίας ἐπίσκοπος τελευτᾷ, ἐφ’ ὅλοις ἔτεσι τρισὶ καὶ τεσσαράκοντα τῇ λειτουργίᾳ διαρκέσας· διαδέχεται δ’ αὐτὸν ὁ Ἡρακλᾶς.",
+      "edition": "E. Schwartz, GCS 9.2 (1908), Book 6 ch. 26; page not confirmed. Loeb (Oulton, 1932) vol. 2 (page not confirmed).",
+      "checked_against": "First1KGreek transcription of the Loeb Greek (tlg2018.tlg002.1st1K-grc1), compared with Dindorf's text (tlg2018.tlg002.1st1K-grc2). Corrected from the Loeb file: ἢν to ἦν, καισάρειαν to Καισάρειαν, and a doubled 'καὶ Δὴ Δημήτριος' reduced to καὶ Δημήτριος, as in Dindorf.",
+      "english": "This was the tenth year of the reign in question, the year in which Origen moved from Alexandria to Caesarea and left the catechetical school there to Heraclas. Not long afterwards Demetrius, bishop of the church of the Alexandrians, also died, after holding the office for forty-three full years, and Heraclas succeeded him.",
+      "english_source": "Own close translation. Standard English: A. C. McGiffert, NPNF second series vol. 1 (1890); J. E. L. Oulton, Loeb (1932).",
+      "textual_notes": "μετανάστασις means 'change of residence, removal'. It is a neutral word, and Eusebius does not say Origen was expelled. Photius (codex 118), reporting Pamphilus, uses Φυγαδευθέντα ('driven out, exiled'). 'The reign in question' is that of Alexander Severus, named at 6.21. The two texts agree here.",
+      "why_it_matters": "This is the only firm date for the break. It also places Demetrius's death soon after the move, which limits how long any campaign by Demetrius could have run and leaves Heraclas, Origen's former assistant, as the next bishop.",
+      "readings": [
+        {
+          "scholar": "Eusebius of Caesarea (ancient)",
+          "work": "Church History 6.26",
+          "position": "He tells the move as a change of residence with a handover of the school, and says nothing here of expulsion or deposition.",
+          "side": "presents the departure as a removal, not an exile",
+          "status": "V",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc1.xml"
+        },
+        {
+          "scholar": "Pamphilus, as summarised by Photius (ancient)",
+          "work": "Apology for Origen, Book 2 (lost), in Photius, Bibliotheca codex 118 (PG 103, 397B-C)",
+          "position": "Origen was 'banished from Alexandria' (Φυγαδευθέντα δὲ τῆς Ἀλεξανδρείας) and taken in by the bishop of Caesarea, who gave him full authority to teach.",
+          "side": "presents the departure as an exile imposed by Alexandria",
+          "status": "V",
+          "source_url": "https://github.com/OGL-PatrologiaGraecaDev/Vol.-103/blob/ec1a37dbfcff324e0799029c7082aca4e366eea7/nnc1.0046979689_ocr/206.txt"
+        },
+        {
+          "scholar": "Arthur Cushman McGiffert",
+          "work": "NPNF second series vol. 1 (1890), Note 18 (on HE 6.23.4)",
+          "position": "He dates the final departure to 231. The synod 'must have been called very soon after' the ordination, and Demetrius 'died the following year', 'not later than 232'.",
+          "side": "dates the break to 231",
+          "status": "S",
+          "source_url": "https://st-takla.org/books/en/ecf/201/2010325.html"
+        },
+        {
+          "scholar": "Pierre Nautin (as summarised by Robert J. Daly)",
+          "work": "Origène (1977), as reviewed in Theological Studies 39 (1978), pp. 508-509",
+          "position": "Daly writes that 'the tensions which precipitated his final departure from Alexandria in 232 seem to have been caused largely by conservative reactions' to Origen's spiritual reading of creation and resurrection. He then sets out Nautin's view that On First Principles (229-230) was written to meet those objections. Daly does not make it fully clear whether the first sentence is his own or Nautin's; the sentence that follows begins 'As N. reconstructs it'.",
+          "side": "dates the departure to 232 and gives doctrinal tension a leading role",
+          "status": "S",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/08/39.3.5.pdf"
+        },
+        {
+          "scholar": "John A. McGuckin (as reported by Wikipedia)",
+          "work": "The Westminster Handbook to Origen (2004), p. 14, as cited in the English Wikipedia article 'Origen'; not read",
+          "position": "Reported as holding that Origen 'had probably already been planning to stay in Caesarea', so the condemnations were not what made him settle there.",
+          "side": "reads the move as planned rather than forced",
+          "status": "R",
+          "source_url": "https://en.wikipedia.org/wiki/Origen"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc1.xml",
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc2.xml"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "photius-bibliotheca-118",
+      "title": "Photius, reporting Pamphilus: a synod banishes Origen, then Demetrius deposes him",
+      "author_work_ref": "Photius, Bibliotheca (Myriobiblon), codex 118, summarising Pamphilus and Eusebius, Apology for Origen",
+      "date": "Photius writing in the mid-ninth century; his source, Pamphilus's Apology, written c. 307-310",
+      "language": "Greek",
+      "original": "Τὰς δὲ κατὰ Ὠριγένους κινήσεις ἐκεῖθεν λέγουσιν ἐκρυῆναι· Δημήτριος Ἀλεξανδρείας ἐπεσκόπει, ὃς Ὠριγένην δι’ ἐπαίνων εἶχε καὶ ἐς τοὺς φιλτάτους συνέταττεν. Ἀλλ’ Ὠριγένης μέλλων ἀπαίρειν εἰς Ἀθήνας, χωρὶς τῆς τοῦ οἰκείου γνώμης ἐπισκόπου, εἰς πρεσβύτερον οὐ δέον ἀναβιβάζεται. Θεότεκνος δ’ ἦν ὁ κατὰ Καισάρειαν τὴν ἐν Παλαιστίνῃ τὸν ἀρχιερατικὸν χειρίζων νόμον ὁ τῆς Ὠριγένους αὐτουργὸς χειροτονίας, ἔχων συνευδοκοῦντα καὶ τὸν Ἱεροσολύμων Ἀλέξανδρον. Τρέπεται διὰ τοῦτο Δημητρίῳ εἰς μῖσος τὸ φίλτρον καὶ οἱ ἔπαινοι πρὸς τοὺς ψόγους, καὶ σύνοδος ἀθροίζεται κατὰ Ὠριγένους ἐπισκόπων καί τινων πρεσβυτέρων. Ἡ δέ, ὡς ὁ Πάμφιλός φησι, ψηφίζεται μεταστῆναι μὲν ἀπὸ Ἀλεξανδρείας τὸν Ὠριγένην, καὶ μήτε διατρίβειν ἐν αὐτῇ μήτε διδάσκειν, τῆς μέντοι τοῦ πρεσβυτερίου τιμῆς οὐδαμῶς ἀποκεκινῆσθαι. Ἀλλ’ ὅ γε Δημήτριος ἅμα τισὶν ἐπισκόποις Αἰγυπτίοις καὶ τῆς ἱερωσύνης ἀπεκήρυξε, συνυπογραψάντων καὶ τῇ ἀποφάσει τῶν συμψήφων αὐτῷ γεγενημένων. Φυγαδευθέντα δὲ τῆς Ἀλεξανδρείας τὸν Ὠριγένην Θεότεκνος ὁ Παλαιστίνης ἀσμένως τε διάγειν ἐν Καισαρείᾳ ὑπεδέξατο, καὶ τοῦ διδάσκειν πᾶσαν ἐξουσίαν ἐνεχείρισε. Καὶ τὰς μὲν αἰτίας, ἐξ ὧν συνέβη τὰς διαβολὰς ἐκραγῆναι τῷ Ὠριγένει, ταύτας φησίν.",
+      "edition": "I. Bekker, Photii Bibliotheca (Berlin, 1824-25), the text reprinted in Migne, Patrologia Graeca 103 (Paris, 1860), cols. 397B-C (Greek), with Andreas Schott's Latin version in col. 398 and Bekker's variant readings below. The modern critical edition, R. Henry, Photius: Bibliothèque, vol. 2 (Budé, 1960), was not seen; its page is not confirmed.",
+      "checked_against": "Three OCR transcriptions of different scanned copies of PG 103 from the Open Greek and Latin Patrologia Graeca project (Columbia nnc1.0046979689, page 206; Cornell coo.31924054870070, page 212; Michigan mdp.39015061933738, page 208). Section letters B and C are visible in the Columbia OCR. The text above is a collation of the three OCRs: Bekker's superscript note numbers are removed, accents and breathings are normalised where the OCR garbled them, and obvious slips are fixed (ἐκρυῆναιο to ἐκρυῆναι·, ἀποκεκινῆσοαι to ἀποκεκινῆσθαι, πρεσὸυτερίου to πρεσβυτερίου, συμῴἠφων to συμψήφων, and '6' to ὁ throughout).",
+      "english": "They say the agitation against Origen broke out from this. Demetrius was bishop of Alexandria; he held Origen in high regard and counted him among his dearest friends. But when Origen was about to set out for Athens, he was improperly raised to the presbyterate without the consent of his own bishop. The man who performed Origen's ordination with his own hands was Theotecnus, who held the high-priestly office at Caesarea in Palestine, with Alexander of Jerusalem also consenting. For this reason Demetrius's affection turned to hatred and his praise to blame, and a synod of bishops and some presbyters was gathered against Origen. This synod, as Pamphilus says, voted that Origen should leave Alexandria and neither live nor teach there, but that he should in no way be removed from the honour of the presbyterate. Demetrius, however, together with some Egyptian bishops, also stripped him of the priesthood, and those who had voted with him [in the synod] also signed the sentence. Theotecnus of Palestine gladly received Origen, banished from Alexandria, to live at Caesarea, and handed him full authority to teach. These, he says, are the causes from which the accusations against Origen broke out.",
+      "english_source": "Own close translation. The standard English is J. H. Freese, The Library of Photius, vol. 1 (SPCK, 1920), which was not reached; the Latin of Andreas Schott printed beside the Greek in PG 103 col. 398 was read and agrees in substance.",
+      "textual_notes": "(1) Bekker's notes, as printed in PG: μέλλων is added from his manuscript A; after δέον he omitted ὂν 'with A'; the older printed edition (ς) put κατὰ Ὠριγένους after πρεσβυτέρων. (2) Photius calls the bishop of Caesarea Θεότεκνος (Theotecnus). Eusebius (6.19.17) and Jerome call him Theoctistus; the PG editor's note 87 records that Jerome (De viris illustribus 54) and Eusebius use the latter name. (3) Photius names Athens; Eusebius says only 'Greece' (6.23.4). (4) The ground given is ordination 'without the consent of his own bishop', and 'improperly' (οὐ δέον). Castration and doctrine are not mentioned. (5) The second act is described as Demetrius acting 'together with some Egyptian bishops', not explicitly as a second synod; 'two synods' (Prat, Crombie, McGiffert) is a fair summary but an interpretation. (6) In the same codex, a little earlier, Photius lists fifteen charges against Origen that the Apology rebuts. Photius does not link them to the synods of Demetrius.",
+      "why_it_matters": "It is the only surviving account of what the Alexandrian decisions actually were. It distinguishes a sentence of banishment that kept his priestly rank from a later deposition, and its stated ground is canonical. It reaches us at second hand, from a ninth-century reader summarising Origen's defenders.",
+      "readings": [
+        {
+          "scholar": "Pamphilus, as reported by Photius (ancient)",
+          "work": "Apology for Origen, Book 2 (lost), summarised in Bibliotheca codex 118",
+          "position": "The trouble began with an ordination done without Origen's own bishop's consent. A synod of bishops and presbyters ordered him to leave Alexandria but kept his priestly honour; Demetrius and some Egyptian bishops then deposed him, and the earlier voters signed.",
+          "side": "two-stage censure on a canonical ground",
+          "status": "V",
+          "source_url": "https://github.com/OGL-PatrologiaGraecaDev/Vol.-103/blob/ec1a37dbfcff324e0799029c7082aca4e366eea7/nnc1.0046979689_ocr/206.txt"
+        },
+        {
+          "scholar": "Ferdinand Prat",
+          "work": "'Origen and Origenism', Catholic Encyclopedia vol. 11 (1911)",
+          "position": "Following Photius: 'two councils were held at Alexandria, one of which pronounced a decree of banishment against Origen', while the other deposed him from the priesthood.",
+          "side": "takes Photius's two-stage account at face value",
+          "status": "S",
+          "source_url": "https://www.newadvent.org/cathen/11306b.htm"
+        },
+        {
+          "scholar": "Frederick Crombie",
+          "work": "Introductory notice to Origen, ANF vol. 4 (1885), Elpenor transcription, page 8",
+          "position": "The lost Apology survives only in 'a brief notice of it in the Bibliotheca of Photius', 'from which we derive our knowledge of the proceedings of the two synods'. Demetrius's charges are known 'from the notices of the two synods which have been preserved by Rufinus and Photius'.",
+          "side": "treats Photius as the basic source for the synods",
+          "status": "S",
+          "source_url": "https://www.ellopos.net/elpenor/greek-texts/fathers/origen/introduction.asp?pg=8"
+        },
+        {
+          "scholar": "Henri Crouzel (as quoted by Aidan Kimel)",
+          "work": "Origen (1989), p. 23 n. 7, quoted in Kimel 2024; page not confirmed",
+          "position": "The main reason was 'certainly, if we are to believe Eusebius and Photius, the ordination he received from a bishop other than his own'.",
+          "side": "reads Photius as confirming that the main cause was canonical",
+          "status": "S",
+          "source_url": "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/"
+        },
+        {
+          "scholar": "Arthur Cushman McGiffert",
+          "work": "NPNF second series vol. 1 (1890), Notes 16 and 18",
+          "position": "He speaks of 'the Alexandrian synods' and holds that their sentence rested on irregular ordination 'and his heterodoxy'. For the second ground he cites only later documents, since Photius names none.",
+          "side": "adds a doctrinal ground that Photius does not state",
+          "status": "S",
+          "source_url": "https://st-takla.org/books/en/ecf/201/2010323.html"
+        }
+      ],
+      "source_urls": [
+        "https://github.com/OGL-PatrologiaGraecaDev/Vol.-103/blob/ec1a37dbfcff324e0799029c7082aca4e366eea7/nnc1.0046979689_ocr/206.txt",
+        "https://github.com/OGL-PatrologiaGraecaDev/Vol.-103/blob/ec1a37dbfcff324e0799029c7082aca4e366eea7/coo.31924054870070_ocr/212.txt",
+        "https://github.com/OGL-PatrologiaGraecaDev/Vol.-103/blob/ec1a37dbfcff324e0799029c7082aca4e366eea7/mdp.39015061933738_ocr/208.txt"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "jerome-letter-33-5",
+      "title": "Jerome to Paula (384): Origen condemned by Demetrius and by Rome, but not for doctrine",
+      "author_work_ref": "Jerome, Letter 33 (to Paula), 5 (section 4 in the NPNF numbering)",
+      "date": "c. 384, at Rome",
+      "language": "Latin",
+      "original": "Videtisne et Graecos pariter et Latinos unius labore superatos? quis enim umquam tanta legere potuit, quanta ipse conscripsit? pro hoc sudore quid accepit praemii? damnatur a Demetrio episcopo; exceptis Palaestinae et Arabiae et Phoenices atque Achaiae sacerdotibus in damnationem eius consentit orbis; Roma ipsa contra hunc cogit senatum non propter dogmatum nouitatem, non propter heresim, ut nunc aduersum eum rabidi canes simulant, sed quia gloriam eloquentiae eius et scientiae ferre non poterant et illo dicente omnes muti putabantur.",
+      "edition": "I. Hilberg, Sancti Eusebii Hieronymi Epistulae, pars I, CSEL 54 (Vienna, 1910), Letter 33.5, p. 259, lines 3-12.",
+      "checked_against": "The csel-dev EpiDoc transcription of Hilberg's CSEL 54, which keeps his page breaks and apparatus (stoa0162.stoa004.opp-lat1). The text above is copied unchanged.",
+      "english": "Do you see how Greeks and Latins alike are outdone by the labour of one man? Who has ever been able to read as much as he wrote? And what reward did he get for all this sweat? He is condemned by bishop Demetrius. Except for the bishops of Palestine, Arabia, Phoenicia and Achaia, the whole world agrees to his condemnation. Rome herself convenes her senate against him. This was not because of new doctrines or because of heresy, as rabid dogs now pretend in attacking him. It was because they could not bear the glory of his eloquence and his learning, and when he spoke everyone else seemed dumb.",
+      "english_source": "Own close translation. The standard public-domain English is NPNF second series vol. 6 (1893, W. H. Fremantle with G. Lewis and W. G. Martley), which numbers this as section 4 and renders 'Imperial Rome consents to his condemnation, and even convenes a senate to censure him'.",
+      "textual_notes": "(1) orbis ('the world') is Hilberg's conjecture: his apparatus reads 'orbis scripsi urbs codd.', so every manuscript has urbs ('the city'). Manuscript S has romana for Roma, which gives 'urbs Romana', apparently the text behind NPNF's 'Imperial Rome consents'. On the manuscript reading, the consent is Rome's alone; on Hilberg's, it is the world's, with Rome added. (2) Phoenices is also Hilberg's spelling ('Phoenices scripsi'). (3) sacerdotes here means bishops. (4) senatum is figurative, probably the Roman clergy meeting in council; Jerome does not name a bishop of Rome. (5) The 'rabid dogs' are Jerome's contemporaries in the 380s, not the judges of 231.",
+      "why_it_matters": "It is the earliest Latin witness to the censure, and the only one to say that Rome and most of the churches agreed with it. It also expressly denies that doctrine was the ground. Jerome wrote it while he still admired Origen, and he took a different line after 393.",
+      "readings": [
+        {
+          "scholar": "Jerome (ancient, 384)",
+          "work": "Letter 33.5",
+          "position": "Origen was condemned out of envy of his eloquence and learning, not for novel doctrine or heresy. Only Palestine, Arabia, Phoenicia and Achaia stood aside.",
+          "side": "denies a doctrinal ground; reads the censure as envy",
+          "status": "V",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0162/stoa004/stoa0162.stoa004.opp-lat1.xml"
+        },
+        {
+          "scholar": "Ferdinand Prat",
+          "work": "'Origen and Origenism', Catholic Encyclopedia vol. 11 (1911)",
+          "position": "'St. Jerome declares expressly that he was not condemned on a point of doctrine.'",
+          "side": "accepts Jerome's denial of a doctrinal ground",
+          "status": "S",
+          "source_url": "https://www.newadvent.org/cathen/11306b.htm"
+        },
+        {
+          "scholar": "Arthur Cushman McGiffert",
+          "work": "NPNF second series vol. 1 (1890), Note 16",
+          "position": "He holds that the synods' grounds were irregular ordination 'and his heterodoxy'. For the second he cites, among others, Jerome's later letter to Pammachius and Oceanus (Letter 84) and an Egyptian synodal letter in Mansi, so he relies on the later Jerome rather than this letter.",
+          "side": "reads the censure as partly doctrinal, using later witnesses",
+          "status": "S",
+          "source_url": "https://st-takla.org/books/en/ecf/201/2010323.html"
+        },
+        {
+          "scholar": "Aidan F. Kimel",
+          "work": "'An Open Letter to Dr Cyril Jenkins: Was Origen Condemned for Teaching Universal Salvation?', Eclectic Orthodoxy blog, 20 Aug 2024",
+          "position": "On whether Demetrius accused Origen of heterodoxy in his circular letter: 'Historians think it likely, but the lack of textual evidence does not permit a firm conclusion.' He rejects the claim, made in a video by Cyril Jenkins, that Demetrius censured Origen for saying the devil would be redeemed.",
+          "side": "leaves a doctrinal charge possible but unproven",
+          "status": "S",
+          "source_url": "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/"
+        },
+        {
+          "scholar": "Jerome (ancient, 398/399)",
+          "work": "Letter 84 (to Pammachius and Oceanus) 10.2, CSEL 55, pp. 132-133",
+          "position": "Writing when he had turned against Origen, Jerome says that Origen, in a letter to Fabian of Rome, repented of having written 'such things' and blamed Ambrose for publishing what had been written privately. (Whether Letter 84 says anything else about the censure of 231 was not checked.)",
+          "side": "the later Jerome: Origen's own letters admit error",
+          "status": "V",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0162/stoa004/stoa0162.stoa004.opp-lat1.xml"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0162/stoa004/stoa0162.stoa004.opp-lat1.xml",
+        "https://www.newadvent.org/fathers/3001033.htm"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "origen-commentary-john-6-2-8-9",
+      "title": "Origen's own account: the storm at Alexandria and his deliverance 'out of Egypt'",
+      "author_work_ref": "Origen, Commentary on the Gospel of John, Book 6, preface, 6.2.8-9 (ch. 1 in ANF)",
+      "date": "c. 231-233, after the move to Caesarea (not dated in the text)",
+      "language": "Greek",
+      "original": "[6.2.8] καὶ μέχρι γε τοῦ πέμπτου τόμου, εἰ καὶ ὁ κατὰ τὴν Ἀλεξανδρείαν χειμὼν ἀντιπράττειν ἐδόκει, τὰ διδόμενα ὑπηγορεύσαμεν, ἐπιτιμῶντος τοῖς ἀνέμοις καὶ τοῖς κύμασι τῆς θαλάσσης τοῦ Ἰησοῦ· καὶ ἕκτου δὲ ἐπὶ ποσὸν προεληλυθότες ἐξειλκύσθημεν ἀπὸ γῆς Αἰγύπτου, ῥυσαμένου ἡμᾶς τοῦ θεοῦ τοῦ ἐξαγαγόντος τὸν λαὸν αὐτοῦ ἀπ’ αὐτῆς. [6.2.9] ἔπειτα τοῦ ἐχθροῦ πικρότατα ἡμῶν καταστρατευσαμένου διὰ τῶν καινῶν αὐτοῦ γραμμάτων τῶν ἀληθῶς ἐχθρῶν τῷ εὐαγγελίῳ καὶ πάντας τοὺς ἐν Αἰγύπτῳ ἀνέμους τῆς πονηρίας καθ’ ἡμῶν ἐγείραντος, στῆναι μᾶλλόν με πρὸς τὸν ἀγῶνα παρεκάλει ὁ λόγος καὶ τηρῆσαι τὸ ἡγεμονικόν, μήποτε μοχθηροὶ λογισμοὶ ἐξισχύσωσι τὸν χειμῶνα καὶ τῇ ψυχῇ μου ἐπεισαγαγεῖν, ἤπερ ἀκαίρως, πρὶν γαλήνην τὴν διάνοιαν λαβεῖν, συνάπτειν τὰ ἑξῆς τῆς γραφῆς· καὶ οἱ συνήθεις δὲ ταχυγράφοι μὴ παρόντες τοῦ ἔχεσθαι τῶν ὑπαγορεύσεων ἐκώλυον.",
+      "edition": "E. Preuschen, Origenes Werke IV: Der Johanneskommentar, GCS 10 (Leipzig: Hinrichs, 1903), p. 107 line c. 24 to p. 108 line c. 6 (line numbers estimated from the line markers in the transcription).",
+      "checked_against": "First1KGreek EpiDoc transcription of Preuschen's GCS 10, with his apparatus (tlg2042.tlg005.1st1K-grc1). OCR slips corrected: ἐκόκει to ἐδόκει, ἠμᾶς to ἡμᾶς, διάνιαν to διάνοιαν; a stray '1' before ἔχεσθαι (a line-number artefact) removed.",
+      "english": "[8] Up to the fifth tome we went on dictating what was given us, even though the storm at Alexandria seemed to work against us, for Jesus rebuked the winds and the waves of the sea. And when we had gone some way into the sixth, we were dragged out of the land of Egypt, rescued by the God who led his people out of it. [9] Then the enemy waged a most bitter campaign against us through his new writings, which are truly hostile to the gospel, and raised against us all the winds of wickedness in Egypt. Reason urged me rather to stand firm for the contest and to keep watch over my ruling faculty, in case wicked thoughts should manage to bring the storm into my soul as well. That seemed better than joining on the next part of scripture out of season, before my mind had found calm. Besides, my usual shorthand writers were not there, and that kept me from going on with the dictation.",
+      "english_source": "Own close translation. The standard public-domain English is ANF vol. 9 (1896), edited by Allan Menzies (the translator is not named on the New Advent page consulted): 'We emerged from the storm, we were brought out of Egypt'; 'when the enemy assailed us with all bitterness by his new writings, so directly hostile to the Gospel'. The modern English is R. E. Heine, Fathers of the Church 80 (1989), not seen.",
+      "textual_notes": "(1) ἕκτου δὲ ἐπὶ ποσὸν ('having gone some way into the sixth') is an emendation. Preuschen's apparatus gives the manuscript reading as ἐκ τοῦ δε ἔπι πεσὸν, 'corr. Br' (A. E. Brooke). The statement that Book 6 was begun in Alexandria rests on that correction. (2) γῆς is the reading of M (the main manuscript); V and earlier editions have τῆς. (3) ἐξειλκύσθημεν means 'we were dragged/drawn out'. It is passive and forceful, and ANF's 'we emerged' softens it. (4) 'The enemy' (ὁ ἐχθρός) is the usual name for the devil, but the 'new writings ... hostile to the gospel' and the 'winds ... in Egypt' point to a human campaign in letters; Origen does not name Demetrius. (5) καινῶν γραμμάτων can mean 'new letters' (epistles) as well as 'new writings'.",
+      "why_it_matters": "It is the only first-person statement by Origen that certainly refers to the break, written soon after it. It describes a campaign in writing against him in Egypt, which matches Eusebius's report of Demetrius's circular letters. It names no charge and no person.",
+      "readings": [
+        {
+          "scholar": "Arthur Cushman McGiffert",
+          "work": "NPNF second series vol. 1 (1890), Note 18 (on HE 6.23.4)",
+          "position": "Origen 'speaks of the troubles and trials which he had been enduring in Alexandria before he finally left the city'. He had begun Book 6 in Alexandria and 'therefore began it anew in Palestine'. McGiffert argues that these troubles may belong to the period before the journey to Achaia, not to a later return.",
+          "side": "reads the preface as evidence for the chronology: conflict before the final departure",
+          "status": "S",
+          "source_url": "https://st-takla.org/books/en/ecf/201/2010325.html"
+        },
+        {
+          "scholar": "John A. McGuckin (as reported by Wikipedia)",
+          "work": "The Westminster Handbook to Origen (2004), p. 16, as cited in the English Wikipedia article 'Origen'; not read",
+          "position": "Reported as saying that in Book 6 Origen compares himself to 'an Israelite who has escaped the perverse persecution of the Egyptians', and that Origen composed 'at least books six through ten' at Caesarea.",
+          "side": "reads the preface as Origen's own picture of persecution and escape",
+          "status": "R",
+          "source_url": "https://en.wikipedia.org/wiki/Origen"
+        },
+        {
+          "scholar": "ANF translator (ANF vol. 9, 1896, ed. Allan Menzies)",
+          "work": "Commentary on John, Book 6, ch. 1, as on New Advent",
+          "position": "The translator renders the passage as 'We emerged from the storm, we were brought out of Egypt'. That presents the departure as an escape, where the Greek says Origen was 'dragged out'.",
+          "side": "a translator's softening that makes the departure an escape",
+          "status": "S",
+          "source_url": "https://newadvent.org/fathers/101506.htm"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2042/tlg005/tlg2042.tlg005.1st1K-grc1.xml",
+        "https://newadvent.org/fathers/101506.htm"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "rufinus-de-adulteratione-letter",
+      "title": "Origen's Letter to Friends in Alexandria, in Rufinus's Latin: 'not even a madman would say the devil is to be saved'",
+      "author_work_ref": "Rufinus of Aquileia, On the Falsification of the Books of Origen (De adulteratione librorum Origenis), the section quoting Origen's letter (numbered 7 in the task and 6 in some modern citations; PG prints no numbers)",
+      "date": "Rufinus wrote in 397; the letter itself is undated but follows Origen's excommunication, so after c. 231",
+      "language": "Latin",
+      "original": "[Rufinus:] Quid enim ipse dum adhuc esset in carne vivens, sentiens vidensque perpessus sit de librorum suorum, vel sermonum corruptionibus, vel adulterinis editionibus, ex ipsius epistola, quam scribit ad quosdam charos suos Alexandriam, evidenter docetur ... [Heading:] De adulteratione vel corruptione librorum suorum ex libro epistolarum Origenis quarto. [Text:] ORIGENES. Quidam eorum qui libenter habent criminari proximos suos, ascribunt nobis et doctrinae nostrae crimen blasphemiae, quod a nobis nunquam audierunt: de quo ipsi viderint, nolentes observare mandatum illud quod dicit, quia maledici regnum Dei non possidebunt, dicentes me, patrem malitiae ac perditionis, et eorum qui de regno Dei ejiciuntur, id est diabolum, dicere esse salvandum: quod ne aliquis quidem mente motus, et manifeste insaniens dicere potest. Sed nihil mirum mihi videtur, si adulteretur doctrina mea ab inimicis meis ... Nam quidam auctor haereseos, cum sub praesentia multorum habita inter nos fuisset disputatio, et descripta, accipiens ab his qui descripserant codicem, quae voluit addidit, et quae voluit abstulit, et quod ei visum est permutavit, circumferens tanquam ex nomine nostro ... Pro quibus indignantes fratres qui in Palaestina sunt, miserunt ad me Athenas hominem qui acciperet a me ipsum authenticum exemplar ...",
+      "edition": "Critical edition: M. Simonetti, Tyrannii Rufini Opera, CCSL 20 (Turnhout, 1961); not seen, so its page and section numbers are not confirmed. The text used is Delarue's, reprinted in Migne, Patrologia Graeca 17 (Paris, 1857), cols. 623-626 (Rufinus's introduction at the top of col. 623, the letter from the top of col. 624 into col. 625; section letters not confirmed).",
+      "checked_against": "OCR of the Cornell scan of PG 17 from the Open Greek and Latin Patrologia Graeca project (coo.31924054872977, page 323 hOCR, split into columns by its bounding boxes because the plain-text OCR mixes the columns, and page 324). Compared with two independent quotations of Rufinus's version: Jerome, Apology 2.18 (PL 23, 462C-D) and the Life of Rufinus printed in PL 21, cols. 166-167. OCR fixes: Ontcsaes. to ORIGENES., nostra: to nostrae, ejiciuntnr to ejiciuntur, quasyoluit to quae voluit, tanquamex to tanquam ex, Palmsdna to Palaestina, and the '-a:' ligature to -ae.",
+      "english": "[Rufinus:] What he himself, while still living in the flesh, felt and saw and suffered from the corruption of his books and discourses and from falsified editions is clearly shown by his own letter, which he writes to some dear friends at Alexandria ... [Heading:] On the falsification or corruption of his books, from the fourth book of Origen's letters. ORIGEN: Some of those who like to accuse their neighbours charge us and our teaching with the crime of blasphemy, a blasphemy they never heard from us. Let them answer for that, since they will not keep the commandment that says 'revilers shall not possess the kingdom of God'. They say that I say that the father of malice and perdition, and of those who are cast out of the kingdom of God, that is the devil, is to be saved. Not even someone out of his mind and plainly insane could say that. But it seems no wonder to me if my teaching is falsified by my enemies ... For a certain founder of a heresy held a disputation with me in front of many people, and it was taken down. He got the manuscript from those who had taken it down, added what he wanted, removed what he wanted, changed what he saw fit, and circulated it as though it were in our name ... The brothers in Palestine, angry at this, sent a man to me at Athens to get the authentic copy from me ...",
+      "english_source": "Own close translation. The standard public-domain English is W. H. Fremantle in NPNF second series vol. 3 (1892), pp. 422-427 ('they declare that I hold that the father of wickedness and perdition, and of those who are cast forth from the kingdom of God, that is the devil, is to be saved, a thing which no man can say even if he has taken leave of his senses and is manifestly insane').",
+      "textual_notes": "(1) The three witnesses to Rufinus's wording differ in small but real ways. PG 17 has 'dicentes me, patrem malitiae ac perditionis, et eorum qui de regno Dei ejiciuntur, id est diabolum, dicere esse salvandum'. Jerome's quotation of Rufinus (Apology 2.18, PL 23) has 'dicentes asserere me patrem malitiae et perditionis eorum qui de regno Dei ejiciuntur, id est diabolum, esse salvandum'. The PL 21 Life has 'Dicentes, patrem malitiae et perditionis, et eorum, qui de regno Dei rejiciuntur, idest Diabolum me dicere, esse salvandum'. The 'et' before 'eorum' decides whether the devil is the father 'of malice and of those who are cast out' or 'of the perdition of those who are cast out'. (2) PG nunquam, Jerome's quotation nusquam. (3) esse salvandum (the gerundive, 'is to be saved') is what the opponents allegedly attributed to Origen; compare Jerome's 'posse salvari' ('can be saved'). (4) Rufinus's heading places the letter in the fourth book of a collected edition; Eusebius (HE 6.36.3) says he collected more than a hundred of Origen's letters into volumes. (5) Delarue's notes record that older editions read Alexandria for Alexandriam, that the manuscripts have a me ipso [or ipsa] authentica exemplaria, and that arguens is missing from the editions and most manuscripts. (6) The Athens episode agrees with Photius (Athens) and with Eusebius (a journey to Greece). (7) Numbering: the repository's claims.md (#7) and Kimel cite this as chapter 6, and the task as chapter 7. PG prints no numbers, and CCSL 20 was not available to settle it.",
+      "why_it_matters": "This is the nearest thing we have to Origen's own defence against the charges that followed the censure. In this version he flatly denies teaching that the devil will be saved, and he blames a heretic for falsifying the record of a debate. Rufinus's version is also the one that later defenders and critics of universal salvation most often quote.",
+      "readings": [
+        {
+          "scholar": "Rufinus of Aquileia (ancient, 397)",
+          "work": "De adulteratione librorum Origenis",
+          "position": "The letter proves that heretics falsified Origen's works in his lifetime. That explains the contradictions in his writings, and his denial of the devil's salvation is sincere.",
+          "side": "reads the letter as a genuine doctrinal denial and evidence of falsification",
+          "status": "V",
+          "source_url": "https://github.com/OGL-PatrologiaGraecaDev/Vol.-17/blob/ce9078cadc7f37354b2da049d45314e9e318928d/coo.31924054872977_ocr/323.hocr"
+        },
+        {
+          "scholar": "Jerome (ancient, 401/402)",
+          "work": "Apology against Rufinus 2.18 (PL 23, 461B-462D)",
+          "position": "Rufinus 'fraudulently' cut away the opening, on which the rest depends. In that opening Origen attacks Demetrius and the bishops of the world and complains of an excommunication 'frustra' (for nothing). Rufinus also made Origen say what he does not say.",
+          "side": "reads Rufinus's version as a tendentious mistranslation",
+          "status": "V",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/patrologia_latina-dev/master/split/PL23/PL23_17_UNKNOWN.xml"
+        },
+        {
+          "scholar": "The anonymous Life of Rufinus at the head of PL 21 (usually credited to Giusto Fontanini, 1742; attribution not confirmed from the file), reporting Pierre Halloix",
+          "work": "Life of Rufinus, PL 21, cols. 165-167, citing P. Halloix, Origenes defensus, book 4",
+          "position": "Halloix 'Rufinum in neutro peccasse autumat': Rufinus erred in neither respect. What he left out concerned Origen's complaints against bishops and had nothing to do with the falsification of his books. Comparing the two versions, the Life concludes that where Origen said the devil could be saved he meant it 'ex parte naturae, non malitiae' (as regards his nature, not his wickedness), against the Valentinians.",
+          "side": "defends Rufinus's fidelity and reconciles the two versions",
+          "status": "V",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/patrologia_latina-dev/master/split/PL21/PL21_0_TYR.xml"
+        },
+        {
+          "scholar": "Henri Crouzel (as quoted by Aidan Kimel)",
+          "work": "Origen (1989), p. 21 n. 4, quoted in Kimel 2024; page not confirmed",
+          "position": "On the Athens episode: 'So it was a report of the discussion, faked by his interlocutor, which caused the trouble that Origen met at Alexandria, after the news of the ordination.' One of the opinions attributed to him was the final salvation of the devil, and Origen protested against it.",
+          "side": "takes Origen's complaint of falsification at his word and links it to the Alexandrian trouble",
+          "status": "S",
+          "source_url": "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/"
+        },
+        {
+          "scholar": "Aidan F. Kimel",
+          "work": "Eclectic Orthodoxy blog, 20 Aug 2024 (open letter to Cyril Jenkins)",
+          "position": "He quotes the letter's denial ('not even a madman ... can say') from Rufinus, against the claim that Demetrius censured Origen for teaching the devil's redemption. He does not discuss Jerome's competing version.",
+          "side": "uses Rufinus's version to reject a doctrinal censure",
+          "status": "S",
+          "source_url": "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/"
+        },
+        {
+          "scholar": "Lee Sytsma (as reported by Wikipedia)",
+          "work": "Cited as 'Sytsma 2018' in the English Wikipedia article 'Origen'; probably related to his Universal Salvation and Freedom of Choice according to Origen of Alexandria (Gorgias Studies in Early Christianity and Patristics 74); not read",
+          "position": "Reported as arguing that the letter 'may not reflect' Origen's actual views on the end of things.",
+          "side": "reads the denial as possibly tactical, not a full statement of his view",
+          "status": "R",
+          "source_url": "https://en.wikipedia.org/wiki/Origen"
+        },
+        {
+          "scholar": "John A. McGuckin (as reported by Wikipedia)",
+          "work": "The Westminster Handbook to Origen (2004), pp. 15, 96, as cited in the English Wikipedia article 'Origen'; not read",
+          "position": "Reported as saying that Origen insisted the devil's salvation was 'simply ludicrous', and that the charge probably arose from a misunderstanding of the debate with Candidus.",
+          "side": "takes the denial as sincere and the charge as a misunderstanding",
+          "status": "R",
+          "source_url": "https://en.wikipedia.org/wiki/Origen"
+        }
+      ],
+      "source_urls": [
+        "https://github.com/OGL-PatrologiaGraecaDev/Vol.-17/blob/ce9078cadc7f37354b2da049d45314e9e318928d/coo.31924054872977_ocr/323.hocr",
+        "https://github.com/OGL-PatrologiaGraecaDev/Vol.-17/blob/ce9078cadc7f37354b2da049d45314e9e318928d/coo.31924054872977_ocr/324.txt",
+        "https://st-takla.org/books/en/ecf/203/2030630.html"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "jerome-apology-2-18-letter",
+      "title": "The same letter in Jerome's Latin: Origen refuses to curse even the devil, and his opponents say the devil 'can be saved'",
+      "author_work_ref": "Jerome, Apology against Rufinus (Apologia adversus libros Rufini) 2.18",
+      "date": "401/402",
+      "language": "Latin",
+      "original": "Cumque illa epistola tota Demetrium Alexandrinae urbis pontificem laceret, et in totius orbis episcopos et clericos invehatur, et frustra ab Ecclesiis excommunicatum esse se dicat, nec velle in maledictis referre vicem, ne scilicet maledicus videatur esse homo, qui in tantum cautus sit ad maledicendum, ut ne diabolo quidem audeat maledicere; unde et Candido, Valentiniani dogmatis sectatori, calumniandi se occasionem dederit, quod diabolum salvandae dixerit esse naturae: hic dissimulato argumento epistolae, fingit pro Origene, quod ille non loquitur. ... Contra sacerdotes ergo Ecclesiae generaliter disputans, a quibus indignus communione ejus fuerat judicatus, haec intulit: ... [Origen:] Unde et Michael cum adversus diabolum disputaret de Moysi corpore, ne tanto quidem malo ausus est judicium inferre blasphemiae, sed dixit: Increpet tibi Dominus. ... Ergo cum propter Dei timorem caveamus in quempiam maledicta conferre, recordantes illius dicti, Non fuit ausus judicium inferre blasphemiae, quod dicitur de Michaele contra diabolum; et in alio loco: Dominationes quidem reprobant, glorias autem blasphemant; quidam eorum qui libenter contentiones reperiunt, ascribunt nobis et nostrae doctrinae blasphemiam, super qua ipsi viderint, quomodo illud audiant: Neque ebriosi, neque maledici regnum Dei possidebunt; licet patrem malitiae et perditionis eorum, qui de regno Dei ejicientur, dicant posse salvari, quod ne mente quidem quis captus dicere potest. ... [Jerome:] iste fraudulenter amputatis superioribus, ex quibus inferiora dependent, sic coepit transferre epistolam, quasi hoc sensu superius esset exordium ...",
+      "edition": "Critical edition: P. Lardet, S. Hieronymi Presbyteri Opera III.1: Contra Rufinum, CCSL 79 (Turnhout, 1982); not seen, so its page is not confirmed. The text used is Vallarsi's, reprinted in Migne, Patrologia Latina 23 (Paris, 1845), cols. 461A-462D (Vallarsi pp. 510-511).",
+      "checked_against": "The OpenGreekAndLatin patrologia_latina-dev transcription of PL 23 (split/PL23/PL23_17_UNKNOWN.xml, about lines 3040-3160), which keeps Migne's column and section markers. OCR slips corrected: judicatas to judicatus, Increpet ubi to Increpet tibi. Migne's bracketed scripture references (e.g. Judae 9, I Cor. VI, 10) are left out, and 'male dicta', split across a line in the transcription, is printed as maledicta. Jerome's quotation of Rufinus in the same chapter was compared with the PG 17 text of Rufinus (previous passage).",
+      "english": "The whole of that letter tears into Demetrius, pontiff of the city of Alexandria, and inveighs against the bishops and clergy of the whole world. Origen says he has been excommunicated by the churches for nothing, and that he does not wish to return curse for curse, so as not to seem a reviler. He is a man so careful about reviling that he does not dare to revile even the devil, and that is how he gave Candidus, a follower of Valentinus's doctrine, the chance to slander him as having said that the devil is of a nature that will be saved. Yet this man [Rufinus] hides what the letter is about and invents on Origen's behalf what Origen does not say. ... Arguing in general against the priests of the Church, by whom he had been judged unworthy of its communion, Origen wrote this: ... 'So Michael too, when he was disputing with the devil about the body of Moses, did not dare to bring a judgment of blasphemy even against so great an evil, but said: The Lord rebuke you. ... So, since out of fear of God we take care not to bring a curse against anyone, remembering the saying He did not dare to bring a judgment of blasphemy, which is said of Michael against the devil, and in another place They reject dominions and blaspheme glories, some of those who like to find quarrels ascribe to us and our teaching a blasphemy. On that point let them consider how they are to hear the words Neither drunkards nor revilers shall possess the kingdom of God, even though [or: namely that] they say that the father of malice and perdition of those who will be cast out of the kingdom of God can be saved, which not even someone out of his mind could say.' ... This man [Rufinus] fraudulently cut away the earlier part, on which what follows depends, and began his translation of the letter as if this were its real beginning ...",
+      "english_source": "Own close translation. The standard public-domain English is W. H. Fremantle in NPNF second series vol. 3 (1892), Apology 2.18, which renders licet as 'namely' ('namely, that the father of wickedness and perdition of those who shall be cast out of the kingdom of God can be saved; a thing which not even a madman can say').",
+      "textual_notes": "Compared with Rufinus's version: (1) Jerome has 'licet ... dicant posse salvari' ('although they say that he can be saved'), where Rufinus has 'dicentes me ... dicere esse salvandum' ('saying that I say he is to be saved'). Jerome's version has no 'me', so it does not plainly say the opponents attributed the view to Origen. The verb also differs: 'can be saved' expresses possibility, 'is to be saved' necessity. (2) licet usually means 'although'. Fremantle's 'namely' makes it introduce the content of the blasphemy, and the sense of the sentence turns on this choice. (3) Jerome: 'quod ne mente quidem quis captus dicere potest'; Rufinus: 'quod ne aliquis quidem mente motus et manifeste insaniens dicere potest'. (4) Jerome claims to translate the Greek 'ad verbum' (word for word). Neither the Greek nor any other witness survives to check either version. (5) Jerome's context gives information found nowhere else: the letter attacked Demetrius and the bishops of the world by name, and Origen said he had been excommunicated 'by the churches' for nothing. That is the most direct evidence that the censure involved excommunication. (6) PL notes record 'in carne esset vivens' in Rufinus's editions, and Victorius's conjecture 'quasi hoc sensus esset exordium' (Jerome's chapter is numbered 18 in NPNF).",
+      "why_it_matters": "Jerome is the only witness to the part of the letter about the censure itself, which is the part Rufinus left out. His version puts Origen's statement about the devil inside an argument about not cursing, not a doctrinal denial. Whether Origen denied the devil's salvation, or only denied cursing anyone, depends on which version one trusts and how one reads licet.",
+      "readings": [
+        {
+          "scholar": "Jerome (ancient, 401/402)",
+          "work": "Apology against Rufinus 2.18",
+          "position": "The letter's point was that Origen would not curse anyone, not even the devil. That reluctance is what gave Candidus his opening. The famous denial is therefore narrower than Rufinus makes it, and the omitted opening shows Origen attacking Demetrius and the bishops.",
+          "side": "reads the letter as a refusal to curse, not a denial of the doctrine",
+          "status": "V",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/patrologia_latina-dev/master/split/PL23/PL23_17_UNKNOWN.xml"
+        },
+        {
+          "scholar": "The anonymous Life of Rufinus at the head of PL 21 (usually credited to Giusto Fontanini; attribution not confirmed)",
+          "work": "PL 21, cols. 166-167",
+          "position": "It argues that Origen could not have been reporting his Valentinian adversaries as holding that the devil could be saved, since they denied it. On the contrary, they alleged that Origen held it. Jerome's own rendering, properly read, therefore agrees with Rufinus's: Origen was denying that he taught the devil is to be saved.",
+          "side": "reads Jerome's licet-clause as agreeing with Rufinus",
+          "status": "V",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/patrologia_latina-dev/master/split/PL21/PL21_0_TYR.xml"
+        },
+        {
+          "scholar": "W. H. Fremantle (translator)",
+          "work": "Jerome, Apology against Rufinus 2.18, NPNF second series vol. 3 (1892)",
+          "position": "By translating licet as 'namely', he makes the clause give the content of the 'blasphemy' falsely ascribed to Origen. Jerome's version then becomes a denial much like Rufinus's.",
+          "side": "a translator's choice that brings Jerome's version into line with Rufinus's",
+          "status": "S",
+          "source_url": "https://sacred-texts.com/chr/ecf/203/2030791.htm"
+        },
+        {
+          "scholar": "Rufinus of Aquileia (ancient, 397)",
+          "work": "De adulteratione librorum Origenis (PG 17)",
+          "position": "He begins the quotation at 'Quidam eorum', treating the attack on the bishops as irrelevant to his purpose, which was to show that Origen's books were falsified. The PL 21 Life defends the cut on the same grounds.",
+          "side": "the omission as editorial relevance, not concealment",
+          "status": "V",
+          "source_url": "https://github.com/OGL-PatrologiaGraecaDev/Vol.-17/blob/ce9078cadc7f37354b2da049d45314e9e318928d/coo.31924054872977_ocr/323.hocr"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/patrologia_latina-dev/master/split/PL23/PL23_17_UNKNOWN.xml",
+        "https://sacred-texts.com/chr/ecf/203/2030791.htm"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "jerome-apology-2-19-candidus",
+      "title": "Jerome on the debate with Candidus: the devil fell by his will and 'can be saved'",
+      "author_work_ref": "Jerome, Apology against Rufinus 2.19",
+      "date": "401/402 (the debate itself undated; Jerome links it to the falsified disputation of the letter)",
+      "language": "Latin",
+      "original": "Habetur dialogus apud Graecos Origenis et Candidi Valentinianae haereseos defensoris, in quo duos Andabatas digladiantes inter se spectasse me fateor. Dicit Candidus Filium de Patris esse substantia, errans in eo quod προβολήν, id est, prolationem asserit. E regione Origenes juxta Arium et Eunomium repugnat, eum vel prolatum esse, vel natum, ne Deus Pater dividatur in partes; sed dicit sublimem et excellentissimam creaturam voluntate exstitisse Patris, sicut et caeteras creaturas. Rursus ad secundam veniunt quaestionem. Asserit Candidus diabolum pessimae esse naturae, et quae salvari nunquam possit. Contra hoc recte Origenes respondit, non eum periturae esse substantiae, sed voluntate propria corruisse, et posse salvari. Hoc Candidus vertit in calumniam, quasi Origenes dixerit, diaboli naturam esse salvandam: quod ille falso objecerat, hic refutat. Et intelligimus in hoc tantum dialogo ab Origene argui haereticam falsitatem, et non in caeteris libris, de quibus nunquam quaestio fuit.",
+      "edition": "P. Lardet, CCSL 79 (1982), not seen, so its page is not confirmed. Text used: Vallarsi in Migne, PL 23 (1845), cols. 462D-463B (Vallarsi p. 512).",
+      "checked_against": "The OpenGreekAndLatin patrologia_latina-dev transcription of PL 23 (split/PL23/PL23_17_UNKNOWN.xml). One OCR slip corrected, 'non cum periturae' to 'non eum periturae'. The correction agrees with two other copies of the sentence: the Life of Rufinus in PL 21 (col. 167) and Delarue's note in PG 17 (col. 624), both read in their own transcriptions.",
+      "english": "There is a dialogue in Greek between Origen and Candidus, a defender of the Valentinian heresy, in which, I confess, I watched two blindfolded gladiators slashing at each other. Candidus says the Son is of the Father's substance, but errs in calling him a probolē, that is, an emission. Origen on the other side, like Arius and Eunomius, objects that he was neither emitted nor born, lest God the Father be divided into parts. He says instead that the Son came to exist by the Father's will as a sublime and most excellent creature, like the other creatures. Then they come to the second question. Candidus asserts that the devil is of a wholly evil nature, one that can never be saved. Against this Origen rightly answered that the devil is not of a substance bound to perish, but fell by his own will and can be saved. Candidus turns this into a slander, as if Origen had said that the devil's nature is to be saved; Origen refutes the false charge Candidus made. And we understand that it is only in this dialogue that Origen complains of heretical falsification, and not in his other books, about which there was never any question.",
+      "english_source": "Own close translation. The standard public-domain English is W. H. Fremantle, NPNF second series vol. 3 (1892), Apology 2.19 ('Candidus asserts that the devil is of a nature wholly evil which can never be saved. Against this Origen rightly asserts that he is not of perishable substance, but that it is by his own will that he fell and can be saved').",
+      "textual_notes": "(1) The PL note records that Victorius lacks 'id est, prolationem' and misread προβολή as 'excellence'. (2) Andabatae were gladiators who fought with closed helmets and could not see; Jerome is mocking both sides. (3) 'juxta Arium et Eunomium' is Jerome's polemic and projects fourth-century positions onto Origen. (4) The distinction is between the devil's nature ('diaboli naturam esse salvandam', which Origen denies) and the devil's will ('voluntate propria corruisse, et posse salvari', which Origen affirms). (5) Jerome's last sentence limits Origen's complaint of falsification to this one dialogue. That is Jerome's inference, aimed against Rufinus's general thesis. (6) Jerome does not say that this dialogue is the disputation 'held in front of many' that the letter mentions. The link is implied by his account of Candidus in 2.18.",
+      "why_it_matters": "It is the only report of what Origen actually argued about the devil in the debate that the letter complains was falsified. It shows a distinction (salvable by will, not saved by nature) that lets both versions of the letter be true at once. It also shows that Jerome, Origen's harshest later critic, thought Origen 'rightly' answered on this point.",
+      "readings": [
+        {
+          "scholar": "Jerome (ancient, 401/402)",
+          "work": "Apology against Rufinus 2.19",
+          "position": "Origen was right against Candidus: the devil's substance is not doomed, he fell by his own will, and he can be saved. Candidus twisted this into 'the devil's nature will be saved', which Origen rejected. Jerome uses this to confine Origen's claims of falsification to this dialogue alone.",
+          "side": "the devil salvable by will, not saved by nature; falsification limited to one text",
+          "status": "V",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/patrologia_latina-dev/master/split/PL23/PL23_17_UNKNOWN.xml"
+        },
+        {
+          "scholar": "The anonymous Life of Rufinus at the head of PL 21 (usually credited to Giusto Fontanini; attribution not confirmed)",
+          "work": "PL 21, col. 167",
+          "position": "It takes this chapter as confirming Rufinus's version: 'Ex his patet, Origenem ubi ait, Diabolum potuisse salvari, hoc intelligere ex parte naturae, non malitiae' ('it is clear from this that where Origen says the devil could have been saved, he means it as regards his nature, not his wickedness'), against what the Valentinians unjustly charged.",
+          "side": "uses the Candidus debate to harmonise the two versions of the letter",
+          "status": "V",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/patrologia_latina-dev/master/split/PL21/PL21_0_TYR.xml"
+        },
+        {
+          "scholar": "Michael S. Domeracki",
+          "work": "'Origen and the Possible Restoration of the Devil', Journal of the Canadian Society for Coptic Studies 6 (2014), pp. 25-40 (abstract only read)",
+          "position": "On the abstract, Origen held one consistent position: the devil's salvation was necessarily possible, but the devil would never actually choose it. Some readers misunderstood this, and others deliberately presented it as a claim that the devil would certainly be restored.",
+          "side": "possibility, not certainty: denial and debate are consistent",
+          "status": "S",
+          "source_url": "https://lockwoodonlinejournals.com/index.php/jcscs/article/view/112"
+        },
+        {
+          "scholar": "John A. McGuckin (as reported by Wikipedia)",
+          "work": "The Westminster Handbook to Origen (2004), pp. 15-16, as cited in the English Wikipedia article 'Origen'; not read",
+          "position": "Reported as holding that the allegation probably arose from a misunderstanding of this debate. In this account Candidus argued for predestination by placing the devil beyond salvation, and Origen answered that Satan was morally, not absolutely, reprobate, because his damnation came from his own free will.",
+          "side": "the charge arose from a misunderstanding of a free-will argument",
+          "status": "R",
+          "source_url": "https://en.wikipedia.org/wiki/Origen"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/patrologia_latina-dev/master/split/PL23/PL23_17_UNKNOWN.xml",
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/patrologia_latina-dev/master/split/PL21/PL21_0_TYR.xml",
+        "https://sacred-texts.com/chr/ecf/203/2030792.htm"
+      ],
+      "status": "V"
+    }
+  ],
+  "other_findings": [
+    {
+      "claim": "The repository's claim that 'the first synod banished him, the second deposed him' (claims.md #6, marked R) can now be checked against Photius, codex 118 (PG 103, 397B-C). The Greek bears out the two steps: a synod of bishops and some presbyters voted that Origen leave Alexandria and not teach there, but keep the honour of the presbyterate; then Demetrius 'with some Egyptian bishops' stripped him of the priesthood, and those who had voted with him signed. Photius does not call the second act a synod. 'Second synod' is an interpretation, though a common one (Prat, Crombie, McGiffert). The ground Photius gives is ordination without his own bishop's consent; he mentions neither castration nor doctrine.",
+      "source": "Photius, Bibliotheca 118, PG 103, cols. 397B-C, read in three OCR copies (OGL Patrologia Graeca Vol.-103)",
+      "status": "V"
+    },
+    {
+      "claim": "Hilberg's text of Jerome, Letter 33.5 ('in damnationem eius consentit orbis') rests on his own conjecture. The apparatus reads 'orbis scripsi urbs codd.', so every manuscript has 'urbs'. Manuscript S also has 'romana' for 'Roma', which seems to be the text behind NPNF's 'Imperial Rome consents to his condemnation'. Any claim that 'the whole world' agreed to the condemnation is resting on an editor's emendation.",
+      "source": "Hilberg, CSEL 54 (1910), p. 259 and apparatus, in the csel-dev transcription",
+      "status": "V"
+    },
+    {
+      "claim": "Jerome, Letter 84.10.2 (398/399), says Origen wrote to Fabian, bishop of Rome, repenting 'cur talia scripserit' and blaming Ambrose for publishing what had been written privately: 'ipse Origenes in epistula, quam scribit ad Fabianum, Romanae urbis episcopum, paenitentiam agit, cur talia scripserit, et causas temeritatis in Ambrosium refert, quod secreto edita in publicum protulerit'. Eusebius (HE 6.36.4) says only that Origen wrote to Fabian and many other church leaders 'περὶ τῆς κατ’ αὐτὸν ὀρθοδοξίας' (about his orthodoxy), with the evidence in Book 6 of the Apology. That letter belongs to the 240s, not to the censure of 231, but it is another self-defence that Jerome and Eusebius describe differently.",
+      "source": "Hilberg, CSEL 55 (1912), pp. 132.22-133.1; Eusebius, HE 6.36.4 in the First1KGreek Loeb and Dindorf transcriptions",
+      "status": "V"
+    },
+    {
+      "claim": "The section number for Origen's letter in Rufinus's De adulteratione is inconsistent. The repository's claims.md (#7) and Kimel 2024 cite chapter 6; the research task cites chapter 7; PG 17 prints no numbers. The critical edition (Simonetti, CCSL 20, 1961) was not available to settle it. Citations should name the edition used.",
+      "source": "claims.md #7; Kimel 2024; PG 17 cols. 623-625",
+      "status": "V"
+    },
+    {
+      "claim": "The three witnesses to Rufinus's Latin disagree in small ways: PG 17 has 'patrem malitiae ac perditionis, et eorum qui de regno Dei ejiciuntur'; Jerome's quotation of Rufinus has 'patrem malitiae et perditionis eorum qui de regno Dei ejiciuntur'; the PL 21 Life has 'et eorum ... rejiciuntur'. Also nunquam/nusquam and dicere/asserere. Any close argument from Rufinus's wording should be checked against CCSL 20.",
+      "source": "PG 17 col. 624 (Cornell OCR); PL 23 col. 462C-D; PL 21 col. 167",
+      "status": "V"
+    },
+    {
+      "claim": "Photius names the ordaining bishop of Caesarea Theotecnus (Θεότεκνος) and the destination Athens. Eusebius (6.19.17) calls him Theoctistus, and the PG editor's note 87 adds that Jerome, De viris illustribus 54, does the same. Eusebius gives the destination only as 'Greece' (6.23.4). Rufinus's version of the letter also places Origen at Athens.",
+      "source": "PG 103 cols. 397-398 and note 87; Eusebius HE 6.19.17, 6.23.4; PG 17 col. 625",
+      "status": "V"
+    },
+    {
+      "claim": "Jerome, De viris illustribus 54, as quoted in the PL 21 Life of Rufinus, says Demetrius raged against Origen 'tanta ... insania, ut per totum mundum super nomine ejus scriberet' ('with such madness that he wrote about his name throughout the whole world'). This agrees with Eusebius's report of letters to bishops everywhere. The De viris text itself was not opened; the OCR of the Life has 'lotum' for 'totum'.",
+      "source": "PL 21, col. 167 (Life of Rufinus), quoting Jerome, De viris illustribus 54",
+      "status": "S"
+    },
+    {
+      "claim": "Modern dates for the final departure differ by a year: McGiffert (NPNF, 1890, Note 18) gives 231, and Daly's 1978 review of Nautin gives 232. Lipsius, as reported by McGiffert, held that 'we do not know whether Origen ever returned to Alexandria after his ordination'. Nautin, as reported by Daly, dates a letter Origen sent from Athens to the bishop of Jerusalem in self-defence against Demetrius to 233, and treats it as Eusebius's autobiographical source.",
+      "source": "McGiffert, NPNF2 1, Note 18 (st-takla.org); R. J. Daly, Theological Studies 39 (1978), pp. 508-519",
+      "status": "S"
+    },
+    {
+      "claim": "The popular claim that Demetrius censured Origen for saying 'the devil shall be redeemed' (made by Cyril Jenkins in a video and quoted by Kimel 2024) has no support in any text gathered here. Eusebius, Photius and Jerome's Letter 33 give no doctrinal charge. The devil appears only in Origen's own later letter, as an opinion his opponents attributed to him, and in Jerome's report of the Candidus debate.",
+      "source": "Kimel 2024 (blog), against Eusebius HE 6.8, 6.23; Photius 118; Jerome Letter 33.5, Apology 2.18-19",
+      "status": "S"
+    },
+    {
+      "claim": "In Origen's Commentary on John 6.2.8 the statement that Book 6 had been begun before he left Egypt ('ἕκτου δὲ ἐπὶ ποσὸν προεληλυθότες') depends on A. E. Brooke's emendation. The manuscript reading recorded by Preuschen is 'ἐκ τοῦ δε ἔπι πεσὸν'. McGiffert's chronological argument from 'began it anew in Palestine' therefore rests on a conjecture.",
+      "source": "Preuschen, GCS 10 (1903), p. 107, apparatus to line 27",
+      "status": "V"
+    }
+  ],
+  "problems": "Several hosts refused direct downloads: archive.org (only about 45k characters came through WebFetch), HathiTrust, Google Books full text, Gallica, Persée (robots), mlat.uzh.ch and documentacatholicaomnia. Primary texts were therefore taken from GitHub transcriptions: First1KGreek, csel-dev, patrologia_latina-dev, and the Open Greek and Latin Patrologia Graeca OCR. Not opened, so their pages are not confirmed: Schwartz's GCS edition of Eusebius (GCS 9.2, 1908); the printed Loeb (Oulton 1932), whose digital Greek has OCR errors and at 6.19.16 lacks a clause that Dindorf prints, a difference I could not check against Schwartz's apparatus; R. Henry's Budé Photius (vol. 2, 1960), so the PG reprint of Bekker was used; Simonetti's CCSL 20 for Rufinus; Lardet's CCSL 79 for Jerome's Apology; and the text of Jerome's De viris illustribus 54, known here only from a quotation. Freese's 1920 English Photius could not be reached. In PG 17, Rufinus's text was recovered by splitting a two-column hOCR page by coordinates, and the column section letters (A-D) were not read reliably; earlier notes that placed the letter at 624C may be wrong, and it seems to begin at the top of col. 624. None of the modern books named in the task was read at first hand: Nautin 1977, Crouzel 1985/1989, Trigg, Heine 2010, McGuckin 2004, Ramelli 2013, Clark 1992, Grafton and Williams 2006, Tzamalikos, Edwards. Crouzel, Daly 1985 and Stewart-Sykes come only through Kimel's 2024 blog; Nautin only through Daly's 1978 review; McGuckin, Sytsma, Kelly and Olson only through Wikipedia's citations (marked R); Domeracki only through his abstract; Heine only through a review that does not discuss the censure. I found nothing reliable from Ramelli, Trigg, Clark, Grafton and Williams, Tzamalikos or Edwards on these particular passages, so they are left out rather than guessed at. The author of the Life of Rufinus in PL 21 is not named in the file; the usual attribution to Fontanini is unconfirmed. Kimel's page was read only to character 100,000 of 102,238. All translations are my own, each with its standard translation named; NPNF and ANF phrases quoted for comparison were read through a summarising fetch tool and should be rechecked against the printed volumes before being quoted."
+}

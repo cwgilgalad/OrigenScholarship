@@ -1,0 +1,619 @@
+{
+ "cluster": "evagrius",
+ "summary": "The only way to test whether the sixth-century anathemas describe Evagrius is to read them beside the Kephalaia Gnostica, and the check is possible because Guillaumont edited two Syriac versions of that book in 1958. In the longer, unexpurgated version (S2), five chapters (2.17, 3.15, 4.18, 4.80, 5.11) line up with the fourteenth, eleventh, eighth, ninth and fifth anathemas, in some cases almost word for word. In the shorter version (S1) the same chapters are reworded or replaced, which is what an editor who wanted to remove those lines would do. In the three cases I checked where a Greek quotation survives next to differing S1 and S2 wordings (2.64, 2.69, 6.16), the Greek agrees with S2; that kind of evidence is the core of Guillaumont's case that S2 is the original, though the Greek covers only a small part of the book. Casiday argues the opposite: S1 is Evagrius's own text and S2 a later reworking, in which case the matching lines come from the sixth-century Origenists the anathemas were aimed at, not from Evagrius. Ramelli accepts S2 but says the condemned ideas were not Evagrius's own either. Evagrius's Letter to Melania speaks of 'names and numbers' being taken away at the end, but adds that the Father, Son and Spirit do not vanish and that creation has a beginning, and readers differ on how far that qualification governs the rest. I could not see Guillaumont's own table of pairings, so the five pairs rest on a personal web essay, checked by me against the text, and every reading of a scholar here comes at second hand.",
+ "passages": [
+  {
+   "id": "evagrius-kg-2-17-anathema-14",
+   "title": "Ruin of worlds, loosing of bodies, abolition of names: Kephalaia Gnostica 2.17 beside the fourteenth anathema",
+   "author_work_ref": "Evagrius of Pontus, Kephalaia Gnostica 2.17 (Syriac S2; expurgated S1 given for comparison). Paired with the fourteenth of the fifteen anathemas of 553 by Castellano (web essay); Guillaumont's own table not seen",
+   "language": "Syriac (translation of a lost Greek original); no Greek fragment of this chapter found",
+   "original": "S2: ܠܘ̣ܐ ܠܝܕܥܬܐ ܕܥܠ ܡܠܝ̈ܠܐ܆ ܚܒ̇ܠܐ ܕܥܠܡ̈ܐ ܘܫܪܝܐ ܕܦܓܪ̈ܐ ܘܥܛܝܐ ܕܫܡܗ̈ܐ. ܟܕ ܦܝ̇ܫܐ ܫܘܝܘܬܐ ܕܝܕܥܬܐ ܐܝܟ ܫܘܝܘܬܐ ܕܩܢܘ̈ܡܐ܀\nS1: ܒܬܪܒܝܬܐ ܕܝܕܥܬܐ ܕܡܠܝ̈ܠܐ܆ ܡܬܚܠ̇ܦܝܢ ܥܠܡ̈ܐ ܘܡܬܛ̇ܠܩܝܢ ܫܡܗ̈ܐ. ܟܕ ܦܝ̇ܫܐ ܫܘܝܘܬܐ ܕܝܕܥܬܐ ܐܝܟ ܫܘܝܘܬܐ ܕܩܢܘܡ̈ܐ܀",
+   "edition": "Antoine Guillaumont (ed. and trans.), Les six centuries des 'Kephalaia gnostica' d'Évagre le Pontique: édition critique de la version syriaque commune et édition d'une nouvelle version syriaque, intégrale, avec une double traduction française, Patrologia Orientalis 28.1 (no. 134), Paris: Firmin-Didot, 1958. Page of this chapter, as marked in the digital transcription (not confirmed against the printed volume): S2 p. 67 (S1 p. 66).",
+   "checked_against": "Checked against the digital transcription of Guillaumont's S2 (and S1) Syriac text in Joel Kalvesmaki's TAN-Evagrius repository (files cpg2432.syr.1958.guillaumont-s2.xml and -s1.xml, whose own metadata marks the bibliographic record 'draft'), read on 2026-10-19. I could not compare it with the printed Patrologia Orientalis volume or a scan, so the status is S, not V. Syriac copied by script from the file; line breaks and page markers removed; no letters altered. English of S2 is Luke Dysinger's, in the same repository (file cpg2432.eng.1990.dysinger-s2.xml), which says it is in the public domain and rests on Guillaumont's S2 and his French translation. Anathema side: NPNF, series II, vol. 14 (The Seven Ecumenical Councils, ed. Percival), 'The Anathemas against Origen', numbered 1-15 as there. The page could only be read through a fetch tool that returns excerpts of at most about 125 characters, so the quoted fragments are NPNF wording as the tool returned it (check against the CCEL page) and everything else about the anathema is my summary. I did not obtain the Greek text of the fifteen anathemas (Diekamp 1899; Mansi IX 395-400).",
+   "english": "Anathema 14 (NPNF; quoted fragments as returned by the fetch tool, rest my summary): all rational beings will one day be united in one, so that bodies, separate existences and names disappear; 'the knowledge of the world to come will carry with it the ruin of the worlds'; 'the abolition of [all] names'; 'an identity of the γνῶσις and of the hypostasis'.\nKG 2.17, S2 (Dysinger, public domain): Accompanying the knowledge that concerns the logikoi are the destruction of worlds, the dissolution of bodies, and the abolition of names; while [there] remains the equality of knowledge according to the equality of substances.\nKG 2.17, S1 (own translation from the Syriac, provisional): 'In the schooling (or nurture) of the knowledge of the rational beings, worlds are exchanged and names are released, while equality of knowledge remains, like the equality of persons (qnumē).'",
+   "english_source": "S2: Luke Dysinger (public domain). S1 and the anathema summary: own translation. Standard published translation of S2 for comparison: Ramelli, SBL 2015.",
+   "textual_notes": "(1) The two Syriac versions differ here. S2 has three losses: 'ruin' (ḥablā) of worlds, 'dissolution' of bodies, and the 'abolition' of names; S1 has worlds 'exchanged' and names 'released' and says nothing of bodies. My S1 translation is provisional; the first word (b-tarbītā, 'in the nurture/schooling of') is the least sure. (2) Dysinger's 'substances' renders Syriac qnumē, the ordinary Syriac word for 'hypostases'; this is the word the anathema's 'identity of ... hypostasis' matches. Dysinger's 'logikoi' stands for mallilē, literally 'speaking ones' (rational beings). (3) I could not check how far the Syriac noun ʿṭāyā ('abolition' in Dysinger, following Guillaumont's French) can also mean 'covering'; what looks like the same root is used in the Great Letter, section 23 (mtʿṭyn), where Frankenberg's Greek has ἀφανίζονται, 'are made to vanish'. That link is my own observation and the Syriac lexicon was not checked. (4) Nothing in the Greek fragments I opened corresponds to this chapter, so S2 against S1 cannot be tested here by Greek.",
+   "why_it_matters": "This is the closest verbal match I found between the 553 list and Evagrius. If S2 is Evagrius's own text, the fourteenth anathema names an Evagrian sentence. If S2 is a later reworking, the sentence belongs to the sixth-century Origenists the anathema was aimed at. On either view it is not a sentence of Origen's.",
+   "readings": [
+    {
+     "scholar": "Antoine Guillaumont",
+     "work": "Les Képhalaia gnostica d'Évagre le Pontique (Paris: Seuil, 1962), p. 156, as quoted in Ramelli 2015, p. xxxvii n. 96; see also his 'Évagre et les anathématismes anti-origénistes de 553', Studia Patristica 3 (1961), 219-226",
+     "position": "Held that the fifteen anathemas sum up the doctrine of Evagrius and of the Palestinian 'Isochristoi'. In 1962 he wrote that Evagrius's Christology is 'absolument identique' to the one 'résumé dans les quinze anathématismes de 553'. Not shown here to discuss chapter 2.17 by number.",
+     "side": "reads the anathemas as describing Evagrius's own system",
+     "status": "S",
+     "source_url": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf"
+    },
+    {
+     "scholar": "Luke Dysinger",
+     "work": "Introductory note to his English translation of the Kephalaia Gnostica (online, Evagrius pages); the sentence on the anathemas as quoted on the Silouan Thompson blog, 2019",
+     "position": "Says the later anathemas 'specifically condemn doctrines which appear to be taken from Evagrius' Kephalaia Gnostica'. He lists no chapters.",
+     "side": "reads the anathemas as drawing on Evagrius's text",
+     "status": "S",
+     "source_url": "https://silouanthompson.net/?p=1271"
+    },
+    {
+     "scholar": "Daniel J. Castellano",
+     "work": "'Origen and Origenism, Part III: Origenism of the Sixth Century' (web essay, 2013), arcaneknowledge.org. A personal web essay by an author whose patristic credentials I did not find; it says it follows the notes of Fr Theophanes (Constantine) of Mount Athos, with KG numbers after Guillaumont's S2",
+     "position": "Writes of the fourteenth anathema: 'The Kephalaia Gnostica (II, 17) is quoted by this anathema verbatim' (as relayed by a fetch tool). My comparison supports a close match in vocabulary: ruin of worlds, loosing of bodies, abolition of names, equality of knowledge and of hypostases.",
+     "side": "reads the anathema as quoting Evagrius",
+     "status": "S",
+     "source_url": "https://arcaneknowledge.org/catholic/origen3.htm"
+    },
+    {
+     "scholar": "Ilaria Ramelli",
+     "work": "Evagrius's Kephalaia Gnostika (Atlanta: SBL Press, 2015), Introduction, pp. xxv-xxvii (pages as reported by a fetch-tool summary of the open-access PDF)",
+     "position": "Accepts S2 as the fuller Evagrian text but denies that what was condemned in 553 was Evagrius's own teaching: she says the condemned ideas were 'largely neither those of Origen nor those of Evagrius' but those of later Origenists, and that Guillaumont's claim 'needs to be corrected' (pp. xxvi-xxvii). General position; chapter not singled out in what I could read.",
+     "side": "reads what was condemned as later Origenism, not Evagrius or Origen",
+     "status": "S",
+     "source_url": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf"
+    },
+    {
+     "scholar": "Augustine Casiday",
+     "work": "Reconstructing the Theology of Evagrius Ponticus: Beyond Heresy (Cambridge: Cambridge University Press, 2013), as summarised in BMCR 2014.04.38 and in Peretó Rivas, Stylos 24 (2015), pp. 199-201",
+     "position": "Argues that S1 is the original and S2 a later, more radical version, partly because no source of Evagrius's own time ties him to the controversy and an Armenian version of about 450 rests on S1. If so, the S2 sentences the anathemas echo come from sixth-century Origenists, not from Evagrius. General position; this chapter is not singled out in the summaries I read.",
+     "side": "reads S2 as possibly a later, sixth-century expansion of S1",
+     "status": "S",
+     "source_url": "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf"
+    }
+   ],
+   "status": "S",
+   "source_urls": [
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.syr.1958.guillaumont-s2.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.syr.1958.guillaumont-s1.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.eng.1990.dysinger-s2.xml",
+    "https://ccel.org/ccel/schaff/npnf214.xii.ix.html",
+    "https://arcaneknowledge.org/catholic/origen3.htm",
+    "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf",
+    "https://silouanthompson.net/?p=1271",
+    "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf",
+    "https://bmcr.brynmawr.edu/?p=30334"
+   ]
+  },
+  {
+   "id": "evagrius-kg-4-18-anathema-8",
+   "title": "Christ as the anointed mind: Kephalaia Gnostica 4.18 beside the eighth anathema",
+   "author_work_ref": "Evagrius of Pontus, Kephalaia Gnostica 4.18 (Syriac S2; S1 for comparison). Paired with the eighth of the fifteen anathemas by Castellano (web essay); Guillaumont's own table not seen",
+   "language": "Syriac (translation of a lost Greek original); no Greek fragment of this chapter found",
+   "original": "S2: ܡܫܝܚܘܬܐ ܡܬܝܕܥܢܝܬܐ ܐܝܬܝܗ̇܆ ܝܕܥܬܐ ܪܘܚܢܝܬܐ ܕܝܚܝܕܝܘܬܐ ܩܕܝܫܬܐ. ܘܡܫܝܚܐ ܐܝܬܘܗܝ܆ ܗ̇ܘ ܕܠܗܕܐ ܝܕܥܬܐ ܡܚܝܕ. ܘܐܢ ܗܕܐ ܗܟܢܐ ܗܝ܆ ܠܘ ܡܠܬܐ ܗܘ ܩܕܡܝܬ ܡܫܝܚܐ. ܐܝܟ ܕܠܐ ܗ̇ܘ ܕܐܬܡ̣ܫܚ ܩܕܡܝܬ ܐܠܗܐ. ܐܠܐ ܗ̇ܘ ܡܛܠ ܗܢܐ ܡܫܝܚܐ܆ ܘܗܢܐ ܡܛܠ ܗ̇ܘ ܐܠܗܐ܀\nS1: ܡܫܝܚܘܬܐ ܡܬܝܕܥܢܝܬܐ ܐܝܬܝܗ̇܆ ܝܕܥܬܐ ܕܝܚܝܕܝܘܬܐ ܩܕܝܫܬܐ. ܡܠܦܢܐ ܕܝܢ ܕܗܕܐ ܠܡܠܝ̈ܠܐ ܡܪܝܐ ܡܫܝܚܐ ܐܝܬܘܗܝ܀",
+   "edition": "Guillaumont, Patrologia Orientalis 28.1 (Paris: Firmin-Didot, 1958); full citation in the first passage of this cluster. Page as marked in the digital transcription, not confirmed against the printed volume: S2 p. 143 (S1 p. 142).",
+   "checked_against": "As in the first passage of this cluster: digital transcription (TAN-Evagrius) of Guillaumont's S1 and S2, Dysinger's public-domain English of S2, NPNF anathema fragments read through a fetch tool; no comparison with the printed volumes or a scan, so status S. Syriac copied by script, no letters altered. Greek text of the anathemas not obtained. I removed the sentence numerals (2 to 5) that the digital English file leaves in the text and corrected its doubled 'as as'.",
+   "english": "Anathema 8 (NPNF; quoted fragments as returned by the fetch tool, rest my summary): condemns anyone who will not confess that God the Word is Christ in every sense, and holds instead that the intelligence (nous) united to the Word is Christ, that 'the Logos is only called Christ because of this union with the intelligence, and e converso that the intelligence is only called God because of the Logos'.\nKG 4.18, S2 (Dysinger, public domain): The intelligible anointing is the spiritual knowledge of the holy Unity, and the Christ is he who is united to this knowledge. And if this is so, the Christ is not the Word in the beginning, just as he who is anointed is not God in the beginning. Rather the latter [God] because of the former [anointed] is the Christ, and the former [anointed] because of the latter [God] is God.\nKG 4.18, S1 (own translation from the Syriac): 'Intelligible anointing is knowledge of the holy Unity. The teacher of this to the rational beings is the Lord Christ.'",
+   "english_source": "S2: Luke Dysinger (public domain). S1 and anathema summary: own translation. Comparison: Ramelli, SBL 2015.",
+   "textual_notes": "(1) S1 keeps the first sentence and then says something quite different: Christ is the teacher of this knowledge. The S2 sentences that the eighth anathema echoes are not in S1 at all. (2) The S2 Syriac reads literally 'the Word is not Christ at first (qadmāyt), as he who was anointed is not God at first; but that one because of this one is Christ, and this one because of that one is God'. The demonstratives are ambiguous; Dysinger resolves them as [God]/[the anointed] and turns the first clause round ('the Christ is not the Word'). The adverb qadmāyt ('at first, originally') matters: the claim concerns what the two are at the start. (3) Syriac yaḥidāyūtā, 'Unity', corresponds to Greek μονάς where Greek survives: KG 5.84 in the Greek fragments has ὁ τῆς ἁγίας μονάδος θεατής, 'beholder of the holy monad'. (4) 'Anointing' (mshiḥūtā) and 'Christ' (mshiḥā) share one root in Syriac, which makes the wordplay of the chapter easier to see than in Greek.",
+   "why_it_matters": "The eighth anathema describes a Christ who is a created mind united to the Word. This chapter is the clearest place in Evagrius for that picture, and it is exactly what the expurgating editor removed from S1.",
+   "readings": [
+    {
+     "scholar": "Antoine Guillaumont",
+     "work": "1962 book, p. 156 (via Ramelli 2015, p. xxxvii n. 96); 1961 Studia Patristica article",
+     "position": "Reads Evagrius's Christology, the mind that is anointed through union with the Word, as the Christology of the Palestinian Isochristoi that the anathemas summarise. Page 156 of the 1962 book, as quoted by Ramelli; not shown to discuss this chapter by number.",
+     "side": "reads the anathemas as describing Evagrius's own system",
+     "status": "S",
+     "source_url": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf"
+    },
+    {
+     "scholar": "Daniel J. Castellano",
+     "work": "Web essay 'Origen and Origenism, Part III' (2013), as described in the first passage",
+     "position": "Says the eighth anathema quotes this chapter 'verbatim': 'that one on account of this one is the Christ, and this one on account of that one is God' (his rendering of 4.18).",
+     "side": "reads the anathema as quoting Evagrius",
+     "status": "S",
+     "source_url": "https://arcaneknowledge.org/catholic/origen3.htm"
+    },
+    {
+     "scholar": "Brian Daley",
+     "work": "The Hope of the Early Church (Cambridge, 1991), as reported by Fr Aidan Kimel (2020)",
+     "position": "Describes the target of the anathemas as a radicalised Evagrian Christology, going beyond what Origen or Gregory of Nyssa held. General position.",
+     "side": "reads the anathemas as aimed at a radicalised Evagrian system",
+     "status": "S",
+     "source_url": "https://afkimel.wordpress.com/2020/05/31/did-the-fifth-ecumenical-council-condemn-universal-salvation/"
+    },
+    {
+     "scholar": "Ilaria Ramelli",
+     "work": "SBL Press, 2015, Introduction, pp. xxv-xxvii (pages via a fetch-tool summary)",
+     "position": "Says Evagrius was 'perfectly orthodox' in Trinitarian matters and that his Christology is compatible with that orthodoxy (pp. xxv-xxvi), and that the anathemas hit later Origenists. I did not see her treat 4.18 itself.",
+     "side": "reads what was condemned as later Origenism, not Evagrius or Origen",
+     "status": "S",
+     "source_url": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf"
+    },
+    {
+     "scholar": "Augustine Casiday",
+     "work": "Reconstructing the Theology of Evagrius Ponticus (CUP, 2013), via BMCR 2014.04.38 and Peretó Rivas 2015",
+     "position": "If S1 is the original, the S2 chapter that matches the anathema is a later addition, and the 'Christ-mind' doctrine would be the sixth-century Origenists' rather than Evagrius's. General position.",
+     "side": "reads S2 as possibly a later, sixth-century expansion of S1",
+     "status": "S",
+     "source_url": "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf"
+    }
+   ],
+   "status": "S",
+   "source_urls": [
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.syr.1958.guillaumont-s2.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.syr.1958.guillaumont-s1.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.eng.1990.dysinger-s2.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.grc.2000.furrer-pilliod.xml",
+    "https://ccel.org/ccel/schaff/npnf214.xii.ix.html",
+    "https://arcaneknowledge.org/catholic/origen3.htm",
+    "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf",
+    "https://silouanthompson.net/?p=1271",
+    "https://afkimel.wordpress.com/2020/05/31/did-the-fifth-ecumenical-council-condemn-universal-salvation/",
+    "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf"
+   ]
+  },
+  {
+   "id": "evagrius-kg-4-80-anathema-9",
+   "title": "Who went down to the dead: Kephalaia Gnostica 4.80 beside the ninth anathema",
+   "author_work_ref": "Evagrius of Pontus, Kephalaia Gnostica 4.80 (Syriac S2; S1 for comparison). Paired with the ninth of the fifteen anathemas by Castellano (web essay); Guillaumont's own table not seen",
+   "language": "Syriac (translation of a lost Greek original); no Greek fragment of this chapter found",
+   "original": "S2: ܠܘ ܡܠܬܐ ܐܠܗܐ ܩܕܡܝܬ܇ ܢ̣ܚܬ ܠܫܝܘܠ ܘܣ̣ܠܩ ܠܫܡܝܐ. ܐܠܐ ܡܫܝܚܐ ܗ̇ܘ ܕܐܝܬ ܠܗ ܒܗ ܡܠܬܐ. ܦܓܪܐ ܓܝܪ ܫܚܝܡܐ ܠܝܬܘܗܝ ܡܩܒܠܢܐ ܕܝܕܥܬܐ. ܐܠܗܐ ܕܝܢ ܝܕܝܥܐ ܗܘ܀\nS1: ܡܚܬܬܗ ܕܡܪܢ ܕܠܫܝܘܠ ܘܡܣܩܬܗ ܕܠܘܬ ܐܒܐ܆ ܠܘ ܡܛܠܬܗ ܗ̣ܘܬ܆ ܐܠܐ ܡܛܠܬܢ. ܟܝܢܗ ܓܝܪ ܥܠ ܗܕܐ ܠܐ ܣܢܝܩ ܗܘܐ܆ ܐܠܐ ܚ̣ܘܒܗ ܒܠܚܘܕ ܥܠ ܗܕܐ ܐܣܢܩܗ܀",
+   "edition": "Guillaumont, Patrologia Orientalis 28.1 (Paris: Firmin-Didot, 1958); full citation in the first passage of this cluster. Page as marked in the digital transcription, not confirmed against the printed volume: S2 p. 171 (S1 p. 170).",
+   "checked_against": "As in the first passage of this cluster: digital transcription (TAN-Evagrius) of Guillaumont's S1 and S2, Dysinger's public-domain English of S2, NPNF anathema fragments read through a fetch tool; no comparison with the printed volumes or a scan, so status S. Syriac copied by script, no letters altered. Greek text of the anathemas not obtained.",
+   "english": "Anathema 9 (NPNF; quoted fragment as returned by the fetch tool, rest my summary): '...that it was not the Divine Logos made man by taking an animated body...' The anathema condemns saying that the intelligence (nous), and not the Divine Logos, became man, descended into hell and ascended into heaven.\nKG 4.80, S2 (Dysinger, public domain): It is not the Word of God who descended to Sheol and ascended to Heaven, but the Christ, who has the Word [with]in Him; indeed, the coarse body is not receptive of knowledge, and God is known.\nKG 4.80, S1 (own translation from the Syriac): 'The descent of our Lord to Sheol and his ascent to the Father was not for his own sake but for ours. For his nature had no need of this; his love alone brought him to it.'",
+   "english_source": "S2: Luke Dysinger (public domain). S1 and anathema summary: own translation. The last verb of S1 (ʾasnqeh) is uncertain to me; 'brought him to it' is a guess at 'compelled' or 'led'.",
+   "textual_notes": "(1) The S2 Syriac has the adverb qadmāyt ('first, at first') after 'Word of God'; Dysinger's English leaves it out, and I cannot tell whether it qualifies 'Word of God' or the verbs. (2) S1 replaces the chapter. It keeps the descent and ascent but says nothing of who went down: Christ's love, not his nature's need, is the cause. (3) The pair is looser than 2.17 and 4.18: the anathema has an animated body and an intelligence; the chapter has a coarse body that cannot receive knowledge, and Christ as the one who has the Word within him.",
+   "why_it_matters": "The ninth anathema is about who the subject of Christ's descent is. S2 gives Evagrius an answer that separates 'Christ' (the anointed mind) from 'the Word'; S1 hides the question. Whether the answer is Evagrius's own or a later hand's is the S1/S2 dispute in small.",
+   "readings": [
+    {
+     "scholar": "Antoine Guillaumont",
+     "work": "1962 book, p. 156 (via Ramelli 2015, p. xxxvii n. 96); 1961 Studia Patristica article",
+     "position": "Same general reading as for the other pairs: the anathemas condense Evagrius's Christology. I did not see him treat 4.80 by number.",
+     "side": "reads the anathemas as describing Evagrius's own system",
+     "status": "S",
+     "source_url": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf"
+    },
+    {
+     "scholar": "Daniel J. Castellano",
+     "work": "Web essay 'Origen and Origenism, Part III' (2013), as described in the first passage",
+     "position": "Says Evagrius teaches 'that only Christ, not the Word of God, descended to Sheol and ascended to Heaven', citing KG 4.80, and links it to the ninth anathema.",
+     "side": "reads the anathema as quoting Evagrius",
+     "status": "S",
+     "source_url": "https://arcaneknowledge.org/catholic/origen3.htm"
+    },
+    {
+     "scholar": "Ilaria Ramelli",
+     "work": "SBL Press, 2015, Introduction, pp. xxv-xxvii (pages via a fetch-tool summary)",
+     "position": "Denies that the doctrine condemned was Evagrius's own, and rejects an 'isochristic' reading of his Christology (pp. xxvi-xxvii, xxxvii). Does not, as far as I saw, discuss this chapter.",
+     "side": "reads what was condemned as later Origenism, not Evagrius or Origen",
+     "status": "S",
+     "source_url": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf"
+    },
+    {
+     "scholar": "Augustine Casiday",
+     "work": "Reconstructing the Theology of Evagrius Ponticus (CUP, 2013), via BMCR 2014.04.38 and Peretó Rivas 2015",
+     "position": "S2 would be later than S1, so this S2-only distinction between Christ and the Word would not be Evagrius's. General position.",
+     "side": "reads S2 as possibly a later, sixth-century expansion of S1",
+     "status": "S",
+     "source_url": "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf"
+    }
+   ],
+   "status": "S",
+   "source_urls": [
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.syr.1958.guillaumont-s2.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.syr.1958.guillaumont-s1.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.eng.1990.dysinger-s2.xml",
+    "https://ccel.org/ccel/schaff/npnf214.xii.ix.html",
+    "https://arcaneknowledge.org/catholic/origen3.htm",
+    "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf",
+    "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf"
+   ]
+  },
+  {
+   "id": "evagrius-kg-5-11-anathema-5",
+   "title": "Angels, souls, men and demons in one cycle: Kephalaia Gnostica 5.11 beside the fifth anathema",
+   "author_work_ref": "Evagrius of Pontus, Kephalaia Gnostica 5.11 (Syriac S2; S1 for comparison). Paired with the fifth of the fifteen anathemas by Castellano (web essay); Guillaumont's own table not seen",
+   "language": "Syriac (translation of a lost Greek original); no Greek fragment of this chapter found",
+   "original": "S2: ܡܢ ܛܟܣܐ ܕܡܠܐܟ̈ܐ܆ ܛܟܣܐ ܕܪ̈ܒܝ ܡܠܐܟ̈ܐ ܘܕܢܦ̈ܫܢܐ ܗ̇ܘܐ. ܡܢ ܕܢܦ̈ܫܢܐ ܕܝܢ܆ ܕܫܐܕ̈ܐ ܘܕܒܢܝ̈ܢܫܐ. ܡܢ ܕܒܢܝ̈ܢܫܐ ܕܝܢ܆ ܡܠܐܟ̈ܐ ܬܘܒ ܘܫܐܕ̈ܐ ܗ̇ܘܝܢ. ܐܢ ܗ̣ܘ ܕܫܐܕܐ ܐܝܬܘܗܝ܆ ܗ̇ܘ ܕܡܛܠ ܝܬܝܪܘܬܐ ܕܚ̣ܡܬܐ ܢ̣ܦܠ ܡܢ ܦܘܠܚܢܐ܇ ܘܥܡ ܓܘܫܡܐ ܚܫܝܟܐ ܘܡܬܝܚܐ ܐܬܟܕܢ܀\nS1: ܡܢ ܬܩܢܘܬܐ ܕܡܠܐܟ̈ܐ܆ ܠܕܘܒܪܐ ܐܢܫܝܐ ܡܫܬܪ̈ܓܠܝܢ ܒܢܝ̈ܢܫܐ. ܘܡܢܗ ܬܘܒ܆ ܠܫܦ̣ܠܐ ܕܫܐܕ̈ܐ ܡܬܬܚܬܝܢ. ܡܐ ܕܝܢ ܕܥ̇ܛܦܝܢ ܠܡܣܩ܆ ܥܠ ܕܪ̈ܓܐ ܕܢ̣ܦܠܘ ܡܢܗܘܢ ܥ̇ܒܪܝܢ܀",
+   "edition": "Guillaumont, Patrologia Orientalis 28.1 (Paris: Firmin-Didot, 1958); full citation in the first passage of this cluster. Page as marked in the digital transcription, not confirmed against the printed volume: S2 p. 181 (S1 p. 180).",
+   "checked_against": "As in the first passage of this cluster: digital transcription (TAN-Evagrius) of Guillaumont's S1 and S2, Dysinger's public-domain English of S2, NPNF anathema fragments read through a fetch tool; no comparison with the printed volumes or a scan, so status S. Syriac copied by script, no letters altered. Greek text of the anathemas not obtained.",
+   "english": "Anathema 5 (NPNF; quoted fragment as returned by the fetch tool, rest my summary): 'If anyone shall say that a psychic (ψυχικὴν) condition has come from an angelic or archangelic state...' The anathema condemns the teaching that rational beings pass from angelic to psychic to demonic or human states, and back again.\nKG 5.11, S2 (Dysinger, public domain): From the order of angels come the order of archangels and that of psychics; from that of psychics (will come that) of demons and of men; and from that of men will come anew that of angels and demons, if a demon is that which, because of an abundance of thumos, has fallen the praktike and has been joined to a darkened and extensive body.\nKG 5.11, S1: not given in a close translation. As I read it, S1 speaks of the ordering of the angels training men in human conduct, of demons being brought down, and of those who strive upward passing over the ranks from which they fell. The cycle angels, archangels, souls, demons and men, then angels again, is not there (own gist; Syriac partly uncertain).",
+   "english_source": "S2: Luke Dysinger (public domain). S1 gist and anathema summary: own.",
+   "textual_notes": "(1) 'Psychics' in Dysinger is Syriac napšānē, 'soul-beings': the order of souls between archangels and men. The anathema's Greek word is ψυχική. (2) S1 here is a different sentence, not a softened one, and I am not confident of several Syriac words in it (tuqqānā, dubbārā, the verb ʿṭpyn). Treat my gist as a pointer to the Syriac, not a translation. (3) Evagrius's own clause, 'if a demon is that which ... has fallen from praktikē', is a conditional; the anathema states the cycle as flat doctrine.",
+   "why_it_matters": "The fifth anathema is the doctrine that souls move up and down between the ranks of angels, men and demons. This chapter is where Evagrius states it in S2, in the same order as the anathema.",
+   "readings": [
+    {
+     "scholar": "Antoine Guillaumont",
+     "work": "1962 book, p. 156 (via Ramelli 2015, p. xxxvii n. 96); 1961 Studia Patristica article",
+     "position": "Counts the anathemas on the ranks of rational beings as drawn from Evagrian cosmology. Not shown to discuss 5.11 by number.",
+     "side": "reads the anathemas as describing Evagrius's own system",
+     "status": "S",
+     "source_url": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf"
+    },
+    {
+     "scholar": "Daniel J. Castellano",
+     "work": "Web essay 'Origen and Origenism, Part III' (2013), as described in the first passage",
+     "position": "Cites KG 5.11 and 2.78 for the fifth anathema and says the anathema condemns the cycle of orders ('From the order of the angels and from the order of archangels comes the order of souls').",
+     "side": "reads the anathema as quoting Evagrius",
+     "status": "S",
+     "source_url": "https://arcaneknowledge.org/catholic/origen3.htm"
+    },
+    {
+     "scholar": "Luke Dysinger",
+     "work": "Introductory note to his translation; the anathema sentence via the Silouan Thompson blog (2019)",
+     "position": "Reads the later anathemas as taking doctrines from the Kephalaia. Chapter not named.",
+     "side": "reads the anathemas as drawing on Evagrius's text",
+     "status": "S",
+     "source_url": "https://silouanthompson.net/?p=1271"
+    },
+    {
+     "scholar": "Ilaria Ramelli",
+     "work": "SBL Press, 2015, Introduction, pp. xxv-xxvii (pages via a fetch-tool summary)",
+     "position": "Holds that Evagrius is 'an Origenian ... more than an Origenist' (p. xxv) and that the condemned system was a later one. Chapter not discussed in what I could see.",
+     "side": "reads what was condemned as later Origenism, not Evagrius or Origen",
+     "status": "S",
+     "source_url": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf"
+    },
+    {
+     "scholar": "Augustine Casiday",
+     "work": "Reconstructing the Theology of Evagrius Ponticus (CUP, 2013), via BMCR 2014.04.38 and Peretó Rivas 2015",
+     "position": "Reads the S2-only cosmology as possibly later than Evagrius. General position.",
+     "side": "reads S2 as possibly a later, sixth-century expansion of S1",
+     "status": "S",
+     "source_url": "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf"
+    }
+   ],
+   "status": "S",
+   "source_urls": [
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.syr.1958.guillaumont-s2.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.syr.1958.guillaumont-s1.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.eng.1990.dysinger-s2.xml",
+    "https://ccel.org/ccel/schaff/npnf214.xii.ix.html",
+    "https://arcaneknowledge.org/catholic/origen3.htm",
+    "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf",
+    "https://silouanthompson.net/?p=1271",
+    "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf"
+   ]
+  },
+  {
+   "id": "evagrius-kg-3-15-anathema-11",
+   "title": "A naked mind before the Trinity: Kephalaia Gnostica 3.15 beside the eleventh anathema",
+   "author_work_ref": "Evagrius of Pontus, Kephalaia Gnostica 3.15, with 3.66 and 3.68 (Syriac S2; S1 for comparison). Paired with the eleventh of the fifteen anathemas by Castellano (web essay); Guillaumont's own table not seen",
+   "language": "Syriac (translation of a lost Greek original); no Greek fragment of these chapters found",
+   "original": "S2 3.15: ܐܢܗ̣ܘ ܕܫܘܡܠܝܗ ܕܗܘܢܐ: ܝܕܥܬܐ ܗܝ ܕܠܐ ܗܘܠܐ ܐܝܟ ܕܐܡ̇ܪܝܢ: ܝܕܥܬܐ ܕܝܢ ܕܠܐ ܗܘܠܐ ܬܠܝܬܝܘܬܐ ܗܝ ܒܠܚܘܕ܆ ܝܕܝܥܐ ܗܝ ܕܒܫܘܡܠܝܐ܆ ܘܠܐ ܡܕܡ ܡܢ ܗܘܠܐ ܡܟ̇ܬܪ. ܘܐܢ ܗܕܐ ܗܟܢܐ ܗܝ܆ ܗܘܢܐ ܡܟܝܠ ܥܪܛܠܝܐ ܢܗܘܐ ܚܙ̇ܝܐ ܕܬܠܝܬܝܘܬܐ܀\nS1 3.15: ܐܢܗ̣ܘ ܕܫܘܡܠܝܗ ܕܗܘܢܐ: ܝܕܥܬܐ ܗܝ ܕܪܘܚ ܐܝܟ ܕܐܡ̇ܪܝܢ ܐܒܗ̈ܬܐ: ܕܟܠܝܠܗ ܐܝܬܘܗܝ ܝܕܥܬܐ ܕܬܠܝܬܝܘܬܐ ܩܕܝܫܬܐ܆ ܝܕܝܥܐ ܗܝ܆ ܕܐܝܢܐ ܕܡܢ ܗܠܝܢ ܚܣܝܪ܆ ܡܒ̣ܥܕ ܗܘ ܡܢ ܫܘܡܠܝܐ܀\n(S2 3.66 in Syriac, not copied here: see the file.)",
+   "edition": "Guillaumont, Patrologia Orientalis 28.1 (Paris: Firmin-Didot, 1958); full citation in the first passage of this cluster. Page as marked in the digital transcription, not confirmed against the printed volume: 3.15: S2 p. 103 (S1 p. 102).",
+   "checked_against": "As in the first passage of this cluster: digital transcription (TAN-Evagrius) of Guillaumont's S1 and S2, Dysinger's public-domain English of S2, NPNF anathema fragments read through a fetch tool; no comparison with the printed volumes or a scan, so status S. Syriac copied by script, no letters altered. Greek text of the anathemas not obtained.",
+   "english": "Anathema 11 (NPNF; quoted fragment as returned by the fetch tool, rest my summary): 'If anyone shall say that the future judgment signifies the destruction of the body...' The anathema condemns teaching that the end of all things is a purely immaterial nature.\nKG 3.15, S2 (Dysinger, public domain): If the perfection of the nous is immaterial knowledge, as it is said, and if immaterial knowledge is solely the Trinity, it is evident that in perfection there will not remain anything of matter. And if that is so, the nous, forevermore naked will come to vision of the Trinity.\nKG 3.66, S2 (Dysinger): Just as the first trumpet has made known the genesis of bodies, so in the same way will ‘the last trumpet’ make known the destruction of bodies.\nKG 3.15, S1 (own translation from the Syriac, provisional): 'If the perfection of the mind is knowledge of spirit, as the Fathers say, and its crown is knowledge of the holy Trinity, it is evident that whoever lacks any of this is far from perfection.'",
+   "english_source": "S2: Luke Dysinger (public domain). S1 and anathema summary: own translation ('crown' for kelīlā is a guess; it may mean 'complete').",
+   "textual_notes": "(1) S2 says 'immaterial knowledge' (yāʿūtā lā hūlānītā, 'knowledge without matter') where S1 says 'knowledge of spirit' (yāʿūtā d-rūḥā) and appeals to 'the Fathers'. S2's last clause, that the mind will 'henceforth be a naked seer of the Trinity', has no counterpart in S1. (2) The destruction of bodies in 3.66 (S2) uses the same noun ḥablā ('ruin') that 2.17 uses of worlds. (3) The eleventh anathema is about the judgment, and Evagrius's chapters speak of the final contemplation; the match is thematic, not verbal.",
+   "why_it_matters": "The idea that bodies drop away and the mind ends 'naked' before the Trinity is the heart of the eleventh anathema. Whether it is Evagrius's (S2) or a sixth-century addition (S1 original) bears directly on whom that anathema condemns.",
+   "readings": [
+    {
+     "scholar": "Daniel J. Castellano",
+     "work": "Web essay 'Origen and Origenism, Part III' (2013), as described in the first passage",
+     "position": "Pairs 3.15 with the eleventh and twelfth anathemas and quotes it as 'There will remain only the naked nous in contemplation of the Unity' (his paraphrase; Dysinger's wording differs).",
+     "side": "reads the anathema as quoting Evagrius",
+     "status": "S",
+     "source_url": "https://arcaneknowledge.org/catholic/origen3.htm"
+    },
+    {
+     "scholar": "Antoine Guillaumont",
+     "work": "1962 book, p. 156 (via Ramelli 2015, p. xxxvii n. 96); 1961 Studia Patristica article",
+     "position": "Counts Evagrius's picture of the end, with the mind alone before the Trinity, among the doctrines the anathemas condense. Not shown to discuss 3.15 by number.",
+     "side": "reads the anathemas as describing Evagrius's own system",
+     "status": "S",
+     "source_url": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf"
+    },
+    {
+     "scholar": "Ilaria Ramelli",
+     "work": "SBL Press, 2015, Introduction, pp. xxv-xxvii (pages via a fetch-tool summary)",
+     "position": "Defends Evagrius's orthodoxy on the Trinity and holds that the condemned end-of-bodies teaching belongs to the later Origenists (pp. xxv-xxvii). Chapter not discussed in what I could see.",
+     "side": "reads what was condemned as later Origenism, not Evagrius or Origen",
+     "status": "S",
+     "source_url": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf"
+    },
+    {
+     "scholar": "Augustine Casiday",
+     "work": "Reconstructing the Theology of Evagrius Ponticus (CUP, 2013), via BMCR 2014.04.38 and Peretó Rivas 2015",
+     "position": "Reads the S2 'naked mind' clause as likely later. General position.",
+     "side": "reads S2 as possibly a later, sixth-century expansion of S1",
+     "status": "S",
+     "source_url": "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf"
+    }
+   ],
+   "status": "S",
+   "source_urls": [
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.syr.1958.guillaumont-s2.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.syr.1958.guillaumont-s1.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.eng.1990.dysinger-s2.xml",
+    "https://ccel.org/ccel/schaff/npnf214.xii.ix.html",
+    "https://arcaneknowledge.org/catholic/origen3.htm",
+    "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf",
+    "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf"
+   ]
+  },
+  {
+   "id": "evagrius-kg-2-64-69-s1-s2-greek",
+   "title": "Beings before the judgment: where S1, S2 and a Greek quotation meet (Kephalaia Gnostica 2.64 and 2.69)",
+   "author_work_ref": "Evagrius of Pontus, Kephalaia Gnostica 2.64 and 2.69; Greek preserved in Barsanuphius and John of Gaza, Letters (2.64 under letter marker 600)",
+   "language": "Syriac S2 and S1; Greek quotation",
+   "original": "Greek 2.64 (second half only): Περὶ μὲν τῶν προτέρων ὁ μηνύσων οὐδείς, περὶ δὲ τῶν δευτέρων ὁ ἐν Χωρὴβ ἐξηγήσατο.\nGreek 2.69: Τὸ Πνεῦμα τὸ ἅγιον οὐ τὴν πρώτην τῶν λογικῶν διαίρεσιν, οὐδὲ τὴν πρώτην οὐσίαν τῶν σωμάτων ἐξηγήσατο.\nSyriac S2 2.64: ܡܢܗܘܢ ܕܗܘܝ̈ܐ ܩܕܡ ܕܝܢ̣ܐ܆ ܘܡܢܗܘܢ ܒܬܪ ܕܝ̣ܢܐ ܗ̣ܘܘ. ܘܥܠ ܩܕܡܝ̈ܐ ܐܢܫ ܠܐ ܐܘܕܥ. ܥܠ ܬܪ̈ܝܢܐ ܕܝܢ ܗ̇ܘ ܕܒܚܘܪܝܒ ܐܫܬܥ̇ܝ܀\nSyriac S1 2.64: ܓܠܝܢܐ ܕܟܠ ܡܕܡ ܕܗ̣ܘܐ܆ ܠܐ ܟܬܝܒܐ ܗܘ ܘܟܬܝܒܐ. ܠܐ ܟܬܝܒܐ܆ ܗ̇ܘ ܕܡܢ ܪܘܚܐ ܠ̇ܗܘܢܐ ܡܬܓ̣ܠܐ. ܟܬܝܒܐ ܕܝܢ܆ ܗ̇ܘ ܕܒܝܕ ܪܘܚܐ ܒܚܘܪܝܒ ܐܬܝܗܒ܀\n(Syriac of 2.69 in both versions is in the two files; not copied here.)",
+   "edition": "Syriac: Guillaumont, PO 28.1 (1958), 2.64: S2 p. 87, S1 p. 84 (page markers of the digital file, not confirmed). Greek: Barsanuphe et Jean de Gaza, Correspondance, ed. François Neyt and Paula de Angelis-Noah, Sources chrétiennes 450-451 (Paris: Cerf, 2000); 2.64 is under letter 600 in the TAN file, so in SC 451; page and line not confirmed.",
+   "checked_against": "Syriac and English as for the other KG passages (digital transcription of Guillaumont's text, Dysinger's translation). Greek copied from the TAN-Evagrius file cpg2432.grc.1997.from-cpg7350.xml, whose header says it was transcribed by Luke Dysinger from the Sources chrétiennes edition and corrected by Joel Kalvesmaki against the TLG. Not compared with the printed SC volume. Status S.",
+   "english": "KG 2.64, S2 (Dysinger, public domain): Among the beings some have been produced before the judgement, and others after the judgement. And as regards the subject of the first [beings], no one has provided information, but as regards the subject of the second [beings], he who has been on Horeb has given an account.\nKG 2.64, Greek (own translation): 'Concerning the first, there is no one to inform; concerning the second, the one on Horeb explained.'\nKG 2.64, S1 (own translation from the Syriac): 'The revelation of everything that has come to be is both unwritten and written. The unwritten is what is revealed to the mind by the Spirit; the written is what was given by the Spirit on Horeb.'\nKG 2.69, S2 (Dysinger): It is not the first distinction of the logikoi and the genesis of bodies that the Holy Spirit has made know to us; but it is, rather, the present distinction between the logikoi and the transformation of bodies that He has revealed us.\nKG 2.69, Greek (own translation): 'The Holy Spirit did not explain the first division of the rational beings, nor the first substance of bodies.'\nKG 2.69, S1 (own translation, provisional): 'The Holy Spirit through Moses revealed to us nothing about heavenly distinctions, but investigated for us the distinctions of beings in this world.'",
+   "english_source": "S2: Luke Dysinger (public domain). Greek, S1: own translations; compare Ramelli 2015 for S2.",
+   "textual_notes": "(1) S1 and S2 give two different chapters under 2.64. S2 says some beings were produced 'before the judgment' and others 'after', and that Moses (the one on Horeb) wrote only of the second. S1 says nothing of a judgment or of two kinds of beings; it speaks of written and unwritten revelation. (2) The Greek quotation preserves only the second half of 2.64, and it agrees with the S2 half; S1 has nothing like it. The same holds for 2.69: the Greek ('the first division of the rational beings') matches S2, while S1 speaks of 'heavenly distinctions'. (3) The Greek is a quotation in the sixth-century letter-collection of Barsanuphius and John of Gaza. It therefore shows S2-type wording in Greek by the time of the second controversy; it cannot show what Evagrius wrote in the 390s. Ramelli (Brill 2019) notes the Kephalaia in this correspondence; I did not see her treat 2.64. (4) A third case with Greek: KG 6.16. Greek (Furrer-Pilliod 2000) has 'Christ is he who appeared to us (ἡμῖν ἐπιφανείς)... two Christs, or two Sons'. S2 has 'appeared to us' and 'or'; S1 has 'came down to the race of men' and 'and'. I checked this one only against the digital files.",
+   "why_it_matters": "This is the clearest small test of the S1/S2 question. In the three cases I checked where a Greek quotation survives next to differing S1 and S2 wordings (2.64, 2.69, 6.16), the Greek sides with S2. Where S1 and S2 do not differ (for example KG 3.12) the Greek proves nothing either way. Guillaumont's argument rests on a few dozen cases like this. The objection (Casiday) is that the Greek covers little and may itself come from Origenist circles.",
+   "readings": [
+    {
+     "scholar": "Antoine Guillaumont",
+     "work": "Les six centuries des 'Kephalaia gnostica', PO 28.1 (1958); Collège de France, Annuaire (c. 1980-81), report on his teaching (page not known)",
+     "position": "S1 is a revision that 'a corrigé le texte pour en faire disparaître, ou du moins atténuer le plus possible, les propositions incriminées'; S2 is 'une seconde version syriaque, dont l'auteur a cherché à rétablir le texte dans sa teneur originale'. His chief proof is the Greek fragments (about 75 sentences, per Peretó Rivas), where S2 is consistently the closer.",
+     "side": "S2 is original; S1 is expurgated",
+     "status": "S",
+     "source_url": "https://www.college-de-france.fr/sites/default/files/media/document/2023-02/AN_80_guillaumont.pdf"
+    },
+    {
+     "scholar": "Luke Dysinger",
+     "work": "Note to his English translation of the Kephalaia (reproduced in the TAN-Evagrius file)",
+     "position": "Says the surviving Greek fragments 'uniformly attest to the priority of the S2 version', and that the expurgated S1 appeared 'very quickly, possibly anticipating by several decades the anathemas of 543 and 553', with an Armenian translation of S1 perhaps made in the fifth century.",
+     "side": "S2 is original; S1 is expurgated",
+     "status": "V",
+     "source_url": "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.eng.1990.dysinger-s2.xml"
+    },
+    {
+     "scholar": "Augustine Casiday",
+     "work": "Reconstructing the Theology of Evagrius Ponticus (CUP, 2013), via BMCR 2014.04.38 and Peretó Rivas 2015",
+     "position": "Argues S1 is original and S2 a later radicalising reworking: no contemporary source ties Evagrius to the first Origenist controversy; nothing suggests his works needed expurgating before the sixth century; the Armenian version, about 450, rests on S1; S2 fits the Origenists of about 540.",
+     "side": "reads S2 as possibly a later, sixth-century expansion of S1",
+     "status": "S",
+     "source_url": "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf"
+    },
+    {
+     "scholar": "Rubén Peretó Rivas",
+     "work": "La Kephálaia gnóstica de Evagrio Póntico: sus dos versiones y la discusión contemporánea, Stylos 24 (2015), pp. 197-201",
+     "position": "Reports both sides and finds Casiday's case the stronger, because the Greek comparison covers only a small part of the work.",
+     "side": "S2 is open to doubt",
+     "status": "S",
+     "source_url": "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf"
+    },
+    {
+     "scholar": "Ilaria Ramelli",
+     "work": "Evagrius's Kephalaia Gnostika (SBL Press, 2015), Introduction, pp. xx-xxiii",
+     "position": "Follows Guillaumont in treating S2 as original and S1 as expurgated, and so translates S2; she doubts Casiday's alternative. She also notes that no surviving Greek fragment can be dated before the second Origenist controversy.",
+     "side": "S2 is original; S1 is expurgated",
+     "status": "S",
+     "source_url": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf"
+    },
+    {
+     "scholar": "Marek Misiarczyk",
+     "work": "Vox Patrum 65 (2016) (abstract)",
+     "position": "Suggests S2 may be contaminated by sixth-century Origenism and S1 may be nearer the original.",
+     "side": "S2 is open to doubt",
+     "status": "S",
+     "source_url": "https://doaj.org/article/98e75cc7b27d437583ae337c34d2c8a2"
+    }
+   ],
+   "status": "S",
+   "source_urls": [
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.syr.1958.guillaumont-s2.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.syr.1958.guillaumont-s1.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.eng.1990.dysinger-s2.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.grc.1997.from-cpg7350.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.grc.2000.furrer-pilliod.xml",
+    "https://www.college-de-france.fr/sites/default/files/media/document/2023-02/AN_80_guillaumont.pdf",
+    "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf",
+    "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf",
+    "https://bmcr.brynmawr.edu/?p=30334",
+    "https://doaj.org/article/98e75cc7b27d437583ae337c34d2c8a2",
+    "https://afkimel.wordpress.com/wp-content/uploads/2026/01/ilaria-ramelli-on-second-council-of-constantinople.pdf"
+   ]
+  },
+  {
+   "id": "evagrius-kg-5-81-s1-s2",
+   "title": "When the mind is called God: Kephalaia Gnostica 5.81 in S1 and S2",
+   "author_work_ref": "Evagrius of Pontus, Kephalaia Gnostica 5.81 (Syriac S2 and S1)",
+   "language": "Syriac (translation of a lost Greek original); no Greek fragment of this chapter found",
+   "original": "S2: ܐܡܬܝ ܕܗܘܢܐ ܢܩ̇ܒܠ ܝܕܥܬܐ ܐܝܬܝܝܬܐ܆ ܗܝܕܝܢ ܐܦ ܐܠܗܐ ܢܬܩܪܐ. ܒܕܡܫܟܚ ܐܦ ܥܠܡ̈ܐ ܡܫܚܠܦ̈ܐ ܢ̇ܬܩܢ܀\nS1: ܡܐ ܕܗܘܢܐ ܐܫ̣ܬܘܝ ܠܡܗܘܐ ܒܬܐܘܪܝܐ ܕܝܚܝܕܝܘܬܐ ܩܕܝܫܬܐ܆ ܗܝܕܝܢ ܒܛܝܒܘܬܐ ܐܦ ܐܠܗܐ ܡܬܩܪܐ. ܒܗ̇ܝ ܕܐܫܬܡܠܝ ܒܨܠܡܐ ܕܒܪܘܝܗ܀",
+   "edition": "Guillaumont, Patrologia Orientalis 28.1 (Paris: Firmin-Didot, 1958); full citation in the first passage of this cluster. Page as marked in the digital transcription, not confirmed against the printed volume: S2 p. 211 (S1 p. 210).",
+   "checked_against": "As in the first passage of this cluster: digital transcription (TAN-Evagrius) of Guillaumont's S1 and S2, Dysinger's public-domain English of S2, NPNF anathema fragments read through a fetch tool; no comparison with the printed volumes or a scan, so status S. Syriac copied by script, no letters altered. Greek text of the anathemas not obtained.",
+   "english": "S2 (Dysinger, public domain): When the nous will have received essential knowledge, then it will also be called \"God\" , because it will also be able to found varied worlds.\nS1 (own translation from the Syriac): 'When the mind has been made worthy to be in the contemplation of the holy Unity, then in goodness it is also called God, in that it has been filled with the image of its Creator.'",
+   "english_source": "S2: Luke Dysinger (public domain). S1: own translation; ܒܛܝܒܘܬܐ (b-ṭaybūtā) can be 'in goodness' or 'by grace'.",
+   "textual_notes": "(1) The two versions say different things. S2: the mind that has received 'essential knowledge' will be called God because it can also 'found varied worlds'. S1: the mind that contemplates the holy Unity is called God by grace, because it is filled with the image of its Creator. Creating worlds, and 'essential' (substantial) knowledge, are both absent from S1. (2) 'Essential knowledge' (yāʿūtā ʾītāyāytā) is Evagrius's term for the knowledge of the Trinity itself; Greek fragments elsewhere give οὐσιώδης γνῶσις (for example KG 3.12, 6.16). (3) I mark this chapter as bearing on the twelfth and thirteenth anathemas (minds made equal to Christ and the Word) by my own judgement; I did not find a scholar who pairs it with an anathema.",
+   "why_it_matters": "The phrase 'will be called God' is the most quoted S2-only line on how far Evagrius takes the mind's destiny. It is the case readers cite when they ask whether Evagrius taught that minds become equal to Christ, and the S1 editor's change shows someone in antiquity thought it needed softening.",
+   "readings": [
+    {
+     "scholar": "Konstantinovsky",
+     "work": "Evagrius Ponticus: The Making of a Gnostic (Farnham: Ashgate, 2009), as cited by Santiago Hernán Vazquez, Estudios Filosóficos 68 (2019), nn. 4 and 70, pp. 345 and 357",
+     "position": "The intellect can attain essential (substantial) knowledge, which seems synonymous with God's essence, but never becomes that essence.",
+     "side": "reads the S2 language as union by knowledge, not identity of nature",
+     "status": "S",
+     "source_url": "https://estudiosfilosoficos.dominicos.org/ojs/article/download/1342/4192"
+    },
+    {
+     "scholar": "Ilaria Ramelli",
+     "work": "SBL Press, 2015, Introduction, pp. xxv-xxvii (pages via a fetch-tool summary)",
+     "position": "Describes Evagrius as 'an Origenian, ... more than an Origenist' and 'perfectly orthodox' on the Trinity; treats the 'isochristic' reading of his end as a later development (pp. xxv-xxvii, xxxvii). I did not see her treat 5.81 by number.",
+     "side": "reads what was condemned as later Origenism, not Evagrius or Origen",
+     "status": "S",
+     "source_url": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf"
+    },
+    {
+     "scholar": "Luke Dysinger",
+     "work": "Note to his English translation of the Kephalaia (reproduced in the TAN-Evagrius file)",
+     "position": "Says the expurgated S1 is a re-editing of Evagrius's text 'in which all passages suggestive of controversial Origenist doctrine had either been eliminated or modified'. Chapter 5.81 is not named; it fits the description.",
+     "side": "S2 is original; S1 is expurgated",
+     "status": "V",
+     "source_url": "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.eng.1990.dysinger-s2.xml"
+    },
+    {
+     "scholar": "Augustine Casiday",
+     "work": "Reconstructing the Theology of Evagrius Ponticus (CUP, 2013), via BMCR 2014.04.38 and Peretó Rivas 2015",
+     "position": "If S2 is the later text, the 'founding of worlds' clause is the Origenists' addition. General position.",
+     "side": "reads S2 as possibly a later, sixth-century expansion of S1",
+     "status": "S",
+     "source_url": "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf"
+    }
+   ],
+   "status": "S",
+   "source_urls": [
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.syr.1958.guillaumont-s2.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.syr.1958.guillaumont-s1.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.eng.1990.dysinger-s2.xml",
+    "https://estudiosfilosoficos.dominicos.org/ojs/article/download/1342/4192",
+    "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf",
+    "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf",
+    "https://www.college-de-france.fr/sites/default/files/media/document/2023-02/AN_80_guillaumont.pdf"
+   ]
+  },
+  {
+   "id": "evagrius-melania-22-23",
+   "title": "Names and numbers taken away, hypostases kept: Letter to Melania (the Great Letter), sections 22-23",
+   "author_work_ref": "Evagrius of Pontus, Letter to Melania (the Great Letter; CPG 2438), sections 22 and 23, preserved only in Syriac",
+   "language": "Syriac, with Frankenberg's Greek retroversion",
+   "original": "Syriac §22: ܘܐܝܟܢܐ ܕܐܝܬ ܐܡܬܝ ܕܢܫܩܠܘܢ ܗܠܝܢ ܫܡܗ̈ܐ ܘܡܢܝ̈ܢܐ: ܘܡܢ ܒܝܬ ܦܓܪܐ ܠܢܦܫܐ ܘܠܗܘܢܐ: ܒܗܝ ܕܡܬܥܠܝܢ ܠܗܘܢ ܠܛܟܣܐ ܕܗܘܢܐ: ܡܛܠ ܗܝ ܕܗܒ ܠܗܘܢ ܕܢܗܘܘܢ ܒܢ ܚܕ: ܐܝܟܢܐ ܕܐܢܐ ܘܐܢܬ ܚܕ ܚܢܢ܆ ܗܟܢܐ ܐܝܬ ܐܡܬܝ ܕܢܫܬܩܠܘܢ ܫܡܗ̈ܐ ܘܡܢܝ̈ܢܐ: ܡܢ ܒܝܬ ܐܒܐ ܠܒܪܗ ܘܠܪܘܚܗ ܘܠܒܪܝܬܗ ܡܠܝܠܬܐ ܕܐܝܬܝܗ̇ ܦܓܪܗ: ܡܛܠ ܗܝ ܕܢܗܘܐ ܐܠܗܐ ܟܠ ܒܟܠ.\nSyriac §23 (down to the damaged part): ܠܐ ܕܝܢ ܬܣܒܪ ܡܛܠ ܕܐܡܪܬ ܕܡܫܬܩܠܝܢ ܫܡܗ̈ܐ ܘܡܢܝ̈ܢܐ: ܡܢ ܒܝܬ ܒܪܝܬܐ ܡܠܝܠܬܐ ܠܒܪܘܝܗ: ܕܐܦ ܗܢܘܢ ܩܢܘ̈ܡܐ ܘܫܡ̈ܗܐ ܕܐܒܐ ܘܕܒܪܐ ܘܕܪܘܚܐ ܡܬܥܛܝܢ. ܐܠܐ ܐܝܟܢܐ ܕܟܝܢܗ ܕܗܘܢܐ ܡܬܚܝܕ ܒܟܝܢܗ ܕܐܒܐ ܒܕܐܝܬܘܗܝ ܦܓܪܗ܆ ܗܟܢܐ ܫܡܗ̈ܝ ܢܦܫܐ ܘܦܓܪܐ: ܡܬܒܠܥܝܢ ܒܩܢܘ̈ܡܐ ܕܒܪܐ ܘܕܪܘܚܐ. ܘܕܠܐ ܫܘܠܡ ܡܩܘܐ ܚܕ ܟܝܢܐ. ܬܠܬܐ ܩܢܘ̈ܡܝܢ ܕܐܠܗܐ ܘܕܨܠܡܗ.\nGreek retroversion §22: και ωσπερ εσται οτε ταυτα τα ονοματα και οι αριθμοι εκ μεσου αρθησονται του τε σωματος και της ψυχης και του νοος εν τωι αναγεσθαι εις το νοος αξιωμα (καταστασιν) δια το ινα εν ωσι καθως ημεις εν εσμεν , ουτως εσται οτε ονοματα και αριθμοι αρθησονται εκ μεσου του πατρος και του υιου αυτου και του πνευματος και της λογικης αυτου κτισεως ητις σωμα αυτου εστι, δια το ινα ηι ο θεος τα παντα εν πασι .",
+   "edition": "Wilhelm Frankenberg, Evagrius Ponticus (Abhandlungen der Königlichen Gesellschaft der Wissenschaften zu Göttingen, phil.-hist. Klasse, N.F. 13.2), Berlin: Weidmann, 1912, Syriac text of the Great Letter at about pp. 610-619 (page range from a secondary note, Baán 2022 n. 2; page and line of §§22-23 not confirmed); section numbers as in the digital file.",
+   "checked_against": "Digital transcription of Frankenberg's Syriac and of his Greek retroversion in Joel Kalvesmaki's TAN-Evagrius repository (cpg2438.syr.1912.frankenberg.xml and cpg2438.grc.1912.frankenberg.tan-tei.xml), read 2026-10-19; not compared with the printed volume or a scan. The Syriac is sound for §22; §23 is cut off in the manuscript at the end (the digital file shows dotted gaps, which I have kept out of the excerpt). The Greek is a modern retroversion from the Syriac and is not Evagrius's own Greek. Status S.",
+   "english": "Own translation, from the Syriac and checked against Frankenberg's Greek; provisional, since I read Syriac slowly and have not seen a specialist's check.\n§22: 'And as there will be a time when these names and numbers are taken away from between the body and the soul and the mind, in that they are raised into the rank of mind, because he gave that they should be one in us, as I and you are one, so there will be a time when names and numbers are taken away from between the Father and his Son and his Spirit and his rational creation, which is his body, so that God may be all in all.'\n§23: 'But do not suppose, because I said that names and numbers are taken away between the rational creation and its Creator, that the hypostases and names of the Father and the Son and the Spirit are hidden away too. Rather, as the nature of the mind is united with the nature of the Father, since it is his body, so the names of the soul and the body are swallowed up in the hypostases of the Son and of the Spirit, and one nature remains without end, three hypostases of God and of his image.'",
+   "english_source": "Own translation. Published English for comparison: Augustine Casiday, Evagrius Ponticus (London: Routledge, 2006), Letter to Melania; Martin Parmentier, 'Evagrius of Pontus' Letter to Melania', Bijdragen 46 (1985), 2-38. German: Gabriel Bunge, 1986.",
+   "textual_notes": "(1) 'From between': Syriac min bayt X l-Y is the idiom for 'between X and Y'; Frankenberg's Greek has ἐκ μέσου. A literal 'from the house of' would be wrong. (2) The Syriac says 'I and you are one' (John 17); Frankenberg's Greek has 'we'. (3) The phrase 'three hypostases of God and of his image' ends in a damaged place, and the last words of §23 are lost; do not build on them. (4) 'Hidden away' translates mtʿṭyn; Frankenberg's Greek has ἀφανίζονται, 'made to vanish'. (5) The sentence 'names and numbers will be taken away' is easy to read as the anathema's 'abolition of names'; §23 is Evagrius's own warning that this does not mean the three hypostases vanish. Readers differ on how far that warning governs the rest of the letter.",
+   "why_it_matters": "This letter is the text where Evagrius himself says that names and numbers will be taken away at the end. It is the passage most often set beside the fourteenth anathema, and it shows both what the later condemnation fastened on and what the letter itself guards against.",
+   "readings": [
+    {
+     "scholar": "Ilaria Ramelli",
+     "work": "SBL Press, 2015, Introduction, pp. xxv-xxvii (pages via a fetch-tool summary)",
+     "position": "Defends the letter against an 'isochristic' reading (p. xxxvii) and, as reported by Vazquez, reads its union of minds with God as rooted in concord of wills, not shared substance (nn. 23, 44, 50, pp. 349, 353-354). She cites Bunge's 1986 German translation (p. xxx n. 72).",
+     "side": "reads what was condemned as later Origenism, not Evagrius or Origen",
+     "status": "S",
+     "source_url": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf"
+    },
+    {
+     "scholar": "Santiago Hernán Vazquez",
+     "work": "Algunas precisiones sobre el concepto de monás en Evagrio Póntico..., Estudios Filosóficos 68 (2019), 125-143, pp. 353-354, n. 45",
+     "position": "Reads the Great Letter's image of rivers joining the sea as showing that the union of rational creatures with God adds nothing to the Godhead and does not make them consubstantial with God; it is a 'concordia de voluntades', with participation in God's nature by grace.",
+     "side": "reads the unity as union of will and grace",
+     "status": "S",
+     "source_url": "https://estudiosfilosoficos.dominicos.org/ojs/article/download/1342/4192"
+    },
+    {
+     "scholar": "Baán Izsák OSB",
+     "work": "Evagriosz Pontikosz levele Melániához, Sapientiana 15.1 (2022), 88-112, nn. 5 and 24",
+     "position": "Notes that pre-existence of souls and apokatastasis, both found in the letter, were later declared heretical by the Church in the sixth century. Note 24 sets §24's 'nature' and 'hypostasis' beside a non-pantheistic reading and cites Bunge's note 37 (p. 395); I could not see whose reading it is.",
+     "side": "finds the later-condemned themes in the letter",
+     "status": "S",
+     "source_url": "https://ojs.mtak.hu/index.php/sapientiana/article/download/21571/17821"
+    },
+    {
+     "scholar": "Antoine Guillaumont",
+     "work": "Collège de France, Annuaire (c. 1980-81), report on his teaching",
+     "position": "Calls the Letter to Melania Evagrius's most important letter, preserved in Syriac. I did not see what he says about §§22-23.",
+     "side": "no reading of these sections found",
+     "status": "S",
+     "source_url": "https://www.college-de-france.fr/sites/default/files/media/document/2023-02/AN_80_guillaumont.pdf"
+    }
+   ],
+   "status": "S",
+   "source_urls": [
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2438/cpg2438.syr.1912.frankenberg.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2438/cpg2438.grc.1912.frankenberg.tan-tei.xml",
+    "https://estudiosfilosoficos.dominicos.org/ojs/article/download/1342/4192",
+    "https://ojs.mtak.hu/index.php/sapientiana/article/download/21571/17821",
+    "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf",
+    "https://www.college-de-france.fr/sites/default/files/media/document/2023-02/AN_80_guillaumont.pdf"
+   ]
+  },
+  {
+   "id": "evagrius-melania-27-30",
+   "title": "Rivers in the sea: Letter to Melania, sections 27-30",
+   "author_work_ref": "Evagrius of Pontus, Letter to Melania (the Great Letter; CPG 2438), sections 27-30, preserved only in Syriac",
+   "language": "Syriac, with Frankenberg's Greek retroversion",
+   "original": "Syriac §29 (end): ܟܕ ܕܝܢ ܬܫܬܩܠ ܐܪܥܐ ܡܢ ܡܨܥܬܐ܆ ܚܕ ܗܘ ܝܡܐ ܘܢܗܪ̈ܘܬܐ ܕܠܐ ܫܘܚܠܦ. ܗܟܢܐ ܟܕ ܬܬܥܛܐ ܚܛܝܬܐ ܡܢ ܒܝܬ ܗܘ̈ܢܐ ܠܐܠܗܐ܆ ܚܕ ܐܢܘܢ ܘܠܐ ܣܓܝ̈ܐܐ.\nSyriac §30: ܠܐ ܕܝܢ ܡܛܠ ܕܐܡܪܬ: ܕܐܝܟ ܢܗܪ̈ܘܬܐ ܡܢ ܩܕܝܡ ܒܝܡܐ ܐܝܬܝܗܘܢ ܗܘܘ ܡܠܝ̈ܠܐ ܒܐܠܗܐ ܬܣܒܪ ܡܢ ܗܕܐ: ܕܐܦ ܕܠܐ ܫܘܪܝ ܐܢܘܢ ܥܡܗ ܒܟܝܢܗܘܢ. ܐܠܐ ܐܦܢ ܒܚܟܡܬܗ ܘܒܚܝܠܐ ܕܥܒܘܕܘܬܗ: ܠܗ ܥܡܗ ܐܝܬܝܗܘܢ ܕܠܐ ܫܘܪܝܐ (؟) ܠܒܪܝܬܗܘܢ ܫܘܪܝܐ ܐܝܬ. ܠܐ ܕܝܢ ... ܠܗܘܢ ܫܘܠܡܐ ܡܛܠ ܚܕܝܘܬܗܘܢ ܕܥܡ ܗܘ ܕܫܘܪܝܐ ܠܝܬ ܠܗ ܐܦܠܐ ܫܘܠܡܐ ܡܫܬܟܚ ܠܗ.\nGreek retroversion §30: αλλα μη οιου διοτι ειρηκα οτι ως ποταμοι απαρχης εν τηι θαλασσηι ησαν οι λογικοι εν θεωι ως και αναρχοι μετ' αυτου εισιν φυσει αυτων· αλλ' ει και εν τηι σοφιαι αυτου και δυναμει κτιστικηι μετ' αυτου εισιν αναρχως της κτισεως αυτων εστιν αρχη. αλλα μη λογιζου αυτοις τελευτην δια την ενωσιν αυτων μετα τουτου ου ουκ εστιν αρχη ουδε τελευτη.",
+   "edition": "Frankenberg 1912 (as for sections 22-23); page and line not confirmed.",
+   "checked_against": "Digital transcription of Frankenberg's Syriac and his Greek retroversion (TAN-Evagrius, cpg2438 files), read 2026-10-19; not compared with the printed volume. The Syriac of §30 contains an editor's question mark (؟) and a dotted gap, which I have kept in the excerpt; the Greek retroversion is modern. Status S.",
+   "english": "Own translation, from the Greek retroversion and the Syriac; provisional.\n§27 (summary): the minds that return to God do not add a second nature to him. If the visible sea, one in nature, colour and taste, changes the taste of many rivers into its own, how much more will the boundless, unchanging intelligible sea, God the Father, change the minds that return to him like torrents into his own nature, colour and taste. They will be not many but one in union with him.\n§29 (end): 'But when the land is taken away from the middle, the sea and the rivers are one, without change. So when sin is removed from between the minds and God, they are one and not many.'\n§30: 'But do not suppose, because I said that the rational beings were in God like rivers in the sea from the beginning, that they are without beginning with him by nature. Even if they are with him without beginning in his wisdom and his creating power, their creation has a beginning. But do not reckon an end for them, because of their union with him who has neither beginning nor end.'",
+   "english_source": "Own translation. For comparison: Casiday 2006; Parmentier 1985; Bunge 1986.",
+   "textual_notes": "(1) §30 is the letter's own answer to a pre-existence reading: the rational beings are with God without beginning only 'in his wisdom and creating power'; their creation has a beginning. It is also what bears on the fifteenth anathema ('the end ... like the beginning'): the letter says the beginning of creation is real, and that union gives no 'end' to be reckoned. (2) The Syriac of §30 is damaged in two places and has one doubtful word; the Greek reads smoothly because Frankenberg supplied it. (3) 'Taken away' in §29 translates the verb ʾetshqal / ʾetʿṭy; the second is the root discussed in the note to KG 2.17.",
+   "why_it_matters": "The sea-and-rivers image is the letter's picture of the end: many minds, one sea. Whether it describes union with God by will and grace or a loss of distinct existence is exactly what readers disagree about, and §30 keeps the beginning of creation and the question of an end open.",
+   "readings": [
+    {
+     "scholar": "Santiago Hernán Vazquez",
+     "work": "Estudios Filosóficos 68 (2019), pp. 353-354, n. 45",
+     "position": "The image shows a union that adds nothing to God and does not make creatures consubstantial with him; it is concord of wills, with participation by grace.",
+     "side": "reads the unity as union of will and grace",
+     "status": "S",
+     "source_url": "https://estudiosfilosoficos.dominicos.org/ojs/article/download/1342/4192"
+    },
+    {
+     "scholar": "Ilaria Ramelli",
+     "work": "SBL Press, 2015, Introduction, pp. xxv-xxvii (pages via a fetch-tool summary)",
+     "position": "As reported by Vazquez (nn. 23, 44, 50), reads the letter's union as rooted in concord of wills and rejects pantheistic confusion. Herself rejects an 'isochristic' reading of the letter (p. xxxvii).",
+     "side": "reads what was condemned as later Origenism, not Evagrius or Origen",
+     "status": "S",
+     "source_url": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf"
+    },
+    {
+     "scholar": "Konstantinovsky",
+     "work": "Evagrius Ponticus: The Making of a Gnostic (2009), as cited by Vazquez 2019, nn. 4 and 70",
+     "position": "The intellect can reach essential knowledge, which seems synonymous with God's essence, but never becomes that essence.",
+     "side": "reads the unity as union by knowledge, not identity of nature",
+     "status": "S",
+     "source_url": "https://estudiosfilosoficos.dominicos.org/ojs/article/download/1342/4192"
+    },
+    {
+     "scholar": "Baán Izsák OSB",
+     "work": "Sapientiana 15.1 (2022), n. 5",
+     "position": "Treats pre-existence and apokatastasis as present in the letter and as later condemned.",
+     "side": "finds the later-condemned themes in the letter",
+     "status": "S",
+     "source_url": "https://ojs.mtak.hu/index.php/sapientiana/article/download/21571/17821"
+    }
+   ],
+   "status": "S",
+   "source_urls": [
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2438/cpg2438.syr.1912.frankenberg.xml",
+    "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2438/cpg2438.grc.1912.frankenberg.tan-tei.xml",
+    "https://estudiosfilosoficos.dominicos.org/ojs/article/download/1342/4192",
+    "https://ojs.mtak.hu/index.php/sapientiana/article/download/21571/17821",
+    "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf"
+   ]
+  }
+ ],
+ "other_findings": [
+  {
+   "claim": "The unexpurgated Syriac S2 and the common, expurgated S1 are both edited in Guillaumont, Patrologia Orientalis 28.1 (1958), and survive in the digital TAN-Evagrius repository (Kalvesmaki), together with Dysinger's English of S2, which the file calls public domain.",
+   "source": "https://raw.githubusercontent.com/Arithmeticus/TAN-Evagrius/master/cpg2432/cpg2432.syr.1958.guillaumont-s2.xml",
+   "status": "V"
+  },
+  {
+   "claim": "Guillaumont's 1962 book and his 1961 article 'Évagre et les anathématismes anti-origénistes de 553' (Studia Patristica 3, pp. 219-226) are where the anathemas are set against the Kephalaia. I did not see either; only quotations of them in Ramelli's 2015 introduction (p. xxvi n. 55 and p. xxxvii n. 96).",
+   "source": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf",
+   "status": "S"
+  },
+  {
+   "claim": "Castellano's web essay also lists Kephalaia parallels for anathemas 2 (3.22, 1.49-50, 3.45, 6.75, 2.66, 2.76, 2.14, 6.78, 6.80, 1.63), 3 (1.63, 6.88, 3.37, 3.84, 4.29, 3.62), 6 (5.11, 3.23), 7 (2.24, 6.33, 4.41), 10 (4.24, 6.34) and 12 (3.15, 3.12, 6.34). I read the S2 English of some of them; the matches are looser than for anathemas 5, 8, 9, 11 and 14, and I have not set them out.",
+   "source": "https://arcaneknowledge.org/catholic/origen3.htm",
+   "status": "S"
+  },
+  {
+   "claim": "The same essay says the sixth-century opponents were quoting the Kephalaia from the Origenists to the council, and cites Diekamp (1899) for the bishops' assent before the council opened. Those are the essay's claims, unchecked here.",
+   "source": "https://arcaneknowledge.org/catholic/origen3.htm",
+   "status": "R"
+  },
+  {
+   "claim": "Casiday (2013) argues S1 is Evagrius's own text and S2 a later expansion, partly because an Armenian version of about 450 rests on S1. Peretó Rivas (Stylos 2015) finds the case stronger than Guillaumont's; his 2019 Adamantius article revisits the question (abstract only seen).",
+   "source": "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf",
+   "status": "S"
+  },
+  {
+   "claim": "Guillaumont's report to the Collège de France (c. 1980-81) describes S1 as correcting the text 'pour en faire disparaître, ou du moins atténuer le plus possible, les propositions incriminées' and S2 as the work of an author who 'a cherché à rétablir le texte dans sa teneur originale'. It calls the Letter to Melania Evagrius's most important letter, preserved in Syriac.",
+   "source": "https://www.college-de-france.fr/sites/default/files/media/document/2023-02/AN_80_guillaumont.pdf",
+   "status": "S"
+  },
+  {
+   "claim": "Greek fragments of the Kephalaia survive in Barsanuphius and John's letters (Ramelli notes 'Ep. 600'), in Hausherr 1939, Muyldermans 1931-32, Géhin 1996 and Furrer-Pilliod 2000; Peretó Rivas says Guillaumont relied on about 75 sentences.",
+   "source": "https://repositorio.uca.edu.ar/bitstream/123456789/4279/1/kephalaia-gnostica-evagrio-pontico.pdf",
+   "status": "S"
+  },
+  {
+   "claim": "Gabriel Bunge's 1986 German translation of the Great Letter (Briefe aus der Wüste) is the only complete modern translation with full notes, according to Baán (2022 n. 4); Bunge proposes that Rufinus, not Melania, was the real addressee (Baán n. 4; Ramelli 2015 p. xxx n. 72).",
+   "source": "https://ojs.mtak.hu/index.php/sapientiana/article/download/21571/17821",
+   "status": "S"
+  },
+  {
+   "claim": "Frankenberg published the first part of the Great Letter, to section 31, from manuscript A; Baán's notes give pp. 610-619 and disagree on whether the text ends at §31 or §34.",
+   "source": "https://ojs.mtak.hu/index.php/sapientiana/article/download/21571/17821",
+   "status": "S"
+  },
+  {
+   "claim": "Ramelli reads Evagrius as 'an Origenian ... more than an Origenist', perfectly orthodox on the Trinity, and says the doctrines condemned from 553 on were 'largely neither those of Origen nor those of Evagrius' (SBL 2015, pp. xxv-xxvii). Her page numbers come from a fetch-tool summary of the open-access PDF and should be checked in the book.",
+   "source": "https://www.sbl-site.org/wp-content/uploads/2024/11/9781628370393.pdf",
+   "status": "S"
+  }
+ ],
+ "problems": "(1) I did not obtain Guillaumont's own table of anathemas against Kephalaia chapters (1962 book; 1961 Studia Patristica article). The persée reviews were blocked to my fetch tool and archive.org, Google Books and the publishers were not reachable, so every pair above comes from Castellano's web essay (which follows Fr Theophanes of Mount Athos), checked by me against the S2 text. I cannot say which pairs are on Guillaumont's list, and the pairing is S at best. Page numbers for Guillaumont 1962 are unconfirmed. (2) The Greek text of the fifteen anathemas (Diekamp 1899, Mansi IX 395-400) was not found. The NPNF English could only be read in fragments of about 125 characters through a fetch tool, so the anathema side of each pair is partly my summary. (3) None of the five paired KG chapters (2.17, 4.18, 4.80, 5.11, 3.15) has a Greek fragment in the digital Greek files I opened (Géhin 1996, Hausherr 1939, Muyldermans 1932, Furrer-Pilliod 2000, Devreesse, de Angelis-Noah/Neyt, and others); the 1931 Muyldermans file was not retrievable. Greek exists for 2.64 (second half), 2.69, 6.16, 3.12 and a few other chapters. (4) The Syriac is a digital transcription of Guillaumont's printed text, not the printed text; page markers in it may be off by one. No Syriac typed from memory. My translations of S1 and of the Letter to Melania are provisional and unchecked by a Syriac reader. (5) The Great Letter is only partly in the digital Syriac (to §31, with gaps); the Greek is Frankenberg's modern retroversion. Casiday 2006 and Parmentier 1985 were not available, so I could not report what they say about §§22-30. (6) Several scholars on the brief (Bunge, Corrigan, Stewart, Young, Konstantinovsky on these chapters, Daley on specific chapters, Misiarczyk beyond his abstract) could not be shown to discuss these exact passages. Where I could not attribute a reading with confidence I left it out; Bunge appears only for his 1986 translation. (7) Every scholarly reading is S: taken from a fetch tool's summary of the source or a report of it, not from my own reading of the whole work. Page numbers given for Ramelli 2015, Vazquez 2019, Baán 2022 and Peretó Rivas 2015 are as the tool reported them."
+}

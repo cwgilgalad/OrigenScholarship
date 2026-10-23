@@ -1,0 +1,1337 @@
+{
+ "cluster": "origen-own: Origen in his own words (On First Principles and the works that survive in Greek)",
+ "summary": "Origen's own words can be set beside the later quarrels, but nearly everything in his central book, On First Principles, survives only in Rufinus's Latin, and Rufinus says he smoothed passages he believed heretics had corrupted. Read in that Latin, the Preface lists, among the points plainly handed down through the apostles' preaching, eternal life for the saved and eternal fire for the lost (free will is then called settled), and leaves open where the soul comes from, what the devil and angels are, and what came before and will come after this world. Chapter 1.6.1-2 offers the idea that the end is like the beginning as inquiry rather than definition, and says between its two quoted sentences that punishment according to sins comes before the end; 2.10.4-6 pictures punishment as a physician's fire that mends a dissolved soul; and 3.6 describes a restoration that comes in stages, with the body changed rather than destroyed. Against Celsus, which survives in Greek, says in 6.26 that the full account of punishment is not for the many, and in 8.72 that the Word will one day master every rational soul and abolish evil, while setting aside the question whether evil could ever arise again. Homilies on Jeremiah 20 (also Greek) defends a God who ‘deceives’ for good and speaks of a ‘mystery’ the many must not learn; the lines quoted do not say what the hidden truth about punishment is, though the example just before them (a twice-married woman who has ‘a share in some salvation’) suggests it is milder than the ‘eternal’ punishment the many are told of. The Commentary on Romans (Rufinus's abridged Latin) says in 5.10 that Christ's cross suffices for past, present and future ages and that love, which never fails, will keep the whole creation from falling, and in 6.5 that ‘eternal’ can mean a lifetime or this present age, that eternal life with the Lord has no end, and that even those who rise to shame will have ‘eternal life’, though not in Christ Jesus. Where Rufinus and the hostile Greek in Justinian's Letter to Menas (543) differ, as at 1.2.13, editors split: Koetschau (and so Butterworth, who translated his text) trust the Greek and print a mixed text, while Crouzel-Simonetti and Behr print Rufinus and move the Greek aside. Scholars read the lines in different directions: Ramelli (through Nemes, Sytsma and Kimel, and in her own review of Arruzza), Hannen and Heide find a restoration that is taught; Crouzel (through Sytsma and Hannen) calls it a hope that cannot be certain without denying freedom; Batiffol finds Origen teaching it as a rule but at times reluctant to decide and not wishing it preached to all; McClymond doubts both Rufinus's Latin and Ramelli's defence; and Martens reads the Preface as making the church's rule of faith the test. Caution on method: the Latin of On First Principles and of the Romans commentary below is Migne's (Patrologia Graeca 11 and 14, Delarue's text) read from OCR page transcriptions, not Koetschau's or Hammond Bammel's critical text, which could not be reached.",
+ "passages": [
+  {
+   "id": "pa-preface-4-10",
+   "title": "The rule of faith, and what the church's preaching leaves open (On First Principles, Preface 4-10)",
+   "author_work_ref": "Origen, On First Principles (Peri Archon, De principiis), Preface 4-10, in Rufinus's Latin translation",
+   "date": "Origen's Greek: written in Alexandria, before c. 230 (exact date disputed). Rufinus's Latin: 397-98.",
+   "language": "Latin (Rufinus's translation; the Greek of the Preface is lost)",
+   "original": "(4) Species vero eorum quae per praedicationem apostolicam manifeste traduntur, istae sunt. Primo quod unus Deus est qui omnia creavit atque composuit … Tum deinde honore ac dignitate Patri ac Filio sociatum tradiderunt Spiritum sanctum. In hoc non jam manifeste discernitur, utrum natus an innatus vel Filius etiam Dei ipse habendus sit, necne. Sed inquirenda jam ista pro viribus sunt de sacra Scriptura, et sagaci perquisitione investiganda. (5) Post haec jam quod anima substantiam vitamque habens propriam, cum ex hoc mundo discesserit, pro suis meritis dispensabitur, sive vitae aeternae ac beatitudinis haereditate potitura, si hoc ei sua gesta praestiterint; sive igni aeterno ac suppliciis mancipanda … Est et illud definitum in ecclesiastica praedicatione, omnem animam rationabilem esse liberi arbitrii et voluntatis … De anima vero utrum ex seminis traduce ducatur, ita ut ratio ipsius vel substantia inserta ipsis seminibus corporalibus habeatur, an vero aliud habeat initium: et hoc ipsum initium si genitum est, aut non genitum: vel certe si extrinsecus corpori inditur, necne: non satis manifesta praedicatione distinguitur. (6) De diabolo et angelis ejus contrariisque virtutibus ecclesiastica praedicatio docuit, quoniam sunt quidem haec; quae autem sint, aut quomodo sint, non satis clare exposuit. (7) … Quid tamen ante hunc mundum fuerit, aut quid post mundum erit, jam non pro manifesto multis innotuit. (10) … De sole autem et luna et stellis utrum animantia sint, an sine anima, manifeste non traditur.",
+   "edition": "Standard critical edition: P. Koetschau, Origenes Werke 5: De principiis (Peri archon), Griechische christliche Schriftsteller (GCS) 22 (Leipzig: Hinrichs, 1913), Praefatio 4-10; page not confirmed. Modern editions with translation: H. Crouzel and M. Simonetti, Origene: Traite des principes, Sources Chretiennes (SC) 252 (Paris: Cerf, 1978); J. Behr, Origen: On First Principles, Oxford Early Christian Texts (Oxford: OUP, 2017). Neither was opened.",
+   "checked_against": "NOT Koetschau (the archive.org scan of GCS 22 could not be read in sections; see the unverified list). Checked against the Latin of Migne, Patrologia Graeca 11 (Paris, 1857; Delarue's text), cols. 117-122, from OCR page transcriptions: Fabio3rs/BibliothecaPatristica (teste/PG011, second batch, pages 063-064) and OGL-PatrologiaGraecaDev/Vol.-11 (hvd.32044024345175_ocr, page 066), compared with two further OCR copies of the same page for section 4. The ligatures ae and oe are written out. The spelling (j, haereditas) is Migne's, not Koetschau's. One clause in section 5 (‘si in hoc eam scelerum culpa … ’) was left out because the OCR gave a doubtful verb. Second pass (fact-check): every word of the Latin was found again in those OCR pages once hyphenated line-ends were joined and the ligatures written out; the only differences were OCR damage. Koetschau's text was still not reachable.",
+   "english": "(4) The main points of what is plainly handed down through the apostles' preaching are these. First, that there is one God, who created and arranged all things … Then they handed down that the Holy Spirit is joined with the Father and the Son in honour and dignity. About this it is not yet clearly distinguished whether he is born or unborn, or whether he is also to be counted a Son of God, or not. But these matters must be inquired into, as far as we are able, from the sacred Scripture, and tracked down by a keen search. (5) Next, that the soul, having its own substance and life, when it leaves this world will be dealt with according to its merits: either to inherit eternal life and blessedness, if its deeds have earned it, or to be handed over to eternal fire and punishments … It is also settled in the church's preaching that every rational soul has free choice and will … But as to the soul, whether it is passed on by descent, so that its principle or substance is contained in the bodily seeds themselves, or whether it has some other beginning, and whether that beginning is itself begotten or unbegotten, or again whether it is put into the body from outside or not: this is not distinguished with sufficient clarity in the preaching. (6) About the devil and his angels and the opposing powers, the church's preaching has taught that they exist; what they are or how they exist it has not set out clearly enough. (7) … But what there was before this world, or what will be after the world, has not yet become plain to many. (10) … As to the sun, moon and stars, whether they are living beings or without soul, nothing is plainly handed down.",
+   "english_source": "Own translation. For comparison: F. Crombie in the Ante-Nicene Fathers vol. 4 (1885, public domain); G. W. Butterworth (1936); J. Behr (2017). None was opened for this entry. Contested renderings: ‘aeternus’ (eternal or age-long) in ‘igni aeterno’ and ‘vita aeterna’; ‘natus an innatus’ (born/unborn, or begotten/unbegotten, or made/unmade, see the note); ‘praedicatio ecclesiastica’ (the church's preaching, proclamation or teaching).",
+   "why_it_matters": "This is Origen's own list of what the church's preaching has settled and what it has not. In Rufinus's Latin, eternal fire (‘igni aeterno’) stands on the list of points ‘plainly handed down’ through the apostles' preaching (section 4 introduces the list, section 5 gives the soul's reward and punishment), and free will is then added as ‘settled’ (definitum); what Greek word lies behind ‘aeterno’ is not known. The origin of the soul, the nature of the devil and angels, and the time before and after this world are not on it. Later condemnations (the 553 anathemas) treat some of those open questions, pre-existence above all, as heresy, so the argument is over whether Origen offered them as inquiry or taught them as doctrine.",
+   "textual_notes": "Migne's apparatus (cols. 117-120) records the manuscript readings Delarue preferred over the earlier printed editions. The most telling is note 51: where Rufinus has ‘natus an innatus’ (begotten or unbegotten) for the Spirit, Jerome's Letter 94 (= 124) to Avitus renders it ‘factus an infectus’ (made or unmade); Delarue reasons that Jerome read the Greek with one nu (genetos/agenetos, created/uncreated) and Rufinus with two (gennetos/agennetos, begotten/unbegotten). That one-letter difference decides whether Origen is asking if the Spirit is a creature. Note 55: the manuscripts read ‘extrinsecus corpori inditur’ (put in from outside) where some earlier editions had ‘intrinsecus’. Notes 53-54: a clause of section 5 is also found in the Apology for Origen by Pamphilus (in Rufinus's Latin), which is one of the few controls on Rufinus. Rufinus's own preface (Jerome Letter 80) says he removed or corrected passages he thought heretics had inserted; the c400 file in this survey has that text. Section numbers follow Migne/Delarue; they agree with Koetschau's in the Preface as far as I could tell, not confirmed.",
+   "readings": [
+    {
+     "scholar": "Michael McClymond",
+     "work": "‘Origenes Vindicatus vel Rufinus Redivivus: A Review of Ilaria Ramelli’s The Christian Doctrine of Apokatastasis’, Theological Studies 76.4 (2015), pp. 815, 818-19 and n. 12",
+     "position": "Says it was “not Origen’s exegesis but his ‘dogmatizing’—and that of his followers—that stirred controversy” (p. 815), naming pre-existent souls and universal salvation among the teachings of On First Principles at issue. He also says that modern scholars have not accepted Rufinus’s theory that heretics interpolated the text, that Rufinus “tampered with the textual evidence”, and that his Latin is “skewed, inaccurate” (pp. 818-19, n. 12). He does not say, in the lines I could read, whether the charge of dogmatizing was fair.",
+     "side": "holds that Origen’s dogmatizing, not his exegesis, caused the controversy; distrusts Rufinus’s text and Ramelli’s defence",
+     "status": "S",
+     "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/11/7-McClymond-Origenes-Vindicatus.pdf"
+    },
+    {
+     "scholar": "Mark Edwards and Panayiotis Tzamalikos (as reported by Peter Martens)",
+     "work": "Edwards, Origen against Plato (2002); Tzamalikos, Origen: Philosophy of History and Eschatology (Brill, 2007); as reported in Martens’s review of Mark Scott, Journey Back to God, Marginalia Review of Books",
+     "position": "Martens says Scott should have answered Edwards and Tzamalikos, “both of whom deny Origen ever taught” the pre-existence of souls. The review does not tie their argument to the Preface by name; it matters here because Preface 7 leaves open what there was before this world.",
+     "side": "Origen did not teach pre-existence, so what the 553 text condemns is not his doctrine",
+     "status": "S",
+     "source_url": "https://themarginaliareview.com/peter-martens-on-journey-back-to-god-by-mark-s-m-scott/"
+    },
+    {
+     "scholar": "Jerome (ancient reader)",
+     "work": "Letter 124 to Avitus, 124.4.5 (Hilberg, CSEL 56, p. 100 l. 26 to p. 101 l. 4); Latin text as recorded in this survey’s c400 file",
+     "position": "Quotes Origen’s own plea that such ideas are “not dogmas but only questions raised and thrown out” (“non sint dogmata sed quaesita tantum atque proiecta”), and attacks them anyway. Hilberg’s source notes, as recorded in the c400 file, link the sentence to On First Principles 1.8.4, not to the Preface.",
+     "side": "ancient hostile reader who reports the disclaimer and judges the doctrine anyway",
+     "status": "S",
+     "source_url": "https://github.com/OpenGreekAndLatin/csel-dev"
+    },
+    {
+     "scholar": "Peter Martens",
+     "work": "Review of Mark S. M. Scott, Journey Back to God: Origen on the Problem of Evil, Marginalia Review of Books",
+     "position": "Cites the Preface to Book 1 against Scott’s claim that Origen valued “internal assimilation of doctrine” over assent to propositions: Origen there “insists that the index of orthodoxy was assent to the church’s rule of faith”.",
+     "side": "reads the Preface as making assent to the church’s rule of faith the test of orthodoxy",
+     "status": "S",
+     "source_url": "https://themarginaliareview.com/peter-martens-on-journey-back-to-god-by-mark-s-m-scott/"
+    },
+    {
+     "scholar": "Henri Crouzel (as reported by Chris Hannen)",
+     "work": "Hannen, ‘Rob Bell and Origen’, Stimulus 23.2 (year not confirmed), p. 24 and n. 49 (Crouzel, pp. 163-168)",
+     "position": "Hannen cites Crouzel for treating On First Principles as “research theology”. This is a judgement about the book as a whole, not about the Preface by name.",
+     "side": "reads the speculative parts of the book as inquiry, not as fixed doctrine",
+     "status": "S",
+     "source_url": "https://www.laidlaw.ac.nz/assets/Files-PDF-Word/10036-Stimulus-Vol-23-Is-2_Hannen.pdf"
+    }
+   ],
+   "source_urls": [
+    "https://raw.githubusercontent.com/Fabio3rs/BibliothecaPatristica/34c5de5a1e066fe518744e5dc34b219afa56098a/teste/PG011/text/eec7511a-835d-4b3e-9e14-a480a01de6c3-063.txt",
+    "https://raw.githubusercontent.com/Fabio3rs/BibliothecaPatristica/34c5de5a1e066fe518744e5dc34b219afa56098a/teste/PG011/text/eec7511a-835d-4b3e-9e14-a480a01de6c3-064.txt",
+    "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-11/master/hvd.32044024345175_ocr/066.txt",
+    "https://themarginaliareview.com/peter-martens-on-journey-back-to-god-by-mark-s-m-scott/",
+    "https://www.laidlaw.ac.nz/assets/Files-PDF-Word/10036-Stimulus-Vol-23-Is-2_Hannen.pdf"
+   ],
+   "status": "V"
+  },
+  {
+   "id": "pa-1-6-1-2",
+   "title": "‘The end is always like the beginning’ (On First Principles 1.6.1-2)",
+   "author_work_ref": "Origen, On First Principles 1.6.1-2 (Rufinus's Latin); the sentence is cited as 1.6.2",
+   "date": "Origen's Greek before c. 230; Rufinus's Latin 397-98",
+   "language": "Latin (Rufinus's translation; no Greek survives for these lines)",
+   "original": "(1.6.1) … Quae quidem a nobis etiam cum magno metu et cautela dicuntur, discutientibus magis et pertractantibus quam pro certo ac definito statuentibus. … Nunc autem disputandi specie magis quam definiendi, prout possumus, exercemur. Finis ergo mundi et consummatio dabitur, cum unusquisque pro merito peccatorum etiam poenis subjicietur; quod tempus Deus solus agnoscit, quando unusquisque quod meretur expendet. In unum sane finem putamus quod bonitas Dei per Christum suum universam revocet creaturam, subactis et subditis etiam inimicis. (1.6.2) Talem igitur finem videntes, cum omnes inimici subjecti erunt Christo, et cum novissimus inimicus destruetur mors, et cum tradetur a Christo cui omnia subjecta sunt, regnum Deo Patri, ab isto, inquam, tali fine rerum contemplemur initia. Semper enim similis est finis initiis; et ideo sicut unus omnium finis, ita unum omnium intelligi debet initium; et sicut multorum unus finis, ita ab uno initio multae differentiae ac varietates, quae rursum per bonitatem Dei et subjectionem Christi, atque unitatem Spiritus sancti in unum finem qui sit initio similis revocantur.",
+   "edition": "P. Koetschau, GCS 22 (Leipzig, 1913); Hilberg's source notes (as quoted in the c400 file) put 1.6.2-3 at pp. 81-83, which I did not check myself. Crouzel-Simonetti, SC 252 (1978); Behr (OUP, 2017): not opened.",
+   "checked_against": "NOT Koetschau. Migne, Patrologia Graeca 11, cols. 165-166 (Delarue's text), from the Fabio3rs/BibliothecaPatristica OCR transcription (teste/PG011, first batch, page 087), which separates the main text from Delarue's notes. Ligatures written out; no other change. Second pass: all other words re-found in the same page (after joining hyphenated line-ends); Delarue’s notes 51, 54, 57, 58, 60, 61, 62 and 64 read as described.",
+   "english": "(1.6.1) … We say these things with great fear and caution, discussing and weighing them rather than laying them down as certain and defined. … Here, as well as we can, we are exercising ourselves in the manner of a debate rather than of a definition. The end and consummation of the world will be given when each person is made subject to punishments in proportion to his sins; God alone knows that time, when each will pay what he deserves. We think that the goodness of God, through his Christ, will call back his whole creation into one end, with even the enemies conquered and subdued. (1.6.2) Seeing such an end, when all enemies shall be subject to Christ, when the last enemy, death, shall be destroyed, and when the kingdom is handed over by Christ, to whom all things are subject, to God the Father: from that end, I say, let us consider the beginnings. For the end is always like the beginnings; and therefore, as we must understand one end of all things, so also one beginning of all; and as there is one end of many, so from one beginning come many differences and varieties, which are in turn called back, through God's goodness, the subjection of Christ and the unity of the Holy Spirit, into one end that is like the beginning.",
+   "english_source": "Own translation. Standard comparisons: Crombie (ANF 4, 1885, public domain); Butterworth (1936); Behr (2017), none opened. Contested renderings: ‘finis’ (end, goal or purpose); ‘revocet’ and ‘revocantur’ (call back, recall, restore; the Greek verb behind them is not preserved); ‘putamus’ (we think, i.e. a hedged claim); ‘initiis’ is plural (beginnings); ‘universam creaturam’ (the whole creation, which may or may not include the devil and demons: Rufinus and Jerome disagree).",
+   "why_it_matters": "These lines are the source of the famous sentence that the end is like the beginning, which the 553 fifteen anathemas echo (‘the end and the beginning shall be alike’). The argument is over what ‘beginning’ means (a state of bodiless pre-existent minds, or only God's original purpose) and how firmly the surrounding words claim it: Origen frames it as discussion ‘rather than definition’.",
+   "textual_notes": "Delarue marks the key sentences ‘Cautè lege’ (read with caution) in notes 57, 60, 61 and 64 (note 58, on ‘In unum sane finem putamus’, only sends the reader to Huet’s Origeniana, 2.11.9 and 2.35.30) and, in note 62, says that Jerome (Letter 94 = 124 to Avitus) attacks this very place. Note 51: some earlier editions had ‘videtur esse judicium’ where the manuscripts have ‘videtur indicium’ (a sign). Note 54: the manuscripts read ‘fidem ecclesiasticam’ where earlier editions had ‘catholicam’. The word ‘putamus’ (we think) in ‘In unum sane finem putamus’ is Rufinus's; if his Greek had a stronger verb, this is where he could have softened it, which is the kind of question the c400 file raises about 1.6.3.",
+   "readings": [
+    {
+     "scholar": "Jerome (ancient reader)",
+     "work": "Letter 94 (also numbered 124) to Avitus, quoted in Delarue's note 62 at PG 11 col. 166",
+     "position": "Reads 1.6.2 as teaching an endless cycle: ‘the beginning is born again from the end and the end from the beginning; and so all things change, so that he who is now a man could become a demon in another world; and a demon who has acted rather carelessly is banished into coarser bodies, that is, becomes a man. So he mixes everything up, so that from an angel the devil can come to be and the devil return to being an angel.’ (Own translation of the Latin as printed in the note.)",
+     "side": "ancient hostile reader: takes ‘end like beginning’ to mean endless cycling between angel, man and devil",
+     "status": "V",
+     "source_url": "https://raw.githubusercontent.com/Fabio3rs/BibliothecaPatristica/34c5de5a1e066fe518744e5dc34b219afa56098a/teste/PG011/text/4adc5a68-de09-46f3-a342-d650969dfb6f-087.txt"
+    },
+    {
+     "scholar": "Michael McClymond",
+     "work": "‘Origenes Vindicatus vel Rufinus Redivivus’, Theological Studies 76.4 (2015), p. 824 n. 24",
+     "position": "Quotes ‘the end is always like the beginning’ to show that Origen's apokatastasis (restoration of all things) is a return to a state that existed before, and contrasts this with Gregory of Nyssa's rejection of pre-existent souls. His wider charge is that Ramelli does not keep Origen apart from Gregory of Nyssa.",
+     "side": "reads the sentence as tied to Origen's pre-existence, so not a model for Nyssa's universalism",
+     "status": "S",
+     "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/11/7-McClymond-Origenes-Vindicatus.pdf"
+    },
+    {
+     "scholar": "Daniel Heide",
+     "work": "‘Apokatastasis: The Resolution of Good and Evil in Origen and Eriugena’, Dionysius 33 (2015), pp. 197-199 and n. 13",
+     "position": "Quotes 1.6.1 in an English translation (“the goodness of God through Christ will restore his entire creation to one end”, p. 198) and reads Origen’s punishments as correction rather than retribution (pp. 198-199). In n. 13 (p. 197) he adds that Origen takes a more cautious line on the devil: in a letter he denies teaching the devil’s redemption, but in his dialogue with Candidus he admits it as a real possibility (he cites Jennifer Heckart, Union Seminary Quarterly Review 60).",
+     "side": "reads 1.6 as teaching restoration of creation, with the devil’s case left open",
+     "status": "S",
+     "source_url": "https://ojs.library.dal.ca/dionysius/article/view/6482/5688"
+    },
+    {
+     "scholar": "Henri Crouzel (as reported by Chris Hannen)",
+     "work": "Hannen, ‘Rob Bell and Origen’, Stimulus 23.2 (year not confirmed), p. 24 and nn. 49-50 (Crouzel, pp. 163-168)",
+     "position": "Hannen cites Crouzel for calling On First Principles “research theology”. The words “in the manner rather of an investigation and discussion, than in that of fixed and certain decision” are Hannen quoting Origen in an English translation, cited to 1.6.1 (n. 50), not Crouzel’s own words.",
+     "side": "reads 1.6 as inquiry that does not claim to define",
+     "status": "S",
+     "source_url": "https://www.laidlaw.ac.nz/assets/Files-PDF-Word/10036-Stimulus-Vol-23-Is-2_Hannen.pdf"
+    }
+   ],
+   "source_urls": [
+    "https://raw.githubusercontent.com/Fabio3rs/BibliothecaPatristica/34c5de5a1e066fe518744e5dc34b219afa56098a/teste/PG011/text/4adc5a68-de09-46f3-a342-d650969dfb6f-087.txt"
+   ],
+   "status": "V"
+  },
+  {
+   "id": "pa-2-10-4-6",
+   "title": "Punishment as a physician's fire (On First Principles 2.10.4-6)",
+   "author_work_ref": "Origen, On First Principles 2.10.4-6 (Rufinus's Latin)",
+   "date": "Origen's Greek before c. 230; Rufinus's Latin 397-98",
+   "language": "Latin (Rufinus's translation; no Greek survives for these sections)",
+   "original": "(2.10.4) … ita anima cum multitudinem malorum operum et abundantiam in se congregaverit peccatorum, competenti tempore omnis illa malorum congregatio effervescit ad supplicium, atque inflammatur ad poenas; … tunc et ipsa conscientia propriis stimulis agitatur atque compungitur, et sui ipsa efficitur accusatrix et testis. … (2.10.5) … Quae animae dissolutio atque divulsio cum adhibiti ignis ratione fuerit explorata, sine dubio ad firmiorem sui compaginem instaurationemque solidatur. (2.10.6) Multa sunt etiam alia quae nos latent, quae illi soli cognita sunt, qui est medicus animarum nostrarum. … quanto magis intelligendum est et hunc medicum nostrum Deum volentem diluere vitia animarum nostrarum, quae ex peccatorum et scelerum diversitate collegerant, ut huiuscemodi poenalibus curis, insuper etiam ignis inferre supplicium his qui sanitatem animae perdiderunt? … Ex quo utique intelligitur quod furor vindictae Dei ad purgationem proficit animarum. Quoniam autem et ea poena quae per ignem inferri dicitur, pro adjutorio intelligitur adhiberi, Isaias docet …",
+   "edition": "P. Koetschau, GCS 22 (Leipzig, 1913), Book 2 chapter 10; page not confirmed. Crouzel-Simonetti, SC 252 (1978), where Sytsma places 2.10.8 at pp. 392-394; Behr (2017): not opened.",
+   "checked_against": "NOT Koetschau. Migne, Patrologia Graeca 11, cols. 237-240 (Delarue's text), from the Fabio3rs/BibliothecaPatristica OCR transcription (teste/PG011, first batch, pages 122-124). The wording ‘ut huiuscemodi poenalibus curis, insuper etiam ignis inferre supplicium’ is copied as the scan has it; the construction is awkward and the Latin may differ in Koetschau (ignis for igni?). Ligatures written out.",
+   "english": "(2.10.4) … So when the soul has gathered into itself a great mass of evil deeds and an abundance of sins, at the fitting time that whole accumulation of evils boils up into punishment and is set on fire for penalties; … then the conscience itself is stirred and pricked by its own goads and becomes its own accuser and witness. … (2.10.5) … When this dissolution and tearing apart of the soul has been tested by the working of the fire applied to it, it is without doubt rebuilt into a firmer structure and made whole. (2.10.6) There are many other things that escape us, known only to him who is the physician of our souls. … How much more must we understand that this physician of ours, God, wishing to wash out the vices of our souls, which they had gathered from the variety of sins and crimes, uses such penal cures and, over and above them, brings the punishment of fire on those who have lost the soul's health? … From this it is understood that the fury of God's vengeance serves the purging of souls. And that the punishment said to be brought by fire is understood to be applied as a help, Isaiah teaches …",
+   "english_source": "Own translation. Standard comparisons: Crombie (ANF 4, 1885, public domain); Butterworth (1936); Behr (2017), none opened. Contested renderings: ‘furor vindictae’ (fury or anger of vengeance; the Latin may reflect Greek orge); ‘purgationem’ (purging or purification); ‘ignem’ is the fire of punishment but Origen treats it as the soul's own passions in 2.10.4-5, so ‘fire’ is partly figurative.",
+   "why_it_matters": "Here Origen most clearly describes punishment after death as medicine: the fire is the soul's own inflamed sins, and God uses it to rebuild what has come apart. Whether that means punishment ends (and so restoration) is the question the sixth-century anathema on ‘temporary punishment’ answers with a condemnation; Origen himself in these sections does not say how long it lasts.",
+   "textual_notes": "Adjacent and disputed: at 2.10.8 Koetschau supplied, from Jerome and Justinian, a sentence he thought Rufinus had omitted: ‘There is a resurrection of the dead, and there is punishment, but not everlasting’ (reported by Sytsma, p. 11 n. 23, citing Butterworth p. 146 and SC 252 pp. 392-394). Sections 4-6 are Rufinus's Latin without a Greek control. In 2.10.6 Migne's text (as the scan has it) reads ‘ut huiuscemodi poenalibus curis’; I translate as if ‘uti’ (to use), which the sense seems to need, and have not seen a critical edition. Delarue's section numbers are used here; Koetschau's numbering agrees as far as I can tell, not confirmed.",
+   "readings": [
+    {
+     "scholar": "Chris Hannen",
+     "work": "‘Rob Bell and Origen’, Stimulus 23.2 (year not confirmed), p. 25 and nn. 59-62",
+     "position": "Reads Origen’s doctrine of punishment as remedial, like a physician’s treatment (he quotes “God is the physician of our souls”, n. 62, citing 2.10.6). He also quotes “for all wicked men, and for demons, too, punishment has an end”, but his n. 59 cites that to 2.10.3, and I could not match the sentence to the lines quoted here; it may come from Koetschau’s inserted sentence at 2.10.8. On the devil he notes Origen contradicts himself, citing Holliday and Heckart (nn. 60-61).",
+     "side": "reads 2.10 as teaching limited, curative punishment ending in restoration",
+     "status": "S",
+     "source_url": "https://www.laidlaw.ac.nz/assets/Files-PDF-Word/10036-Stimulus-Vol-23-Is-2_Hannen.pdf"
+    },
+    {
+     "scholar": "Paul Koetschau (as reported by Lee Sytsma)",
+     "work": "Sytsma, Reconciling Universal Salvation and Freedom of Choice in Origen of Alexandria (Marquette dissertation, 2018), p. 11 n. 23, on Koetschau’s text of 2.10.8",
+     "position": "Sytsma writes that Koetschau believes Rufinus omits at 2.10.8 the line “There is a resurrection of the dead, and there is punishment, but not everlasting” (citing Butterworth p. 146 and SC 252, pp. 392-394), and so restored it.",
+     "side": "treats Rufinus as having softened the passage on the end of punishment",
+     "status": "S",
+     "source_url": "https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1781&context=dissertations_mu"
+    },
+    {
+     "scholar": "Pierre Batiffol",
+     "work": "‘Apocatastasis’, Catholic Encyclopedia vol. 1 (1907)",
+     "position": "Says Origen “seems at times reluctant to decide” on the eternity of punishment but that “elsewhere, on the other hand, and as a rule, Origen teaches the apokatastasis”. This is a general judgement on Origen, not a reading of 2.10 by section.",
+     "side": "reads Origen as usually teaching restoration, but hesitating on the duration of punishment",
+     "status": "S",
+     "source_url": "https://www.catholic.com/encyclopedia/Apocatastasis"
+    }
+   ],
+   "source_urls": [
+    "https://raw.githubusercontent.com/Fabio3rs/BibliothecaPatristica/34c5de5a1e066fe518744e5dc34b219afa56098a/teste/PG011/text/4adc5a68-de09-46f3-a342-d650969dfb6f-122.txt",
+    "https://raw.githubusercontent.com/Fabio3rs/BibliothecaPatristica/34c5de5a1e066fe518744e5dc34b219afa56098a/teste/PG011/text/4adc5a68-de09-46f3-a342-d650969dfb6f-123.txt",
+    "https://raw.githubusercontent.com/Fabio3rs/BibliothecaPatristica/34c5de5a1e066fe518744e5dc34b219afa56098a/teste/PG011/text/4adc5a68-de09-46f3-a342-d650969dfb6f-124.txt",
+    "https://www.laidlaw.ac.nz/assets/Files-PDF-Word/10036-Stimulus-Vol-23-Is-2_Hannen.pdf",
+    "https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1781&context=dissertations_mu"
+   ],
+   "status": "V"
+  },
+  {
+   "id": "pa-3-6-1-6",
+   "title": "God ‘all in all’: restoration in stages, and the body changed, not destroyed (On First Principles 3.6)",
+   "author_work_ref": "Origen, On First Principles 3.6.1, 3.6.3 and 3.6.6 (Rufinus's Latin), with a Greek fragment at 3.6.3 preserved by Justinian",
+   "date": "Origen's Greek before c. 230; Rufinus's Latin 397-98",
+   "language": "Latin (Rufinus), with one Greek fragment (Justinian's Letter to Menas, 543)",
+   "original": "(3.6.1) … Igitur summum bonum ad quod natura rationabilis universa festinat, quod etiam finis omnium dicitur, a quamplurimis etiam philosophorum hoc modo terminatur, quia summum bonum sit, prout possibile est, similem fieri Deo. … (3.6.3) … quod non solum in omnibus esse dicitur Deus, sed etiam omnia in omnibus. Quae sint ergo ista omnia quae Deus futurus sit in omnibus, requiramus. … (3.6.6) … cum sensim et per singulos emendatio fuerit et correctio prosecuta, praecurrentibus aliis et velociori cursu ad summa tendentibus, aliis vero proximo quoque spatio insequentibus, tum deinde aliis longe posterius, et sic per multos et innumeros ordines proficientium ac Deo se ex inimicis reconciliantium pervenitur usque ad novissimum inimicum qui dicitur mors, ut etiam ipse destruatur ne ultra sit inimicus. Cum ergo restitutae fuerint omnes rationabiles animae in huiuscemodi statum, tunc natura etiam huius corporis nostri in spiritalis corporis gloriam perducetur. … non aliud corpus est quo nunc in ignobilitate et in corruptione et infirmitate utimur, et aliud erit illud quo in incorruptione, et in virtute, et in gloria utemur; sed hoc idem abjectis his infirmitatibus in quibus nunc est, in gloriam transmutabitur spiritale effectum, ut quod fuit indignitatis vas, hoc ipsum expurgatum fiat vas honoris et beatitudinis habitaculum.",
+   "edition": "P. Koetschau, GCS 22 (Leipzig, 1913), Book 3 chapter 6; page not confirmed. Crouzel-Simonetti, SC 268 (1980; volume number from memory); Behr (OUP, 2017): not opened.",
+   "checked_against": "NOT Koetschau. Migne, Patrologia Graeca 11, cols. 333-340 (Delarue's text), from OCR page transcriptions in OGL-PatrologiaGraecaDev/Vol.-11: mdp.39015013266690_ocr pages 180, 181, 183 and hvd.32044024345175_ocr pages 172, 175. Two-column pages were read in several copies and only contiguous lines are quoted. The OCR drops large parts of some pages, so section 3.6.5 (the passage on the destruction of the last enemy, which I recall says that what is destroyed is the enemy's will, not its substance) was NOT obtained; 3.6.6 is quoted instead for the same point. Ligatures written out; ‘restitutae’ and ‘abjectis’ corrected from OCR slips (‘restitutte’, ‘abjectis’ already as printed).",
+   "english": "(3.6.1) … The highest good, toward which all rational nature hurries, which is also called the end of all things, is defined by very many of the philosophers too in this way: that the highest good is to become like God, as far as is possible. … (3.6.3) … that God is said to be not only in all things but also all things in all. Let us ask, then, what those ‘all things’ are that God will be in all. … (3.6.6) … when, little by little and one by one, amendment and correction have gone forward — some running ahead and reaching the heights at a swifter pace, others following close behind, others again much later — and so through many and countless ranks of those advancing and being reconciled to God from being enemies, one comes at last to the last enemy, which is called death, so that even he is destroyed and is no longer an enemy. When, then, all rational souls have been restored to such a state, then the nature of this body of ours too will be carried up into the glory of the spiritual body. … It is not one body that we now use in dishonour, corruption and weakness, and another that we shall use in incorruption, power and glory; rather this same body, its present weaknesses cast off, will be changed into glory, made spiritual, so that what was a vessel of dishonour, once purified, becomes a vessel of honour and a dwelling of blessedness.",
+   "english_source": "Own translation. Standard comparisons: Crombie (ANF 4, 1885, public domain); Butterworth (1936); Behr (2017), none opened. Contested renderings: ‘restitutae’ (restored; the Greek is apokatastasis-language, so ‘restoration’ and ‘universal salvation’ are the two usual glosses); ‘destruatur’ (destroyed, abolished or put out of action: the point is whether the enemy ceases to exist or ceases to be an enemy); ‘Deus omnia in omnibus’ (1 Cor 15:28: God all in all, or God everything in everyone); ‘rationabiles animae’ (rational souls or rational beings).",
+   "why_it_matters": "This chapter is Origen’s fullest account of the end. Three points are in dispute between readers: whether ‘all in all’ includes the wicked and the devil, whether the stages of amendment end with every rational being restored, and whether bodies belong to the final state. Rufinus’s Latin has this body changed into a spiritual body, not abolished; the Greek fragment Justinian quotes in his Letter to Menas (see the textual notes) says God does not become ‘all in all’ in bodies, which by their own nature are lifeless.",
+   "textual_notes": "Section numbers are Migne/Delarue's. At 3.6.3 Migne prints, between Rufinus's sentences, a Greek fragment taken from the end of Justinian's Letter to Menas and, beside it, Delarue's own Latin rendering of that Greek: ‘Λεγομένου τοῦ Θεοῦ πάντα γενέσθαι ἐν πᾶσιν, ὥσπερ οὐ δυνάμεθα κακίαν καταλιπεῖν, οὔτε Θεὸς πάντα γίνεται ἐν πᾶσιν, οὐδὲ ἄλογα ζῶα, ἵνα μὴ καὶ ἐν κακίᾳ ὁ Θεὸς γίνηται, καὶ ἐν ἀλόγοις ζώοις· ἀλλ᾿ οὐδὲ ἄψυχα, ἵνα μὴ καὶ ἐν αὐτοῖς ὁ Θεός, ὅτε πάντα γίνεται. Οὕτως οὐδὲ σώματα, ἅτινα τῇ ἰδίᾳ φύσει ἄψυχά ἐστιν.’ Roughly: when it is said that God will become all in all, God does not become all in all irrational animals, lest God also come to be in wickedness, nor in inanimate things, nor in bodies, which by their own nature are inanimate. The first clause is obscure in the scan and in Delarue's rendering and I would not rest an argument on my reading of it. (OCR slips fixed: ὲν to ἐν, ἇψυχα to ἄψυχα, ἆτινα to ἅτινα; the scan has a line-break hyphen inside Λεγομένου and ἄλογοις.) This Greek says something Rufinus's Latin does not say, which is the editions problem in miniature (see the next entry on 1.2.13). Delarue's note 44 records that the words ‘quod non solum in omnibus esse dicitur Deus, sed etiam omnia in omnibus’ were missing from earlier printed editions and supplied from the manuscripts. Note 57: ‘quod etiam finis’ (manuscripts) against ‘quae etiam finis’ (editions). Note 52, to a sentence a little after the lines quoted (about 3.6.5, not obtained), says the manuscripts have ‘namque’ and lack the words ‘id est diabolus’ after ‘inimicus’ that the earlier printed editions add: an explicit gloss identifying the last enemy with the devil.",
+   "readings": [
+    {
+     "scholar": "Daniel Heide",
+     "work": "‘Apokatastasis: The Resolution of Good and Evil in Origen and Eriugena’, Dionysius 33 (2015), pp. 196-199 (citing 3.6.3) and n. 15",
+     "position": "Reads 3.6 as saying evil is abolished, not substance: apokatastasis is the return of all rational creatures and the dissolving of every contrast between good and evil (‘there will no longer be any contrast of good and evil, since evil nowhere exists’, p. 197), and he thinks the devil's redemption follows from Origen's ontology. For a detailed treatment he sends readers to Ramelli, The Christian Doctrine of Apokatastasis (2013), pp. 144-156, without saying whether he agrees.",
+     "side": "reads 3.6 as teaching restoration of all rational creatures, evil ending because it has no being",
+     "status": "S",
+     "source_url": "https://ojs.library.dal.ca/dionysius/article/view/6482/5688"
+    },
+    {
+     "scholar": "Chris Hannen",
+     "work": "‘Rob Bell and Origen’, Stimulus 23.2 (year not confirmed), p. 25 and nn. 56, 58",
+     "position": "Says restoration comes through “word, reason, and doctrine”, which he cites to 3.6.8 (n. 56, a section not quoted here). In the next sentence he argues that human freedom and divine determinism do not conflict, citing MacDonald (p. 33) and Ramelli (p. 167) in n. 58.",
+     "side": "reads 3.6 as universal restoration that respects freedom",
+     "status": "S",
+     "source_url": "https://www.laidlaw.ac.nz/assets/Files-PDF-Word/10036-Stimulus-Vol-23-Is-2_Hannen.pdf"
+    },
+    {
+     "scholar": "Jean Danielou (as reported by Lee Sytsma)",
+     "work": "Sytsma, Reconciling Universal Salvation and Freedom of Choice in Origen of Alexandria (Marquette dissertation, 2018), pp. 20-21 and nn. 41, 45, citing Danielou (English translation, 1955, p. 289)",
+     "position": "Sytsma quotes Danielou on “the metaphysical necessity of the ultimate elimination of evil” (p. 20) and says his analysis ended in “a certain incoherence” in Origen’s theology (p. 21), because that necessity pulls against the creature’s freedom. The report is about Origen’s system, not 3.6 alone.",
+     "side": "doubts that the strict argument for the end of evil fits the stress on freedom",
+     "status": "S",
+     "source_url": "https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1781&context=dissertations_mu"
+    },
+    {
+     "scholar": "Ilaria Ramelli (as reported by Lee Sytsma)",
+     "work": "Ramelli, The Christian Doctrine of Apokatastasis (Brill, 2013), cited in Sytsma, pp. 31-32 and nn. 79, 83, 84",
+     "position": "Sytsma reports Ramelli grounding the end of evil in its non-subsistence: “Providence does not force rational creatures’ free will” (p. 31, n. 79, citing Ramelli p. 113), and evil vanishing “according to its ontological non-subsistence” (nn. 83-84). Sytsma adds (p. 32) that, like Tzamalikos, Ramelli “does not state why this is so, only that it must be so”.",
+     "side": "reads the end of evil as the natural result of free choices, so restoration is universal and free",
+     "status": "S",
+     "source_url": "https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1781&context=dissertations_mu"
+    },
+    {
+     "scholar": "Ilaria L. E. Ramelli",
+     "work": "Review of Cinzia Arruzza, Les mésaventures de la théodicée, Bryn Mawr Classical Review 2012.12.31",
+     "position": "Cites On First Principles 3.6.5 (a section not obtained here) for the sentence “Nihil enim omnipotenti impossibile est, nec insanabile est aliquid Factori suo” (nothing is impossible to the Almighty, nor is anything incurable by its Maker) and argues that the eventual apokatastasis rests “not on creatures’ lack of freedom, but on the omnipotence of the Logos”.",
+     "side": "reads the chapter as grounding restoration in God’s omnipotence, not in coercing freedom",
+     "status": "S",
+     "source_url": "https://bmcr.brynmawr.edu/?p=38753"
+    }
+   ],
+   "source_urls": [
+    "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-11/master/mdp.39015013266690_ocr/180.txt",
+    "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-11/master/mdp.39015013266690_ocr/181.txt",
+    "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-11/master/mdp.39015013266690_ocr/183.txt",
+    "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-11/master/hvd.32044024345175_ocr/175.txt",
+    "https://www.laidlaw.ac.nz/assets/Files-PDF-Word/10036-Stimulus-Vol-23-Is-2_Hannen.pdf",
+    "https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1781&context=dissertations_mu",
+    "https://bmcr.brynmawr.edu/?p=38753"
+   ],
+   "status": "V"
+  },
+  {
+   "id": "pa-1-2-13-rufinus-vs-justinian",
+   "title": "Where Rufinus and Justinian's Greek disagree: the Son as ‘image of God's goodness’ (On First Principles 1.2.13)",
+   "author_work_ref": "Origen, On First Principles 1.2.13: Rufinus's Latin, and a Greek fragment preserved at the end of Justinian's Letter to Menas (543; Patrologia Graeca 86.1, Mansi 9)",
+   "date": "Origen's Greek before c. 230; Rufinus 397-98; Justinian 543",
+   "language": "Latin (Rufinus) and Greek (Justinian's quotation, as Migne prints it)",
+   "original": "RUFINUS: (1.2.13) Superest quid sit imago bonitatis ejus inquirere: in quo eadem, ut opinor, intelligi convenit quae superius de imagine ea quae per speculum deformatur, expressimus. [Greek fragment inserted here by Migne, see below] Principalis namque bonitas sine dubio, ex qua Filius natus; qui per omnia imago est Patris, procul dubio etiam boni[…] talis ejus convenienter imago dicetur. Non enim alia aliqua secunda bonitas exsistit in Filio praeter eam quae est in Patre. Unde et recte ipse Salvator in Evangelio dicit quoniam « nemo bonus nisi unus Deus Pater »; quo scilicet per hoc intelligatur Filius non esse alterius bonitatis, sed illius solius quae in Patre est; cujus, recte imago appellatur, quia neque aliunde est, nisi ex ipsa principali bonitate; ne altera bonitas quam ea quae in Patre est, videatur in Filio. Neque aliqua dissimilitudo aut distantia bonitatis in Filio est. || JUSTINIAN (Greek, as printed in PG 11, col. 143-144, note 56): Οὗτω τοίνυν ἡγοῦμαι· καὶ ἐπὶ τοῦ Σωτῆρος καλῶς ἂν λεχθήσεσθαι ὅτι εἰκὼν ἀγαθότητος τοῦ Θεοῦ ἐστιν, ἀλλ’ οὐκ αὐτὸ ἀγαθόν· καὶ τάχα καὶ Υἱὸς ἀγαθός, ἀλλ’ οὐχ ὡς ἁπλῶς ἀγαθός. Καὶ ὥσπερ εἰκὼν ἐστι τοῦ Θεοῦ τοῦ ἀοράτου, καὶ κατὰ τοῦτο Θεός, ἀλλ’ οὐ περὶ οὗ λέγει αὐτὸς ὁ Χριστός· ‘ἵνα γινώσκωσί σε τὸν μόνον ἀληθινὸν Θεόν’, οὕτως εἰκὼν ἀγαθότητος, ἀλλ’ οὐχ ὡς ὁ Πατὴρ ἀπαραλλάκτως ἀγαθός.",
+   "edition": "Latin: P. Koetschau, GCS 22 (Leipzig, 1913), 1.2.13, page not confirmed. Greek: Justinian, Letter to Menas, Mansi 9 and PG 86.1 (neither opened); Koetschau prints it among his Greek fragments. Editions compared by Martens: Koetschau (1913); H. Gorgemanns and H. Karpp, Origenes: Vier Bucher von den Prinzipien (Darmstadt, 1976); Crouzel-Simonetti, SC 252 (1978); Behr, OECT (2017).",
+   "checked_against": "Both texts as printed in Migne, Patrologia Graeca 11, cols. 143-144 and note 56 (Delarue's text), from the Fabio3rs/BibliothecaPatristica OCR transcription (teste/PG011, second batch, page 076), checked against the OGL-PatrologiaGraecaDev/Vol.-11 scans (hvd page 077, mdp 085, njp 081). The three-column page runs Latin and Greek together, so the Latin is quoted only where contiguous, with […] at the one gap I could not close. Second pass: the Greek does not break off where the draft said; its remaining words are at the head of the next column of the same OCR page. Greek OCR slips fixed: ἡγομαι to ἡγοῦμαι, ν to ἂν, εκὼν to εἰκὼν (the njp scan also reads ἡγοῦμαι and ἂν), and ἀπλῶς (smooth breathing in the scan) to ἁπλῶς. The Greek was NOT checked against Justinian's letter itself.",
+   "english": "RUFINUS: (1.2.13) It remains to ask what the image of his goodness is; in this, I think, the same must be understood as we set out above about the image formed in a mirror. For the primary goodness is, without doubt, that from which the Son is born, who in everything is the image of the Father, and so without doubt also [… uncertain join] he will fittingly be called the image of such goodness of his. For no second goodness of any other kind exists in the Son besides the one that is in the Father. Hence the Saviour himself rightly says in the Gospel, ‘None is good but one, God the Father’, so that by this it may be understood that the Son is not of another goodness, but of that one goodness alone which is in the Father, whose image he is rightly called, because he is from nowhere else than from the primary goodness itself, lest another goodness than the one that is in the Father may seem to be in the Son. There is no unlikeness or distance of goodness in the Son. || JUSTINIAN’S GREEK: So, then, I think that of the Saviour too it would rightly be said that he is an image of God’s goodness, but not goodness itself; and perhaps also that the Son is good, but not good without qualification. And just as he is the image of the invisible God, and in that respect God, but not the one of whom Christ himself says, ‘That they may know you, the only true God’, so he is the image of goodness, but not, as the Father is, good without any variation.",
+   "english_source": "Own translation of the Latin and of the whole Greek sentence. Martens's gloss of the end of the first Greek sentence, ‘not purely and simply good’, agrees with ἁπλῶς in the scan (page of Martens's gloss not confirmed). ἀπαραλλάκτως is rendered ‘without any variation’ (Delarue’s own Latin version has ‘sine ulla differentia’). Standard translations: Butterworth (1936), Behr (2017), neither opened. Contested rendering: ‘ἀλλ᾿ οὐκ αὐτὸ ἀγαθόν’ (not goodness itself) against Rufinus's ‘no other goodness’: the first makes the Son's goodness derived and lesser, the second says it is the Father's goodness.",
+   "why_it_matters": "This is the clearest small case of the editions problem, and Peter Martens uses it for that purpose. If the Greek is Origen's, Rufinus has made the Son's goodness equal to the Father's; if Rufinus is right, Justinian's quotation is doctored or taken out of context. It is not about universal salvation itself, but every dispute over what Origen taught on the end turns on the same prior question: trust Rufinus's Latin, or the hostile Greek? The same fork appears at 3.6.3 (the Greek fragment on God ‘all in all’ above).",
+   "textual_notes": "Delarue (note 56 in PG 11) printed the Greek in square brackets inside Rufinus's Latin and wrote that Justinian gives it at the end of his Letter to Menas, that he thinks it stood in the Greek text at this place, and that ‘it is clear how unreliable the faith of Rufinus is, who omitted it and substituted other things’ (own translation of ‘liquet quam fluxa sit fides Rufini qui ea omiserit et alia substituerit’). He adds a Latin version of the Greek ending ‘fortasse etiam Filium bonum, sed non simpliciter bonum … ita bonitatis imago, non tamen ut Pater, sine ulla differentia bonus’. The Greek as Migne prints it has ‘καλῶς ἂν λεχθήσεσθαι’, an irregular construction (ἄν with a future infinitive) that may be a corruption; I kept it. Jerome had already complained (Letter to Avitus, quoted in Delarue’s note 56) that Origen here ‘calls God the Father omnipotent, good and of perfect goodness; the Son not good, but a breath and an image of goodness, so that he is not called absolutely good, but with an addition, ’the good shepherd’’. Note 57 gives the manuscript reading of Rufinus: ‘ne altera bonitas quam ea quae in Patre est, videatur in Filio’ (earlier editions: ‘exsistit in Filium praeter eam quae est a Patre’). Martens reports (p. 321, in his text, not in n. 43) that Koetschau supports the Greek by a parallel at Commentary on Matthew 15.10, where Origen says the predicate ‘good’ is properly attributed only to God the Father. Koetschau's own page and line not confirmed.",
+   "readings": [
+    {
+     "scholar": "Jerome (ancient reader) and Charles Delarue (editor)",
+     "work": "Jerome, Letter to Avitus (Letter 124), as quoted in Delarue's note 56, PG 11 cols. 143-144; Delarue's edition of Origen (1733-59) as reprinted in PG 11",
+     "position": "Both take the Greek in Justinian's letter as what Origen wrote and Rufinus as having left it out. Delarue says so in as many words (‘how unreliable the faith of Rufinus is’); Jerome complains that Origen made the Son a mere image of goodness.",
+     "side": "trusts the hostile Greek and Jerome against Rufinus",
+     "status": "V",
+     "source_url": "https://raw.githubusercontent.com/Fabio3rs/BibliothecaPatristica/34c5de5a1e066fe518744e5dc34b219afa56098a/teste/PG011/text/eec7511a-835d-4b3e-9e14-a480a01de6c3-076.txt"
+    },
+    {
+     "scholar": "Paul Koetschau and Hermann Görgemanns-Heinrich Karpp (as reported by Peter Martens)",
+     "work": "Martens, ‘The Modern Editions of Peri Archon’, Journal of Early Christian Studies 28.2 (2020), pp. 303-331, esp. pp. 313, 315, 317, 321 and n. 43",
+     "position": "Martens puts them, with Delarue, Rius-Camps and Fernández, in a group that prints a ‘mosaicked’ text (pp. 313, 315), and writes that “Each of the editors in group two regards Justinian’s fragment as genuine and Rufinus’s corresponding translation as corrupt” (p. 321). Of Koetschau he says that he “distinguishes himself … by interrupting the progression of Rufinus’s translation so frequently” (p. 317).",
+     "side": "trusts the Greek fragment and builds the Latin text around it",
+     "status": "S",
+     "source_url": "https://www.academia.edu/43470693/T"
+    },
+    {
+     "scholar": "Henri Crouzel and Manlio Simonetti (as reported by Peter Martens)",
+     "work": "Martens, JECS 28.2 (2020), pp. 313-315, 321 n. 43; Crouzel’s commentary volume to SC 252-253 (1978)",
+     "position": "Martens places their edition in the group that “primarily prints Rufinus’s translation” (p. 313). On this passage he writes in n. 43 (p. 321) that “even Crouzel, in his lengthy note, concedes that Justinian’s report is ‘perhaps authentic’”.",
+     "side": "prints Rufinus; allows the Greek may be authentic",
+     "status": "S",
+     "source_url": "https://www.academia.edu/43470693/T"
+    },
+    {
+     "scholar": "John Behr (as reported by Peter Martens)",
+     "work": "Origen: On First Principles, Oxford Early Christian Texts (OUP, 2017); Martens, JECS 28.2 (2020), p. 314",
+     "position": "Martens writes that Behr, like Crouzel and Simonetti, “presents a continuous and complete text of Rufinus’s Latin translation” and prints parallel sources at the foot of the relevant pages. Martens’s lines that I could read do not say what Behr makes of 1.2.13 itself.",
+     "side": "prints Rufinus as the continuous text, with other witnesses beside it",
+     "status": "S",
+     "source_url": "https://www.academia.edu/43470693/T"
+    },
+    {
+     "scholar": "G. W. Butterworth, as characterised by John Cavadini and Daniel Heide",
+     "work": "Cavadini, Foreword to Origen: On First Principles (Christian Classics/Ave Maria Press, 2013 reprint of Butterworth), pp. vii-viii; Heide, Arc 44 (2016), pp. 57, 59-60 and n. 46",
+     "position": "Cavadini writes that Koetschau’s presentation “was predicated on a hermeneutic of thoroughgoing suspicion regarding Rufinus’s translation”, that Butterworth “fully adopted, and even extended” it, “divided the page between” Latin and Greek columns, and used sources “as hostile as the anathemata of Justinian” (pp. vii-viii). Heide agrees, calling Butterworth’s confidence that Jerome does not exaggerate “mindboggling” (p. 60) and Crouzel and Simonetti “an important corrective to Koetschau” (p. 57). Neither speaks of 1.2.13 specifically, and I did not open Butterworth.",
+     "side": "critics of the Koetschau-Butterworth method, who trust Rufinus more",
+     "status": "S",
+     "source_url": "https://arcjournal.library.mcgill.ca/article/download/355/377/3033"
+    }
+   ],
+   "source_urls": [
+    "https://raw.githubusercontent.com/Fabio3rs/BibliothecaPatristica/34c5de5a1e066fe518744e5dc34b219afa56098a/teste/PG011/text/eec7511a-835d-4b3e-9e14-a480a01de6c3-076.txt",
+    "https://www.academia.edu/43470693/T",
+    "https://assets.avemariapress.com/media/files/4d7625577e53ddb03c5078b75f112e52/On_First_Priniciiples_Excerpt.pdf",
+    "https://arcjournal.library.mcgill.ca/article/download/355/377/3033"
+   ],
+   "status": "V"
+  },
+  {
+   "id": "cc-6-26",
+   "title": "Why the full teaching on punishment is not for the many (Against Celsus 6.26)",
+   "author_work_ref": "Origen, Against Celsus (Contra Celsum) 6.26",
+   "date": "c. 248, Caesarea",
+   "language": "Greek",
+   "original": "Ὅσα δ᾿ εἰς τὸν τόπον λεχθείη ἂν, οὔτε πᾶσιν οὔτε τοῦ παρόντος καιροῦ ἐστι διηγήσασθαι· ἀλλ᾿ οὐδ᾿ ἀκίνδυνον τὴν τῶν τοιούτων σαφήνειαν πιστεῦσαι γραφῇ. ἅτε τῶν πολλῶν οὐ χρῃζόντων πλείονος διδασκαλίας παρὰ τὴν περὶ τῆς κατὰ τῶν ἁμαρτανόντων κολάσεως. εἰς γὰρ τὰ ὑπερέκεινα αὐτῆς οὐ χρήσιμον ἀναβαίνειν διὰ τοὺς μόγις φόβῳ τῆς αἰωνίου κολάσεως κἂν συστέλλοντας ἐπὶ ποσὸν τῆς κακίας καὶ τῶν ἀπ᾿ αὐτῆς ἁμαρτανομένων χύσιν.",
+   "edition": "P. Koetschau, Origenes Werke vol. 2 (= Buch V-VIII gegen Kelsos, GCS 3, Leipzig: Hinrichs, 1899), p. 96: the Perseus transcription marks the start of p. 96 just before chapter 26 and no later page break falls before these lines. Line numbers not given. Modern translation: H. Chadwick, Contra Celsum (Cambridge, 1953), not opened. Public-domain English: ANF 4 (Crombie), seen only in short phrases (below).",
+   "checked_against": "Perseus Digital Library TEI transcription of Koetschau (First1KGreek, tlg2042.tlg001.perseus-grc1), which carries Koetschau's page numbers. One obvious typing slip fixed: πολῶν to πολλῶν. Second pass: compared letter for letter, with accents, against that file, and against a second text of the same chapter on bkv.unifr.ch (edition not named on the page), which has the same wording (it prints ἄν for ἂν in the first sentence) and the same πολλῶν. Both are electronic transcriptions, not the printed page.",
+   "english": "As for what might be said on this subject, it is neither for everyone nor for the present occasion to set it out; and it is not free of danger to entrust the plain statement of such matters to writing, since the many need no more teaching than the one about the punishment of sinners. To go beyond it is not useful, because of those who, barely, through fear of eternal punishment, hold back to some extent the outpouring of evil and of the sins that come from it.",
+   "english_source": "Own translation. Compare ANF 4 (Crombie, public domain), whose English as shown on bkv.unifr.ch (translator not named there) has ‘nor to be uttered on the present occasion’, ‘not unattended with danger to commit to writing’ and ‘fear of eternal punishment’. Contested rendering: ‘αἰωνίου κολάσεως’ (eternal punishment; or age-long, lasting for an age, the meaning argued by Ramelli and Konstan for aionios, see the Romans 6.5 entry). Note that Origen himself uses the word here in the phrase the many fear, and does not say whether he thinks it is the right word. ‘τὸν τόπον’ (this subject, this place): the lines before it speak of purification by fire in Jerusalem, so the subject is the fire of punishment.",
+   "why_it_matters": "This is a passage cited (by Batiffol and by Heide, among those read here) for the claim that Origen held a fuller doctrine than he taught the simple. He says the plain account of punishment is enough for the many and that going beyond it would not help those who are held back from evil by fear of an ‘eternal’ punishment. He does not say what lies beyond it, and he does not call the doctrine of eternal punishment false.",
+   "textual_notes": "The extract begins mid-argument; the previous sentence in 6.26 (not quoted) speaks of punishments ‘in connection with Jerusalem’, of souls being melted down, and of Zechariah's ‘talent of lead’. No variant of consequence is recorded in the transcription. Chapter division is Koetschau's.",
+   "readings": [
+    {
+     "scholar": "Pierre Batiffol",
+     "work": "‘Apocatastasis’, Catholic Encyclopedia vol. 1 (1907); copy read on catholic.com",
+     "position": "Says Origen “does not seem to have regarded the doctrine of the apokatastasis as one meant to be preached to all”, citing Against Celsus VI, 26. Elsewhere in the article he writes that Origen “seems at times reluctant to decide” on the eternity of punishment, and that “as a rule, Origen teaches the apokatastasis”; he cites On First Principles 1.6.3 (Origen “does not venture to assert” that all evil angels will return) on the other side, relying on Tixeront.",
+     "side": "reads Origen as teaching apokatastasis as a rule, but cautiously and not publicly",
+     "status": "S",
+     "source_url": "https://www.catholic.com/encyclopedia/Apocatastasis"
+    },
+    {
+     "scholar": "Daniel Heide",
+     "work": "‘Apokatastasis: The Resolution of Good and Evil in Origen and Eriugena’, Dionysius 33 (2015), p. 197 n. 13",
+     "position": "Suggests that the devil’s ultimate fate (like the non-eternity of hell) “perhaps belongs” among the things of which Origen says “It is not right to explain to everybody all that might be said on this subject” (his English for 6.26). He adds that “the logic of Origen’s ontology seems to require the conversion and ultimate restoration of the devil”.",
+     "side": "reads the reticence as probably hiding a universalist conclusion",
+     "status": "S",
+     "source_url": "https://ojs.library.dal.ca/dionysius/article/view/6482/5688"
+    },
+    {
+     "scholar": "Tom Greggs (as reported by Chris Hannen)",
+     "work": "Hannen, ‘Rob Bell and Origen’, Stimulus 23.2 (year not confirmed), p. 27 and n. 81 (Greggs, p. 315; work not named in the part I could read, probably Greggs’s article on Origen in the International Journal of Systematic Theology 8.3, 2006, which I have not opened)",
+     "position": "Hannen cites Greggs for the claim that “Origen clearly took a different stance on universalism dependent on the genre of his work”. The point about audience is Hannen’s own (p. 22).",
+     "side": "reads Origen’s wording as adjusted to genre, not as inconsistency",
+     "status": "S",
+     "source_url": "https://www.laidlaw.ac.nz/assets/Files-PDF-Word/10036-Stimulus-Vol-23-Is-2_Hannen.pdf"
+    }
+   ],
+   "source_urls": [
+    "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2042/tlg001/tlg2042.tlg001.perseus-grc1.xml",
+    "https://www.catholic.com/encyclopedia/Apocatastasis",
+    "https://bkv.unifr.ch/works/cpg-1476/compare/contra-celsum/435/origen-against-celsus",
+    "https://ojs.library.dal.ca/dionysius/article/view/6482/5688",
+    "https://www.laidlaw.ac.nz/assets/Files-PDF-Word/10036-Stimulus-Vol-23-Is-2_Hannen.pdf"
+   ],
+   "status": "V"
+  },
+  {
+   "id": "cc-8-72",
+   "title": "The Word will master every rational soul, and evil will be abolished (Against Celsus 8.72)",
+   "author_work_ref": "Origen, Against Celsus (Contra Celsum) 8.72",
+   "date": "c. 248, Caesarea",
+   "language": "Greek",
+   "original": "ἡμεῖς δὲ τῆς λογικῆς φύσεώς φαμεν ὅλης κρατῆσαί ποτε τὸν λόγον καὶ μεταποιῆσαι πᾶσαν ψυχὴν εἰς τὴν ἑαυτοῦ τελειότητα, ἐπὰν [289] ἕκαστος ψιλῇ χρησάμενος τῇ ἐξουσίᾳ ἕληται ἃ βούλεται καὶ γένηται ἐν οἷς εἵλατο· καὶ φαμεν ὅτι οὐκ ἔστιν εἰκὸς, ὥσπερ ἐπὶ τῶν ⟨ἐν⟩ τοῖς σώμασι νοσημάτων καὶ τραυμάτων τινὰ τῶν συμβαινόντων ἰσχυρότερα εἶναι πάσης ἰατρικῆς τέχνης, οὕτως ἐπὶ τῶν ψυχῶν εἶναί τι τῶν ἀπὸ κακίας ἀδύνατον ὑπὸ τοῦ ἐπὶ πᾶσι λογικοῦ καὶ θεοῦ θεραπευθῆναι. πάντων γὰρ τῶν ἐν ψυχῇ κακῶν δυνατώτερος ὢν ὁ λόγος καὶ ἡ ἐν αὐτῷ θεραπεία προσάγει κατὰ βούλησιν θεοῦ ἑκάστῳ αὐτὴν, καὶ τὸ τέλος τῶν πραγμάτων ἀναιρεθῆναί ἐστι τὴν κακίαν· πότερον δὲ ὥστε μηδαμῇ μηδαμῶς ἔτι αὐτὴν ἐπιτραπῆναι δύνασθαι ἢ μὴ, οὐ τοῦ παρόντος ἐστὶ λόγου διδάξαι.",
+   "edition": "P. Koetschau, Origenes Werke 2, GCS 3 (Leipzig, 1899), pp. 288-289 (the bracketed [289] marks Koetschau's page break; ⟨ἐν⟩ is an editorial supplement (the digital text tags it as an addition and prints it in round brackets; I could not confirm from the printed page that it is Koetschau's own)). Chadwick (1953) and ANF 4 not opened.",
+   "checked_against": "Perseus TEI transcription of Koetschau (First1KGreek, tlg2042.tlg001.perseus-grc1) with his page numbers. Two stray page markers from the digital file (not Koetschau's) were removed, one of which fell in the middle of the word αὐτήν. The transcription is electronic, not the printed page. Second pass (fact-check): compared letter for letter, with accents, against that file; the only differences are the two page markers removed, the angle brackets I use for the supplement ⟨ἐν⟩ (the file has it as an <add> in round brackets), and the [289] I kept to show his page break.",
+   "english": "But we say that the Word will one day master the whole rational nature and remake every soul into his own perfection, when each, using only his own freedom, chooses what he wishes and becomes what he has chosen. And we say that, as with diseases and wounds of bodies some are stronger than every medical art, it is not likely that among souls anything arising from evil is incurable by the Word, who is over all, and by God. For the Word, being more powerful than all the evils in the soul, and the healing that is in him, brings it to each according to God's will; and the end of things is that evil is abolished. Whether so that it can in no way ever again be allowed [to arise], or not, is not for the present discussion to teach.",
+   "english_source": "Own translation. Compare ANF 4 (Crombie, public domain; as shown on bkv.unifr.ch, translator not named there): ‘The consummation of all things is the destruction of evil’ and ‘whether it shall be so destroyed that it can never anywhere arise again, it is beyond our present purpose to say’. Standard comparisons: Chadwick (1953); ANF 4 (public domain, Crombie); neither opened. Contested renderings: ‘κρατῆσαι’ (master, prevail over, gain control of); ‘μεταποιῆσαι’ (remake or transform); ‘ἀναιρεθῆναι τὴν κακίαν’ (that evil be abolished, taken away, destroyed); ‘ἐπιτραπῆναι’ in the last clause (be allowed, be given leave, be turned over: the sentence leaves open whether evil could ever be readmitted).",
+   "why_it_matters": "This is a direct statement, in a late work (c. 248, by the date above), that the aim of the Word's healing is to abolish evil in every rational soul. He says it as what ‘we’ say, not as a guess. Then he refuses to decide, in this discussion, whether evil could ever return. Readers divide over how much weight the first half carries and how much the refusal carries.",
+   "textual_notes": "There is no ‘perhaps’ (τάχα) in these lines of Koetschau's Greek, although the passage is sometimes quoted as if there were. The hedge is the closing sentence, which explicitly sets aside the question whether evil can be so abolished that it can never again be admitted. The next sentences (not quoted) bring in Zephaniah 3:7-11 as prophetic support. Against Celsus survives in Greek in the Tura papyrus for books 1-2 and in the manuscript tradition for the rest, so Rufinus's problem does not arise here. The Greek reads λογικοῦ (‘rational’) in “ὑπὸ τοῦ ἐπὶ πᾶσι λογικοῦ καὶ θεοῦ”, in both texts I compared; I translate it, as translators do, as the Word (λόγου). The last clause (ἐπιτραπῆναι δύνασθαι) is awkward Greek and is rendered differently by different translators. The page markers v.2.p.288 and p.289 in the digital text put this chapter on pp. 288-289 of Koetschau's volume. A second text of the chapter (bkv.unifr.ch) gives the same Greek for the three clauses I compared.",
+   "readings": [
+    {
+     "scholar": "Chris Hannen",
+     "work": "‘Rob Bell and Origen’, Stimulus 23.2 (year not confirmed), p. 27 and nn. 72-74",
+     "position": "Cites 8.72 (n. 72) for the claim that the end of the Word’s treatment is the abolition of evil, and so reads the passage as pointing to universal restoration. He sets beside it Contra Celsum 3.16 and 3.31 (nn. 73-74, p. 27), passages that seem to point to separation after death.",
+     "side": "reads 8.72 as a statement of universal restoration",
+     "status": "S",
+     "source_url": "https://www.laidlaw.ac.nz/assets/Files-PDF-Word/10036-Stimulus-Vol-23-Is-2_Hannen.pdf"
+    },
+    {
+     "scholar": "Henri Crouzel (as reported by Chris Hannen)",
+     "work": "Hannen, ‘Rob Bell and Origen’, p. 27 and n. 82 (Crouzel, pp. 257-266)",
+     "position": "Hannen cites Crouzel for “The best we can ascertain is that Origen hoped for universal salvation”. This is Crouzel’s general position, not a comment on 8.72 by number.",
+     "side": "reads Origen as hoping for, not asserting, universal salvation",
+     "status": "S",
+     "source_url": "https://www.laidlaw.ac.nz/assets/Files-PDF-Word/10036-Stimulus-Vol-23-Is-2_Hannen.pdf"
+    },
+    {
+     "scholar": "Ronald E. Heine (as cited by Chris Hannen; first name and work supplied from memory, not confirmed from Hannen) and Ilaria Ramelli",
+     "work": "Hannen, ‘Rob Bell and Origen’, Stimulus 23.2, pp. 27-28 and nn. 85-86 (Heine, p. 256; Ramelli, p. 316)",
+     "position": "Hannen quotes Heine as calling it “a defendable, but not an unquestionable, conclusion” that Origen was rethinking universal restoration at Caesarea, and himself concludes there was no “major recant or u-turn” (p. 28). He cites Ramelli (n. 86) on the other side. Against Celsus is a late work (c. 248), so this bears on how to read 8.72.",
+     "side": "Heine: late rethinking is defensible; Hannen and Ramelli: continuity",
+     "status": "S",
+     "source_url": "https://www.laidlaw.ac.nz/assets/Files-PDF-Word/10036-Stimulus-Vol-23-Is-2_Hannen.pdf"
+    },
+    {
+     "scholar": "Ilaria Ramelli (as reported by Steven Nemes)",
+     "work": "Nemes, review of Ramelli, The Christian Doctrine of Apokatastasis, Journal of Analytic Theology 3 (May 2015), pp. 228-229 (page range inferred from running heads), citing Ramelli (Brill, 2013), pp. 193, 208",
+     "position": "Nemes quotes “No being is incurable for the Christ-Logos” (citing Ramelli p. 193; he does not make clear whether the words are Ramelli’s or Origen’s) and “Apokatastasis is professed by Origen in all of his works” (citing p. 208). Nemes does not link either to 8.72; they match its argument and are placed here for that reason.",
+     "side": "reads Origen as consistently teaching that the Logos can heal every being",
+     "status": "S",
+     "source_url": "https://jat-ojs-baylor.tdl.org/jat/article/download/jat.2015-3.181913130418a/271/494"
+    },
+    {
+     "scholar": "Ilaria L. E. Ramelli",
+     "work": "Review of Cinzia Arruzza, Les mésaventures de la théodicée, Bryn Mawr Classical Review 2012.12.31",
+     "position": "Cites Contra Celsum 8.72 together with On First Principles 3.6.5 to argue that God’s omnipotence guarantees the cure of even ‘incurable’ souls, and says the eventual apokatastasis rests “not on creatures’ lack of freedom, but on the omnipotence of the Logos”.",
+     "side": "reads 8.72 as grounding the end of evil in the Logos’s power, not in loss of freedom",
+     "status": "S",
+     "source_url": "https://bmcr.brynmawr.edu/?p=38753"
+    }
+   ],
+   "source_urls": [
+    "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2042/tlg001/tlg2042.tlg001.perseus-grc1.xml",
+    "https://www.laidlaw.ac.nz/assets/Files-PDF-Word/10036-Stimulus-Vol-23-Is-2_Hannen.pdf",
+    "https://jat-ojs-baylor.tdl.org/jat/article/download/jat.2015-3.181913130418a/271/494",
+    "https://bkv.unifr.ch/works/cpg-1476/compare/contra-celsum/634/origen-against-celsus",
+    "https://bmcr.brynmawr.edu/?p=38753"
+   ],
+   "status": "V"
+  },
+  {
+   "id": "hom-jer-20-3-4",
+   "title": "‘You deceived me, Lord’: the physician, the father and the hidden mystery (Homilies on Jeremiah 20.3-4)",
+   "author_work_ref": "Origen, Homilies on Jeremiah, Homily 20, sections 3-4 (on Jeremiah 20:7)",
+   "date": "Caesarea, 240s (date uncertain)",
+   "language": "Greek",
+   "original": "(20.3, p. 181) τὸ κατὰ τὸν τόπον μυστήριον κεκρύφθαι δεῖ, ἵνα μὴ ἐκκακήσῃ ὁ πολύς, ἵνα μὴ μαθὼν τὰ πράγματα προσδοκήσῃ τὴν ἔξοδον οὐχ ὡς ἀνάπαυσιν, ἀλλ᾿ ὡς κόλασιν. (20.3, p. 182) ἄλλη γὰρ ἡ ἀπάτη ἡ ἀπὸ τοῦ θεοῦ, ἄλλη ἡ ἀπάτη ἡ ἀπὸ τοῦ ὄφεως. (20.4, p. 183) πόσοι δὲ νομιζόμενοι σοφοί, εὑρόντες τὸ περὶ κολάσεως ἀληθὲς καὶ διελθόντες δῆθεν τὰ τῆς ἀπάτης, ἐν χείρονι γεγόνασι βίῳ; ἐλυσιτέλει αὐτοὺς φρονεῖν, ὡς ἐφρόνουν πρότερον περὶ τοῦ ‘ὁ σκώληξ αὐτῶν οὐ τελευτήσει’ καὶ ὅτι ‘τὸ πῦρ αὐτῶν οὐ σβεσθήσεται’",
+   "edition": "E. Klostermann, Origenes Werke 3: Jeremiahomilien, Klageliederkommentar, Erklarung der Samuelbucher, GCS 6 (Leipzig: Hinrichs, 1901), Homily 20.3-4, pp. 179-184 (the quoted lines fall on pp. 181, 182 and 183 by the page markers in the digital file). A second edition by P. Nautin appeared in 1983, and P. Nautin and P. Husson edited the Greek with French translation in SC 232 and 238 (1976-77; I believe Homily 20 is in SC 238); I did not check either. A German edition and translation by A. Fürst and H. E. Lona is mentioned by Somos (2025, p. 95); not checked. English: J. C. Smith, Fathers of the Church 97 (1998), not opened.",
+   "checked_against": "TEI transcription of Klostermann (First1KGreek, tlg2042.tlg021.opp-grc1), which keeps Klostermann's page numbers and his editorial marks. One obvious typing slip fixed: πρότρον to πρότερον. Electronic transcription, not the printed page. Second pass: compared letter for letter, with accents, against that file; the only differences are the πρότερον fix and the quotation marks. The page numbers 181, 182 and 183 agree with the page markers in the XML. No second text of the Greek was found.",
+   "english": "(20.3) The mystery in this passage has to be kept hidden, so that the many may not lose heart, so that, learning how things are, they may not expect their departure as a rest but as a punishment. (20.3) For the deception from God is one thing, the deception from the serpent another. (20.4) How many who are thought wise, having found the truth about punishment and gone through, as they suppose, the business of the deception, have fallen into a worse way of life? It would have profited them to go on thinking as they used to think about ‘their worm shall not die’ and ‘their fire shall not be quenched’.",
+   "english_source": "Own translation. Contested renderings: ‘ἀπάτη’ and the verb of Jeremiah 20:7 (the Septuagint's ἠπάτησάς με: deceived, tricked; the Hebrew verb is commonly rendered ‘enticed’ or ‘persuaded’, which fits Origen's argument that the deception is for the person's good); ‘δῆθεν’ (supposedly, as they think); ‘τὸ περὶ κολάσεως ἀληθές’ (the truth about punishment: the lines quoted do not say what it is; see the textual notes for the example just before them).",
+   "why_it_matters": "With Against Celsus 6.26 this is where Origen most openly says that what the many are told about punishment may differ from what the wise are told. The disputed point is what the ‘truth about punishment’ is. Read closely, 20.3 says the hidden thing is that the baptised too must pass through punishment (the preceding lines say every sinner must be punished, and that his own ‘wood’ must be burned in him), not that all will be saved; 20.4 says some who found the truth took it for permission and did worse. The lines quoted do not themselves say what the truth is. The example given just before them (see the textual notes) suggests it is milder than the ‘eternal’ punishment the many fear, in the case of the twice-married, but the homily does not say that punishment ends for all.",
+   "textual_notes": "Klostermann's text has a gap in 20.3 (‘. . .’) after ‘καὶ τὸν σοφώτατον’, where the manuscript is defective or the editor sees a lacuna; the sentence just before the quoted lines is broken for the same reason. Another clause early in 20.3 reads ‘οὖν ἄλλως δυνάμενον’ in the transcription, which may be a slip for ‘οὐκ ἄλλως’; it is not quoted. The Greek homilies were preserved in a few manuscripts. Whether Jerome's Latin translation of fourteen homilies has a counterpart for Homily 20 was not checked. Context from the same section, in the lines just before the quotation of 20.4: Origen gives an example of a useful deception. It is more profitable for a woman married once to think that the twice-married woman is ‘punished and handed over to eternal [αἰωνίῳ] punishment’ (κολάζεσθαι καὶ αἰωνίῳ κολάσει παραδίδοσθαι) so that she stays chaste, than to know the truth and marry again; and the truth, he says, is ‘that the twice-married woman too has a share in some salvation, though not in so great a blessedness’ (μετέχει μὲν σωτηρίας τινὸς καὶ ἡ δίγαμος, οὐ μὴν τοσαύτης μακαριότητος). So in this homily the ‘deception’ includes at least a belief in ‘eternal’ punishment for some, and the ‘truth’ is milder; whether Origen extends that to all sinners is not said in the lines quoted. (My own reading of the Greek, own translation; not a scholar's.)",
+   "readings": [
+    {
+     "scholar": "Róbert Somos",
+     "work": "Introduction to his Hungarian translation, ‘Órigenész: Huszadik homília Jeremiás könyvéhez’, Vállástudományi szemle 2025/1, pp. 93-110, at p. 94",
+     "position": "Says Origen “does not speak of a lie in the strict sense” (“nem szoros értelemben vett hazugságról beszél”) but of leaving certain things unsaid, and that God acts like a physician or a father who deceives for the patient’s or child’s good. The introduction does not discuss the marriage example in 20.4.",
+     "side": "reads the ‘deception’ as concealment for the hearer’s good, not lying",
+     "status": "S",
+     "source_url": "https://btk.kre.hu/images/vallastudomanyi_szemle/2025-1/VSz_2025_1_093-110.pdf"
+    }
+   ],
+   "source_urls": [
+    "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2042/tlg021/tlg2042.tlg021.opp-grc1.xml",
+    "https://btk.kre.hu/images/vallastudomanyi_szemle/2025-1/VSz_2025_1_093-110.pdf"
+   ],
+   "status": "V"
+  },
+  {
+   "id": "comm-rom-5-10",
+   "title": "Love never fails: can restored beings fall again? (Commentary on Romans 5.10)",
+   "author_work_ref": "Origen, Commentary on the Epistle to the Romans 5.10 (on Romans 6:9-10), Rufinus's abridged Latin translation; Patrologia Graeca 14, cols. 1053-1054",
+   "date": "Origen's Greek c. 244 (dating uncertain); Rufinus's Latin c. 405-407",
+   "language": "Latin (Rufinus's abridged translation; no Greek survives for this part)",
+   "original": "… potest fieri ut in quocunque statu fuerit anima, et in quacunque perfectione virtutum, quoniam virtus mutabilis est, lapsum possit incurrere … Haec ergo et his similia proponentes, easdem etiam in futuris saeculis dispensationes a Christo repetendas esse arbitrantur. Sed ad haec nos breviter prout possumus respondebimus. Manere quidem naturae rationabili semper liberum arbitrium non negamus; sed tantam esse vim crucis Christi, et mortis hujus, quam in saeculorum fine suscepit, asserimus, quae ad sanitatem et remedium non solum praesentis et futuri, sed etiam praeteritorum saeculorum, et non solum humano huic nostro ordini, sed etiam caelestibus virtutibus ordinibusque sufficiat. … Quid autem sit quod in futuris saeculis teneat arbitrii libertatem, ne rursum corruat in peccatum, brevi nos sermone Apostolus docet, dicens: ‘Charitas nunquam cadit.’ Idcirco enim et fide et spe major charitas dicitur, quia sola erit per quam delinqui ultra non poterit. … Et ideo merito charitas quae sola omnium major est, omnem creaturam continebit a lapsu. Tunc erit Deus omnia in omnibus.",
+   "edition": "C. P. Hammond Bammel, Der Romerbrief-Kommentar des Origenes: kritische Ausgabe der Ubersetzung Rufins, Vetus Latina: Aus der Geschichte der lateinischen Bibel 16, 33, 34 (Freiburg: Herder, 1990, 1997, 1998); Books 4-6 should be in the second volume, 33 (1997), and Books 7-10 in 34 (1998); I recall this from the series list and did not confirm it; not opened, page not confirmed. English: T. P. Scheck, Origen: Commentary on the Epistle to the Romans, Fathers of the Church 103 (2001), where a web post puts Book 5.10 at p. 376; not opened.",
+   "checked_against": "NOT Hammond Bammel. Migne, Patrologia Graeca 14, cols. 1053-1054 (Delarue's text), from the OCR page transcription OGL-PatrologiaGraecaDev/Vol.-14 (nyp.33433081862280_ocr, page 538). The page has two columns read line by line; the quoted sentences were put back in order and the lemma lines of the right-hand column (the Romans text being commented on) left out. ‘Charitas nunquam cadit’ is from 1 Corinthians 13:8. Spelling and ligatures normalised (c/ch left as printed). The page header says Book 5 (‘LIB. V’); the chapter number 5.10 is the survey's own reference to the passage, not something the scan shows. Second pass: the Latin was re-read against the same page; every word of it is there, in the order the draft gives, and Delarue's notes 51 and 53 read as described.",
+   "english": "… it can happen that in whatever state the soul has been, and in whatever perfection of virtues, since virtue can change, it may incur a fall … [Those] who put forward these and similar arguments think that the same dispensations must be repeated by Christ in future ages. But to these we shall reply briefly, as well as we can. We do not deny that free choice remains with rational nature always; but we declare that the power of Christ's cross, and of this death which he took upon himself at the end of the ages, is enough for the healing and remedy not only of the present and the future, but also of the past ages, and not only of this human order of ours but also of the heavenly powers and orders. … What it is that preserves freedom of choice in the ages to come, so that it does not fall back into sin, the Apostle teaches us in a few words, saying: ‘Love never falls.’ For that is why love is called greater than faith and hope: because it alone will be the means by which there can be no more sinning. … And so, rightly, love, which alone is greater than all, will keep the whole creation from falling. Then God will be all in all.",
+   "english_source": "Own translation. Standard English: Scheck (FC 103, 2001), not opened. Contested renderings: ‘saeculum’ (age, world or epoch); ‘charitas’ (love or charity); ‘creaturam continebit a lapsu’ (will hold the whole creation back from falling); ‘liberum arbitrium’ (free choice or free will).",
+   "why_it_matters": "This is Origen's answer, as Rufinus gives it, to the objection that a creature with free choice could fall again even after being restored, so that the saving work would have to be repeated in each future age. Jerome claimed Origen's system ended in endless cycles of rise and fall (Letter 124); this passage says the opposite, that love will secure the creation, which is where it can be set against Jerome (this survey's own observation, not a scholar's). It also does not say that every being is already restored.",
+   "textual_notes": "Rufinus says in his preface that he shortened the Commentary on Romans, which ran to fifteen books in Greek, to ten (the usual account; I did not check who first gives the number; Sytsma cites the preface only for the abridgment). The small Greek papyrus finds from Tura cover only Romans 3:5-5:7 in this commentary (Scherer 1957, usual reference, unchecked), so there is no Greek control at 5.10. The PG apparatus: note 51, ‘nec’ would suit the sense better than ‘ne rursum corruat’, but all manuscripts and editions read ‘ne’; note 53, the final clause ‘Tunc erit Deus omnia in omnibus’ is preceded in earlier editions and one manuscript by different wording (‘maxima est … tunc cum erit Deus’ and ‘mater est … cum erit Deus’). The lemma it comments on is Romans 6:10 (‘the life he lives, he lives to God’).",
+   "readings": [
+    {
+     "scholar": "Ilaria Ramelli (as quoted by Aidan Kimel)",
+     "work": "Kimel, ‘An Open Letter to Dr Cyril Jenkins’ (2024), n. 10, citing Ramelli, The Christian Doctrine of Apokatastasis (Brill, 2013), p. 152 (the book is cited at pp. 137-215 for her defence of Origen’s universalism)",
+     "position": "Kimel quotes, in n. 10, a passage of the Commentary on Romans saying the power of Christ’s cross “is so great as to be enough to set right and save, not only the present and the future aeon, but also all the past ones”. He gives no section number; I matched it to 5.10 myself. He uses it, with Ramelli, for the claim that “Despite his disclaimer, Origen really does believe that all will be saved.”",
+     "side": "reads the passage as evidence that Origen really believed in universal salvation despite his disclaimer",
+     "status": "S",
+     "source_url": "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/"
+    },
+    {
+     "scholar": "Henri Crouzel (as reported by Lee Sytsma)",
+     "work": "Sytsma, Reconciling Universal Salvation and Freedom of Choice in Origen of Alexandria (Marquette dissertation, 2018), p. 24 and n. 55, citing Crouzel, Origen (1985; English translation 1989), pp. 264-65",
+     "position": "In a block quotation Sytsma gives Crouzel’s view that “Certainty about a universal apocatastasis would be in contradiction to the authenticity of the free will” and that it “could only be a great hope”. This states the problem 5.10 is written to answer, but the report does not discuss 5.10 itself.",
+     "side": "holds that freedom rules out certainty of universal salvation",
+     "status": "S",
+     "source_url": "https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1781&context=dissertations_mu"
+    },
+    {
+     "scholar": "Jerome (ancient reader)",
+     "work": "Letter 124 to Avitus, 124.3.6 (Hilberg, CSEL 56, p. 99), Latin as recorded in this survey’s c400 file",
+     "position": "Charges that Origen’s system means rational creatures change places “not once and suddenly but repeatedly”: we shall be angels and, if we act carelessly, demons; and demons, if they lay hold of virtue, will reach angelic dignity. (The survey’s own observation, not Jerome’s: if Rufinus’s Romans commentary is Origen’s own, 5.10 answers that charge.)",
+     "side": "ancient hostile reader: reads Origen’s system as allowing endless falls",
+     "status": "S",
+     "source_url": "https://github.com/OpenGreekAndLatin/csel-dev"
+    },
+    {
+     "scholar": "Ilaria Ramelli (as reported by Lee Sytsma)",
+     "work": "Sytsma, dissertation, p. 31 and n. 79, citing Ramelli, The Christian Doctrine of Apokatastasis (2013), p. 113",
+     "position": "Sytsma quotes Ramelli: “Providence does not force rational creatures’ free will”, and that once souls know the Good “all will voluntarily adhere to the Good” (p. 31). He adds (p. 32) that she “does not state why this is so, only that it must be so”. Again the report is about the problem, not 5.10.",
+     "side": "holds that providence and freedom agree, so restoration is secure and free",
+     "status": "S",
+     "source_url": "https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1781&context=dissertations_mu"
+    }
+   ],
+   "source_urls": [
+    "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-14/master/nyp.33433081862280_ocr/538.txt",
+    "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/",
+    "https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1781&context=dissertations_mu"
+   ],
+   "status": "V"
+  },
+  {
+   "id": "comm-rom-6-5",
+   "title": "What ‘eternal’ means: a lifetime, an age, or without end (Commentary on Romans 6.5)",
+   "author_work_ref": "Origen, Commentary on the Epistle to the Romans 6.5 (on Romans 6:22-23), Rufinus's abridged Latin translation; Patrologia Graeca 14, cols. 1067-1068",
+   "date": "Origen's Greek c. 244 (dating uncertain); Rufinus's Latin c. 405-407",
+   "language": "Latin (Rufinus's abridged translation; Greek for this passage not known to survive; the catena and papyrus fragments of the commentary were not checked)",
+   "original": "… et erit tibi servus in aeternum. Aeternum hic sine dubio tempus vitae hominis posuit. Et iterum in Ecclesiaste dicitur: ‘Generatio vadit, et generatio venit, terra autem in aeternum stat’: hic aeternum praesentis saeculi tempus ostendit. Ubi vero dicit ‘vitam aeternam,’ ad illud aspiciendum est quod ipse Salvator dixit: ‘Haec est autem vita aeterna, ut cognoscant te solum verum Deum …’ … Sicut ergo semper cum Domino esse, finem non habet, ita et vita aeterna nullum finem habere credenda est. … Ego non puto etiam hoc vacuum esse, quod ad vitam aeternam addidit ‘in Christo [Jesu] Domino nostro’; sed quia fortassis sciri voluit aliud esse vitam aeternam solum, et aliud vitam aeternam in Christo Jesu. Et illi enim qui surgent in confusionem et opprobrium sempiternum, habebunt quidem vitam aeternam, non tamen in Christo Jesu, sed in confusione et opprobrio aeterno; justi vero qui surgent in vitam aeternam in Christo Jesu habebunt vitam aeternam.",
+   "edition": "C. P. Hammond Bammel, Der Römerbriefkommentar des Origenes: kritische Ausgabe der Übersetzung Rufins, Vetus Latina: Aus der Geschichte der lateinischen Bibel 16 (Books 1-3, 1990), 33 (Books 4-6, 1997) and 34 (Books 7-10, 1998) (Freiburg: Herder). Book 6 should be in volume 33; I recall the volume numbers from the series list and did not open any of them. Page not confirmed. English: T. P. Scheck, Origen: Commentary on the Epistle to the Romans, Books 6-10, Fathers of the Church 104 (Catholic University of America Press, 2002); not opened. Heide (Dionysius 33, n. 27) cites a sentence of the Romans commentary on ‘eternity’ as ‘Comm. Romans VI.5.9’; I could not tell whether that sentence lies in the lines printed here, or whether ‘.9’ is Scheck's or Hammond Bammel's section number.",
+   "checked_against": "NOT Hammond Bammel. Migne, Patrologia Graeca 14, cols. 1067-1068 (Delarue's text), from the OCR page transcription OGL-PatrologiaGraecaDev/Vol.-14 (nyp.33433081862280_ocr, page 545; the page's running number is garbled in the scan and reads like ‘1067’). The scan reads the two columns line by line, so the quoted sentences were put back in order. Second pass (fact-check): every sentence quoted was found again on that page, in the order given here. The sentence the draft left out (‘Et illi enim qui surgent …’) is on the page, reads clearly apart from the garbled ‘Jesu’ and a stray ‘576’ in the line, and is now included. Three places are restored by sense, not read: ‘Haec est’ in the John 17:3 quotation (garbled in the scan), ‘praesentis’ (garbled), and ‘Jesu’ in ‘non tamen in Christo Jesu’ (the scan has a garbled token where ‘Jesu’ is expected, as it does in both quotations of Romans 6:23 on the same page). In ‘quod ad vitam aeternam addidit in Christo Domino nostro’ the scan has no ‘Jesu’ at all, so it is bracketed above. The chapter number 6.5 is the survey's own reference to the passage, not something the scan shows.",
+   "english": "… and he will be your servant for ever [aeternum]. Here ‘for ever’ undoubtedly stands for the time of a man's life. And again, in Ecclesiastes it is said: ‘A generation goes and a generation comes, but the earth stands for ever’; here ‘for ever’ shows the time of the present age. But where he says ‘eternal life’, we must look to what the Saviour himself said: ‘This is eternal life, that they may know you, the only true God …’ … As, therefore, being always with the Lord has no end, so eternal life too must be believed to have no end. … I do not think even this is empty, that to ‘eternal life’ he added ‘in Christ [Jesus] our Lord’; perhaps he wanted it known that eternal life alone is one thing, and eternal life in Christ Jesus another. For even those who rise ‘to shame [confusionem] and everlasting [sempiternum] reproach’ will indeed have eternal life, though not in Christ Jesus: they will have it in shame and eternal [aeterno] reproach; but the righteous, who rise to eternal life in Christ Jesus, will have eternal life.",
+   "english_source": "Own translation. Standard English: Scheck (FC 104, 2002), not opened. The key word is Latin ‘aeternum’, presumably rendering Greek aionios (the Greek is lost; aion: an age; aionios: of the age, age-long, or, in later usage, eternal). Contested renderings: ‘in aeternum’ (for ever, for an age, for a lifetime); ‘vita aeterna’ (eternal life, or life of the age to come).",
+   "why_it_matters": "Scholars who argue that Origen himself knew ‘eternal’ can mean a stretch of time point to the Romans commentary (Heide does, quoting a sentence of it). Here, in Rufinus's Latin, ‘in aeternum’ is said to mean a man's lifetime in one verse and the present age in another, while eternal life with the Lord is said to have no end. The sentence the draft left out adds that those who rise to shame will also have ‘eternal life’, though not ‘in Christ Jesus’, and that their reproach is ‘eternal’ too, so ‘aeternus’ is used of the lot of the lost as well as of the saved. The passage therefore supports more than one reading: that ‘eternal’ need not mean endless; that Origen holds the life of the saved to be endless; and that he applies the same word to both lots. How much weight it carries in the dispute over eternal punishment depends on whether the word may mean an age in one place and without end in another, and on how far Rufinus's Latin can be trusted to carry Origen's Greek.",
+   "textual_notes": "Rufinus's abridgment and the lack of Greek mean the Latin ‘aeternum’ and ‘aeternam’ could stand for aionios or for another Greek word. Heide (Dionysius 33, p. 202) quotes a sentence of this commentary as ‘In the Scriptures “eternity” (aeternitas = αἰών) is sometimes recorded …’, which reads aeternitas as the Latin for aion; I did not find the Latin of that sentence on the Migne page used here. Delarue's apparatus on the page: note 26 says the printed editions (‘Editi’) read ‘quorum fructus ne nominare dignum’ and, for the second quotation of Romans 6:23, give only ‘Gratia autem Dei in Christo, etc.’, leaving out ‘vita aeterna’; note 28 gives ‘surgunt’ for ‘surgent’ and, a little later, ‘habent’ for ‘habebunt’ in the sentence about the two kinds of rising (Delarue's ‘Alias’, meaning other readings; the centuries of those editions are not stated). The scan is garbled at several points (‘Haec est’, ‘praesentis’, and ‘Jesu’ in three places, once as ‘ἔθευ’); the garbled words are restored by sense, and the ‘Jesu’ the scan lacks altogether in the sentence about ‘in Christo Domino nostro’ is bracketed rather than supplied. In the sentence the draft omitted, the Latin uses ‘aeternam’ of the life of the lost, ‘sempiternum’ of their reproach in the first clause and ‘aeterno’ in the second.",
+   "readings": [
+    {
+     "scholar": "Daniel Heide (relying on Ilaria Ramelli and David Konstan; differing from Ramelli on Eriugena)",
+     "work": "Heide, ‘Apokatastasis: The Resolution of Good and Evil in Origen and Eriugena’, Dionysius 33 (2015), pp. 201-203 and nn. 20, 21, 27, 41; Ramelli and Konstan, Terms for Eternity (Gorgias, 2007)",
+     "position": "Heide says the Greek αἰών (adj. αἰώνιος) is ambiguous (p. 201). He says Ramelli's view that the Bible's αἰώνιος never means ‘eternal’ unless it refers to God “is controversial” but “has its ultimate source in Origen”, who “primarily understands αἰών in the sense of ‘age,’ ‘epoch,’ or ‘world’” (p. 202). He quotes a sentence of the Romans commentary, “In the Scriptures ‘eternity’ (aeternitas = αἰών) is sometimes recorded …” (his n. 27 cites ‘Comm. Romans VI.5.9’), and on p. 203 writes “Here again, as Origen rightly indicates, ‘forever’ does not mean eternal in the sense of infinite duration” and that it “signifies the finite duration of this world, i.e. the present age, or αἰών” (the fetch tool did not say which verse he is discussing there). He does not follow Ramelli on Eriugena (n. 41, p. 207: “I differ sharply from Ramelli who claims that Eriugena follows Origen on the finitude of ‘eternal’ punishments”). Read through a fetch tool that returns short quotations.",
+     "side": "reads Origen's own ‘aion’ as ‘age’, so that scriptural ‘eternal’ punishment need not be endless",
+     "status": "S",
+     "source_url": "https://ojs.library.dal.ca/dionysius/article/view/6482/5688"
+    },
+    {
+     "scholar": "Henri Crouzel (as quoted by Daniel Heide)",
+     "work": "Crouzel, ‘L'Hadès et la Géhenne selon Origène’, Gregorianum 59.2 (1978), p. 320, quoted in Heide, Dionysius 33 (2015), n. 28 (p. 203)",
+     "position": "Heide gives Crouzel's French. Its sense: the essential reason why the expression ‘eternal fire’ (πῦρ αἰώνιον) does not seem to Origen to imply necessarily the eternity of punishment “as we understand it” is that the adjective αἰώνιος “conserve pour lui tout l'ambiguïté du mot dont il dérive αἰών”; in both Testaments, beside ‘eternity’ as endless duration, one finds the sense ‘age’ (a long period, in particular the duration of the present world, or of the world to come). Heide's transcription has a few typing slips. This is a general statement about Origen's use of αἰώνιος, not a comment on the Romans commentary or on this passage.",
+     "side": "holds that for Origen aionios keeps the ambiguity of aion, so ‘eternal fire’ need not mean endless punishment",
+     "status": "S",
+     "source_url": "https://ojs.library.dal.ca/dionysius/article/view/6482/5688"
+    },
+    {
+     "scholar": "Michael McClymond",
+     "work": "‘Origenes Vindicatus vel Rufinus Redivivus’, Theological Studies 76.4 (2015), p. 824 n. 23",
+     "position": "In n. 23 McClymond calls Ramelli's argument that aionios need not mean ‘eternal’ in the absolute sense “a point that has some merit”, then objects to her claim that aidios “never refers to punishment”, noting that Jude 6 speaks of “eternal chains”. So he grants the point about aionios and disputes part of the argument built on it. The note is about Ramelli's argument in general; the part I saw does not discuss Origen's Romans commentary. Read through a fetch tool.",
+     "side": "grants that aionios need not mean ‘eternal’ in the absolute sense, but disputes part of Ramelli's argument that follows",
+     "status": "S",
+     "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/11/7-McClymond-Origenes-Vindicatus.pdf"
+    },
+    {
+     "scholar": "Ilaria Ramelli (as reported by Steven Nemes)",
+     "work": "Nemes, review of Ramelli, The Christian Doctrine of Apokatastasis, Journal of Analytic Theology 3 (2015), pp. 227-228 of the review (the page range comes from running headers, my inference), reporting Ramelli (2013) pp. 26 and 160",
+     "position": "Nemes reports Ramelli's claim that the Bible's judgment punishments are aionia, which does not mean ‘eternal’ unless it is used of God (Ramelli p. 26), and her thesis that aionios life “does not (need not) mean ‘unending’ life”, resting on Origen's phrase “life after aionios life” (Ramelli p. 160). Nemes does not tie the phrase to the Romans commentary or to any work by number. The page numbers are Nemes's own citations of Ramelli and were not checked against her book.",
+     "side": "reads aionios in Origen as age-long, not endless",
+     "status": "S",
+     "source_url": "https://jat-ojs-baylor.tdl.org/jat/article/download/jat.2015-3.181913130418a/271/494"
+    }
+   ],
+   "source_urls": [
+    "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-14/master/nyp.33433081862280_ocr/545.txt",
+    "https://ojs.library.dal.ca/dionysius/article/view/6482/5688"
+   ],
+   "status": "V"
+  }
+ ],
+ "other_findings": [
+  {
+   "claim": "Peter Martens divides the modern editors of Peri Archon into two groups: one “primarily prints Rufinus's translation” (Merlin, Crouzel and Simonetti, Behr; pp. 313-315), the other “prints a mosaicked text” (Delarue, Koetschau, Görgemanns and Karpp, Rius-Camps, Fernández; p. 315). He writes that Behr “too presents a continuous and complete text of Rufinus's Latin translation”, with parallel sources at the foot of the page (p. 314); that Koetschau “distinguishes himself” by “interrupting the progression of Rufinus's translation so frequently” (p. 317); and that “each of the editors in group two regards Justinian's fragment as genuine and Rufinus's corresponding translation as corrupt” (p. 321).",
+   "source": "Martens, ‘The Modern Editions of Peri Archon’, Journal of Early Christian Studies 28.2 (2020), pp. 303-331, at pp. 313-321, as read through a fetch tool (https://www.academia.edu/43470693/T, the address as I used it); the last 7,283 characters of the text were not read",
+   "status": "S"
+  },
+  {
+   "claim": "John Cavadini says Koetschau's presentation “was predicated on a hermeneutic of thoroughgoing suspicion regarding Rufinus's translation” and that Butterworth “fully adopted, and even extended” it (p. vii); Butterworth “translated the only complete attestation of the text remaining from antiquity”, which is Rufinus's Latin (p. vii). The foreword does not mention Behr's edition, and says that in this reprint, except where the Philocalia gives “a substantial, continuous attestation of the text”, “the text of Rufinus stands alone”, other Greek fragments being omitted, with the omissions noted and referred to Crouzel and Simonetti's Sources Chrétiennes edition (p. viii). The dates 1913 (Koetschau) and 1936 (Butterworth) are standard bibliography and were not in the lines returned.",
+   "source": "John Cavadini, Foreword to Origen: On First Principles (Christian Classics/Ave Maria Press, 2013), pp. vii-viii, from the publisher's excerpt PDF read through a fetch tool",
+   "status": "S"
+  },
+  {
+   "claim": "Daniel Heide argues that Koetschau and Butterworth supplemented Rufinus's text with material “from sources as hostile as the anathemata of Justinian” (p. 57), and that Butterworth “tells us without reservation that Koetschau inserted anathemas II to VI directly into his critical text” (p. 59); he finds the confidence with which Butterworth treats Jerome's account “mindboggling” (p. 60) and says Butterworth “uncritically accepts the view of Jerome as authoritative” (n. 46). He calls Crouzel and Simonetti's edition “an important corrective to Koetschau” (p. 57). Heide places the anathemas at the Council of Constantinople of AD 553; the Catholic Encyclopedia article by Batiffol (see below) gives 543 for the first of them.",
+   "source": "Heide, ‘Heresy, Hermeneutics, and the Hellenization of Christianity: A Reappraisal of Embodiment in Origen's De Principiis’, Arc 44 (2016), pp. 49-67, at pp. 57-60 (https://arcjournal.library.mcgill.ca/article/download/355/377/3033), read through a fetch tool; the article does not discuss 1.2.13",
+   "status": "S"
+  },
+  {
+   "claim": "Reviews of the Behr edition to follow up: David Bentley Hart's review in the Journal of Orthodox Christian Studies 3.1 (2020), pp. 103-107, listed in Wikipedia's article ‘On the First Principles’; not read. Martens's article (first item) does treat Behr's edition, at p. 314.",
+   "source": "Wikipedia, ‘On the First Principles’, references (Hart); Martens as above",
+   "status": "R"
+  },
+  {
+   "claim": "Pierre Batiffol, quoting Tixeront, reports that in On First Principles I, vi, 3 Origen “does not venture to assert that all the evil angels shall sooner or later return to God” (PG 11, cols. 168-169), and says that in the Commentary on Romans (cited as VIII, 9; PG 14, col. 1185) Lucifer, “unlike the Jews, will not be converted, even at the end of time”. His own verdict is that Origen “seems at times reluctant to decide” on the eternity of punishment but that “as a rule” he teaches the apokatastasis. Neither passage is covered in this entry; Comm. Rom. 8.9 was not read.",
+   "source": "Batiffol, ‘Apocatastasis’, Catholic Encyclopedia vol. 1 (1907), as read on catholic.com (https://www.catholic.com/encyclopedia/Apocatastasis) through a fetch tool",
+   "status": "S"
+  },
+  {
+   "claim": "Sytsma reports that Ramelli cites On First Principles 1.6.3 for the claim that Satan “will thus be saved not qua devil, arch-enemy, and death”; the note (n. 83, pp. 31-32) cites Ramelli (2013) pp. 114 and 144 and uses the phrase ‘ontological non-subsistence’ of evil (nn. 83-84). The continuation of the quotation was not in what the tool returned. The c400 file in this survey compares Jerome's Letter 124 with Rufinus at 1.6.3.",
+   "source": "Lee Sytsma, Reconciling Universal Salvation and Freedom of Choice in Origen of Alexandria (Marquette dissertation, 2018), pp. 31-32, n. 83",
+   "status": "S"
+  },
+  {
+   "claim": "Reading of the Greek, not of a scholar: in Homilies on Jeremiah 20.3 the ‘mystery’ the many must not hear is introduced by the claim that every sinner must be punished and that Origen's own ‘wood’ must be burned in him, so the hidden thing, on that reading, is that believers too will meet punishment after death. The lines just before 20.4 give an example of a useful deception: the many are better told that a twice-married woman is handed over to ‘eternal’ punishment, while the truth is that she “has a share in some salvation, though not in so great a blessedness”. The lines read do not say whether Origen extends that milder truth to all sinners.",
+   "source": "First1KGreek transcription of Klostermann, GCS 6 (1901), Hom. Jer. 20.3-4, read in full (own translation)",
+   "status": "V"
+  },
+  {
+   "claim": "In the Preface of On First Principles (section 5, in Rufinus's Latin), the soul's lot after death is described as either eternal life and blessedness or ‘igni aeterno ac suppliciis’, and the passage belongs to the list introduced in section 4 as what is ‘manifeste’ handed down through the apostles' preaching; free will is then said to be ‘definitum’ in the church's preaching. Whether the list is Origen's own wording or Rufinus's form of it cannot be checked, because the Greek of the Preface is lost.",
+   "source": "Migne, Patrologia Graeca 11, cols. 117-118, Preface 4-5, as quoted in the first passage",
+   "status": "V"
+  },
+  {
+   "claim": "Reported by Wikipedia from standard works: Daley (The Hope of the Early Church, 1991, p. 58) holds Origen “strongly believed in the final salvation of all humans”; Crouzel (Origen, English trans. 1989, p. 285, cited as 1990) and Mark Scott (Journey Back to God, 2012) are cited for the view that it is doubtful Origen taught the doctrine; Norris (Westminster Handbook to Origen) says his positions “have often seemed contradictory”.",
+   "source": "Wikipedia, ‘Apokatastasis’, as read through a fetch tool (the originals were not opened)",
+   "status": "R"
+  },
+  {
+   "claim": "The Greek of Against Celsus 6.26 and 8.72 and of Homilies on Jeremiah 20.3-4 was compared letter for letter, with accents, against the First1KGreek TEI transcriptions (Koetschau, GCS 2-3, for Against Celsus; Klostermann, GCS 6, for the homilies). For Against Celsus 6.26 a second, independent text (bkv.unifr.ch) agrees throughout (it prints ἄν for ἂν); for 8.72 it was compared on three clauses; for the homily no second text was found. The only differences from the transcriptions are a typing slip mended in each of 6.26 (πολῶν) and the homily (πρότρον), the angle brackets that mark the supplement ⟨ἐν⟩ at 8.72, and the quotation marks. The Greek of 8.72 has no word meaning ‘perhaps’: it sets aside whether evil could arise again as beyond the present purpose of the work.",
+   "source": "First1KGreek (OpenGreekAndLatin) tlg2042.tlg001 and tlg2042.tlg021; https://bkv.unifr.ch/works/cpg-1476/compare/contra-celsum/435/origen-against-celsus and /634/",
+   "status": "V"
+  },
+  {
+   "claim": "The sources do not date the anathemas alike: Heide places the fifteen anathemas at the Council of Constantinople of AD 553, while the Catholic Encyclopedia article (Batiffol, 1907) says the doctrine was condemned in the first of the anathemas “at the Council of Constantinople in 543” and cites Justinian's Liber adversus Origenem, anathemas 7 and 9. This entry dates Justinian's Letter to Menas to 543 and calls the later list the ‘553 anathemas’, as Heide does; the dates were not checked against a primary source.",
+   "source": "Heide, Arc 44 (2016), p. 59 area; Batiffol, ‘Apocatastasis’, Catholic Encyclopedia vol. 1 (1907)",
+   "status": "S"
+  }
+ ],
+ "corrections": [
+  {
+   "passage_id": "pa-preface-4-10",
+   "field": "checked_against",
+   "before": "(the archive.org scan of GCS 22 could not be read in sections; see problems)",
+   "after": "(the archive.org scan of GCS 22 could not be read in sections; see the unverified list)",
+   "reason": "The draft pointed to a field called \"problems\" that the result does not carry."
+  },
+  {
+   "passage_id": "pa-preface-4-10",
+   "field": "checked_against",
+   "before": "NOT Koetschau (the archive.org scan of GCS 22 could not be read in sections; see the unverified list). Checked against the Latin of Migne, Patrologia Graeca 11 (Paris, 18 ...",
+   "after": "NOT Koetschau (the archive.org scan of GCS 22 could not be read in sections; see the unverified list). Checked against the Latin of Migne, Patrologia Graeca 11 (Paris, 18 ...",
+   "reason": "Added the fact-checker's own comparison so the reader knows what the V status rests on."
+  },
+  {
+   "passage_id": "pa-preface-4-10",
+   "field": "readings[Michael McClymond]",
+   "before": "Reports that the speculations in On First Principles (pre-existent souls, the resurrected body, the reconciliation of Satan and the demons, multiple lives, universal salv ...",
+   "after": "Says it was “not Origen’s exegesis but his ‘dogmatizing’—and that of his followers—that stirred controversy” (p. 815), naming pre-existent souls and universal salvation a ...",
+   "reason": "The draft said Rufinus's CLAIM left a skewed Latin; McClymond says Rufinus's own tampering did, and that modern scholars reject the interpolation theory. Also quote and footnote corrected."
+  },
+  {
+   "passage_id": "pa-preface-4-10",
+   "field": "readings[Mark Edwards and Panayiotis Tzamalikos (]",
+   "before": "Both deny that Origen taught the pre-existence of souls at all. Martens faults Scott for treating pre-existence as Origen's without an extended answer to them. The report ...",
+   "after": "Martens says Scott should have answered Edwards and Tzamalikos, “both of whom deny Origen ever taught” the pre-existence of souls. The review does not tie their argument ...",
+   "reason": "Confirmed against Martens's review (quote now exact); removed the reference to this survey's own REPORT.md as a source."
+  },
+  {
+   "passage_id": "pa-preface-4-10",
+   "field": "readings[Jerome (ancient reader)]",
+   "before": "Quotes Origen's own plea that the speculations are ‘not dogmas but only questions raised and thrown out’, the disclaimer the Preface and 1.6.1 announce, while attacking t ...",
+   "after": "Quotes Origen’s own plea that such ideas are “not dogmas but only questions raised and thrown out” (“non sint dogmata sed quaesita tantum atque proiecta”), and attacks th ...",
+   "reason": "The draft said the quoted disclaimer is the one the Preface and 1.6.1 announce; the sibling c400 file ties it to 1.8.4. Source URL replaced with the edition actually used."
+  },
+  {
+   "passage_id": "pa-preface-4-10",
+   "field": "readings (added)",
+   "before": "(none)",
+   "after": "Peter Martens: Cites the Preface to Book 1 against Scott’s claim that Origen valued “internal assimilation of doctrine” over assent to propositions: Origen there “insists ...",
+   "reason": "Balance: the passage had no reading of the Preface as a statement of the rule of faith by a named scholar."
+  },
+  {
+   "passage_id": "pa-preface-4-10",
+   "field": "readings (added)",
+   "before": "(none)",
+   "after": "Henri Crouzel (as reported by Chris Hannen): Hannen cites Crouzel for treating On First Principles as “research theology”. This is a judgement about the book as a whole, ...",
+   "reason": "Balance: gives the “inquiry, not doctrine” side a named scholar."
+  },
+  {
+   "passage_id": "pa-1-6-1-2",
+   "field": "original",
+   "before": "prout possumus, exercemur. … In unum sane finem",
+   "after": "prout possumus, exercemur. Finis ergo mundi et consummatio dabitur, cum unusquisque pro merito peccatorum etiam poenis subjicietur; quod tempus Deus solus agnoscit, quand ...",
+   "reason": "The draft skipped the sentence between the two quoted ones. It says punishment according to sins comes before the end; leaving it out made the passage read more one-sidedly. It is in the same OCR page."
+  },
+  {
+   "passage_id": "pa-1-6-1-2",
+   "field": "english",
+   "before": "rather than of a definition. … We think that",
+   "after": "rather than of a definition. The end and consummation of the world will be given when each person is made subject to punishments in proportion to his sins; God alone know ...",
+   "reason": "Translation of the restored sentence."
+  },
+  {
+   "passage_id": "pa-1-6-1-2",
+   "field": "textual_notes",
+   "before": "in notes 57, 58, 60, 61 and 64",
+   "after": "in notes 57, 60, 61 and 64 (note 58, on ‘In unum sane finem putamus’, only sends the reader to Huet’s Origeniana, 2.11.9 and 2.35.30)",
+   "reason": "Note 58 in the scan is a reference to Huet, not a ‘Cautè lege’ warning."
+  },
+  {
+   "passage_id": "pa-1-6-1-2",
+   "field": "checked_against",
+   "before": "NOT Koetschau. Migne, Patrologia Graeca 11, cols. 165-166 (Delarue's text), from the Fabio3rs/BibliothecaPatristica OCR transcription (teste/PG011, first batch, page 087) ...",
+   "after": "NOT Koetschau. Migne, Patrologia Graeca 11, cols. 165-166 (Delarue's text), from the Fabio3rs/BibliothecaPatristica OCR transcription (teste/PG011, first batch, page 087) ...",
+   "reason": "Fact-checker's comparison recorded."
+  },
+  {
+   "passage_id": "pa-1-6-1-2",
+   "field": "readings[Daniel Heide]",
+   "before": "Reads chapter 1.6 as saying God's goodness through Christ will restore all creation to one end, with punishments as methods of correction rather than eternal retribution, ...",
+   "after": "Quotes 1.6.1 in an English translation (“the goodness of God through Christ will restore his entire creation to one end”, p. 198) and reads Origen’s punishments as correc ...",
+   "reason": "Quotations, page numbers and the Heckart reference confirmed against Heide; wording tightened."
+  },
+  {
+   "passage_id": "pa-1-6-1-2",
+   "field": "readings[Henri Crouzel (as reported by Chris Hann]",
+   "before": "Treats On First Principles as ‘research theology’: Origen speaks of the end with caution, ‘in the manner rather of an investigation and discussion’, not as a fixed decisi ...",
+   "after": "Hannen cites Crouzel for calling On First Principles “research theology”. The words “in the manner rather of an investigation and discussion, than in that of fixed and ce ...",
+   "reason": "The draft put a quotation from Origen (in translation) into Crouzel's mouth."
+  },
+  {
+   "passage_id": "pa-2-10-4-6",
+   "field": "english",
+   "before": "applies to such cures the further punishment of fire for those who have lost the soul's health?",
+   "after": "uses such penal cures and, over and above them, brings the punishment of fire on those who have lost the soul's health?",
+   "reason": "Closer to the Latin (‘ut huiuscemodi poenalibus curis, insuper etiam ignis inferre supplicium’): two things God does, the cures and then the fire."
+  },
+  {
+   "passage_id": "pa-2-10-4-6",
+   "field": "textual_notes",
+   "before": "Sections 4-6 are Rufinus's Latin without a Greek control.",
+   "after": "Sections 4-6 are Rufinus's Latin without a Greek control. In 2.10.6 Migne's text (as the scan has it) reads ‘ut huiuscemodi poenalibus curis’; I translate as if ‘uti’ (to ...",
+   "reason": "Records the one place where the translation smooths an awkward Latin construction."
+  },
+  {
+   "passage_id": "pa-2-10-4-6",
+   "field": "readings[Chris Hannen]",
+   "before": "Reads 2.10 as teaching that punishment is remedial, like a physician's treatment, a limited process leading to restoration, demons included; quotes ‘for all wicked men, a ...",
+   "after": "Reads Origen’s doctrine of punishment as remedial, like a physician’s treatment (he quotes “God is the physician of our souls”, n. 62, citing 2.10.6). He also quotes “for ...",
+   "reason": "The draft said the ‘punishment has an end’ quotation comes from the 2.10 material; Hannen cites 2.10.3 and the sentence is not in the lines quoted."
+  },
+  {
+   "passage_id": "pa-2-10-4-6",
+   "field": "readings[Paul Koetschau (as reported by Lee Sytsm]",
+   "before": "Koetschau believed Rufinus left out at 2.10.8 the sentence ‘There is a resurrection of the dead, and there is punishment, but not everlasting’, and restored it from the h ...",
+   "after": "Sytsma writes that Koetschau believes Rufinus omits at 2.10.8 the line “There is a resurrection of the dead, and there is punishment, but not everlasting” (citing Butterw ...",
+   "reason": "Confirmed against Sytsma (p. 11, n. 23); wording made to follow his sentence."
+  },
+  {
+   "passage_id": "pa-2-10-4-6",
+   "field": "readings[Henri Crouzel (as cited by Daniel Heide)]",
+   "before": "Heide cites Crouzel's study of Origen on Hades and Gehenna for Origen's ambiguity about whether and when punishment ends. The report does not give Crouzel's own wording o ...",
+   "after": "(removed)",
+   "reason": "Misplaced: Heide n. 28 (p. 203) quotes Crouzel on the word aionios, not on 2.10 or on how long punishment lasts, and Heide's article does not mention 2.10. The reading is moved, with Crouzel's actual words, to the Romans 6.5 entry."
+  },
+  {
+   "passage_id": "pa-2-10-4-6",
+   "field": "readings (added)",
+   "before": "(none)",
+   "after": "Pierre Batiffol: Says Origen “seems at times reluctant to decide” on the eternity of punishment but that “elsewhere, on the other hand, and as a rule, Origen teaches the ...",
+   "reason": "Balance: a second named scholar for the question the passage raises, flagged as a general judgement."
+  },
+  {
+   "passage_id": "pa-3-6-1-6",
+   "field": "why_it_matters",
+   "before": "This chapter is Origen's fullest account of the end. Three points are in dispute between readers: whether ‘all in all’ includes the wicked and the devil, whether the stag ...",
+   "after": "This chapter is Origen’s fullest account of the end. Three points are in dispute between readers: whether ‘all in all’ includes the wicked and the devil, whether the stag ...",
+   "reason": "The draft said the Greek fragment shows the body ‘abolished’; the fragment says God is not ‘all in all’ in bodies, lifeless things and irrational animals. It does not say bodies are abolished."
+  },
+  {
+   "passage_id": "pa-3-6-1-6",
+   "field": "textual_notes",
+   "before": "ἀλλ᾿ οὐδὲ ἄψυχα … Οὕτως",
+   "after": "ἀλλ᾿ οὐδὲ ἄψυχα, ἵνα μὴ καὶ ἐν αὐτοῖς ὁ Θεός, ὅτε πάντα γίνεται. Οὕτως",
+   "reason": "The draft left out a clause that is in the scan (‘lest God also be in them, when all things come to be’); full text restored."
+  },
+  {
+   "passage_id": "pa-3-6-1-6",
+   "field": "textual_notes",
+   "before": "(OCR slips fixed: ὲν to ἐν, ἇψυχα to ἄψυχα.)",
+   "after": "(OCR slips fixed: ὲν to ἐν, ἇψυχα to ἄψυχα, ἆτινα to ἅτινα; the scan has a line-break hyphen inside Λεγομένου and ἄλογοις.)",
+   "reason": "Records the extra slip fixed."
+  },
+  {
+   "passage_id": "pa-3-6-1-6",
+   "field": "textual_notes",
+   "before": "Note 52: earlier editions added ‘id est diabolus’ after ‘inimicus’, an explicit gloss identifying the last enemy with the devil that the manuscripts do not have.",
+   "after": "Note 52, to a sentence a little after the lines quoted (about 3.6.5, not obtained), says the manuscripts have ‘namque’ and lack the words ‘id est diabolus’ after ‘inimicu ...",
+   "reason": "The draft attached note 52 to the passage as if it were in the quoted lines; it belongs to the neighbouring text."
+  },
+  {
+   "passage_id": "pa-3-6-1-6",
+   "field": "readings[Chris Hannen]",
+   "before": "Reads 3.6 as saying restoration comes through ‘word, reason, and doctrine’, not coercion, so free will is kept; cites MacDonald and Ramelli on how this avoids absolute de ...",
+   "after": "Says restoration comes through “word, reason, and doctrine”, which he cites to 3.6.8 (n. 56, a section not quoted here). In the next sentence he argues that human freedom ...",
+   "reason": "Footnote 58 belongs to the following sentence, and the phrase is cited to 3.6.8, which is outside the lines quoted."
+  },
+  {
+   "passage_id": "pa-3-6-1-6",
+   "field": "readings[Jean Danielou (as reported by Lee Sytsma]",
+   "before": "Danielou sees two theses in Origen that pull apart, ‘the metaphysical necessity of the ultimate elimination of evil’ and the freedom of the creature, and asks how the re- ...",
+   "after": "Sytsma quotes Danielou on “the metaphysical necessity of the ultimate elimination of evil” (p. 20) and says his analysis ended in “a certain incoherence” in Origen’s theo ...",
+   "reason": "Pages and footnotes confirmed; ‘asks how ... concluding’ paraphrase tightened to what Sytsma says."
+  },
+  {
+   "passage_id": "pa-3-6-1-6",
+   "field": "readings[Ilaria Ramelli (as reported by Lee Sytsm]",
+   "before": "Grounds the end of evil in its non-subsistence: ‘when it is chosen no longer by anyone,’ evil ‘will vanish according to its ontological non-subsistence’, and providence ‘ ...",
+   "after": "Sytsma reports Ramelli grounding the end of evil in its non-subsistence: “Providence does not force rational creatures’ free will” (p. 31, n. 79, citing Ramelli p. 113), ...",
+   "reason": "Page numbers corrected (the draft had p. 32 for a quotation on p. 31) and Sytsma's criticism quoted exactly."
+  },
+  {
+   "passage_id": "pa-3-6-1-6",
+   "field": "readings (added)",
+   "before": "(none)",
+   "after": "Ilaria L. E. Ramelli: Cites On First Principles 3.6.5 (a section not obtained here) for the sentence “Nihil enim omnipotenti impossibile est, nec insanabile est aliquid F ...",
+   "reason": "Balance and precision: a first-hand Ramelli reading of the same chapter (3.6.5), which the draft could not obtain from the scan."
+  },
+  {
+   "passage_id": "pa-1-2-13-rufinus-vs-justinian",
+   "field": "original",
+   "before": "RUFINUS: (1.2.13) Superest quid sit imago bonitatis ejus inquirere: in quo eadem, ut opinor, intelligi convenit quae superius de imagine ea quae per speculum deformatur, ...",
+   "after": "RUFINUS: (1.2.13) Superest quid sit imago bonitatis ejus inquirere: in quo eadem, ut opinor, intelligi convenit quae superius de imagine ea quae per speculum deformatur, ...",
+   "reason": "The draft broke the Greek off at ‘ἀλλ’ οὐχ ὡς …’ and said the rest was lost in the scan. The rest is on the same OCR page (head of the next column), as is a stretch of the Latin the draft marked only with … (‘talis ejus convenienter imago dicetur. Non enim alia aliqua secunda bonitas exsistit in Filio praeter eam quae est in Patre’). Both restored. The join after ‘boni-’ stays marked as uncertain."
+  },
+  {
+   "passage_id": "pa-1-2-13-rufinus-vs-justinian",
+   "field": "english",
+   "before": "RUFINUS: It remains to ask what the image of his goodness is; in this, I think, the same must be understood as we set out above about the image formed in a mirror. For th ...",
+   "after": "RUFINUS: (1.2.13) It remains to ask what the image of his goodness is; in this, I think, the same must be understood as we set out above about the image formed in a mirro ...",
+   "reason": "Translation completed to match the restored Latin and the whole Greek sentence."
+  },
+  {
+   "passage_id": "pa-1-2-13-rufinus-vs-justinian",
+   "field": "english_source",
+   "before": "The English in the last bracket is Peter Martens's gloss (JECS 2020, p. 320) and is not a translation of text I could read.",
+   "after": "Martens's gloss of the end of the first Greek sentence, ‘not purely and simply good’, agrees with ἁπλῶς in the scan (page of Martens's gloss not confirmed). ἀπαραλλάκτως ...",
+   "reason": "The draft's Greek stopped short, so it leaned on Martens's gloss; the whole Greek is now translated directly."
+  },
+  {
+   "passage_id": "pa-1-2-13-rufinus-vs-justinian",
+   "field": "english_source",
+   "before": "Own translation of the Latin and of the Greek as far as the scan reaches.",
+   "after": "Own translation of the Latin and of the whole Greek sentence.",
+   "reason": "Greek is no longer truncated."
+  },
+  {
+   "passage_id": "pa-1-2-13-rufinus-vs-justinian",
+   "field": "checked_against",
+   "before": "The three-column page runs Latin and Greek together, so the Latin is quoted only where contiguous, with […] at the gaps, and the Greek breaks off where the scan does.",
+   "after": "The three-column page runs Latin and Greek together, so the Latin is quoted only where contiguous, with […] at the one gap I could not close. Second pass: the Greek does ...",
+   "reason": "The draft misdescribed its own source."
+  },
+  {
+   "passage_id": "pa-1-2-13-rufinus-vs-justinian",
+   "field": "checked_against",
+   "before": "Greek OCR slips fixed: ἡγομαι to ἡγοῦμαι, ν to ἂν, εκὼν to εἰκὼν.",
+   "after": "Greek OCR slips fixed: ἡγομαι to ἡγοῦμαι, ν to ἂν, εκὼν to εἰκὼν (the njp scan also reads ἡγοῦμαι and ἂν), and ἀπλῶς (smooth breathing in the scan) to ἁπλῶς.",
+   "reason": "Records the extra fix and the second scan that supports two of them."
+  },
+  {
+   "passage_id": "pa-1-2-13-rufinus-vs-justinian",
+   "field": "language",
+   "before": "Latin (Rufinus) and Greek (Justinian's quotation)",
+   "after": "Latin (Rufinus) and Greek (Justinian's quotation, as Migne prints it)",
+   "reason": "Clarity only."
+  },
+  {
+   "passage_id": "pa-1-2-13-rufinus-vs-justinian",
+   "field": "textual_notes",
+   "before": "Delarue (note 56 in PG 11) printed the Greek in brackets inside Rufinus's Latin and wrote that Justinian gives it at the end of his Letter to Menas, that he thinks it sto ...",
+   "after": "Delarue (note 56 in PG 11) printed the Greek in square brackets inside Rufinus's Latin and wrote that Justinian gives it at the end of his Letter to Menas, that he thinks ...",
+   "reason": "The draft said the Koetschau parallel is in Martens n. 43 (it is in the text, p. 321); the Jerome quotation is completed from the scan; Delarue's own Latin version of the Greek is now noted, and the irregular ἄν + future infinitive flagged."
+  },
+  {
+   "passage_id": "pa-1-2-13-rufinus-vs-justinian",
+   "field": "readings[Paul Koetschau and Gorgemanns-Karpp (as ]",
+   "before": "In Martens's grouping these editors print a ‘mosaic’ text that uses other witnesses to correct Rufinus. At 1.2.13 each ‘regards Justinian's fragment as genuine and Rufinu ...",
+   "after": "Martens puts them, with Delarue, Rius-Camps and Fernández, in a group that prints a ‘mosaicked’ text (pp. 313, 315), and writes that “Each of the editors in group two reg ...",
+   "reason": "Quotations and page numbers confirmed against Martens; the draft's ‘interrupts the progression’ was not his exact wording; Delarue belongs in the same group."
+  },
+  {
+   "passage_id": "pa-1-2-13-rufinus-vs-justinian",
+   "field": "readings[Henri Crouzel and Manlio Simonetti (as r]",
+   "before": "Their main edition prints Rufinus's text (Koetschau's text with only minor changes) and puts the other witnesses in the commentary volumes. On this passage Crouzel's comm ...",
+   "after": "Martens places their edition in the group that “primarily prints Rufinus’s translation” (p. 313). On this passage he writes in n. 43 (p. 321) that “even Crouzel, in his l ...",
+   "reason": "The draft added that Crouzel suggests Rufinus shortened the passage for Latin readers; that is not in what Martens says in the lines I could read, so it is removed."
+  },
+  {
+   "passage_id": "pa-1-2-13-rufinus-vs-justinian",
+   "field": "readings[John Behr]",
+   "before": "Behr edits Rufinus's Latin and puts Koetschau's other fragments in an ‘Appendix II: Koetschau's Fragments’; Martens does not say what Behr makes of 1.2.13 itself. Cavadin ...",
+   "after": "Martens writes that Behr, like Crouzel and Simonetti, “presents a continuous and complete text of Rufinus’s Latin translation” and prints parallel sources at the foot of ...",
+   "reason": "The draft said Behr puts the fragments in an ‘Appendix II’ (not found in what I could read of Martens) and borrowed a sentence of Cavadini's that is about the 2013 reprint of Butterworth, not about Behr."
+  },
+  {
+   "passage_id": "pa-1-2-13-rufinus-vs-justinian",
+   "field": "readings[G. W. Butterworth, as characterised by J]",
+   "before": "Butterworth (1936) translated Koetschau's text and ‘divided the page between Latin and Greek columns’; Cavadini says he ‘fully adopted, and even extended’ Koetschau's sus ...",
+   "after": "Cavadini writes that Koetschau’s presentation “was predicated on a hermeneutic of thoroughgoing suspicion regarding Rufinus’s translation”, that Butterworth “fully adopte ...",
+   "reason": "Quotations and pages confirmed for both Cavadini and Heide; ‘mindboggling’ quoted exactly."
+  },
+  {
+   "passage_id": "cc-6-26",
+   "field": "edition",
+   "before": "P. Koetschau, Origenes Werke 2: Buch V-VIII gegen Kelsos, GCS 3 (Leipzig: Hinrichs, 1899), p. 96 (the page marker in the digital transcription; line numbers not given). M ...",
+   "after": "P. Koetschau, Origenes Werke vol. 2 (= Buch V-VIII gegen Kelsos, GCS 3, Leipzig: Hinrichs, 1899), p. 96: the Perseus transcription marks the start of p. 96 just before ch ...",
+   "reason": "Page number now supported by the page marker in the XML; the draft gave it without saying where it came from."
+  },
+  {
+   "passage_id": "cc-6-26",
+   "field": "checked_against",
+   "before": "Perseus Digital Library TEI transcription of Koetschau (First1KGreek, tlg2042.tlg001.perseus-grc1), which carries Koetschau's page numbers. One obvious typing slip fixed: ...",
+   "after": "Perseus Digital Library TEI transcription of Koetschau (First1KGreek, tlg2042.tlg001.perseus-grc1), which carries Koetschau's page numbers. One obvious typing slip fixed: ...",
+   "reason": "Added the independent second text."
+  },
+  {
+   "passage_id": "cc-6-26",
+   "field": "english_source",
+   "before": "Own translation.",
+   "after": "Own translation. Compare ANF 4 (Crombie, public domain), whose English as shown on bkv.unifr.ch (translator not named there) has ‘nor to be uttered on the present occasio ...",
+   "reason": "Public-domain comparison added."
+  },
+  {
+   "passage_id": "cc-6-26",
+   "field": "readings[Pierre Batiffol]",
+   "before": "Says Origen ‘does not seem to have regarded the doctrine of the apokatastasis as one meant to be preached to all’, citing Against Celsus 6.26. In the same article he cite ...",
+   "after": "Says Origen “does not seem to have regarded the doctrine of the apokatastasis as one meant to be preached to all”, citing Against Celsus VI, 26. Elsewhere in the article ...",
+   "reason": "Quotations confirmed; the draft's paraphrase of ‘at times reluctant’ now quoted, and ‘as a rule’ added."
+  },
+  {
+   "passage_id": "cc-6-26",
+   "field": "readings[Daniel Heide]",
+   "before": "Takes 6.26 (‘It is not right to explain to everybody all that might be said on this subject’, in the English he uses) to show that the devil's ultimate fate is one of the ...",
+   "after": "Suggests that the devil’s ultimate fate (like the non-eternity of hell) “perhaps belongs” among the things of which Origen says “It is not right to explain to everybody a ...",
+   "reason": "The draft dropped Heide's ‘perhaps’ and had him ‘show’ what he only suggests."
+  },
+  {
+   "passage_id": "cc-6-26",
+   "field": "readings[Tom Greggs (as reported by Chris Hannen)]",
+   "before": "Argues, in Hannen's report, that Origen's universalism varies by genre and audience. Hannen himself puts down Origen's passages that seem to support separation after deat ...",
+   "after": "Hannen cites Greggs for the claim that “Origen clearly took a different stance on universalism dependent on the genre of his work”. The point about audience is Hannen’s o ...",
+   "reason": "The draft credited Greggs with audience as well as genre and had Hannen explain 3.16 and 3.31 as pastoral concern; neither is in the part of Hannen I could read."
+  },
+  {
+   "passage_id": "cc-8-72",
+   "field": "original",
+   "before": "(ἐν)",
+   "after": "⟨ἐν⟩",
+   "reason": "The digital text tags ἐν as an editorial addition and prints it in round brackets, which a reader could take for a parenthesis in Origen's Greek; angle brackets mark it as a supplement here."
+  },
+  {
+   "passage_id": "cc-8-72",
+   "field": "edition",
+   "before": "(ἐν) is Koetschau's supplement",
+   "after": "⟨ἐν⟩ is an editorial supplement (the digital text tags it as an addition and prints it in round brackets; I could not confirm from the printed page that it is Koetschau's ...",
+   "reason": "Matches the change above."
+  },
+  {
+   "passage_id": "cc-8-72",
+   "field": "english",
+   "before": "Whether so that it can in no way ever again be allowed to arise, or not, is not for the present discussion to teach.",
+   "after": "Whether so that it can in no way ever again be allowed [to arise], or not, is not for the present discussion to teach.",
+   "reason": "‘to arise’ is not in the Greek (it follows Crombie); bracketed to show it is added."
+  },
+  {
+   "passage_id": "cc-8-72",
+   "field": "english_source",
+   "before": "Own translation.",
+   "after": "Own translation. Compare ANF 4 (Crombie, public domain; as shown on bkv.unifr.ch, translator not named there): ‘The consummation of all things is the destruction of evil’ ...",
+   "reason": "Public-domain comparison added."
+  },
+  {
+   "passage_id": "cc-8-72",
+   "field": "textual_notes",
+   "before": "The task text for this entry spoke of a ‘perhaps’ in the passage; there is no ‘perhaps’ (τάχα) in these lines of Koetschau's Greek. The hedge",
+   "after": "There is no ‘perhaps’ (τάχα) in these lines of Koetschau's Greek, although the passage is sometimes quoted as if there were. The hedge",
+   "reason": "The draft referred to “the task text”, a remark about the survey's own brief that does not belong in a published note."
+  },
+  {
+   "passage_id": "cc-8-72",
+   "field": "textual_notes",
+   "before": "There is no ‘perhaps’ (τάχα) in these lines of Koetschau's Greek, although the passage is sometimes quoted as if there were. The hedge is the closing sentence, which expl ...",
+   "after": "There is no ‘perhaps’ (τάχα) in these lines of Koetschau's Greek, although the passage is sometimes quoted as if there were. The hedge is the closing sentence, which expl ...",
+   "reason": "Records the λογικοῦ reading, which the draft translated without comment, and the second-text check."
+  },
+  {
+   "passage_id": "cc-8-72",
+   "field": "readings[Chris Hannen]",
+   "before": "Reads 8.72 as saying each soul freely chooses what the Word wills and ‘the end of the treatment is the abolition of evil’, and so as pointing to universal restoration; he ...",
+   "after": "Cites 8.72 (n. 72) for the claim that the end of the Word’s treatment is the abolition of evil, and so reads the passage as pointing to universal restoration. He sets bes ...",
+   "reason": "The draft said Hannen puts the 3.16 and 3.31 passages down to pastoral concerns; that is not in what I could read."
+  },
+  {
+   "passage_id": "cc-8-72",
+   "field": "readings[Henri Crouzel (as reported by Chris Hann]",
+   "before": "‘The best we can ascertain is that Origen hoped for universal salvation’, and no clear universalist reading is possible. This is Crouzel's general position, in Hannen's r ...",
+   "after": "Hannen cites Crouzel for “The best we can ascertain is that Origen hoped for universal salvation”. This is Crouzel’s general position, not a comment on 8.72 by number.",
+   "reason": "Removed ‘no clear universalist reading is possible’, which is not in what Hannen quotes; page and note added."
+  },
+  {
+   "passage_id": "cc-8-72",
+   "field": "readings[Joseph Heine and Ilaria Ramelli (as repo]",
+   "before": "Heine suggests that Origen reconsidered limits on redemption in later life, which he calls ‘a defendable, but not an unquestionable, conclusion’. Against Celsus is a late ...",
+   "after": "Hannen quotes Heine as calling it “a defendable, but not an unquestionable, conclusion” that Origen was rethinking universal restoration at Caesarea, and himself conclude ...",
+   "reason": "The draft called the scholar ‘Joseph Heine’ (the Origen scholar is Ronald E. Heine, and Hannen’s report gives no first name), and said Ramelli ‘disagrees and holds that Origen did not change his mind’, which is the tool's inference from a citation, not Hannen's wording."
+  },
+  {
+   "passage_id": "cc-8-72",
+   "field": "readings[Ilaria Ramelli (as reported by Steven Ne]",
+   "before": "Ramelli's book argues that ‘No being is incurable for the Christ-Logos’ and that apokatastasis is professed in all of Origen's works (p. 208). Nemes does not link the fir ...",
+   "after": "Nemes quotes “No being is incurable for the Christ-Logos” (citing Ramelli p. 193; he does not make clear whether the words are Ramelli’s or Origen’s) and “Apokatastasis i ...",
+   "reason": "Page range was an inference and the first quotation may be Origen's, not Ramelli's; both now stated."
+  },
+  {
+   "passage_id": "cc-8-72",
+   "field": "readings (added)",
+   "before": "(none)",
+   "after": "Ilaria L. E. Ramelli: Cites Contra Celsum 8.72 together with On First Principles 3.6.5 to argue that God’s omnipotence guarantees the cure of even ‘incurable’ souls, and ...",
+   "reason": "Balance and precision: a first-hand Ramelli reading that names 8.72, which the draft lacked."
+  },
+  {
+   "passage_id": "hom-jer-20-3-4",
+   "field": "edition",
+   "before": "A second edition by P. Nautin appeared in 1983, and P. Nautin and P. Husson edited the Greek with French translation in SC 238 (1977); I did not check either.",
+   "after": "A second edition by P. Nautin appeared in 1983, and P. Nautin and P. Husson edited the Greek with French translation in SC 232 and 238 (1976-77; I believe Homily 20 is in ...",
+   "reason": "Adds the second SC volume and the German edition; flagged as unverified."
+  },
+  {
+   "passage_id": "hom-jer-20-3-4",
+   "field": "checked_against",
+   "before": "Electronic transcription, not the printed page.",
+   "after": "Electronic transcription, not the printed page. Second pass: compared letter for letter, with accents, against that file; the only differences are the πρότερον fix and th ...",
+   "reason": "Fact-checker's comparison recorded."
+  },
+  {
+   "passage_id": "hom-jer-20-3-4",
+   "field": "textual_notes",
+   "before": "Jerome's Latin translation covers other homilies (14 in all), not Homily 20.",
+   "after": "Whether Jerome's Latin translation of fourteen homilies has a counterpart for Homily 20 was not checked.",
+   "reason": "The draft stated this as fact without a source."
+  },
+  {
+   "passage_id": "hom-jer-20-3-4",
+   "field": "textual_notes",
+   "before": "(not present)",
+   "after": "Klostermann's text has a gap in 20.3 (‘. . .’) after ‘καὶ τὸν σοφώτατον’, where the manuscript is defective or the editor sees a lacuna; the sentence just before the quot ...",
+   "reason": "Adds the nearest context, which bears on what the ‘truth about punishment’ is. The draft said the passage never says; the example just before it does say something, and it should be on the page."
+  },
+  {
+   "passage_id": "hom-jer-20-3-4",
+   "field": "why_it_matters",
+   "before": "With Against Celsus 6.26 this is where Origen most openly says that what the many are told about punishment may differ from what the wise are told. The disputed point is ...",
+   "after": "With Against Celsus 6.26 this is where Origen most openly says that what the many are told about punishment may differ from what the wise are told. The disputed point is ...",
+   "reason": "The draft said the lines do not say the truth is that punishment ends, “though that is how the passage is often read”, with no one cited for that; the sentence is replaced with what the Greek supports."
+  },
+  {
+   "passage_id": "hom-jer-20-3-4",
+   "field": "readings (added)",
+   "before": "(none)",
+   "after": "Róbert Somos: Says Origen “does not speak of a lie in the strict sense” (“nem szoros értelemben vett hazugságról beszél”) but of leaving certain things unsaid, and that G ...",
+   "reason": "The draft found no named scholar on this homily. This is one, on the homily itself (translation of the Hungarian is mine, from short quotations)."
+  },
+  {
+   "passage_id": "comm-rom-5-10",
+   "field": "edition",
+   "before": "Book 5 should be in the second volume, 33; not opened, page not confirmed.",
+   "after": "Books 4-6 should be in the second volume, 33 (1997), and Books 7-10 in 34 (1998); I recall this from the series list and did not confirm it; not opened, page not confirme ...",
+   "reason": "The draft's ‘Book 5 ... second volume’ left the reader to guess the others; made explicit and flagged as recalled."
+  },
+  {
+   "passage_id": "comm-rom-5-10",
+   "field": "textual_notes",
+   "before": "which Eusebius counted as fifteen books, to ten (this is the usual account; Sytsma cites the preface only for the abridgment)",
+   "after": "which ran to fifteen books in Greek, to ten (the usual account; I did not check who first gives the number; Sytsma cites the preface only for the abridgment)",
+   "reason": "The draft credited Eusebius with the count without a source."
+  },
+  {
+   "passage_id": "comm-rom-5-10",
+   "field": "checked_against",
+   "before": "The chapter number 5.10 comes from the request, not from the scan.",
+   "after": "The page header says Book 5 (‘LIB. V’); the chapter number 5.10 is the survey's own reference to the passage, not something the scan shows.",
+   "reason": "Says what the scan does and does not confirm."
+  },
+  {
+   "passage_id": "comm-rom-5-10",
+   "field": "checked_against",
+   "before": "NOT Hammond Bammel. Migne, Patrologia Graeca 14, cols. 1053-1054 (Delarue's text), from the OCR page transcription OGL-PatrologiaGraecaDev/Vol.-14 (nyp.33433081862280_ocr ...",
+   "after": "NOT Hammond Bammel. Migne, Patrologia Graeca 14, cols. 1053-1054 (Delarue's text), from the OCR page transcription OGL-PatrologiaGraecaDev/Vol.-14 (nyp.33433081862280_ocr ...",
+   "reason": "Fact-checker's comparison recorded."
+  },
+  {
+   "passage_id": "comm-rom-5-10",
+   "field": "readings[Ilaria Ramelli (as reported by Aidan Kim]",
+   "before": "Kimel quotes, without a location, a passage of the Commentary on Romans on ‘the power and effectiveness of Christ's cross and of his death’ saving ‘all the past’ ages, wh ...",
+   "after": "Kimel quotes, in n. 10, a passage of the Commentary on Romans saying the power of Christ’s cross “is so great as to be enough to set right and save, not only the present ...",
+   "reason": "The draft said the reading Kimel draws is about free will; his note is used for his third option, that Origen believes in universal salvation despite his disclaimer. Page of Ramelli added."
+  },
+  {
+   "passage_id": "comm-rom-5-10",
+   "field": "readings[Henri Crouzel (as reported by Lee Sytsma]",
+   "before": "‘Certainty about a universal apocatastasis would be in contradiction to the authenticity of the free will’; a universal apocatastasis could only be ‘a great hope’. This s ...",
+   "after": "In a block quotation Sytsma gives Crouzel’s view that “Certainty about a universal apocatastasis would be in contradiction to the authenticity of the free will” and that ...",
+   "reason": "Page corrected from 25 to 24 (the block quotation and n. 55 are on p. 24)."
+  },
+  {
+   "passage_id": "comm-rom-5-10",
+   "field": "readings[Jerome (ancient reader)]",
+   "before": "Charges that Origen's system means rational creatures change places ‘not once and suddenly but repeatedly’: we shall be angels, and, if we act carelessly, demons; and dem ...",
+   "after": "Charges that Origen’s system means rational creatures change places “not once and suddenly but repeatedly”: we shall be angels and, if we act carelessly, demons; and demo ...",
+   "reason": "Separates Jerome's charge from this survey's observation about 5.10, and gives the edition actually used in place of a bare home page."
+  },
+  {
+   "passage_id": "comm-rom-5-10",
+   "field": "readings[Ilaria Ramelli (as reported by Lee Sytsm]",
+   "before": "‘Providence does not force rational creatures' free will, but it acts in harmony with it’, and once souls know the Good ‘all will voluntarily adhere to the Good’. Sytsma ...",
+   "after": "Sytsma quotes Ramelli: “Providence does not force rational creatures’ free will”, and that once souls know the Good “all will voluntarily adhere to the Good” (p. 31). He ...",
+   "reason": "Page corrected from 32 to 31 for the quotation; Sytsma's criticism quoted exactly."
+  },
+  {
+   "passage_id": "comm-rom-6-5",
+   "field": "original",
+   "before": "aliud vitam aeternam in Christo Jesu.",
+   "after": "aliud vitam aeternam in Christo Jesu. Et illi enim qui surgent in confusionem et opprobrium sempiternum, habebunt quidem vitam aeternam, non tamen in Christo Jesu, sed in ...",
+   "reason": "The draft left this sentence out as ‘doubtful OCR’. The scan reads clearly except for ‘Jesu’ (garbled, as in the earlier ‘Christo Jesu’ of the same page), and it is the one sentence that applies ‘aeternus’ to the lot of the lost, so leaving it out made the passage look more one-sided."
+  },
+  {
+   "passage_id": "pa-preface-4-10",
+   "field": "why_it_matters",
+   "before": "Eternal fire is on the settled list; the origin of the soul, the nature of the devil and angels, and the time before and after this world are not.",
+   "after": "In Rufinus's Latin, eternal fire (‘igni aeterno’) stands on the list of points ‘plainly handed down’ through the apostles' preaching (section 4 introduces the list, secti ...",
+   "reason": "The draft called eternal fire part of a ‘settled list’. The Latin says the soul's fate is among the things ‘manifeste traduntur’ (plainly handed down) through the apostolic preaching; only free will is called ‘definitum’. The Greek behind ‘aeterno’ is lost, which matters for the aionios dispute."
+  },
+  {
+   "passage_id": "hom-jer-20-3-4",
+   "field": "english_source",
+   "before": "(the truth about punishment: Origen does not say what he thinks it is)",
+   "after": "(the truth about punishment: the lines quoted do not say what it is; see the textual notes for the example just before them)",
+   "reason": "The draft said Origen does not say what he thinks the truth is; the example in the preceding lines says something, and the sentence contradicted the revised textual notes."
+  },
+  {
+   "passage_id": "comm-rom-6-5",
+   "field": "original",
+   "before": "addidit ‘in Christo Jesu Domino nostro’",
+   "after": "addidit ‘in Christo [Jesu] Domino nostro’",
+   "reason": "In this sentence the scan reads ‘in Christo Domino nostro’ with no ‘Jesu’. The draft supplied the word silently, apparently from Romans 6:23 as quoted two lines earlier; it is now in square brackets so that the reader can see it is not in the scan."
+  },
+  {
+   "passage_id": "comm-rom-6-5",
+   "field": "english",
+   "before": "he added ‘in Christ Jesus our Lord’; perhaps he wanted it known that eternal life alone is one thing, and eternal life in Christ Jesus another.",
+   "after": "he added ‘in Christ [Jesus] our Lord’; perhaps he wanted it known that eternal life alone is one thing, and eternal life in Christ Jesus another. For even those who rise ...",
+   "reason": "Translation of the restored sentence, with the Latin words for shame and for the two kinds of ‘everlasting’ in brackets, and ‘Jesus’ bracketed where the scan lacks it."
+  },
+  {
+   "passage_id": "comm-rom-6-5",
+   "field": "english_source",
+   "before": "rendering Greek aionios (aion:",
+   "after": "presumably rendering Greek aionios (the Greek is lost; aion:",
+   "reason": "The draft stated that the Latin renders aionios; the Greek of this passage is not preserved, so that is a presumption."
+  },
+  {
+   "passage_id": "comm-rom-6-5",
+   "field": "language",
+   "before": "Greek not preserved here",
+   "after": "Greek for this passage not known to survive; the catena and papyrus fragments of the commentary were not checked",
+   "reason": "‘Not preserved here’ was ambiguous."
+  },
+  {
+   "passage_id": "comm-rom-6-5",
+   "field": "edition",
+   "before": "C. P. Hammond Bammel, Vetus Latina: Aus der Geschichte der lateinischen Bibel 33 or 34 (Freiburg: Herder, 1997/1998); not opened, page not confirmed. English: T. P. Schec ...",
+   "after": "C. P. Hammond Bammel, Der Römerbriefkommentar des Origenes: kritische Ausgabe der Übersetzung Rufins, Vetus Latina: Aus der Geschichte der lateinischen Bibel 16 (Books 1- ...",
+   "reason": "The draft said Heide cites ‘this passage’ as VI.5.9; Heide's n. 27 cites a different sentence (on aeternitas = αἰών) and I could not locate it in the lines printed here. Volume numbers made explicit and flagged as recalled."
+  },
+  {
+   "passage_id": "comm-rom-6-5",
+   "field": "checked_against",
+   "before": "NOT Hammond Bammel. Migne, Patrologia Graeca 14, cols. 1067-1068 (Delarue's text), from the OCR page transcription OGL-PatrologiaGraecaDev/Vol.-14 (nyp.33433081862280_ocr ...",
+   "after": "NOT Hammond Bammel. Migne, Patrologia Graeca 14, cols. 1067-1068 (Delarue's text), from the OCR page transcription OGL-PatrologiaGraecaDev/Vol.-14 (nyp.33433081862280_ocr ...",
+   "reason": "The draft left out a sentence for ‘doubtful OCR’ and said the garbled token was corrected silently; the sentence reads clearly enough to quote, and every restoration by sense is now listed, including one the draft made without saying so."
+  },
+  {
+   "passage_id": "comm-rom-6-5",
+   "field": "why_it_matters",
+   "before": "This is the passage scholars cite when they argue that Origen himself knew ‘eternal’ can mean a stretch of time. He gives two examples where it means a lifetime or the pr ...",
+   "after": "Scholars who argue that Origen himself knew ‘eternal’ can mean a stretch of time point to the Romans commentary (Heide does, quoting a sentence of it). Here, in Rufinus's ...",
+   "reason": "The draft called this ‘the passage scholars cite’ (only Heide's use of the Romans commentary was confirmed) and left out the sentence in which ‘aeternus’ is applied to the lost, which made the passage lean one way."
+  },
+  {
+   "passage_id": "comm-rom-6-5",
+   "field": "textual_notes",
+   "before": "Rufinus's abridgment and the lack of Greek mean the Latin ‘aeternum’ could stand for aionios or for another Greek word. The PG apparatus (note 28) has variants for ‘surgu ...",
+   "after": "Rufinus's abridgment and the lack of Greek mean the Latin ‘aeternum’ and ‘aeternam’ could stand for aionios or for another Greek word. Heide (Dionysius 33, p. 202) quotes ...",
+   "reason": "The draft cited editions ‘of the 1500s and 1600s’ and a ‘preceding sentence about fructum’ that the note does not say, called ‘Jesu’ Greek, and said the garble was ‘corrected by sense’ without giving the places. Heide's quotation of the aeternitas = αἰών sentence is added, with the fact that its Latin was not located."
+  },
+  {
+   "passage_id": "comm-rom-6-5",
+   "field": "readings[Daniel Heide (relying on Ilaria Ramelli ]",
+   "before": "Takes Origen to use aion in the sense of an age or epoch, not eternity, so that scriptural ‘eternal’ punishment may be finite; Heide notes that the interpretation of Rame ...",
+   "after": "Heide says the Greek αἰών (adj. αἰώνιος) is ambiguous (p. 201). He says Ramelli's view that the Bible's αἰώνιος never means ‘eternal’ unless it refers to God “is controve ...",
+   "reason": "The draft said only that Heide calls Ramelli's interpretation ‘controversial’; Heide goes on to say it has its source in Origen and quotes the Romans commentary himself. Page range, notes and the Eriugena disagreement checked against Heide."
+  },
+  {
+   "passage_id": "comm-rom-6-5",
+   "field": "readings[Henri Crouzel (as cited by Daniel Heide)]",
+   "before": "Cited by Heide for Origen's ambiguity on how long punishment lasts; Heide's text gives no Crouzel wording.",
+   "after": "Heide gives Crouzel's French. Its sense: the essential reason why the expression ‘eternal fire’ (πῦρ αἰώνιον) does not seem to Origen to imply necessarily the eternity of ...",
+   "reason": "The draft said Heide's text gives no Crouzel wording; n. 28 quotes Crouzel at length. Position and side rewritten from the quotation."
+  },
+  {
+   "passage_id": "comm-rom-6-5",
+   "field": "readings[Michael McClymond]",
+   "before": "Discusses Ramelli's argument that aionios need not mean ‘eternal’ in an absolute sense and calls it partly meritorious; the part I saw does not analyse Origen's own usage ...",
+   "after": "In n. 23 McClymond calls Ramelli's argument that aionios need not mean ‘eternal’ in the absolute sense “a point that has some merit”, then objects to her claim that aidio ...",
+   "reason": "The draft's paraphrase (‘partly meritorious’, ‘not its use as a proof of Origen's universalism’) was not McClymond's wording; his note says “some merit” and objects on Jude 6 and aidios, not on a proof of universalism."
+  },
+  {
+   "passage_id": "comm-rom-6-5",
+   "field": "readings[Ilaria Ramelli (as reported by Steven Ne]",
+   "before": "Ramelli cites Origen's phrase ‘life after aionios life’ as evidence that aionios does not mean ‘eternal’. Nemes does not tie the phrase to the Romans commentary by number ...",
+   "after": "Nemes reports Ramelli's claim that the Bible's judgment punishments are aionia, which does not mean ‘eternal’ unless it is used of God (Ramelli p. 26), and her thesis tha ...",
+   "reason": "Page range was an inference and the tool placed the quotations on pp. 227-228; Ramelli's p. 26 claim added; Nemes's citation of Ramelli's page numbers flagged as not checked."
+  },
+  {
+   "passage_id": "cc-8-72",
+   "field": "checked_against",
+   "before": "The transcription is electronic, not the printed page.",
+   "after": "The transcription is electronic, not the printed page. Second pass (fact-check): compared letter for letter, with accents, against that file; the only differences are the ...",
+   "reason": "Fact-checker's comparison recorded; the draft did not say what the V status on the Greek rested on."
+  },
+  {
+   "passage_id": "cc-6-26",
+   "field": "why_it_matters",
+   "before": "This is the passage most often cited for the claim that Origen held a fuller doctrine than he taught the simple.",
+   "after": "This is a passage cited (by Batiffol and by Heide, among those read here) for the claim that Origen held a fuller doctrine than he taught the simple.",
+   "reason": "The draft said ‘most often cited’ with no count behind it; the two scholars who cite it in this survey are named instead."
+  },
+  {
+   "passage_id": "cc-8-72",
+   "field": "why_it_matters",
+   "before": "This is Origen's most direct statement in a work he wrote for publication, late in life, that",
+   "after": "This is a direct statement, in a late work (c. 248, by the date above), that",
+   "reason": "‘Most direct’ was a ranking nobody was cited for; ‘wrote for publication’ was not supported either."
+  },
+  {
+   "passage_id": "comm-rom-5-10",
+   "field": "why_it_matters",
+   "before": "and so is cited against Jerome.",
+   "after": "which is where it can be set against Jerome (this survey's own observation, not a scholar's).",
+   "reason": "The draft said the passage ‘is cited against Jerome’ without naming anyone who does."
+  },
+  {
+   "passage_id": "(other_findings)",
+   "field": "claim: Martens, modern editions",
+   "before": "Peter Martens divides the modern editors of Peri Archon into two groups: those who print mainly Rufinus's translation (Merlin, Crouzel and Simonetti, Behr) and those who ...",
+   "after": "Peter Martens divides the modern editors of Peri Archon into two groups: one “primarily prints Rufinus's translation” (Merlin, Crouzel and Simonetti, Behr; pp. 313-315), ...",
+   "reason": "Quotations and pages from Martens (pp. 313, 314, 315, 317, 321). The draft's two further claims (‘Koetschau built on Delarue’; Crouzel-Simonetti print Koetschau's Rufinus text ‘with only minor changes’) were not in what I could read, so they are removed and listed as unverified. Unread tail corrected from ‘7,000’ to 7,283 characters."
+  },
+  {
+   "passage_id": "(other_findings)",
+   "field": "claim: Cavadini on Koetschau and Butterworth",
+   "before": "Koetschau's 1913 text is the basis for Butterworth's English translation (1936); Cavadini says Koetschau's presentation was ‘predicated on a hermeneutic of thoroughgoing ...",
+   "after": "John Cavadini says Koetschau's presentation “was predicated on a hermeneutic of thoroughgoing suspicion regarding Rufinus's translation” and that Butterworth “fully adopt ...",
+   "reason": "Confirmed (pp. vii-viii); the added sentences say what the foreword does not mention (Behr) and mark the dates as not from the foreword."
+  },
+  {
+   "passage_id": "(other_findings)",
+   "field": "claim: Heide, Arc 44",
+   "before": "Daniel Heide argues that Koetschau and Butterworth trust hostile witnesses (Justinian's letter, the 543 anathemas) over Rufinus, and that Jerome is treated too uncritical ...",
+   "after": "Daniel Heide argues that Koetschau and Butterworth supplemented Rufinus's text with material “from sources as hostile as the anathemata of Justinian” (p. 57), and that Bu ...",
+   "reason": "Heide writes ‘anathemas II to VI’ (the draft had ‘II and VI’), places the anathemas at the Council of 553 (the draft said 543), and speaks of the anathemata of Justinian, not of the Letter to Menas."
+  },
+  {
+   "passage_id": "(other_findings)",
+   "field": "claim: Hart review of Behr",
+   "before": "Reviews and studies of the Behr edition to follow up: David Bentley Hart's review in the Journal of Orthodox Christian Studies 3.1 (2020), pp. 103-107, and Martens's arti ...",
+   "after": "Reviews of the Behr edition to follow up: David Bentley Hart's review in the Journal of Orthodox Christian Studies 3.1 (2020), pp. 103-107, listed in Wikipedia's article ...",
+   "reason": "Martens's article is not ‘not read’; it was read in part and treats Behr at p. 314."
+  },
+  {
+   "passage_id": "(other_findings)",
+   "field": "claim: Batiffol on Lucifer and 1.6.3",
+   "before": "Pierre Batiffol reads the Commentary on Romans (cited as VIII, 9) as saying that Lucifer ‘will not be converted, even at the end of time’, and On First Principles 1.6.3 a ...",
+   "after": "Pierre Batiffol, quoting Tixeront, reports that in On First Principles I, vi, 3 Origen “does not venture to assert that all the evil angels shall sooner or later return t ...",
+   "reason": "‘Unlike the Jews’ added to the Lucifer quotation; the 1.6.3 sentence is quoted from Tixeront by Batiffol; the draft's gloss that these are ‘the main texts used by those who say Origen did not teach the devil's salvation’ is not in Batiffol and is removed; Batiffol's own verdict (‘as a rule’ teaches the apokatastasis) added."
+  },
+  {
+   "passage_id": "(other_findings)",
+   "field": "claim: Sytsma n. 83 on Ramelli",
+   "before": "Ramelli, as reported by Sytsma, cites On First Principles 1.6.3 for the claim that Satan will be saved ‘not qua devil, arch-enemy, and death’ but as a creature of God (p. ...",
+   "after": "Sytsma reports that Ramelli cites On First Principles 1.6.3 for the claim that Satan “will thus be saved not qua devil, arch-enemy, and death”; the note (n. 83, pp. 31-32 ...",
+   "reason": "The note is n. 83 on pp. 31-32 (the quotation is on p. 31, not p. 32) and cites Ramelli pp. 114 and 144; the draft's ‘but as a creature of God’ was not in what the tool returned and is removed."
+  },
+  {
+   "passage_id": "(other_findings)",
+   "field": "claim: Homilies on Jeremiah 20.3-4 (reading of the Greek)",
+   "before": "Reading of the Greek, not of a scholar: in Homilies on Jeremiah 20.3 the ‘mystery’ the many must not hear is introduced by the claim that every sinner must be punished an ...",
+   "after": "Reading of the Greek, not of a scholar: in Homilies on Jeremiah 20.3 the ‘mystery’ the many must not hear is introduced by the claim that every sinner must be punished an ...",
+   "reason": "The draft said the passage never says what the truth is; the example just before 20.4 says something about it."
+  },
+  {
+   "passage_id": "(other_findings)",
+   "field": "claim: Preface 5 and the church's preaching",
+   "before": "In the Preface of On First Principles (section 5), eternal fire for sinners and eternal life for the saved are listed among the points ‘defined in the church's preaching’ ...",
+   "after": "In the Preface of On First Principles (section 5, in Rufinus's Latin), the soul's lot after death is described as either eternal life and blessedness or ‘igni aeterno ac ...",
+   "reason": "The Latin does not say that eternal fire is ‘defined’; section 4 introduces the list as what is plainly handed down, and only free will is called ‘definitum’. The draft's sentence about how ‘a reader’ will read 1.6 and 3.6 was an inference that leaned one way and is replaced by a neutral statement."
+  },
+  {
+   "passage_id": "(other_findings)",
+   "field": "claim: Wikipedia, Apokatastasis",
+   "before": "Reported by Wikipedia from standard works: Daley (The Hope of the Early Church, 1991, p. 58) holds Origen ‘strongly believed in the final salvation of all humans’; Crouze ...",
+   "after": "Reported by Wikipedia from standard works: Daley (The Hope of the Early Church, 1991, p. 58) holds Origen “strongly believed in the final salvation of all humans”; Crouze ...",
+   "reason": "Unchanged; still status R."
+  },
+  {
+   "passage_id": "(other_findings)",
+   "field": "claim: Greek texts compared (added)",
+   "before": "(none)",
+   "after": "The Greek of Against Celsus 6.26 and 8.72 and of Homilies on Jeremiah 20.3-4 was compared letter for letter, with accents, against the First1KGreek TEI transcriptions (Ko ...",
+   "reason": "Records what the V status on the Greek passages rests on, and moves the draft's note that 8.72 has no ‘perhaps’ out of its list of problems."
+  },
+  {
+   "passage_id": "(other_findings)",
+   "field": "claim: dating of the anathemas (added)",
+   "before": "(none)",
+   "after": "The sources do not date the anathemas alike: Heide places the fifteen anathemas at the Council of Constantinople of AD 553, while the Catholic Encyclopedia article (Batif ...",
+   "reason": "Heide and Batiffol date the anathemas differently, and the draft used 543 and 553 side by side without saying so."
+  },
+  {
+   "passage_id": "(cluster)",
+   "field": "summary",
+   "before": "Origen's own words can be set beside the later quarrels, but nearly everything in his central book, On First Principles, survives only in Rufinus's Latin, and Rufinus say ...",
+   "after": "Origen's own words can be set beside the later quarrels, but nearly everything in his central book, On First Principles, survives only in Rufinus's Latin, and Rufinus say ...",
+   "reason": "Heide is not among those who stress the hedges (he finds restoration taught in 1.6, 3.6 and the Contra Celsum reticence); Batiffol and McClymond are described as their texts read; the Preface sentence now says what the Latin says; the Homilies and 6.5 sentences follow the corrected passages; Ramelli's own review of Arruzza is named."
+  },
+  {
+   "passage_id": "(cluster)",
+   "field": "problems -> unverified",
+   "before": "(1) Koetschau's critical text of On First Principles could not be read in sections: archive.org (origeneswerke05orig) was reachable only through a tool that returns about ...",
+   "after": "(split into the unverified list)",
+   "reason": "The output has no ‘problems’ field, and several entries cited it. Each caveat is now in the unverified list, rewritten where this pass changed it: 8.72's missing ‘perhaps’ is now a finding, the 1.2.13 Greek is no longer cut off, Crombie was compared for Against Celsus, Homilies on Jeremiah 20 has one reading, and the Martens claims that could not be confirmed are named."
+  }
+ ],
+ "unverified": [
+  "Koetschau's critical text of On First Principles (GCS 22, 1913) could not be read in sections; archive.org was reachable only through a tool that returns the first 59,000 characters or so. All Latin of On First Principles and of the Romans commentary is Migne's (Patrologia Graeca 11 and 14, Delarue's text) from OCR page images, so every status V on those passages means ‘checked against that printed edition’, not against Koetschau, Hammond Bammel, Crouzel-Simonetti or Behr. Spelling and some readings may differ there.",
+  "OCR gaps: On First Principles 3.6.5 (the destruction of the last enemy as the end of its hostile will, not its substance) was not obtained, nor the middle of Rufinus's Latin at 3.6.2-3, and one stretch of the Latin on the 1.2.13 page remains open (marked in the entry). Ramelli's use of 3.6.5 is known only through her review of Arruzza.",
+  "Justinian's Letter to Menas itself (PG 86.1, Mansi 9) was not opened; the Greek at 1.2.13 and 3.6.3 is as Migne prints it in PG 11, and was not checked against the letter.",
+  "Butterworth, Behr, Crouzel-Simonetti, Hammond Bammel, Chadwick, Scheck and Smith were not opened. How Butterworth and Behr treat 1.2.13 is known only from Martens, Cavadini and Heide. The Vetus Latina volume numbers for the Romans commentary (16, 33, 34), the Sources Chrétiennes numbers for the Jeremiah homilies (232, 238) and the Fathers of the Church numbers (103, 104) are recalled from series lists, not confirmed.",
+  "English renderings are my own throughout. Crombie's public-domain English (ANF 4) was compared only for Against Celsus 6.26 and 8.72, through bkv.unifr.ch; elsewhere it is named and was not opened, and no public-domain English exists for the Romans commentary or the Jeremiah homilies as far as I know.",
+  "Homilies on Jeremiah 20: only one named scholarly reading was found (Somos's Hungarian introduction, read through short quotations, and the Hungarian translated by me). The neighbours (Batiffol, Heide and Greggs on Against Celsus 6.26) are about a different text.",
+  "The readings for the Commentary on Romans 5.10 are partly about the problem the passage answers (freedom and certainty), not about 5.10 by name, and say so; Kimel's note quotes the passage without a location, and I matched it. For 6.5 no scholar who reads Origen's aionios as endless was read directly; McClymond's Jude 6 objection and the passage's own sentences are the nearest.",
+  "Most scholars were read through a web fetch tool that returns segmented summaries with short quotations (Martens, Heide twice, McClymond, Sytsma, Hannen, Nemes, Cavadini, Batiffol, Kimel, Ramelli's review of Arruzza, Somos), so their statuses are S, not V. McClymond and Sytsma were read only for the footnotes and passages the tool reported; Sytsma's chapters on apocatastasis (pp. 134-180) were beyond the reachable text; the last 7,283 characters of Martens's article were not read.",
+  "Hannen's journal year is not shown on the page (Stimulus 23.2; the page gives only an access date, 3 July 2015, in a footnote). The works of Greggs (cited at fn 81, p. 315) and Heine (fn 85, p. 256) behind Hannen's notes were not identified. Ramelli, Edwards, Tzamalikos, Daley, Heine, Scott, Ludlow and Hart were not read directly; Crouzel and Daley page references come from Hannen, Sytsma, Heide or Wikipedia.",
+  "The Hilberg citation for Jerome's Letter 124 and the Koetschau pages for 1.6.2-3 are taken from the survey's c400 file and were not rechecked; the Jerome readings quote that file's Latin.",
+  "Dates (Origen's Commentary on Romans c. 244; Rufinus's translation c. 405-407; Justinian's Letter to Menas 543; the fifteen anathemas 553) are as the draft gave them and were not checked against a primary source; Heide and Batiffol disagree on the date of the anathemas (see other findings).",
+  "The draft's two claims that Koetschau built on Delarue and that Crouzel-Simonetti print Koetschau's Rufinus text ‘with only minor changes’ were not found in the part of Martens that was readable and have been removed; the Martens address used (academia.edu/43470693/T) appears truncated.",
+  "Heide's sentence on aeternitas = αἰών (n. 27, ‘Comm. Romans VI.5.9’): whether it lies in the lines printed in the 6.5 entry, and whose section numbering ‘VI.5.9’ is, is not confirmed. Batiffol's Comm. Rom. VIII, 9 and the Catholic Encyclopedia's own citations were not checked against Rufinus's text.",
+  "The Greek of Against Celsus and the Jeremiah homily is from electronic First1KGreek transcriptions of Koetschau and Klostermann; a few typing slips may remain. Against Celsus was checked against a second text (bkv.unifr.ch); the homily has no second text."
+ ],
+ "balance_note": "The draft heard mostly one voice on several passages (Ramelli's, Hannen's and Heide's restoration readings), and on the Homilies on Jeremiah 20 no one. Added or corrected in this pass: Martens on the Preface as the rule of faith; Hannen reporting Crouzel on 'research theology' and on 1.6; Batiffol on the caution of 2.10 and Against Celsus 6.26 (Origen 'at times reluctant to decide', not wishing the doctrine preached to all); Ramelli's own first-hand reading of 3.6.5 and 8.72 in her review of Arruzza; Somos on the Jeremiah homily; Heide's quotation of Crouzel on the ambiguity of aionios and McClymond's partial rejection of Ramelli's argument (Jude 6) for Romans 6.5; and the sentence of Romans 6.5 in which 'aeternus' is applied to the lost, which the draft had left out. Misattributions removed: a quotation from Origen put into Crouzel's mouth (1.6); a Crouzel citation in Heide placed under 2.10 instead of the aionios passage; Greggs credited with audience as well as genre; 'Joseph' Heine; Heide's 'perhaps' dropped; Heide's 'II to VI' given as 'II and VI'; the draft's gloss of McClymond ('partly meritorious', 'not as a proof of universalism'); and the Kimel note read as being about free will. The balance is still uneven. The readings of 5.10 and 6.5 are mostly about the general problem of aionios and freedom, not about the passage by name; for 6.5 the 'endless' side is carried by McClymond's objection and by the passage's own sentences, since no scholar of that view was read directly; and the Jeremiah homily has one reading. The hostile ancient readers (Jerome, and Justinian through the Greek fragments) are represented. The editors' split is reported by Martens in a review article and criticised by Cavadini and Heide, both of whom favour the Rufinus-printing side; no defender of Koetschau's method was read, and the editors' own reasons are heard only through those three."
+}

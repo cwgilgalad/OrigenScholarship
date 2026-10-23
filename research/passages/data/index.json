@@ -1,0 +1,88 @@
+{
+  "title": "The source texts",
+  "lead": "This is the evidence behind the report, in the words it was first written in. Each passage is given in Greek, Latin or Syriac, with the edition it comes from, an English rendering, and what scholars on different sides make of it. If a scholar's reading of a text seems too neat, you can check it against the text itself here.\n\nYou don't need to read Greek or Latin to use these pages. The English sits right under each original, and the notes say where a word is disputed and why.",
+  "parts": [
+    {
+      "id": "origen",
+      "title": "Origen in his own words",
+      "lead": "Most of what Origen wrote is lost, and much of the rest survives only in Latin translations made a century and a half after his death. These files show what he says, and where the text itself is the problem."
+    },
+    {
+      "id": "condemnations",
+      "title": "The condemnations",
+      "lead": "Every time Origen or his ideas were condemned, from his own bishop in the 230s to the councils of the seventh and eighth centuries, in the order they happened."
+    },
+    {
+      "id": "context",
+      "title": "The wider argument",
+      "lead": "The texts both sides lean on when they argue about the condemnations: the monk whose ideas the sixth century condemned, the Bible verses in dispute, and other early Christian writers who hoped for, or ruled out, an end to punishment."
+    }
+  ],
+  "files": [
+    {
+      "part": "origen",
+      "cluster": "origen-own",
+      "file": "01-origen-in-his-own-words.md",
+      "title": "Origen in his own words",
+      "blurb": "On First Principles, the argument over whose version of it to trust, and what he says in the works that survive in Greek.",
+      "lead": "Most of what Origen wrote is lost. The whole of *On First Principles* (in Greek *Peri Archon*), the book his critics always went back to, survives only in Rufinus's Latin of 398, which Rufinus admits he smoothed over, and hostile readers such as Jerome and Justinian quoted other versions. Which text you trust goes a long way toward deciding what Origen taught. Some of his other works do survive in his own Greek, and they don't carry those doubts. This file gives the passages scholars on both sides cite most."
+    },
+    {
+      "part": "condemnations",
+      "cluster": "first-censure",
+      "file": "02-first-censure.md",
+      "title": "The first censure, c. 231",
+      "blurb": "Why his own bishop turned on him, and Origen's answer.",
+      "lead": "The first condemnation came from Origen's own bishop, Demetrius of Alexandria, about 231. What we know of it comes from later writers, chiefly Eusebius and Photius, and from a letter of Origen's own that survives in two Latin versions that don't agree."
+    },
+    {
+      "part": "condemnations",
+      "cluster": "c400",
+      "file": "03-the-controversy-around-400.md",
+      "title": "The controversy around 400",
+      "blurb": "Epiphanius, Jerome, Theophilus and Pope Anastasius: what they condemned and why.",
+      "lead": "A century and a half after his death, Origen became the center of a bitter quarrel. Epiphanius of Salamis attacked him, Jerome turned against him, and in 400 Theophilus of Alexandria and Pope Anastasius condemned his books. Most of these texts survive in Jerome's Latin."
+    },
+    {
+      "part": "condemnations",
+      "cluster": "sixth-century",
+      "file": "04-justinian-and-553.md",
+      "title": "Justinian's edict of 543 and the fifteen anathemas of 553",
+      "blurb": "The emperor's ten anathemas, the fifteen against an Origenist system, and the monks behind both.",
+      "lead": "In 543 the emperor Justinian wrote a long letter against Origen to Menas, the patriarch of Constantinople, and ended it with ten anathemas. (An anathema is a solemn curse that cuts someone off from the church.) Ten years later the bishops gathered at Constantinople signed fifteen more, against a system of ideas the monks of Palestine were accused of holding. The ninth anathema of 543 is the plainest condemnation of universal restoration anywhere in the record. The fifteen of 553 aren't in the council's official record, and most historians now think they were signed just before it opened."
+    },
+    {
+      "part": "condemnations",
+      "cluster": "name-added",
+      "file": "05-was-his-name-added.md",
+      "title": "Was Origen's name added later?",
+      "blurb": "Every place a council names Origen, and how secure the name is in each.",
+      "lead": "Some scholars have argued that Origen's name was slipped into the condemnations after the fact. The argument is almost entirely about one list, the eleventh anathema of the council of 553. This file goes through every council and document that names him and asks how secure the name is in each."
+    },
+    {
+      "part": "condemnations",
+      "cluster": "later-reception",
+      "file": "06-later-councils.md",
+      "title": "Later councils and church statements",
+      "blurb": "The councils of 649, 680 and 787, the Synodikon of Orthodoxy, and modern statements.",
+      "lead": "Whatever happened in 553, later councils took it that Origen had been condemned and said so. This file follows that through the seventh and eighth centuries and into the statements churches make today."
+    },
+    {
+      "part": "context",
+      "cluster": "evagrius",
+      "file": "07-evagrius.md",
+      "title": "Evagrius and the sixth-century Origenists",
+      "blurb": "The monk whose ideas the anathemas of 553 most closely match.",
+      "lead": "Evagrius of Pontus, a monk who died in 399, built on Origen's ideas. In 1958 Antoine Guillaumont published the full Syriac text of Evagrius's *Kephalaia Gnostica*, and showed that the anathemas of 553 follow it closely. That finding changed the whole debate about what 553 condemned."
+    },
+    {
+      "part": "context",
+      "cluster": "comparanda",
+      "file": "08-scripture-and-other-writers.md",
+      "title": "The Bible verses in dispute, and other early writers",
+      "blurb": "\"God all in all\", \"eternal punishment\", Gregory of Nyssa, and the writers both sides call on.",
+      "lead": "Both sides argue from the same few verses of the New Testament. Both have to account for Gregory of Nyssa, who taught that evil will one day be gone entirely and has always been venerated as a saint. And Origen wasn't the only early Christian to hope that punishment might end, nor did everyone who rejected that hope reject it in the same way. These are the other voices both sides call on."
+    }
+  ],
+  "how_to_read": "## How to read these pages\n\n**How far each text was checked.** Each passage carries a letter. **V** means the text was compared with an edition, or a scan of one. **S** means it was checked against a scholar's quotation of it, because no edition could be reached online. **R** means it wasn't checked. Each scholar's reading carries the same kind of note: read in their own words, taken from a reliable report, or a standard attribution not yet checked.\n\n**Translations.** Older translations whose copyright has run out, such as the nineteenth-century *Ante-Nicene Fathers* and *Nicene and Post-Nicene Fathers* (ANF and NPNF), are quoted and named. Everywhere else the English is our own close translation, and the standard published translation is named so you can compare.\n\n**Editions.** A critical edition is a scholar's text built from the surviving manuscripts. The abbreviations you'll meet most are: **ACO**, the acts of the councils (Schwartz, Straub, Riedinger); **CCSL** and **CCSG**, the Corpus Christianorum Latin and Greek series; **CSEL**, the Vienna Corpus of Latin church writers; **GCS**, the Berlin series of Greek Christian writers; **GNO**, the Leiden edition of Gregory of Nyssa; **PG** and **PL**, Migne's nineteenth-century Greek and Latin patrologies; **PO**, Patrologia Orientalis; **SC**, Sources Chrétiennes. Many of the texts here were checked against the open digital editions of the First1KGreek and Open Greek and Latin projects."
+}

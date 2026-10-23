@@ -1,0 +1,607 @@
+{
+  "cluster": "c400: The first Origenist controversy, c. 375-403",
+  "summary": "Yes: every key text of the first Origenist controversy can be cited in its original language beside an English rendering, though most of it survives in Latin. Jerome translated Epiphanius's letter to John and Theophilus's letters, and only the Panarion is extant in Greek. Read closely, the charges change over time. Panarion 64 (c. 375) attacks Origen's subordination of the Son, the pre-existence and fall of souls into bodies, and a 'deficient' resurrection, and it says nothing about the devil being saved. That charge first appears in Epiphanius's letter of 394. From there it runs through Jerome's Against John, Theophilus's synodal letter of 400 and paschal letter of 401, Sulpicius Severus's report, and Jerome's Letter 124. Theophilus's stated reason is Christological: to restore the devil while ending Christ's kingdom 'makes the devil equal to the Son of God'. Jerome's own objection (Letter 84) is to a restoration that levels all distinctions, so that Gabriel ends the same as the devil and virgins the same as prostitutes. Scholars divide on three points. First, motive: Kimel, Socrates and Prinzivalli stress politics and church power, while Russell and Banev take Theophilus's arguments and rhetoric seriously. Second, whether a universal salvation of humans was condemned at all: Kimel says no, and Jerome's Letter 84 is the hardest text for that view. Third, whose translation of On First Principles to trust: Ramelli and Clark favour Rufinus; McClymond, Winkelmann and Koetschau lean to Jerome; Gray calls the question unresolved. Checking also corrects three common claims: 'hydra of all heresies' comes from the paschal letter of 402, not 400; the synodal letter of 400 makes no charge about God's incorporeality; and Anastasius's Latin names no emperor, while his supposed confession that he never knew who Origen was depends on a disputed rendering.",
+  "passages": [
+    {
+      "id": "epiphanius-panarion-64-4",
+      "title": "Epiphanius lists Origen's 'falls' (Panarion 64.4)",
+      "author_work_ref": "Epiphanius of Salamis, Panarion (the 'Medicine Chest' against eighty heresies), heresy 64 (the Origenists), 64.4.3-6; 64.4.9-11 summarized",
+      "date": "c. 374-377 (the usual dating of the Panarion as a whole)",
+      "language": "Greek",
+      "original": "Φάσκει γὰρ οὗτος, τολμήσας δῆθεν περὶ τῶν ἀρχῶν λέγειν, πρῶτον μὲν ὅτι ὁ υἱὸς ὁ μονογενὴς ὁρᾶν τὸν πατέρα οὐ δύναται, ἀλλ᾿ οὔτε τὸ πνεῦμα τὸν υἱὸν δύναται θεάσασθαι, οὔτε μὴν ἄγγελοι τὸ πνεῦμα οὔτε οἱ ἄνθρωποι τοὺς ἀγγέλους. (64.4.4) καὶ αὕτη πρώτη αὐτοῦ πτῶσις. ἐκ γὰρ τῆς οὐσίας τοῦ πατρὸς οὐ θέλει εἶναι τὸν υἱόν, ἀλλὰ παντάπασιν ἀλλότριον πατρὸς τοῦτον εἰσηγεῖται, κτιστόν τε ἅμα. (64.4.5) εἰσὶ δὲ καὶ ἄλλαι αὐτοῦ πτώσεις μείζους. τὴν ψυχὴν γὰρ τὴν ἀνθρωπείαν λέγει προϋπάρχειν, ἀγγέλους δὲ ταύτας εἶναι καὶ δυνάμεις ἄνω, ἐν ἁμαρτίαις δὲ ἀμπλακησάσας καὶ τούτου ἕνεκεν εἰς τιμωρίαν εἰς τοῦτο τὸ σῶμα κατακεκλεισμένας. (64.4.6) πέμπεσθαι δὲ ἀπὸ θεοῦ <κάτω> πρὸς τιμωρίαν, ὅπως ἐνταῦθα πρώτην κρίσιν ὑποδέξωνται.",
+      "edition": "K. Holl, Epiphanius II: Panarion haer. 34-64, GCS 31 (Leipzig: Hinrichs, 1922). Chapter 64.4 runs from p. 409 l. 19 to p. 413; the lines quoted are p. 410 ll. 8-14 and p. 411 ll. 1-6. J. Dummer's revised edition (Berlin, 1980) was not checked.",
+      "checked_against": "First1KGreek EpiDoc transcription of Holl 1922 (tlg2021.tlg002.1st1K-grc1), which keeps Holl's page and line breaks, his apparatus and his source notes. Obvious OCR slips were corrected: πενεῦμα to πνεῦμα, ἐνθρωπείαν to ἀνθρωπείαν, προὕπάρχειν to προϋπάρχειν, ἀμπλακηςάσας to ἀμπλακησάσας.",
+      "english": "For this man, having dared, if you please, to speak 'On First Principles', says first that the only-begotten Son cannot see the Father, nor can the Spirit behold the Son, nor angels the Spirit, nor human beings the angels. And this is his first fall. For he will not have the Son be from the Father's essence, but presents him as wholly foreign to the Father, and a creature as well. But he has other, greater falls. For he says that the human soul exists before the body; that souls are angels and powers above which went astray into sins, and for this reason were shut up in this body as a punishment; and that they are sent <down> by God for punishment, so that they may undergo a first judgment here. [64.4.9-11 then charge that Adam lost the image of God, that the 'garments of skin' (Gen 3:21) are bodies, that the resurrection is made 'deficient' (ἐλλιπῆ), and that paradise and the waters above the heavens are allegorized away.]",
+      "english_source": "Own close translation. The standard English is Frank Williams, The Panarion of Epiphanius of Salamis, Books II and III (Brill, 1994; rev. 2013), not quoted here.",
+      "textual_notes": "The words περὶ τῶν ἀρχῶν ('On First Principles', the title of Origen's treatise) are Holl's conjecture. The manuscripts M and U and the Georgian version read κατὰ τὴν ἀρχήν ('at the beginning'), so the explicit naming of the treatise rests on the editor. <κάτω> ('down') is Holl's supplement. Holl's source notes tie the charges to Origen, On First Principles 1.1.8 (Koetschau p. 25) and 2.8.3 (Koetschau p. 157), and match them point by point to Epiphanius's letter to John (Jerome, Letter 51.3-6). Epiphanius counts Origen's errors as 'falls' (πτώσεις). I searched all of heresy 64 in this transcription and found no charge that Origen taught the devil's salvation or an end to Christ's kingdom. The only forms of ἀποκατάστασις ('restoration') are in Epiphanius's long quotations from Methodius about the resurrection body (64.35.6, 64.62.15, 64.71.6).",
+      "why_it_matters": "This is the first catalogue of charges, made some twenty years before the open quarrel. It accuses Origen of subordinating the Son to the Father, of teaching that souls existed before bodies and fell into them as punishment, and of weakening the resurrection. It makes no charge that all will be saved, or the devil. Any later claim about what 'the controversy' condemned has to account for that silence at its starting point.",
+      "readings": [
+        {
+          "scholar": "Jon F. Dechow (as reported by Richard A. Muller)",
+          "work": "Dogma and Mysticism in Early Christianity: Epiphanius of Cyprus and the Legacy of Origen (Mercer, 1988), esp. pp. 350-355; reviewed by Muller in Consensus 19.2 (1993)",
+          "position": "Dechow's comparison of Epiphanius with Origen's texts leads to 'a clear distinction between the Origenism of the disciples and the teaching of their master'. Epiphanius 'typically misses the fine nuances of Origen's thought', and his charge of a partial resurrection is 'a misreading of Origen's eschatology'.",
+          "side": "reads the charges as a misreading of Origen himself",
+          "source_url": "https://scholars.wlu.ca/cgi/viewcontent.cgi?article=1803&context=consensus",
+          "status": "S"
+        },
+        {
+          "scholar": "Karl Holl (editor)",
+          "work": "GCS 31 (1922), source notes to 64.4",
+          "position": "The editor ties each charge to a passage that Origen really wrote (On First Principles 1.1.8 and 2.8.3) and to the parallel list in Epiphanius's letter to John. On that view the charges reflect real texts, whatever one makes of how Epiphanius reads them.",
+          "side": "traces the charges to real passages of Origen",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2021/tlg002/tlg2021.tlg002.1st1K-grc1.xml",
+          "status": "V"
+        },
+        {
+          "scholar": "Elizabeth A. Clark",
+          "work": "'New Perspectives on the Origenist Controversy: Human Embodiment and Ascetic Strategies', presidential address to the American Society of Church History, 29 Dec 1989, published 1990 (Church History; volume and pages not confirmed), notes 4-5",
+          "position": "In a footnote Clark places the resurrection charges in a longer debate: 'Especially Epiphanius, who follows Methodius.' She holds that no single theological issue clearly drove the controversy.",
+          "side": "reads the charges as inherited from Methodius's quarrel over the resurrection body",
+          "source_url": "https://cambridge.org/core/journals/church-history/article/abs/new-perspectives-on-the-origenist-controversy-human-embodiment-and-ascetic-strategies/6698012C71D769FC4ADCA4C96C455A08",
+          "status": "V"
+        },
+        {
+          "scholar": "Fr Aidan Kimel",
+          "work": "'An Open Letter to Dr Cyril Jenkins: Was Origen Condemned for Teaching Universal Salvation?' (Eclectic Orthodoxy, 20 Aug 2024), section [1:10]",
+          "position": "Kimel calls Epiphanius 'a zealous heresy hunter who was well over his head'. He notes that 'neither Epiphanius nor Theophilus condemn Origen for teaching the final salvation of all human beings.'",
+          "side": "treats the silence on universal salvation as significant",
+          "source_url": "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/",
+          "status": "V"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2021/tlg002/tlg2021.tlg002.1st1K-grc1.xml"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "epiphanius-to-john-ep51",
+      "title": "Epiphanius to John of Jerusalem: the devil 'co-heir' with the prophets (Jerome, Letter 51)",
+      "author_work_ref": "Epiphanius of Salamis, Letter to John of Jerusalem, in Jerome's Latin translation = Jerome, Letter 51, 51.4.3 and 51.5.1",
+      "date": "394 (the letter); Jerome's Latin version followed within a year or two",
+      "language": "Latin (translated by Jerome from a Greek original that is lost)",
+      "original": "(51.4.3) illud quoque quis Origene dicente patiatur, quod animae angeli fuerint in caelis et, postquam peccauerint in supernis, deiectas esse in istum mundum et quasi in tumulos et sepulchra sic in corpora ista relegatas poenas antiquorum luere peccatorum et corpora credentium non templa Christi esse, sed carceres damnatorum? ... (51.5.1) Illud quoque, quod adserere nititur, doleamne an rideam, nescio. doctor egregius audet docere diabolum id rursum futurum esse, quod fuerit, et ad eandem rediturum dignitatem et conscensurum regna caelorum. pro nefas! quis tam uecors et stolidus hoc recipiat, ut sanctus Iohannes baptista et Petrus et Iohannes apostolus et euangelista, Esaias quoque et Hieremias et reliqui prophetae coheredes fiant diaboli in regno caelorum?",
+      "edition": "I. Hilberg, Sancti Eusebii Hieronymi Epistulae, Pars I, CSEL 54 (Vienna, 1910), Letter 51, pp. 395-412: 51.4.3 at p. 401 ll. 7-13; 51.5.1 at p. 403 ll. 4-10. The 1996 reprint with supplements was not checked.",
+      "checked_against": "OpenGreekAndLatin csel-dev EpiDoc transcription of Hilberg, CSEL 54 (stoa0162.stoa004.opp-lat1), including the apparatus. One OCR slip ('Johannes') was normalized to Iohannes.",
+      "english": "And who could bear it when Origen says that souls were angels in heaven; that after they sinned on high they were thrown down into this world; and that, banished into these bodies as into tombs and sepulchres, they pay the penalty for old sins, so that the bodies of believers are not temples of Christ but prisons of the condemned? ... That too which he strives to assert, I do not know whether to grieve over or laugh at. This distinguished teacher dares to teach that the devil will again be what he once was, will return to the same dignity, and will climb up to the kingdom of heaven. What wickedness! Who is so mad and stupid as to accept that holy John the Baptist, and Peter, and John the apostle and evangelist, and Isaiah too, and Jeremiah, and the rest of the prophets should become co-heirs of the devil in the kingdom of heaven?",
+      "english_source": "Own close translation. A modern online translation by Andrew S. Jacobs (andrewjacobs.org) renders the key clause 'restored to his former dignity'.",
+      "textual_notes": "This is Jerome's Latin, and Jerome had his own stake in the quarrel. Jacobs warns that 'we cannot have any confidence that it attests to Epiphanius's wording or style'. Jerome defended his way of translating this letter in Letter 57. Hilberg's apparatus for 51.5.1 records: 'fuerat' (had been) for 'fuerit' in B; 'redituram' in A before correction and in D; 'concessurum' for 'conscensurum' in A before correction and in D; 'ysaias' in B and S; 'coeredes' in D; 'regna' for 'regno' in A and D. Hilberg's source note reads 'cf. Orig. περὶ ἀρχῶν fragm.' (compare a fragment of On First Principles). The manuscripts are A (Berlin lat. 17, 9th c.), D (Vatican lat. 355+356, 9th-10th c.), B (Berlin lat. 18, 12th c.) and S (Vienna lat. 746, 13th c.).",
+      "why_it_matters": "This is the earliest surviving text to charge Origen with teaching the devil's restoration. It is absent from the Panarion. Epiphanius's case against it is an appeal to outrage, not to scripture: the prophets and apostles would share heaven with the devil. The same letter also makes the charges about souls falling into bodies.",
+      "readings": [
+        {
+          "scholar": "Andrew S. Jacobs",
+          "work": "translator's introduction to Epiphanius, Letter to John of Jerusalem (online, from CSEL 54)",
+          "position": "Jacobs dates the letter to 394 and lists 'the restoration of all creatures, including the devil' among the complaints. He cautions that Jerome's Latin may not preserve Epiphanius's wording or style.",
+          "side": "treats the wording as Jerome's, not securely Epiphanius's",
+          "source_url": "https://andrewjacobs.org/translations/epiphanius1.html",
+          "status": "V"
+        },
+        {
+          "scholar": "Elizabeth A. Clark",
+          "work": "'New Perspectives on the Origenist Controversy' (1990), opening page",
+          "position": "Clark lists 'the restoration of the Devil?' as one of several candidate issues for what the controversy was about, alongside the fall of rational creatures into bodies and the resurrection. She concludes that no single theological issue clearly drove it.",
+          "side": "the devil's restoration as one issue among several",
+          "source_url": "https://cambridge.org/core/journals/church-history/article/abs/new-perspectives-on-the-origenist-controversy-human-embodiment-and-ascetic-strategies/6698012C71D769FC4ADCA4C96C455A08",
+          "status": "V"
+        },
+        {
+          "scholar": "Fr Aidan Kimel",
+          "work": "Open letter to Dr Cyril Jenkins (2024), section [1:10]",
+          "position": "Kimel holds that Epiphanius and Theophilus did not condemn 'the final salvation of all human beings'. A charge that concerns the devil leaves 'anthropic universalism' (the restoration of humanity) inside orthodoxy.",
+          "side": "the charge concerns the devil, not humanity",
+          "source_url": "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/",
+          "status": "V"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0162/stoa004/stoa0162.stoa004.opp-lat1.xml",
+        "https://andrewjacobs.org/translations/epiphanius1.html"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "jerome-contra-ioannem-7-16",
+      "title": "Jerome, Against John of Jerusalem: the eight charges, and John's silence",
+      "author_work_ref": "Jerome, Contra Ioannem Hierosolymitanum (Against John of Jerusalem), chs. 6-7 and 16",
+      "date": "c. 396-397",
+      "language": "Latin",
+      "original": "(6) Octo tibi ... de spe fidei Christianae quaestionum capita objecta sunt. Tria tantum tangis, et praeteris. In caeteris grande silentium est. ... ut plus confitearis tacendo quam renuas disputando. (7) ... Tertium, quod dicat, et diabolum et daemones acturos poenitentiam aliquando, et cum sanctis ultimo tempore regnaturos. (16) ... ipsosque daemones, qui proprio arbitrio cum principe suo diabolo de Dei ministerio recesserunt, si paululum resipiscere coeperint, humana carne vestiri, ut acta deinceps poenitentia post resurrectionem eodem circulo, quo in carnem venerant, revertatur ad viciniam Dei, liberati etiam aereis aethereisque corporibus et tunc omnia genua curvent Deo, coelestium, terrestrium, et infernorum, et sit Deus omnia omnibus.",
+      "edition": "Critical edition: J.-L. Feiertag, CCSL 79A (Turnhout, 1999), page not confirmed. Text given from Migne, PL 23 (Vallarsi's text): chs. 6-7 at cols. 375D-377A (Vallarsi pp. 413-414), ch. 16 at col. 384B-C (Vallarsi pp. 422-423). Holl cites the 1845 Migne printing (col. 360B), whose columns differ.",
+      "checked_against": "OpenGreekAndLatin patrologia_latina-dev transcription of PL 23 (split/PL23/PL23_16_UNKNOWN.xml). The CCSL text was not checked.",
+      "english": "(6) Eight headings of questions about the hope of the Christian faith were put to you. You touch on only three and pass over the rest; on the others there is a great silence ... so that you confess more by keeping silent than you deny by arguing. (7) 'Thirdly, he says that both the devil and demons will some time or other repent, and ultimately reign with the saints.' (16) ... and that the demons themselves, who of their own will withdrew from God's service with their prince the devil, if they begin to come a little to their senses, are clothed in human flesh; so that, once they have done penance, after the resurrection [all] may return by the same circle by which they came into flesh, back to nearness to God, freed even from airy and ethereal bodies; and then every knee shall bow to God, of things in heaven, on earth and under the earth, and God shall be all in all.",
+      "english_source": "Ch. 7: NPNF II.6 (1893), as checked at New Advent 3004.htm; the translator, W. H. Fremantle, is not named on that page. Chs. 6 and 16: own close translation.",
+      "textual_notes": "The heading 'Octo ex Origenis erroribus quaestionum capita Joanni objecta ab Epiphanio' (eight headings of Origen's errors put to John by Epiphanius) is the editor's, not Jerome's. In ch. 16 the verb 'revertatur' (may return) is singular and has no expressed subject; whether the subject is 'all', the whole rational creation or the demons is a matter of interpretation. The older editions of Erasmus and Victorius read 'ad visionem Dei' (to the vision of God) for 'ad viciniam Dei' (to nearness to God). The closing words echo Phil 2:10 and 1 Cor 15:28.",
+      "why_it_matters": "This text shows how the devil's repentance became a test question for John and Rufinus's side. Jerome counts it as the third of eight charges and treats John's silence as admission. His own summary in ch. 16 ties the demons' return to the Pauline texts universalists cite: every knee bowing, and God all in all.",
+      "readings": [
+        {
+          "scholar": "Jerome (ancient reader)",
+          "work": "Contra Ioannem 6",
+          "position": "Jerome argues that because John answered only three of the eight charges, he 'confesses more by keeping silent than he denies by arguing'.",
+          "side": "takes silence as consent to the errors",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/patrologia_latina-dev/master/split/PL23/PL23_16_UNKNOWN.xml",
+          "status": "V"
+        },
+        {
+          "scholar": "W. H. Fremantle (NPNF editor)",
+          "work": "Introduction to Against John of Jerusalem, NPNF II.6 (1893)",
+          "position": "The editor calls the treatise 'violent and contemptuous in its tone, with an arrogant assumption that the writer is in possession of the whole truth'. He notes that John 'merely expressed his faith in the Trinity'.",
+          "side": "reads the work as polemic, not a fair report of John's views",
+          "source_url": "https://www.newadvent.org/fathers/3004.htm",
+          "status": "V"
+        },
+        {
+          "scholar": "Elizabeth A. Clark",
+          "work": "'New Perspectives on the Origenist Controversy' (1990)",
+          "position": "Clark lists the restoration of the devil among the candidate issues but holds that no one issue clearly drove the controversy. On her approach, a list like Jerome's eight headings bundles several concerns together.",
+          "side": "no single doctrinal issue at the centre",
+          "source_url": "https://cambridge.org/core/journals/church-history/article/abs/new-perspectives-on-the-origenist-controversy-human-embodiment-and-ascetic-strategies/6698012C71D769FC4ADCA4C96C455A08",
+          "status": "V"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/patrologia_latina-dev/master/split/PL23/PL23_16_UNKNOWN.xml",
+        "https://www.newadvent.org/fathers/3004.htm"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "jerome-ep61-ep84-lists",
+      "title": "Jerome's own lists: the devil's repentance and 'one restoration of all' (Letters 61 and 84)",
+      "author_work_ref": "Jerome, Letter 61 to Vigilantius, 61.2.1 and 61.3; Letter 84 to Pammachius and Oceanus, 84.6.3 and 84.7.3",
+      "date": "Letter 61: 396; Letter 84: 398/399",
+      "language": "Latin",
+      "original": "(61.2.1) Origenes hereticus: quid ad me, qui illum in plerisque hereticum non nego? errauit de resurrectione corporis; errauit de animarum statu, de diaboli paenitentia et — quod his maius est — filium et spiritum sanctum seraphin esse testatus est. (61.3) ... iuxta errorem Origenis tunc ueniam consequaris, quando consecuturus est et diabolus. (84.6.3) non expectemus diaboli paenitentiam. uana est illa praesumptio et in profundum gehennae trahens; hic aut quaeritur uita aut amittitur. (84.7.3) confitemini et uos in quibusdam errasse Origenem, et muttum non faciam. dicite eum male sensisse de filio, peius de spiritu sancto, animarum de caelo ruinas inpie protulisse, resurrectionem carnis uerbo tantum confiteri, ceterum adsertione destruere et post multa saecula atque unam omnium restitutionem id ipsum fore Gabrihel, quod diabolum, Paulum, quod Caiphan, uirgines, quod prostibulas: cum hoc reieceritis ...",
+      "edition": "I. Hilberg, CSEL 54 (1910): Letter 61.2.1 at p. 577 ll. 1-5; 61.3 at p. 582 ll. 10-12. CSEL 55 (1912): Letter 84.6.3 at p. 128 ll. 9-11; 84.7.3 at p. 129 ll. 1-8.",
+      "checked_against": "OpenGreekAndLatin csel-dev EpiDoc transcription of Hilberg (stoa0162.stoa004.opp-lat1), with apparatus.",
+      "english": "(61.2.1) 'Origen is a heretic.' What is that to me, when I do not deny that in very many things he is a heretic? He erred about the resurrection of the body; he erred about the state of souls and about the repentance of the devil; and, what is worse than these, he testified that the Son and the Holy Spirit are the seraphim. (61.3) ... so that you may obtain pardon, according to Origen's error, at the time when the devil too is to obtain it. (84.6.3) Let us not wait for the devil's repentance. That presumption is empty, and it drags one down into the depth of Gehenna; here life is either sought or lost. (84.7.3) Confess that you too think Origen erred in some things, and I will not say a word. Say that he thought badly of the Son and worse of the Holy Spirit; that he impiously put forward the falls of souls from heaven; that he confesses the resurrection of the flesh in word only and destroys it by what he asserts; and that after many ages and one restoration of all things, Gabriel will be the same as the devil, Paul as Caiaphas, virgins as prostitutes. When you have rejected this ...",
+      "english_source": "Own close translation. NPNF II.6 (1893) translates both letters; it was not quoted here.",
+      "textual_notes": "'unam omnium restitutionem' is literally 'one restoration of all'. Restitutio is the Latin equivalent of the Greek apokatastasis (restoration). Rendering it as 'universal salvation' would import a judgment the Latin does not make: Jerome's complaint is that everyone ends up the same ('id ipsum fore'), not simply that everyone is saved. 'muttum non faciam' is a colloquial 'I will not make a peep'. Variants at these lines were not recorded here.",
+      "why_it_matters": "These lists show what Jerome himself objected to, and how much weight he gave it. In 396 he ranks the devil's repentance below the Trinitarian error ('quod his maius est', what is worse than these). In Letter 84 he objects to a restoration that erases moral difference among humans as well as angels (Paul and Caiaphas, virgins and prostitutes). That makes Letter 84 the hardest text for the view that only the devil's salvation was at issue. Kimel's claim, though, names only Epiphanius and Theophilus.",
+      "readings": [
+        {
+          "scholar": "Pierre Batiffol",
+          "work": "'Apocatastasis', Catholic Encyclopedia, vol. 1 (1907)",
+          "position": "Batiffol notes that Jerome was for a time an Origenist, but that 'everywhere else St. Jerome teaches that the punishment of the devils and of the impious' is eternal. On this reading the lists express Jerome's settled view.",
+          "side": "reads Jerome as holding eternal punishment",
+          "source_url": "https://www.catholic.com/encyclopedia/apocatastasis",
+          "status": "V"
+        },
+        {
+          "scholar": "Elizabeth A. Clark",
+          "work": "The Origenist Controversy: The Cultural Construction of an Early Christian Debate (Princeton, 1992), as described by its publisher",
+          "position": "The publisher's description says that in Clark's account ''Origen' became a code word for nontheological complaints as well'. Lists like Jerome's would then carry concerns beyond doctrine.",
+          "side": "reads the lists as partly a code for non-doctrinal concerns",
+          "source_url": "https://press.princeton.edu/node/57283",
+          "status": "S"
+        },
+        {
+          "scholar": "Fr Aidan Kimel",
+          "work": "Open letter to Dr Cyril Jenkins (2024), section [1:10]",
+          "position": "Kimel argues that around 400 'the doctrine of humanity's eschatological restitutio (anthropic universalism) still lies within the parameters of orthodox teaching', because neither Epiphanius nor Theophilus condemned it. He does not discuss these two letters of Jerome.",
+          "side": "the restoration of humanity was not condemned c. 400",
+          "source_url": "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/",
+          "status": "V"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0162/stoa004/stoa0162.stoa004.opp-lat1.xml"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "theophilus-synodal-400-ep92",
+      "title": "Theophilus's synodal letter of 400: what was read out and condemned (Jerome, Letter 92)",
+      "author_work_ref": "Theophilus of Alexandria, synodal letter to the bishops of Palestine and Cyprus, in Jerome's Latin = Jerome, Letter 92, 92.1.4, 92.2.1-2, 92.4.4, 92.5.1",
+      "date": "400",
+      "language": "Latin (Jerome's translation of a Greek original that is lost)",
+      "original": "(92.1.4) et coram multis patribus monachorum, qui de tota paene Aegypto conuolauerunt, lecti sunt libri Origenis, in quibus inpio labore sudauit, et consensu omnium condemnati. (92.2.1) Nam cum legeretur uolumen περὶ ἀρχῶν, quae nos 'de principiis' possumus dicere, in quibus scriptum est, quod filius nobis conparatus esset ueritas et patri conlatus mendacium, et rursum: quantum differt Paulus et Petrus saluatore, tanto saluator minor est patre, et iterum: Christi regnum finietur aliquando, zabulus cunctis peccatorum sordibus liberatus aequo honore decorabitur et cum Christo subicietur, et in alio libro, qui 'de oratione' scribitur: non debemus orare filium, sed solum patrem, nec patrem cum filio, obturauimus aures nostras et tam Origenem quam discipulos eius consona uoce damnauimus, ne et modicum fermentum totam massam corrumperet. (92.2.2) ... post multos saeculorum recursus corpora nostra paulatim redigantur in nihilum et in auram tenuem dissoluantur ... resurgens corpus non solum corruptibile sed mortale erit ... (92.4.4) in alias quoque inpietates furibundus exultat uolens eum, qui in consummatione saeculorum et in destructione peccati semel passus est, dominum nostrum Iesum Christum pro daemonibus quoque et spiritalibus nequitiis crucem aliquando passurum. (92.5.1) Ob haec et alia plurima ... condemnati sunt et eiecti de ecclesia.",
+      "edition": "I. Hilberg, CSEL 55 (1912), Letter 92, pp. 147-155: 92.1.4 at p. 148 ll. 23-25; 92.2.1 at p. 148 l. 26 to p. 149 l. 11; 92.2.2 at p. 149 ll. 11-19; 92.4.4 at p. 152 ll. 23-27; 92.5.1 at p. 153 ll. 13-14.",
+      "checked_against": "OpenGreekAndLatin csel-dev EpiDoc transcription of Hilberg, CSEL 55, with apparatus. The Greek words περὶ ἀρχῶν are garbled in the OCR and are given here as Hilberg prints them.",
+      "english": "(92.1.4) And in the presence of many fathers of the monks, who had gathered from almost the whole of Egypt, the books of Origen were read, in which he sweated with impious labour, and by everyone's consent they were condemned. (92.2.1) For when the volume Peri Archon was read (which we can call 'On Principles'), in which it is written that the Son, compared with us, is truth, but set beside the Father, falsehood; and again: as much as Paul and Peter differ from the Saviour, so much is the Saviour less than the Father; and again: the kingdom of Christ will one day come to an end, and the devil, freed from all the filth of sins, will be adorned with equal honour and made subject together with Christ; and in another book, entitled 'On Prayer': we ought not to pray to the Son but to the Father alone, nor to the Father with the Son: we stopped our ears, and with one voice we condemned Origen and his disciples alike, lest a little leaven corrupt the whole lump. (92.2.2) ... that after many cycles of ages our bodies are gradually reduced to nothing and dissolved into thin air ... the risen body will be not only corruptible but mortal ... (92.4.4) In his fury he exults in other impieties too, wanting our Lord Jesus Christ, who suffered once at the consummation of the ages for the destruction of sin, to suffer the cross at some future time for the demons and the spiritual forces of wickedness as well. (92.5.1) For these and very many other things ... they were condemned and cast out of the church.",
+      "english_source": "Own close translation. A modern English translation is in Norman Russell, Theophilus of Alexandria (Routledge, 2007); not quoted.",
+      "textual_notes": "A synodal letter is a letter sent in the name of a council of bishops. Hilberg had only one manuscript, u (Milan, Ambrosiana H 59 sup., 13th c.), besides Vallarsi's printed edition. 'zabulus' is a late Latin form of diabolus (devil); u reads 'zabls' and Vallarsi 'et diabolus'. 'ne et' (lest even) is Hilberg's own correction; u has 'et ne' and Vallarsi 'ne'. Contested rendering: 'aequo honore decorabitur' means 'will be adorned with equal honour', and the Latin does not say equal to whom. The context ('subjected together with Christ', 1 Cor 15:28) and the 401 letter ('makes the devil equal to the Son of God') suggest equal to Christ, but the clause itself is ambiguous. Hilberg's source note marks the quoted lines as 'Orig. περὶ ἀρχῶν I fragm.', a fragment of On First Principles book 1. The letter contains no charge about whether God has a body.",
+      "why_it_matters": "This is the official record of what a council condemned in 400, and it is careful to list the passages read out. Most of the list is Trinitarian (the Son 'less than' the Father; no prayer to the Son). The rest is eschatological: Christ's kingdom ending, the devil freed from sin and given 'equal honour', bodies dissolving into air, and Christ suffering again for demons. Nothing in it condemns a hope for the salvation of humans as such. The penalty fell on Origen's books and his followers, who were 'cast out of the church'.",
+      "readings": [
+        {
+          "scholar": "Fr Aidan Kimel",
+          "work": "Open letter to Dr Cyril Jenkins (2024), section [1:10]",
+          "position": "Kimel writes that Theophilus 'did not attempt to read Origen either contextually or charitably', and that 'when Theophilus turned against Origen in 399, he did so primarily for political and pastoral reasons'. Because the human restoration is not condemned, it stayed within orthodoxy.",
+          "side": "political motive; universal salvation of humans not condemned",
+          "source_url": "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/",
+          "status": "V"
+        },
+        {
+          "scholar": "Norman Russell (as reported by Young Richard Kim)",
+          "work": "Theophilus of Alexandria (Routledge, 2007), pp. 15 and 92ff; reviewed in BMCR 2007.09.08",
+          "position": "Russell challenges the picture of Theophilus as intellectually weak and credits his sharp rhetoric against inconsistencies in Origen. He sees Theophilus's chief concern as 'the proper obedience to ecclesiastical authority'. The reviewer finds this 'a bit too generous', since Theophilus used theological grounds to justify violent expulsions.",
+          "side": "takes Theophilus seriously as a theologian and church ruler",
+          "source_url": "https://bmcr.brynmawr.edu/?p=25316",
+          "status": "S"
+        },
+        {
+          "scholar": "Krastu Banev",
+          "work": "Theophilus of Alexandria and the First Origenist Controversy: Rhetoric and Power (OUP, 2015); final manuscript of 2014, introduction pp. 3-8",
+          "position": "Banev asks why the condemnation was accepted, not only why Theophilus pursued it. He reads the letters as 'a form of 'mass-media' unique for its time'. In his account Theophilus succeeded by meeting 'the expectations of his audience, and especially of the monks'.",
+          "side": "explains the result by rhetoric aimed at the monks",
+          "source_url": "https://durham-repository.worktribe.com/OutputFile/1123623",
+          "status": "V"
+        },
+        {
+          "scholar": "Socrates Scholasticus (ancient historian)",
+          "work": "Church History 6.7 (NPNF English)",
+          "position": "Socrates says Theophilus calmed the anthropomorphite monks, who believed God has a body, with 'In seeing you, I behold the face of God' and promised to anathematize Origen's books. ('Anathematize' means to pronounce a solemn curse that cuts someone off from the church.) Socrates says he did so 'to gratify his vindictive feelings' against the Tall Brothers, although he shared their belief that God is incorporeal.",
+          "side": "personal and political motive",
+          "source_url": "https://bkv.unifr.ch/works/cpg6028/versions/church-history/divisions/192",
+          "status": "S"
+        },
+        {
+          "scholar": "Harding (2004), MacGregor (1982), Wessel (2004), as cited by Wikipedia",
+          "work": "Wikipedia, 'Origenist crises', citing Harding 2004 p. 165, MacGregor 1982 p. 57, Wessel 2004 pp. 24-25",
+          "position": "These works are cited for the claim that the synod of 400 'condemned Origen and all his followers as heretics for having taught that God was incorporeal'. The surviving synodal letter (above) makes no such charge. The incorporeality issue comes from the historians' story of the monks, not from the letter's list.",
+          "side": "anthropomorphite reading of the synod (not supported by Letter 92)",
+          "source_url": "https://en.wikipedia.org/wiki/Origenist_crises",
+          "status": "S"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0162/stoa004/stoa0162.stoa004.opp-lat1.xml"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "sulpicius-dialogi-1-6-7",
+      "title": "A traveller's report from Alexandria: the devil's redemption 'most of all' stirred hatred (Sulpicius Severus, Dialogues 1.6-7)",
+      "author_work_ref": "Sulpicius Severus, Dialogi (Dialogues), 1.6.1-5 and 1.7.1 (the speaker is Postumianus)",
+      "date": "c. 404 (the events described are of c. 400-402)",
+      "language": "Latin",
+      "original": "(1.6.1) ... Alexandriam peruenimus, ubi foeda inter episcopos adque monachos certamina gerebantur ex ea occasione uel causa, quia congregati in unum saepius sacerdotes frequentibus decreuisse synodis uidebantur, ne quis Origenis libros legeret aut haberet, qui tractator scripturarum sacrarum peritissimus habebatur. ... (1.7.1) nam cum ab episcopis excepta in libris illius multa legerentur, quae contra catholicam fidem scripta constaret, locus ille uel maxime parabat inuidiam, in quo editum legebatur, quia Dominus Iesus, sicut pro redemptione hominis in carne uenisset et crucem pro hominis salute perpessus mortem pro hominis aeternitate gustasset, ita esset eodem ordine passionis etiam diabolum redempturus: quia hoc bonitati illius pietatique congrueret, ut, qui perditum hominem reformasset, prolapsum quoque angelum liberaret.",
+      "edition": "C. Halm, Sulpicii Severi libri qui supersunt, CSEL 1 (Vienna, 1866), pp. 157-158: 1.6.1 at p. 157 ll. 23-28; 1.7.1 at p. 158 ll. 19-27. Also J. Fontaine, Sources Chrétiennes 510 (2006), page not confirmed.",
+      "checked_against": "OpenGreekAndLatin csel-dev EpiDoc transcription of Halm, CSEL 1 (stoa0270.stoa003.opp-lat2), with apparatus.",
+      "english": "(1.6.1) 'We arrived at Alexandria on the seventh day. There we found a disgraceful strife raging between the bishops and monks', arising from the fact that the bishops, meeting often in frequent synods, seemed to have decreed that no one should read or keep the books of Origen, who was held to be a most skilled interpreter of the sacred scriptures. (1.7.1) For when many passages excerpted by the bishops from his books were read out, which were agreed to have been written against the catholic faith, 'that passage especially excited bad feeling against him, in which we read in his published works that the Lord Jesus, as he had come in the flesh for the redemption of mankind, and suffering upon the cross for the salvation of man, had tasted death to procure eternal life for the human race, so he was, by the same course of suffering, even to render the devil a partaker of redemption': because this would befit his goodness and kindness, that he who had restored lost man should also set free the fallen angel.",
+      "english_source": "Quoted portions: NPNF II.11 (1894), translated by Alexander Roberts, as checked at New Advent 35031.htm. Linking portions: own close translation.",
+      "textual_notes": "'excepta' (taken out) is the reading of manuscripts B and V; A, F, M and the vulgate text read 'excerpta' (excerpted). Hieronymus de Prato suggested that 'pro hominis salute' (for man's salvation) is a gloss, a note later copied into the text. 'editum legebatur' says the passage was 'read as published': Postumianus reports what was read out at the synods; he is not quoting Origen. The work is a literary dialogue, so 'Postumianus' is Sulpicius's spokesman.",
+      "why_it_matters": "This is an independent Western witness, outside Jerome and Theophilus's own dossier. It says the passage that most stirred hostility was the claim that Christ would redeem the devil by the same order of suffering. It also records the defenders' answer, that heretics had inserted the passages, and a complaint that the bishops forced the good to be condemned along with the bad.",
+      "readings": [
+        {
+          "scholar": "Postumianus in Sulpicius (ancient reader)",
+          "work": "Dialogi 1.6.4-5",
+          "position": "Postumianus thinks Origen really did err. He holds that 'neminem post Apostolos habeat aequalem' (Origen has no equal since the apostles) and also that 'nemo deformius doceatur errasse' (no one is shown to have erred more shamefully).",
+          "side": "Origen great and genuinely in error",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0270/stoa003/stoa0270.stoa003.opp-lat2.xml",
+          "status": "V"
+        },
+        {
+          "scholar": "Origen's defenders, as reported in Sulpicius (ancient readers)",
+          "work": "Dialogi 1.6.2-3",
+          "position": "Origen's defenders held that the offending passages were 'ab haereticis potius fraudulenter inserta' (rather, fraudulently inserted by heretics). Postumianus reports that the bishops 'pro potestate cogebant recta etiam uniuersa cum prauis et cum ipso auctore damnari': by their authority they forced everything sound to be condemned along with the bad, and with the author himself.",
+          "side": "the passages were interpolated; the condemnation was indiscriminate",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0270/stoa003/stoa0270.stoa003.opp-lat2.xml",
+          "status": "V"
+        },
+        {
+          "scholar": "Pierre Coustant",
+          "work": "Epistolae Romanorum Pontificum (1721), note on Anastasius's letter to John, reprinted in PL 20",
+          "position": "Coustant uses Sulpicius's words about monks driven out 'propositis edictis' (by posted edicts) to argue that imperial edicts followed the synod. He thinks it 'valde probabile' (very probable) that the bishops of Egypt sought them because synodal decrees alone had failed.",
+          "side": "the condemnation was enforced by state power",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/patrologia_latina-dev/master/split/PL20/PL20_3_S.ANASTASIIIPAPAE.xml",
+          "status": "V"
+        },
+        {
+          "scholar": "Elizabeth A. Clark",
+          "work": "'New Perspectives on the Origenist Controversy' (1990)",
+          "position": "Clark asks whether the controversy centred on 'the restoration of the Devil?', the fall of souls into bodies, or the resurrection. She answers that no single theological issue clearly drove it.",
+          "side": "no single flashpoint",
+          "source_url": "https://cambridge.org/core/journals/church-history/article/abs/new-perspectives-on-the-origenist-controversy-human-embodiment-and-ascetic-strategies/6698012C71D769FC4ADCA4C96C455A08",
+          "status": "V"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0270/stoa003/stoa0270.stoa003.opp-lat2.xml",
+        "https://www.newadvent.org/fathers/35031.htm"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "theophilus-paschal-401-ep96",
+      "title": "Theophilus's paschal letter of 401: restoring the devil makes him 'equal to the Son of God' (Jerome, Letter 96)",
+      "author_work_ref": "Theophilus of Alexandria, paschal (festal) letter for 401, in Jerome's Latin = Jerome, Letter 96, 96.8.2-3, with 96.5.1, 96.7.1 and 96.10",
+      "date": "401",
+      "language": "Latin (Jerome's translation of a Greek original that is lost)",
+      "original": "(96.8.2) talis pastor gregis morbidi Christum ubique suggillat iniuriis et diabolum honore sustollit, dum illum adserit purgatum uitiis atque peccatis pristinam aliquando gloriam recepturum et hunc regnare desistere simulque cum diabolo sub patris imperio redigendum ... (96.8.3) Origenes Christum adserens regnare desinere et diabolum ad culmen, de quo ceciderat, ascensurum, talem sceleris sui profundum lacum fodiens, qui aquas continere non possit, aequalem, quantum in se est, diabolum facit filio dei, dum detrahit illi regni gloriam sempiternam et imperio patris eum subicit cum daemonibus. (96.8.4) uerum istius modi uox inpia proteratur et sciamus regnum Christi esse perpetuum ... [also 96.5.1: numquam habiturus regni sui finem iuxta sceleratum Origenis errorem; 96.7.1: si enim iuxta Origenis insaniam post multorum circulos saeculorum Christi regnum est finiendum ...; 96.10: pro daemonibus passurus daemon futurus est]",
+      "edition": "I. Hilberg, CSEL 55 (1912), Letter 96, pp. 159-181: 96.8.2-3 at p. 165 l. 20 to p. 166 l. 3; 96.5.1 at p. 162 ll. 21-24; 96.7.1 at p. 165 ll. 1-3; the 96.10 phrase at p. 168 l. 10.",
+      "checked_against": "OpenGreekAndLatin csel-dev EpiDoc transcription of Hilberg, CSEL 55, with apparatus.",
+      "english": "(96.8.2) Such a shepherd of a diseased flock everywhere strikes at Christ with insults and lifts up the devil with honour, when he claims that the devil, purged of vices and sins, will one day receive back his former glory, and that Christ will cease to reign and will be brought down, together with the devil, under the Father's rule ... (96.8.3) Origen, by claiming that Christ ceases to reign and that the devil will climb back to the height from which he fell (digging so deep a pit for his crime that it cannot hold water), makes the devil, as far as lies in him, equal to the Son of God, since he takes from the Son the everlasting glory of his kingdom and subjects him, with the demons, to the Father's rule. (96.8.4) But let such an impious saying be trampled down, and let us know that the kingdom of Christ is perpetual ... [96.5.1: who will never have an end of his kingdom, against Origen's wicked error; 96.7.1: for if, according to Origen's madness, after the circuits of many ages the kingdom of Christ is to be ended ...; 96.10: if he is to suffer for demons, he will become a demon.]",
+      "english_source": "Own close translation. A modern English translation is in Norman Russell, Theophilus of Alexandria (2007); not quoted.",
+      "textual_notes": "A paschal (or festal) letter was the circular the bishop of Alexandria sent each year to announce the date of Easter, often with teaching attached. Hilberg's witnesses here include U (Paris lat. 16897, 12th c.), V (Paris lat. 2173, 13th c.) and u (Milan, Ambrosiana H 59 sup., 13th c.). Variants at these lines: 'sugillat' u; 'percepturum' (corrected from 'praecepturum') u for 'recepturum'; 'imperium' U u; 'desistere' u for 'desinere'; 'fecit' U u for 'facit'; 'filium' u for 'filio'. In 96.8.2, 'hunc' (him) is Christ. The pit 'that cannot hold water' alludes to Jer 2:13. The argument turns on reading 1 Cor 15:24-28 (the Son handing over the kingdom and being subjected to the Father) as an end of Christ's reign. Theophilus rejects that reading.",
+      "why_it_matters": "This passage gives Theophilus's reasons, not just his verdict. His objection to restoring the devil is about Christ: if the devil is restored while Christ's kingdom ends, the two become equals under the Father. The same letter attacks the idea that Christ will suffer again for the demons. The objection is therefore bound up with a doctrine of Christ and his everlasting kingdom, not only with the fate of the wicked.",
+      "readings": [
+        {
+          "scholar": "Fr Aidan Kimel",
+          "work": "Open letter to Dr Cyril Jenkins (2024), section [1:10]",
+          "position": "Kimel says that 'Theophilus was even more acerbic in his ad hominem attacks on Origen' than Epiphanius, and did not read him 'contextually or charitably'. On Kimel's reading, the charges about the devil and Christ's kingdom leave the restoration of humanity untouched.",
+          "side": "uncharitable reading; human restoration not at issue",
+          "source_url": "https://afkimel.wordpress.com/2024/08/20/an-open-letter-to-dr-cyril-jenkins-was-origen-condemned-for-teaching-universal-salvation/",
+          "status": "V"
+        },
+        {
+          "scholar": "Norman Russell (as reported by Young Richard Kim)",
+          "work": "Theophilus of Alexandria (2007), pp. 15 and 92ff; BMCR 2007.09.08",
+          "position": "Russell credits Theophilus with sharp rhetoric directed against real inconsistencies in Origen's writings, and translates Letters 92, 96, 98 and 100.",
+          "side": "takes Theophilus's arguments seriously",
+          "source_url": "https://bmcr.brynmawr.edu/?p=25316",
+          "status": "S"
+        },
+        {
+          "scholar": "Krastu Banev",
+          "work": "Theophilus of Alexandria and the First Origenist Controversy (OUP, 2015); 2014 manuscript, introduction p. 7",
+          "position": "Banev names the festal letters of 401, 402 and 404 as the three main texts for his rhetorical analysis. He reads them as widely circulated 'mass-media' shaped to persuade the monks.",
+          "side": "rhetoric aimed at an audience",
+          "source_url": "https://durham-repository.worktribe.com/OutputFile/1123623",
+          "status": "V"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0162/stoa004/stoa0162.stoa004.opp-lat1.xml"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "anastasius-letters",
+      "title": "Pope Anastasius condemns Origen: what he says he had read (Letter to Simplicianus = Jerome Letter 95; Letter to John of Jerusalem)",
+      "author_work_ref": "Anastasius I of Rome, Letter to Simplicianus of Milan (= Jerome, Letter 95), 95.1.2, 95.2.1, 95.3.1; Letter to John of Jerusalem, §§3, 5, 6",
+      "date": "To Simplicianus: 400 (Jaffé). To John: 400 or 401 (Jaffé 400-401; Coustant 400 or 401; NPNF 401)",
+      "language": "Latin",
+      "original": "(Ep. 95.1.2) pari animo uir sanctus et honorabilis Theophilus, frater et coepiscopus noster, circa salutis commoda non desinit uigilare, ne dei populus per diuersas ecclesias Origenem legendo in magnas incurrat blasphemias. (95.2.1) ... igitur hoc praeceptum tenentes illud, quicquid est fidei nostrae contrarium ab Origene quondam scriptum, indicauimus a nobis esse alienum atque punitum. (95.3.1) Haec sanctitati tuae scripsimus per Eusebium presbyterum, qui calorem fidei gestans et amorem circa deum habens quaedam capitula blasphemiae obtulit, quae nos non solum horruimus et iudicauimus, uerum etiam, si qua alia sunt ab Origene exposita, cum suo auctore pariter a nobis scias esse damnata. || (To John §3) Origenes autem, cujus in nostram linguam composita derivavit, antea et quis fuerit, et in quae processerit verba, nostrum propositum nescit: quod vero sit animi mei studium, cum tua paulisper super hoc conferam sanctitate. Hoc igitur mente concepi, quod urbis nostrae populis de translatis Origenis lectio patefecit, quadam puris mentibus velut nebula caecitatis injecta, fidem Apostolorum et majorum traditione firmatam velut deviis anfractibus illum voluisse dissolvere. (§5) ... beatissimorum principum nostrorum manasse responsa, quibus unusquisque Deo serviens ab Origenis lectione revocetur: damnatumque sententia principum, quem lectio reum profana prodiderit. (§6) ... ita haberi a nostris partibus alienum, ut quid agat, et ubi sit, nescire cupiamus.",
+      "edition": "To Simplicianus: I. Hilberg, CSEL 55 (1912), Letter 95, p. 157 l. 25 to p. 158 l. 25 (95.1.2 at p. 158 ll. 4-7; 95.2.1 at ll. 17-19; 95.3.1 at ll. 19-24). To John: no CSEL text; P. Coustant, Epistolae Romanorum Pontificum (Paris, 1721), reprinted in PL 20, cols. 68-73 (§3 at cols. 69C-70A; §5 at col. 72A-73A). Jaffé also lists PL 21:627 and PL 48:231.",
+      "checked_against": "Letter 95: OpenGreekAndLatin csel-dev transcription of Hilberg, with apparatus. Letter to John: OpenGreekAndLatin patrologia_latina-dev transcription of PL 20 (split/PL20/PL20_3_S.ANASTASIIIPAPAE.xml), with Coustant's notes.",
+      "english": "(95.1.2) With the same spirit the holy and honourable Theophilus, our brother and fellow bishop, never stops keeping watch over what serves salvation, lest God's people in the various churches fall into great blasphemies by reading Origen. (95.2.1) ... Holding to this precept, we have declared that whatever Origen once wrote that is contrary to our faith is alien to us and punished. (95.3.1) We have written this to your holiness by the presbyter Eusebius, who, carrying the warmth of faith and love towards God, presented certain chapters of blasphemy. We not only shuddered at these and judged them, but, know this, if there are any other things set out by Origen, they are condemned by us together with their author. || (To John §3, NPNF) 'As for Origen, whose writings he has translated into our language, I have neither formerly known, nor do I now seek to know either who he was or what expression he may have given to his thought.' [More literally: 'who he was before and what words he went on to, our purpose does not know'.] 'The impression which I have received is this ... his object was to disintegrate our faith, which is that of the Apostles, and has been confirmed by the traditions of the fathers, by leading us into tortuous paths.' (§5, NPNF) '... the decree issued by our Emperors, Arcadius and Honorius. by which every one who serves God is warned against the reading of Origen, and all who are convicted of reading his impious works are condemned by the imperial judgment.' [The Latin says only 'our most blessed princes'.] (§6, own) ... let him be held so far alien to our side that we wish not even to know what he is doing or where he is.",
+      "english_source": "Letter 95 and §6: own close translation. §§3 and 5: NPNF II.3 (1892), as checked at ccel.org npnf203.vi.x (translator not named on that page), with own literal rendering in brackets.",
+      "textual_notes": "Contested rendering 1 ('nescit'): the manuscripts read 'nostrum propositum nescit' ('our purpose does not know'); the printed editions read 'nescivit'. Garnier rewrote the whole clause; Coustant rejected the rewriting. Coustant paraphrases the sense as 'nostri hujus propositi non est indagare quis Origenes fuerit' (it is not the purpose of this letter to inquire who Origen was), a statement of the letter's scope. The NPNF's 'I have neither formerly known, nor do I now seek to know' turns it into a confession of ignorance. Contested rendering 2 (the emperors): the Latin names no emperor. 'Arcadius and Honorius' is the NPNF's addition. Coustant notes that these imperial responses 'nusquam comparent' (are nowhere to be found). From Sulpicius he infers that edicts came from the Eastern emperor, and he suggests they were modelled on Codex Theodosianus 16.5.34 (4 March 398), in which Arcadius and Honorius ordered Montanist and Eunomian books burned. Letter 95 survives in a single manuscript, u (Ambrosiana H 59 sup.). Hilberg marks a gap in the text after 'ut' at 158.8; 'sint tuta' at 158.12 is his addition; Engelbrecht would delete 'diximus' at 158.11. Rufinus suspected the letter to John was a forgery; Jerome answered that he had appended a copy (Apology 2, as quoted by Coustant). A further letter to Venerius of Milan (JK 281) is listed by Jaffé as lost.",
+      "why_it_matters": "These letters show what a Roman condemnation of Origen rested on. Anastasius cites Theophilus's letters, 'certain chapters of blasphemy' brought to him by Eusebius, and the impression left on Rome by Rufinus's Latin translation. He claims no reading of Origen in Greek, and he names no doctrine. In particular, nothing in either letter mentions restoration, the devil or universal salvation.",
+      "readings": [
+        {
+          "scholar": "Emanuela Prinzivalli",
+          "work": "'Anastasius I of Rome and the Letters to the Bishops of Milan about the Condemnation of Origen', Cristianesimo nella storia 42.1 (2021), pp. 7-28 (abstract)",
+          "position": "In Prinzivalli's account, Anastasius's anti-Origenist stance is 'mainly explained by the change of Theophilus' mind'. His goal was 'to extend the influence of the Roman See, without committing himself on a doctrinal level'. The letter to Venerius was drafted with care to win the consent that the letter to Simplicianus had not won.",
+          "side": "church politics, no doctrinal commitment",
+          "source_url": "https://rivisteweb.it/doi/10.17395/100414",
+          "status": "V"
+        },
+        {
+          "scholar": "Pierre Coustant",
+          "work": "Epistolae Romanorum Pontificum (1721), notes c and l, reprinted in PL 20",
+          "position": "Coustant keeps the manuscripts' 'nescit' and reads it as limiting the letter's scope, not as confessing ignorance. He also points out that Origen was not unknown to Latin readers before Jerome and Rufinus: Victorinus, Hilary and Ambrose had drawn on him. He notes that the imperial responses do not survive.",
+          "side": "philological: Anastasius limits his scope, he does not confess ignorance",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/patrologia_latina-dev/master/split/PL20/PL20_3_S.ANASTASIIIPAPAE.xml",
+          "status": "V"
+        },
+        {
+          "scholar": "NPNF translator",
+          "work": "NPNF II.3 (1892), Letter of Anastasius to John of Jerusalem",
+          "position": "The NPNF translation renders the clause as a confession: 'I have neither formerly known, nor do I now seek to know' who Origen was. Its translation and footnote name the emperors as Arcadius and Honorius.",
+          "side": "reads it as Anastasius condemning an author he did not know",
+          "source_url": "https://ccel.org/ccel/schaff/npnf203.vi.x.html",
+          "status": "V"
+        },
+        {
+          "scholar": "Michael Hanaghan",
+          "work": "'Chromatius vs. Jerome: The Origenist Controversy Reconsidered', JTS NS 74.1 (2023), pp. 189-209, at p. 208",
+          "position": "Hanaghan says Anastasius decided against excommunicating Rufinus after corresponding with Rufinus and with Venerius, who 'interceded on Rufinus' behalf'. (To excommunicate is to bar someone from communion with the church.) The condemnation of Origen was not carried through against his translator.",
+          "side": "the condemnation's limits in practice",
+          "source_url": "https://acuresearchbank.acu.edu.au/download/d63a3958c4df279b08e20cf17f1f62d5185e1f098071e541bbdeb80101adc481/642966/Hanaghan_2023_Chromatius_vs_Jerome_The_origenist_controversy.pdf",
+          "status": "V"
+        },
+        {
+          "scholar": "Harding (2004), as cited by Wikipedia",
+          "work": "Wikipedia, 'Origenist crises', citing Harding 2004 p. 165",
+          "position": "Harding is cited as saying that Theophilus 'persuaded Pope Anastasius I to sign the letter of the council, which primarily denounced the teachings of the Nitrian monks'.",
+          "side": "Rome followed Alexandria's lead",
+          "source_url": "https://en.wikipedia.org/wiki/Origenist_crises",
+          "status": "S"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0162/stoa004/stoa0162.stoa004.opp-lat1.xml",
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/patrologia_latina-dev/master/split/PL20/PL20_3_S.ANASTASIIIPAPAE.xml",
+        "https://ccel.org/ccel/schaff/npnf203.vi.x.html",
+        "https://www.fourthcentury.com/?p=9873"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "rufinus-preface-and-apology",
+      "title": "Rufinus on how he translated Origen, and his own confession on the devil (Preface to On First Principles; Apology to Anastasius)",
+      "author_work_ref": "Rufinus of Aquileia, Preface to his Latin translation of Origen's Peri Archon (= Jerome, Letter 80), 80.2.2-6 and 80.3.2; Apologia ad Anastasium (Apology to Anastasius) §§5 and 7",
+      "date": "Preface: 398. Apology: 400",
+      "language": "Latin",
+      "original": "(Preface = Ep. 80.2.2) ... ita elimauit omnia interpretando atque purgauit, ut nihil in illis, quod a fide nostra discrepet, Latinus lector inueniat. (80.2.3-6) hunc ergo etiam nos ... sequimur, obseruantes scilicet, ne ea, quae in libris Origenis a se ipso discrepantia inueniuntur atque contraria, proferamus. cuius diuersitatis causam plenius tibi in Apologetico, quem Pamphilus pro libris ipsius Origenis scripsit, edidimus breuissimo libello superaddito, in quo ... corruptos esse in quam plurimis ab hereticis et maliuolis libros eius ostendimus ... sicubi ergo nos in libris eius aliquid contra id inuenimus, quod ab ipso in ceteris locis pie de trinitate fuerat definitum, uelut adulteratum hoc et alienum aut praetermisimus aut secundum eam regulam protulimus, quam ab ipso frequenter inuenimus adfirmatam. si qua sane ... obscurius protulit, nos ... ea, quae de ipsa re in aliis eius libris apertius legeramus, adiecimus explanationi studentes; nihil tamen nostrum diximus, sed, licet in aliis locis, dicta sua tamen sibi reddidimus. (80.3.2) ... per illum, qui praeparatus est diabolo et angelis eius, aeternum ignem ... || (Apology §5) Dicimus quoque et judicium futurum ... quanto magis et diabolus, qui omnibus exstitit caussa peccati? De quo illud sentimus, quod scriptum est in Evangelio: quia et ipse diabolus, et omnes angeli ejus, cum his qui opera ejus faciunt ... cum ipso pariter aeterni ignis haereditate potientur. Si quis ergo negat diabolum aeternis ignibus mancipandum, partem cum ipso aeterni ignis accipiat, ut sentiat quod negavit. (§7) Sicut in Graecis habetur, rogatus sum ut Latinis ostenderem. Graecis sensibus verba dedi Latina tantummodo ... illud abjeci, sicut in Praefatiuncula mea designavi ... quae mihi ad suspicionem veniebant, quod non ab ipso Origene ita dicta, sed ab aliis viderentur inserta ... Origenis ego neque defensor sum, neque assertor, neque primus interpres.",
+      "edition": "Preface: P. Koetschau, Origenes Werke 5: De principiis, GCS 22 (Leipzig, 1913), pp. 3-6, page not confirmed; H. Crouzel and M. Simonetti, SC 252 (1978), not checked. Checked as Jerome, Letter 80 in I. Hilberg, CSEL 55 (1912), pp. 102-105: 80.2.2 at p. 103 ll. 18-23; 80.2.3-6 at p. 103 l. 23 to p. 104 l. 21; 80.3.2 at p. 105 ll. 6-14. Apology: M. Simonetti, CCSL 20 (1961), page not confirmed; checked in PL 21, cols. 623-628 (§5 at cols. 625C-626A; §7 at cols. 626C-627A).",
+      "checked_against": "Preface: OpenGreekAndLatin csel-dev transcription of Hilberg, CSEL 55, with apparatus. Apology: OpenGreekAndLatin patrologia_latina-dev corrected transcription of PL 21 ([Corrected2]PL21_6_APO.xml).",
+      "english": "(Preface 80.2.2, of Jerome's earlier translations) ... he so polished and purged everything in translating that the Latin reader will find nothing in them at odds with our faith. (80.2.3-6) Him, therefore, we too follow ... taking care, that is, not to bring forward those things in Origen's books which are found to be inconsistent with and contrary to himself. I set out the cause of this inconsistency more fully for you in the Apology that Pamphilus wrote for Origen's books, adding a very short booklet in which I showed ... that his books have been corrupted in very many places by heretics and ill-wishers ... So wherever we found anything in his books contrary to what he had piously defined about the Trinity in other places, we either passed it over as corrupted and alien, or rendered it according to the rule we found him often affirming. If he expressed something obscurely ... we added, for the sake of clarity, what we had read more plainly on the same subject in his other books; yet we said nothing of our own, but gave back to him his own words, though spoken in other places. (80.3.2) ... by him who has prepared eternal fire for the devil and his angels ... || (Apology §5) We say also that there will be a future judgment ... how much more the devil, who was for all the cause of sin? Of him we hold what is written in the Gospel: that the devil himself and all his angels, with those who do his works ... will together with him take possession of the inheritance of eternal fire. If anyone, then, denies that the devil is to be handed over to eternal fires, let him have his share of the eternal fire with him, so that he may feel what he denied. (§7) I was asked to show the Latins what is in the Greek. I only gave Latin words to Greek meanings ... I cast out, as I indicated in my little preface, ... things that made me suspicious, as not said so by Origen himself but seemingly inserted by others ... I am neither Origen's defender nor his champion, nor his first translator.",
+      "english_source": "Own close translation. NPNF II.3 (1892) has English versions of both texts; they were not checked here.",
+      "textual_notes": "In 80.2.5, 'pie de trinitate' (piously about the Trinity) has variants. D has it in the margin, with 'uel peruersitate' written above; N reads 'fidem'; g reads 'fideliter'. Whether Rufinus limited his changes to Trinitarian passages depends partly on this reading. The adjuration 'per illum ... aeternum ignem' at 80.3.2 is omitted in manuscript D and in Rufinus's own later quotation of the preface ('per illum-ignem om. D Ruf.'). Contested rendering: 'aeternus/aeternum ignem' renders the Gospel's 'eternal fire' (Matt 25:41). The Latin word normally means 'eternal'; whether the Greek αἰώνιον behind it means 'everlasting' or 'of the age to come' is disputed among modern scholars of universalism. That debate concerns the Greek, not Rufinus's Latin.",
+      "why_it_matters": "The preface is Rufinus's own statement of how he handled Origen's text. He says he left out or adjusted what he judged interpolated, especially on the Trinity, and supplied clearer passages from elsewhere in Origen. Every later argument about whether the Latin On First Principles can be trusted starts here. In 400, writing to the pope, Rufinus also stated outright that the devil goes to eternal fire. The leading Latin Origenist of the day thus disowned the devil's restoration.",
+      "readings": [
+        {
+          "scholar": "Christa Gray",
+          "work": "'The Translator's Patronage: Principles of Responsible Translation in the Jerome-Rufinus Controversy', Journal of Late Antiquity 18.1 (2025), pp. 65-87 (author's final copy)",
+          "position": "Gray reads the preface as Rufinus claiming Jerome's own precedent for 'removing interpolations and adding explanations from elsewhere in Origen's work'. She weighs the two translators on their own principles and finds a conclusive answer on reliability 'elusive'.",
+          "side": "unresolved",
+          "source_url": "https://reading-clone.eprints-hosting.org/120954/3/The%20translator%27s%20patronage%20author%20final%20copy.pdf",
+          "status": "V"
+        },
+        {
+          "scholar": "Michael McClymond",
+          "work": "'Origenes Vindicatus vel Rufinus Redivivus? A Review of Ilaria Ramelli's The Christian Doctrine of Apokatastasis', Theological Studies 76.4 (2015), pp. 818-819 and n. 12",
+          "position": "McClymond holds that Rufinus 'tampered with the textual evidence' and left a 'skewed, inaccurate Latin rendering of Peri Archon'. He sees a 'Rufinian' quality in modern defences of Origen that rely on claims of interpolation.",
+          "side": "Rufinus unreliable",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/11/7-McClymond-Origenes-Vindicatus.pdf",
+          "status": "V"
+        },
+        {
+          "scholar": "Ilaria Ramelli",
+          "work": "'Reply to Professor McClymond', Theological Studies 76.4 (2015), p. 832",
+          "position": "Ramelli replies that Rufinus 'never altered but only abridged, simplified, and glossed Origen's texts'. She points to newly found Greek homilies in a Munich codex as allowing a fuller check on his method.",
+          "side": "Rufinus reliable",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/11/8-Ramelli-Reply-to-Professor.pdf",
+          "status": "V"
+        },
+        {
+          "scholar": "Elizabeth A. Clark (as reported by Christa Gray)",
+          "work": "The Origenist Controversy (1992), pp. 9-10",
+          "position": "Gray reports that Clark sides 'firmly' with Rufinus, stressing the consistency of his theology against Jerome's apparent hypocrisy in disowning Origen.",
+          "side": "Rufinus reliable",
+          "source_url": "https://reading-clone.eprints-hosting.org/120954/3/The%20translator%27s%20patronage%20author%20final%20copy.pdf",
+          "status": "S"
+        },
+        {
+          "scholar": "Friedhelm Winkelmann (as reported by Christa Gray)",
+          "work": "Article of 1970, pp. 534-547 (title as given in Gray's bibliography; not checked)",
+          "position": "Gray reports that Winkelmann finds Jerome consistent in his principles of translation, and Rufinus arguing ad hoc and misrepresenting Jerome's theory to defend his own method.",
+          "side": "Jerome reliable, Rufinus self-serving",
+          "source_url": "https://reading-clone.eprints-hosting.org/120954/3/The%20translator%27s%20patronage%20author%20final%20copy.pdf",
+          "status": "S"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0162/stoa004/stoa0162.stoa004.opp-lat1.xml",
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/patrologia_latina-dev/master/corrected/PL21/%5BCorrected2%5DPL21_6_APO.xml"
+      ],
+      "status": "V"
+    },
+    {
+      "id": "jerome-ep124-vs-rufinus-1-6-3",
+      "title": "Two Latin versions of the demons' return: Jerome's Letter 124 against Rufinus's On First Principles 1.6.3",
+      "author_work_ref": "Jerome, Letter 124 to Avitus, 124.1.1, 124.3.3-6, 124.4.5; compared with Origen, On First Principles 1.6.2-3 in Rufinus's translation",
+      "date": "Letter 124: c. 409-410 (Jerome's own literal translation of On First Principles, made c. 399, is lost except for these extracts)",
+      "language": "Latin",
+      "original": "(124.1.1) ... Origenis περὶ ἀρχῶν interpretata uolumina continerent, immo uitiata ... ut Graecam ueritatem seruaret Latina translatio et in utramque partem, seu bene seu male dixisset ille, qui scripsit, absque interpretis patrocinio Romana lingua cognosceret. (124.3.3) sicque permiscet omnia, ut de archangelo possit diabolus fieri et rursum diabolus in angelum reuertatur. ... (124.3.5) ipsosque daemones ac rectores tenebrarum in aliquo mundo uel mundis, si uoluerint ad meliora conuerti, fieri homines et sic ad antiquum redire principium, ita dumtaxat, ut per supplicia atque tormenta, quae uel multo uel breui tempore sustinuerint, in hominum eruditi corporibus rursum ueniant ad angelorum fastigia. (124.3.6) ex quo consequenti ratione monstrari omnes rationabiles creaturas ex omnibus posse fieri, non semel et subito sed frequentius, nosque et angelos futuros et daemones, si egerimus neglegentius, et rursum daemones, si uoluerint capere uirtutes, peruenire ad angelicam dignitatem. (124.4.5) ... haec, inquit, iuxta nostram sententiam non sint dogmata sed quaesita tantum atque proiecta, ne penitus intractata uiderentur.",
+      "edition": "I. Hilberg, Sancti Eusebii Hieronymi Epistulae, Pars III, CSEL 56 (Vienna, 1918), Letter 124, pp. 96-117: 124.1.1 at p. 96; 124.3.3-6 at p. 98 l. 22 to p. 99 l. 18; 124.4.5 at p. 100 l. 26 to p. 101 l. 4. Hilberg's source notes point to Origen, On First Principles 1.6.2-3 (Koetschau, GCS 22, pp. 81-83) and 1.8.4 (Koetschau p. 105).",
+      "checked_against": "OpenGreekAndLatin csel-dev EpiDoc transcription of Hilberg (stoa0162.stoa004.opp-lat1), with apparatus. Rufinus's Latin of 1.6.3 was NOT obtained; only the ANF English translation of it was checked.",
+      "english": "(124.1.1) ... the volumes of Origen's Peri Archon translated, or rather corrupted ... so that the Latin translation might keep the Greek truth, and the Roman tongue might learn, without any 'patronage' from the translator, whatever the writer said, well or ill. (124.3.3) And so he mixes everything up, so that from an archangel a devil can come to be, and the devil in turn return into an angel. ... (124.3.5) and that the demons themselves and the rulers of darkness, in some world or worlds, if they are willing to turn to better things, become human beings and so return to their ancient beginning, but only on condition that, through punishments and torments endured for a long or a short time, and taught in human bodies, they come again to the heights of the angels. (124.3.6) From which it follows logically that all rational creatures can come to be from all, not once and suddenly but repeatedly: that we shall be angels, and, if we act carelessly, demons; and that demons in turn, if they will lay hold of virtue, attain angelic dignity. (124.4.5) ... 'These things,' he says, 'are in our opinion not to be dogmas but only questions raised and thrown out, lest they seem wholly untouched.' || Rufinus's version of 1.6.3 (ANF): 'But whether any of these orders who act under the government of the devil, and obey his wicked commands, will in a future world be converted to righteousness because of their possessing the faculty of freedom of will, or whether persistent and inveterate wickedness may be changed by the power of habit into nature, is a result which you yourself, reader, may approve of, if neither in these present worlds which are seen and temporal, nor in those which are unseen and are eternal, that portion is to differ wholly from the final unity and fitness of things.'",
+      "english_source": "Jerome: own close translation (NPNF II.6 has an English version, not quoted). Rufinus 1.6.3: ANF vol. 4, translated by Frederick Crombie (1869), as checked at ccel.org anf04.vi.v.ii.vi.",
+      "textual_notes": "Hilberg's witnesses for this part of the letter are Π (a 9th-century Zurich manuscript, no. 49; its name is garbled in the OCR), D (Vatican lat. 355+356, 9th-10th c.) and B (Berlin lat. 18, 12th c.). Another manuscript (Karlsruhe Aug. 105) has only the beginning and end. In 124.3.5 Hilberg prints 'eruditi' (taught, agreeing with the demons) from g against 'erudita' in the manuscripts (agreeing with the bodies). Contested: 124.3.6 ('ex quo consequenti ratione monstrari ...') is presented as a consequence. Whether it is Origen's inference or Jerome's own is the crux; the Greek of 1.6.3 does not survive. Rufinus's Latin turns the question of the demons' conversion into one left to 'you yourself, reader' to judge. Jerome's Latin states it as doctrine, though at 124.4.5 he himself quotes Origen calling such ideas 'not dogmas' but inquiries. 'absque interpretis patrocinio' (without the translator's patronage) is Jerome's jab at Rufinus's method.",
+      "why_it_matters": "On whether Origen taught that the devil and demons can return, the two surviving Latin witnesses disagree in tone and force, and the Greek is lost. Rufinus leaves it as an open question for the reader. Jerome presents a restoration of demons, with endless changes of rank among all rational beings. Which Latin one trusts largely decides what one thinks was condemned.",
+      "readings": [
+        {
+          "scholar": "Christa Gray",
+          "work": "'The Translator's Patronage', Journal of Late Antiquity 18.1 (2025), pp. 65-87",
+          "position": "On 1.6.3, 'Rufinus leaves the possibility of the demons' redemption to the reader's judgement', and Jerome's version 'follows the Greek more closely than Rufinus''. Yet Jerome's 'subsequent insistence on the arbitrariness of demonic, angelic, and human identity appears polemical'. On 2.3.3, Rufinus 'distances Origen from the controversial claim'.",
+          "side": "each version bent in its own direction; no verdict",
+          "source_url": "https://reading-clone.eprints-hosting.org/120954/3/The%20translator%27s%20patronage%20author%20final%20copy.pdf",
+          "status": "V"
+        },
+        {
+          "scholar": "Henri Crouzel and Manlio Simonetti (as reported by Christa Gray)",
+          "work": "Origène, Traité des principes, SC 252-253 (1978), 1.28 and 2.98-99",
+          "position": "Gray reports that where the Philocalia allows a check against the Greek, Crouzel and Simonetti find Rufinus 'more faithful to Origen's meaning'. In their commentary they say Jerome summarises 1.6.3 rather than translating it. (The Philocalia is a fourth-century anthology of Origen's Greek.)",
+          "side": "Rufinus closer to Origen's meaning",
+          "source_url": "https://reading-clone.eprints-hosting.org/120954/3/The%20translator%27s%20patronage%20author%20final%20copy.pdf",
+          "status": "S"
+        },
+        {
+          "scholar": "Paul Koetschau (as reported by Christa Gray)",
+          "work": "Origenes Werke 5: De principiis, GCS 22 (1913), pp. lxxxviii-lxxxix",
+          "position": "Gray reports that Koetschau lamented the loss of Jerome's translation as a means of recovering the Greek, which implies he thought Jerome the more reliable. At one passage he remarks that the text 'stimmt genau mit Jer. überein' (agrees exactly with Jerome).",
+          "side": "Jerome more reliable",
+          "source_url": "https://reading-clone.eprints-hosting.org/120954/3/The%20translator%27s%20patronage%20author%20final%20copy.pdf",
+          "status": "S"
+        },
+        {
+          "scholar": "Jerome (ancient reader)",
+          "work": "Letter 124.1.1",
+          "position": "Jerome calls Rufinus's volumes 'uitiata' (corrupted). He says his own version was made so that Latin readers could know 'without the translator's patronage' what Origen wrote, 'whether well or ill'.",
+          "side": "Rufinus's version falsified",
+          "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0162/stoa004/stoa0162.stoa004.opp-lat1.xml",
+          "status": "V"
+        },
+        {
+          "scholar": "Elizabeth A. Clark (as reported by Christa Gray)",
+          "work": "The Origenist Controversy (1992), pp. 9-10",
+          "position": "Gray reports that Clark sides 'firmly' with Rufinus in the dispute over translation.",
+          "side": "Rufinus reliable",
+          "source_url": "https://reading-clone.eprints-hosting.org/120954/3/The%20translator%27s%20patronage%20author%20final%20copy.pdf",
+          "status": "S"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0162/stoa004/stoa0162.stoa004.opp-lat1.xml",
+        "https://ccel.org/ccel/schaff/anf04.vi.v.ii.vi.html"
+      ],
+      "status": "V"
+    }
+  ],
+  "other_findings": [
+    {
+      "claim": "Theophilus's phrase calling Origen the 'hydra of all heresies' comes from his paschal letter of 402 (Jerome, Letter 98.9.1: 'qui Origenem ... hydram omnium sequuntur hereseon'), not from the synod or synodal letter of 400. The repository's REPORT §2 and claims #13 (which cites Wikipedia) place it in the 400 context and should be corrected. Banev (2014 manuscript, p. 2 n. 5) also dates it to the 402 letter.",
+      "source": "Hilberg, CSEL 55 (1912), p. 193 ll. 22-24, checked in the csel-dev transcription; Banev, Durham repository manuscript",
+      "status": "V"
+    },
+    {
+      "claim": "The surviving synodal letter of 400 (Letter 92) makes no charge that Origen or his followers taught that God is incorporeal. Wikipedia's 'Origenist crises', citing Harding 2004, MacGregor 1982 and Wessel 2004, says the synod condemned them on that ground. The incorporeality issue comes from Socrates' and Sozomen's story of the anthropomorphite monks, not from the letter's list of charges.",
+      "source": "Jerome Letter 92 in Hilberg, CSEL 55, pp. 147-155 (read in full); https://en.wikipedia.org/wiki/Origenist_crises",
+      "status": "V"
+    },
+    {
+      "claim": "Anastasius's letter to John says only 'beatissimorum principum nostrorum ... responsa' (responses of our most blessed princes) and names no emperor. 'Arcadius and Honorius' is the NPNF translator's addition. Coustant (1721) notes that the responses 'nusquam comparent' (survive nowhere), infers from Sulpicius that they came from the Eastern emperor, and suggests they followed the model of Codex Theodosianus 16.5.34 (398) against Montanist and Eunomian books. This bears on REPORT §2 and claim #14.",
+      "source": "PL 20 cols. 72A-73A with Coustant's note l (patrologia_latina-dev transcription); NPNF II.3 at ccel.org npnf203.vi.x",
+      "status": "V"
+    },
+    {
+      "claim": "Anastasius's often-quoted admission that he 'neither knew nor wishes to know' who Origen was rests on the manuscripts' 'nostrum propositum nescit' ('our purpose does not know'). Coustant reads it as 'it is not the purpose of this letter to inquire who Origen was'. The confession-of-ignorance reading follows the printed 'nescivit' and the NPNF rendering.",
+      "source": "PL 20 col. 69C-70A and Coustant's note c",
+      "status": "V"
+    },
+    {
+      "claim": "Epiphanius's Panarion 64 (c. 375) contains no charge that Origen taught the devil's salvation or an end of Christ's kingdom. The charge first appears in Epiphanius's letter to John of 394 (Jerome, Letter 51.5.1).",
+      "source": "Own word search of the full Greek of heresy 64 in the First1KGreek transcription of Holl, GCS 31",
+      "status": "V"
+    },
+    {
+      "claim": "In his Apology to Anastasius (400), Rufinus explicitly affirms that the devil and his angels will receive 'aeterni ignis haereditate' (the inheritance of eternal fire), and he anathematizes anyone who denies it.",
+      "source": "PL 21 cols. 625C-626A (patrologia_latina-dev corrected transcription)",
+      "status": "V"
+    },
+    {
+      "claim": "In 396 Jerome ranked the Seraphim interpretation (that the two seraphim of Isaiah 6 are the Son and the Spirit) as worse than the devil's repentance: 'quod his maius est' (what is worse than these).",
+      "source": "Jerome, Letter 61.2.1, CSEL 54 p. 577 ll. 1-5",
+      "status": "V"
+    },
+    {
+      "claim": "Sulpicius Severus, an independent Western witness, says the passage that 'vel maxime' (most of all) stirred hostility at the Alexandrian synods was that Christ would redeem the devil by the same order of suffering.",
+      "source": "Sulpicius, Dialogi 1.7.1, Halm CSEL 1 p. 158",
+      "status": "V"
+    },
+    {
+      "claim": "Kimel's claim that the restoration of humanity was not condemned c. 400 is explicitly limited to 'anthropic universalism' and to Epiphanius and Theophilus. Jerome's Letter 84.7.3 objects to a restoration that includes humans ('Paul as Caiaphas, virgins as prostitutes'), but his stated target is the levelling of all distinctions, not salvation as such.",
+      "source": "Kimel 2024 open letter, section [1:10]; Jerome Letter 84.7.3, CSEL 55 p. 129",
+      "status": "V"
+    },
+    {
+      "claim": "Kimel reports that Jerome's Apology records an account of Origen's debate with Candidus in which Origen denies that the devil will be saved. He also cites Rufinus's On the Falsification of the Books of Origen for Origen's Letter to Friends in Alexandria, in which Origen denies teaching the devil's salvation. The Latin of these passages was not checked here.",
+      "source": "Kimel 2024 open letter (afkimel.wordpress.com)",
+      "status": "S"
+    },
+    {
+      "claim": "The CTS metadata of the OpenGreekAndLatin transcription of Hilberg's Jerome letters says 'Corpus Scriptorum Ecclesiasticorum Latinorum, Volume 52-54'. The edition is CSEL 54-56 (1910-1918), and citations should use 54-56.",
+      "source": "csel-dev data/stoa0162/stoa004/__cts__.xml compared with the page and volume headings in the transcription",
+      "status": "V"
+    },
+    {
+      "claim": "McClymond's 2015 review lists 'Theophilus of Antioch' (p. 824) among the fourth-to-fifth-century figures in the debate. Theophilus of Alexandria is presumably meant, so the review should not be cited for that name.",
+      "source": "McClymond, Theological Studies 76.4 (2015), p. 824",
+      "status": "V"
+    },
+    {
+      "claim": "Jaffé-Kaltenbrunner lists Anastasius's letter to Venerius of Milan (JK 281) as lost. Prinzivalli's 2021 abstract discusses how it was drafted, which implies a text was later recovered and edited, reportedly by J. van den Gheyn, probably 1899. The edition was not confirmed.",
+      "source": "https://www.fourthcentury.com/?p=9873; Prinzivalli 2021 abstract (rivisteweb.it)",
+      "status": "S"
+    },
+    {
+      "claim": "Hanaghan states that Anastasius held a council in 400 that condemned Origen, and later decided against excommunicating Rufinus after Venerius interceded (p. 208). The page for the council statement was not confirmed.",
+      "source": "Hanaghan, JTS NS 74.1 (2023), ACU research bank PDF",
+      "status": "V"
+    }
+  ],
+  "problems": "Not found or not checked. (1) J. N. D. Kelly, Jerome (1975): not accessed. A search turned up only a different Kelly, Louis G. Kelly's 1976 working paper on Letter 57, which does not treat these passages. (2) Elizabeth Clark's 1992 book: not read directly, only through Gray's report and the publisher's description. Her 1990 Church History address was seen only in its first page and notes, and its volume and page numbers are not confirmed. (3) Norman Russell, Theophilus of Alexandria (2007): not read directly, only through Kim's BMCR review. (4) Jon Dechow (1988; reprinted 2025): only through Muller's 1993 review. (5) Brian Daley, The Hope of the Early Church: not checked. Kimel cites him, but not on these passages. (6) Truglia: nothing found on the c. 400 controversy; his pieces concern 553. (7) Krawiec: nothing relevant found. (8) Rubenson 2022 (Modern Theology): found but not readable. (9) Banev 2015: only the introduction of the 2014 manuscript was readable, not his chapters on the letters of 400-404. (10) Ramelli: only her 2015 reply to McClymond; her 2013 book on c. 400 was not checked. (11) Critical editions not checked, so PL or CSEL texts were used: Feiertag, CCSL 79A (Against John); Simonetti, CCSL 20 (Apology to Anastasius); Fontaine, SC 510 (Sulpicius); Crouzel-Simonetti, SC 252-253; Dummer's 1980 revision of Holl. Koetschau's page numbers for Rufinus's preface are not confirmed. (12) Rufinus's Latin of On First Principles 1.6.3 was not obtained, because the archive.org text of Koetschau was cut off; only the ANF English was checked. (13) The Greek of Socrates, Church History 6.7, and Sozomen's parallel: not checked. (14) Van den Gheyn's edition of the letter to Venerius: not confirmed. (15) The NPNF translators are not named on the pages checked; the attributions to W. H. Fremantle (NPNF II.6) and Alexander Roberts (NPNF II.11, named on the page) are as stated in each entry. (16) My extraction script's line labels lag in places, so every page and line number cited was checked against Hilberg's apparatus line numbers. Even so, a one-line slip is possible in passages with no variants to anchor them. (17) WebFetch caps quotations at about 125 characters, so the longer English quotations (ANF, NPNF, Roberts) were assembled from consecutive verified pieces. (18) The last 2,238 characters of Kimel's open letter were not read. (19) The four scholars cited only through Gray (Clark, Koetschau, Crouzel-Simonetti, Winkelmann) should be checked in their own works before being quoted."
+}

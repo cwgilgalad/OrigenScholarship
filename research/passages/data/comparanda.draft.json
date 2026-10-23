@@ -1,0 +1,636 @@
+{
+  "cluster": "comparanda",
+  "summary": "This cluster collects the Bible verses both sides argue over and the early writers who were set beside Origen: Gregory of Nyssa, Basil, Augustine, Maximus the Confessor, Isaac of Nineveh, and the East Syrian witnesses to Diodore and Theodore. The three New Testament verses are the common ground: 1 Corinthians 15:28 and Acts 3:21 are the texts restorationists lean on, and Matthew 25:46 (with the word aionios) is the text their opponents lean on, so the argument over what aionios and kolasis mean runs under every other passage. Gregory of Nyssa states most plainly, in Greek, that evil will be taken out of existence and that even the devil, the 'inventor of evil', will be healed; modern readers divide over whether that means every person is saved or only that evil is finished. An eighth-century patriarch, Germanus of Constantinople, answered by claiming that Origenists had inserted such lines into Gregory's books, and Photius reports this. On the other side, Basil (in a disputed passage), Augustine and Maximus show three different responses: argue that punishment is endless, say the Church rightly rejected Origen, or sort the senses of 'restoration' and keep an honourable silence. Isaac of Nineveh and the Book of the Bee show that hope for an end of punishment lived on in the Church of the East, where it was credited to Diodore of Tarsus and Theodore of Mopsuestia. Most of the Greek and Latin below was copied from scans or editions I opened (Migne's Patrologia Graeca by OCR, the CSEL Augustine, the SBL Greek New Testament), but I could not reach the Syriac of Isaac or of the Book of the Bee, and the modern scholars' positions are mostly taken from short quotations and summaries rather than whole books.",
+  "passages": [
+    {
+      "id": "nt-three-verses",
+      "title": "The three Bible verses in dispute: God all in all, the restoration of all things, and everlasting punishment",
+      "author_work_ref": "New Testament: 1 Corinthians 15:28; Acts 3:21; Matthew 25:46",
+      "language": "Greek",
+      "date": "1 Corinthians about AD 55; Matthew and Acts about AD 80 to 90 (conventional dates)",
+      "original": "1 Cor 15:28: ὅταν δὲ ὑποταγῇ αὐτῷ τὰ πάντα, τότε αὐτὸς ὁ υἱὸς ὑποταγήσεται τῷ ὑποτάξαντι αὐτῷ τὰ πάντα, ἵνα ᾖ ὁ θεὸς πάντα ἐν πᾶσιν.\nActs 3:21: ὃν δεῖ οὐρανὸν μὲν δέξασθαι ἄχρι χρόνων ἀποκαταστάσεως πάντων ὧν ἐλάλησεν ὁ θεὸς διὰ στόματος τῶν ἁγίων ἀπʼ αἰῶνος αὐτοῦ προφητῶν.\nMatt 25:46: καὶ ἀπελεύσονται οὗτοι εἰς κόλασιν αἰώνιον, οἱ δὲ δίκαιοι εἰς ζωὴν αἰώνιον.",
+      "edition": "The Greek New Testament: SBL Edition (SBLGNT), ed. Michael W. Holmes (Society of Biblical Literature and Logos Bible Software, 2010), freely licensed. The usual scholarly standard is Nestle-Aland 28 / UBS 5, which I did not consult. Page and line numbers do not apply to this text; it is cited by chapter and verse.",
+      "checked_against": "The SBLGNT plain-text files in the LogosBible/SBLGNT repository on GitHub (data/sblgnt/text/1Cor.txt, Acts.txt, Matt.txt), the lines for 1 Cor 15:28, Acts 3:21 and Matt 25:46. I removed the repository's apparatus marks (the small raised signs that flag a variant) and nothing else.",
+      "english": "1 Cor 15:28: And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.\nActs 3:21: Whom the heaven must receive until the times of restitution of all things, which God hath spoken by the mouth of all his holy prophets since the world began.\nMatt 25:46: And these shall go away into everlasting punishment: but the righteous into life eternal.",
+      "english_source": "King James Version (1611), public domain. Contested renderings: apokatastasis (Acts 3:21) is 'restitution' in the KJV and 'restoration' or 'reconstitution' elsewhere; aionios (Matt 25:46) is 'everlasting' or 'eternal' in the KJV and 'age-long' or 'of the age' in the translations that follow Ramelli and Hart; kolasis is 'punishment' in most versions, but the related verb kolazo can mean to check or prune, which is why some read it as corrective; 'all in all' (panta en pasin) can be read as 'everything in everyone' or 'everything in everything'.",
+      "why_it_matters": "Both sides in the dispute over Origen quote these three verses: restorationists read 1 Cor 15:28 and Acts 3:21 as promising an end to evil, and their opponents read Matt 25:46 as fixing punishment as long as life. How one translates aionios and kolasis decides how much weight each verse carries.",
+      "readings": [
+        {
+          "scholar": "Basil of Caesarea (attributed), Short Rules 267",
+          "work": "Regulae brevius tractatae 267, PG 31.1264C to 1265D (see passage basil-short-rules-267)",
+          "position": "Reads Matt 25:46 as one word, aionios, standing over both halves of the verse: if punishment ever ends, life ends too. He calls the writing down of an end of punishment a trick of the devil. (If the passage is Basil's; see that entry.)",
+          "side": "ancient reader: aionios binds punishment and life together, so punishment is endless",
+          "status": "V"
+        },
+        {
+          "scholar": "Gregory of Nyssa",
+          "work": "On the Soul and the Resurrection, PG 46.103, and In illud 'Tunc et ipse Filius', PG 44.1315 (see the two Nyssa entries)",
+          "position": "Both texts quote 1 Cor 15:28 as proof that evil will cease to exist: God cannot be 'in' evil, so if he is to be all in all, no evil can be left. Gregory's quotation reads ὁ θεὸς τὰ πάντα ἐν πᾶσιν, with the article, where the SBLGNT prints πάντα without it.",
+          "side": "ancient reader: 1 Cor 15:28 promises the end of evil",
+          "status": "V"
+        },
+        {
+          "scholar": "John R. Sachs, S.J.",
+          "work": "'Apocatastasis in Patristic Theology', Theological Studies 54 (1993), pp. 617 to 640; the 1 Cor 15 point at pp. 621 and 635",
+          "position": "Says that for Origen the universal scope of God's saving action 'is particularly evident' in 1 Cor 15:23 to 28, and that Gregory of Nyssa, like Origen, finds support for his conviction in that Pauline vision of final subjection.",
+          "side": "reads 1 Cor 15:28 as the scriptural root of the patristic hope for universal restoration",
+          "status": "V",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/08/54.4.1.pdf"
+        },
+        {
+          "scholar": "Ilaria Ramelli and David Konstan",
+          "work": "Terms for Eternity: Aiônios and Aïdios in Classical and Christian Texts (Gorgias Press, 2007); the authors' reply to a review, Bryn Mawr Classical Review 2009.02.51",
+          "position": "As the authors describe their book, the Bible uses aiônios hundreds of times and aïdios (strictly 'everlasting') only a handful, and most patristic writers who supported apokatastasis kept that distinction. On this view 'aionios punishment' need not mean punishment without end.",
+          "side": "aionios means 'of the age', not strictly 'eternal'; Matt 25:46 does not settle the question",
+          "status": "S",
+          "source_url": "https://bmcr.brynmawr.edu/?p=26380"
+        },
+        {
+          "scholar": "Ilaria Ramelli",
+          "work": "'Reply to Professor McClymond', Theological Studies 76.4 (2015), p. 833",
+          "position": "States that 'aionios in ancient sources need not mean eternal in the absolute, unqualified sense', and says 'eternal' in the strict sense is a philosophical, Platonic meaning.",
+          "side": "aionios means 'of the age', not strictly 'eternal'",
+          "status": "V",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/11/8-Ramelli-Reply-to-Professor.pdf"
+        },
+        {
+          "scholar": "Michael McClymond",
+          "work": "'Origenes Vindicatus vel Rufinus Redivivus?', review of Ramelli, Theological Studies 76.4 (2015), p. 824 n. 23 and p. 822",
+          "position": "Grants in a footnote that Ramelli's argument that aionios need not mean 'eternal' in the absolute sense 'has some merit', but sets against her a list of early writers (Basil, Epiphanius, Firmicus Maternus and others, following Brian Daley) who affirm everlasting punishment.",
+          "side": "partly concedes the word-study; holds that the early church mostly taught endless punishment anyway",
+          "status": "V",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/11/7-McClymond-Origenes-Vindicatus.pdf"
+        },
+        {
+          "scholar": "David Bentley Hart, as reported by Michael Pakaluk",
+          "work": "Hart, That All Shall Be Saved (Yale, 2019), and his New Testament translation (Yale, 2017); reported in Pakaluk, 'Theological Fraud', First Things, 6 Feb 2020",
+          "position": "Pakaluk reports that Hart argues Basil raised no lexical objection to a universalist reading of Matt 25:46, so aionios and kolasis were understood to mean something less than endless punishment. Pakaluk replies that Basil does discuss the word and rejects that reading.",
+          "side": "aionios and kolasis were heard as less than endless (Hart); contested by Pakaluk",
+          "status": "S",
+          "source_url": "https://firstthings.com/theological-fraud/"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/LogosBible/SBLGNT/master/data/sblgnt/text/1Cor.txt",
+        "https://raw.githubusercontent.com/LogosBible/SBLGNT/master/data/sblgnt/text/Acts.txt",
+        "https://raw.githubusercontent.com/LogosBible/SBLGNT/master/data/sblgnt/text/Matt.txt"
+      ],
+      "textual_notes": "In the SBLGNT file 1 Cor 15:28 carries variant marks at τότε and at πάντα (the printed text has πάντα without the article; Gregory of Nyssa quotes τὰ πάντα, which is the reading of the other main text-types). Acts 3:21 carries marks at στόματος and around ἀπʼ αἰῶνος αὐτοῦ προφητῶν (a word-order variant). Matt 25:46 carries none. I did not open the SBLGNT apparatus, so I cannot name the manuscripts. Background claims I did not check: that Aristotle (Rhetoric 1.10, 1369b) distinguishes kolasis, said to be for the benefit of the one punished, from timoria, said to be for the benefit of the punisher, which is the classical evidence restorationists cite for kolasis as corrective (status R). The word aionios is the adjective from aion, 'age'; aidios is the Greek word for strictly everlasting.",
+      "status": "V"
+    },
+    {
+      "id": "nyssa-soul-resurrection",
+      "title": "Gregory of Nyssa, On the Soul and the Resurrection: the fire that consumes evil, and evil removed from what exists",
+      "author_work_ref": "Gregory of Nyssa, De anima et resurrectione (the dialogue with his sister Macrina), PG 46.99 to 104 (page heads of the scan; lettered sections not confirmed)",
+      "language": "Greek",
+      "date": "about 380, shortly after the death of Macrina",
+      "original": "Excerpt A: οὕτω καὶ τῆς κακίας τῷ ἀκοιμήτῳ πυρὶ δαπανωμένης, ἀνάγκη πᾶσα καὶ τὴν ἐνωθεῖσαν αὐτῇ ψυχὴν ἐν τῷ πυρὶ εἶναι, ὡς ἂν τὸ κατεσπαρμένον νόθον καὶ ὑλῶδες καὶ κίβδηλον ἀπαναλωθῇ τῷ αἰωνίῳ πυρὶ δαπανώμενον.\nExcerpt B: χρὴ γὰρ πάντη καὶ πάντως ἐξαιρεθῆναί ποτε τὸ κακὸν ἐκ τοῦ ὄντος, καὶ ὅπερ ἐν τοῖς φθάσασιν εἴρηται, τὸ ὄντως μὴ ὂν μηδʼ εἶναι ὅλως. ἐπειδὴ γὰρ ἔξω τῆς προαιρέσεως ἡ κακία εἶναι φύσιν οὐκ ἔχει, ὅταν πᾶσα προαίρεσις ἐν τῷ Θεῷ γένηται, εἰς παντελῆ ἀφανισμὸν ἡ κακία μὴ χωρήσει (†), τῷ μηδὲν αὐτῆς ὑπολειφθῆναι δοχεῖον.\nExcerpt C: ἀλλὰ μὴν ἡ θεία φύσις ἡ πηγὴ πάσης ἐστὶ τῆς ἀρετῆς. ἐν ταύτῃ ἄρα οἱ τῆς κακίας ἀπηλλαγμένοι γενήσονται, ἵνα, καθώς φησιν ὁ Ἀπόστολος, ὁ Θεὸς τὰ πάντα ἐν πᾶσιν.",
+      "edition": "PG 46, cols. 11 to 160 (J.-P. Migne, Paris 1863), the printed text with its apparatus of two manuscripts, called A and B. The modern critical edition, Gregorii Nysseni Opera (GNO) III/3, I could not confirm or reach; page and line not confirmed. The columns given above are read from the page heads of the scan.",
+      "checked_against": "OCR text of the Migne page images, 'OGL-PatrologiaGraecaDev' Vol.-46, scan hvd.32044014713994, scan pages 055 to 057 (GitHub). OCR repairs I made, all certain from the sense: ὲν to ἐν; ἡκόλασις to ἡ κόλασις is not in the quoted lines; ὅλιιις to ὅλως; ὀ and ό to ὁ; footnote numerals removed. The reading marked † is as the scan prints it (see textual notes) and is the one place I am not sure the OCR is right.",
+      "english": "A: So too, when evil is being used up by the unsleeping fire, the soul that has grown into it must needs be in the fire as well, so that whatever foreign, material and counterfeit stuff has been sown into it may be completely consumed, being burned up in the aionian fire.\nB: For evil must altogether and in every way at some time be taken out of what exists, and, as was said earlier, what truly is not must not be at all. Since evil has no nature outside the will, when every will has come to be in God, evil will pass into complete disappearance (†), because no vessel for it will be left.\nC: But the divine nature is the source of all virtue. In it, then, those who have been set free from evil will be, so that, as the Apostle says, God may be 'all in all'.",
+      "english_source": "Own translation. For comparison, the public-domain translation by William Moore and Henry Austin Wilson in NPNF 2nd series, vol. 5 (1893), which I did not reproduce. Contested renderings: ἀκοιμήτῳ is 'unsleeping' (that is, unquenchable) in the printed text, but manuscript A reads καθαρσίῳ, 'purifying'; αἰωνίῳ may be 'eternal', 'age-long' or 'of the age'; ἀφανισμός is 'disappearance' or 'annihilation'; προαίρεσις is 'will' or 'choice'.",
+      "why_it_matters": "This is the passage most often cited to show that Gregory taught the end of evil and the cleansing of every soul. It also carries the line (excerpt B) that Germanus, according to Photius, said Origenists had inserted.",
+      "readings": [
+        {
+          "scholar": "John R. Sachs, S.J.",
+          "work": "'Apocatastasis in Patristic Theology', Theological Studies 54 (1993), pp. 632 to 638 and p. 637 n. 120",
+          "position": "Treats Gregory as sharing Origen's hope for universal salvation, resting on the unity of human nature and the finitude of evil. For this dialogue he stresses that divine punishment is teaching and healing: God does not punish 'in hatred or revenge for a wicked life'.",
+          "side": "reads the passage as hope for the restoration of all",
+          "status": "V",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/08/54.4.1.pdf"
+        },
+        {
+          "scholar": "Craig Truglia",
+          "work": "'Questioning Gregory of Nyssa's Universalism on the Soul and Resurrection', Orthodox Christian Theology blog, 5 Aug 2020",
+          "position": "Reads Gregory as hedging ('some say', 'it appears to me') and as rejecting reincarnation and pre-existence. He takes phrases such as 'those who have parted with evil' to name a class, not every person, and calls the apparent universalism 'poetic hyperbole'.",
+          "side": "reads the passage as not teaching that every person is saved",
+          "status": "S",
+          "source_url": "https://orthodoxchristiantheology.com/2020/08/05/questioning-gregory-of-nyssas-universalism-on-the-soul-and-resurrection/"
+        },
+        {
+          "scholar": "Mario Baghos",
+          "work": "'Reconsidering Apokatastasis in St Gregory of Nyssa's On the Soul and Resurrection and Catechetical Oration', paper listed by St Andrew's Greek Orthodox Theological College, Sydney (date not given on the page)",
+          "position": "Argues that Gregory's apokatastasis differs from the modern notion of universal salvation: Gregory hopes all things will be restored to God, but stresses that free cultivation of virtue now shapes how we meet the afterlife, and grounds the process in Christ and the Church.",
+          "side": "restoration is real hope but not the modern doctrine of automatic universal salvation",
+          "status": "S",
+          "source_url": "https://www.sagotc.edu.au/node/844"
+        },
+        {
+          "scholar": "Ilaria Ramelli",
+          "work": "'Why Was St Gregory of Nyssa Never Condemned for His Doctrine of Apokatastasis?', Studia UBB Philosophia 67.2 (2022), pp. 135 to 157; and 'Reply to Professor McClymond', Theological Studies 76.4 (2015), p. 829",
+          "position": "Holds that Gregory's protology and eschatology 'are in continuity with those of Origen' (2015, p. 829) and that Gregory taught apokatastasis, which is why Germanus later had to deny Gregory wrote the De anima passage at issue (2022).",
+          "side": "reads the passage as Gregory's own universal restoration, in line with Origen",
+          "status": "S",
+          "source_url": "https://studia.reviste.ubbcluj.ro/index.php/subbphilosophia/article/download/411/388/746"
+        },
+        {
+          "scholar": "Michael McClymond",
+          "work": "'Origenes Vindicatus vel Rufinus Redivivus?', Theological Studies 76.4 (2015), pp. 820, 823 n. 21 and 825",
+          "position": "Says Gregory 'deviated from Origen in basic ways', rejecting pre-existent souls and picturing a dynamic final state, and that Ramelli 'downplays differences between Origen and Gregory'. He points to Baghos's article as a challenge to reading the De anima as universalist.",
+          "side": "Gregory differs from Origen; the De anima is contested ground",
+          "status": "V",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/11/7-McClymond-Origenes-Vindicatus.pdf"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-46/master/hvd.32044014713994_ocr/055.txt",
+        "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-46/master/hvd.32044014713994_ocr/056.txt",
+        "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-46/master/hvd.32044014713994_ocr/057.txt"
+      ],
+      "textual_notes": "The PG apparatus (read through poor OCR) records: at ἀκοιμήτῳ, manuscript A reads καθαρσίῳ ('purifying') in its text; at ἀπαναλωθῇ, A reads ἅπαν ἀναλωθείη; at τὸ ὄντως, A and B read τῷ ὄντι; B omits πᾶσα προαίρεσις; and at the reading marked † (μὴ χωρήσει, as the scan prints it) A and B read μεταχωρήσειε, 'will pass over', which is the sense translators take. The scan also prints marginal notes from manuscript A beside the end-of-evil passage telling the reader to read it with care, but the OCR there is too damaged to quote. Ramelli (2022) says a Byzantine scholiast in Codex A also appeals to 'interpolators' (status S).",
+      "status": "V"
+    },
+    {
+      "id": "nyssa-catechetical-26",
+      "title": "Gregory of Nyssa, Catechetical Oration 26: even the 'inventor of evil' is healed",
+      "author_work_ref": "Gregory of Nyssa, Oratio catechetica magna 26, PG 45 (about cols. 65 to 69; exact column not confirmed); chapter 26 in the numbering of Srawley (1903) and of GNO III/4",
+      "language": "Greek",
+      "date": "about 385 to 390 (conventional range; not confirmed)",
+      "original": "κατὰ τὸν αὐτὸν τρόπον θανάτου καὶ φθορᾶς καὶ σκότους καὶ εἴ τι κακίας ἔκγονον, τῷ εὑρετῇ τοῦ κακοῦ περιφυέντων, ὁ προσεγγισμὸς τῆς θείας δυνάμεως πυρὸς δίκην ἀφανισμὸν τοῦ παρὰ φύσιν κατεργασάμενος εὐεργετεῖ τῇ ἀφθαρσίᾳ τὴν φύσιν, κἂν ἐπίπονος ἡ διάκρισις. οὐκοῦν οὐδʼ ἂν παρʼ αὐτοῦ τοῦ ἀντικειμένου μὴ εἶναι δίκαιόν τε καὶ σωτήριον τὸ γεγονὸς ἀμφιβάλλοιτο, εἴπερ τις αἴσθησιν τῆς εὐεργεσίας ἔλθοι. […] ἐπειδὰν ἡ εἰς τὸ ἀρχαῖον ἀποκατάστασις τῶν νῦν ἐν κακίᾳ κειμένων γένηται, ὁμόφωνος εὐχαριστία παρὰ πάσης ἔσται τῆς κτίσεως, καὶ τῶν ἐν τῇ καθάρσει κεκολασμένων, καὶ τῶν μηδὲ τὴν ἀρχὴν ἐπιδεηθέντων καθάρσεως. […] τόν τε ἄνθρωπον τῆς κακίας ἐλευθερῶν, καὶ αὐτὸν τὸν τῆς κακίας εὑρετὴν ἰώμενος. ἴασις γάρ ἐστιν ἀρρωστίας ἡ τοῦ νοσήματος κάθαρσις.",
+      "edition": "Standard critical editions: Ekkehard Mühlenberg, GNO III/4 (Leiden: Brill, 1996), and James H. Srawley, The Catechetical Oration of Gregory of Nyssa (Cambridge Patristic Texts, 1903), ch. 26; I could not reach either, so page and line are not confirmed. The text above is Migne's, PG 45.",
+      "checked_against": "OCR text of the Migne page images, 'OGL-PatrologiaGraecaDev' Vol.-45, scan hvd.32044019826437, scan page 042 (GitHub). OCR repairs, all certain from the sense or from Sachs's quotation of the word homophonos: ὁμόσωνος to ὁμόφωνος; ὲ to ἐ; αὑτὸν to αὐτὸν; ἁφανισμὸν to ἀφανισμὸν; κᾶν to κἂν. The OCR breaks off the last sentence mid-clause, so I stopped there.",
+      "english": "In the same way, when death and corruption and darkness and whatever else is the offspring of evil have grown round the inventor of evil, the approach of the divine power, working like fire the disappearance of what is against nature, does good to nature by giving it incorruption, even if the separation is painful. So not even from the adversary himself would it be doubted that what has happened is just and saving, if only he came to feel the benefit. […] when the restoration (apokatastasis) to the original state of those now lying in evil has come about, there will be thanksgiving in one voice from the whole creation, both from those who were punished (kekolasmenon) in the purification and from those who never needed purification at all. […] freeing the human being from evil and healing the very inventor of evil. For healing is the purification of sickness.",
+      "english_source": "Own translation. For comparison, the public-domain translation by J. H. Srawley (SPCK, 1917) and the one in NPNF 2nd series, vol. 5 (Moore and Wilson, 1893), neither reproduced here. Contested renderings: ἀποκατάστασις is 'restoration' or 'restitution'; the 'inventor of evil' (τῆς κακίας εὑρετής) is the devil; κεκολασμένων is 'punished' or 'chastised', and Gregory's own use of this verb for people who are in purification is the best evidence from the Greek that he heard kolasis as corrective.",
+      "why_it_matters": "This is the only place where Gregory says in so many words that the devil himself is healed, and the line most often set beside the 543 anathema on restoration. It is also one of the three works Germanus said Origenists had tampered with.",
+      "readings": [
+        {
+          "scholar": "John R. Sachs, S.J.",
+          "work": "'Apocatastasis in Patristic Theology', Theological Studies 54 (1993), p. 634 and n. 111",
+          "position": "Cites this oration for Gregory's hope that at the end all creation will confess the lordship of Christ in harmony ('all voices will be one (homophonos)').",
+          "side": "reads it as hope for the restoration of all creation",
+          "status": "V",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/08/54.4.1.pdf"
+        },
+        {
+          "scholar": "Mario Baghos",
+          "work": "'Reconsidering Apokatastasis in St Gregory of Nyssa's On the Soul and Resurrection and Catechetical Oration' (Sydney, n.d.)",
+          "position": "Argues that Gregory's apokatastasis is not the modern idea of universal salvation but a hope that all will be restored to God, tied to virtue lived now and to Christ and the Church.",
+          "side": "restoration is hope, not automatic universal salvation",
+          "status": "S",
+          "source_url": "https://www.sagotc.edu.au/node/844"
+        },
+        {
+          "scholar": "Ilaria Ramelli",
+          "work": "'Why Was St Gregory of Nyssa Never Condemned for His Doctrine of Apokatastasis?', Studia UBB Philosophia 67.2 (2022), pp. 135 to 157",
+          "position": "Counts Gregory's apokatastasis as real and says it was tolerated for several reasons, among them that later readers took it as purgatory and that Germanus's interpolation theory removed the difficulty.",
+          "side": "reads Gregory as a restorationist who was never condemned",
+          "status": "S",
+          "source_url": "https://studia.reviste.ubbcluj.ro/index.php/subbphilosophia/article/download/411/388/746"
+        },
+        {
+          "scholar": "Photius, reporting Germanus of Constantinople",
+          "work": "Bibliotheca, codex 233 (see passage photius-germanus-interpolation)",
+          "position": "Names the Catechetical (Oration) among the works of Gregory that Germanus said he had rescued from Origenist falsification.",
+          "side": "ancient reader: the restorationist lines in Gregory are not his",
+          "status": "V"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-45/master/hvd.32044019826437_ocr/041.txt",
+        "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-45/master/hvd.32044019826437_ocr/042.txt"
+      ],
+      "textual_notes": "I read no apparatus for this chapter, because the OCR of the Migne footnotes on this page was not usable. The wording 'the inventor of evil' (τῷ εὑρετῇ τοῦ κακοῦ) appears twice in the passage, once in a clause about death and darkness growing around him and once at the end. Ramelli-side and traditional-side readers alike take it to mean the devil.",
+      "status": "V"
+    },
+    {
+      "id": "nyssa-in-illud",
+      "title": "Gregory of Nyssa, On 'Then the Son himself will be subjected': God cannot be all in all while any evil is left",
+      "author_work_ref": "Gregory of Nyssa, In illud: Tunc et ipse Filius, PG 44, about col. 1315 (the leaf headed 1315 to 1316 in the scan); the treatise begins near col. 1304",
+      "language": "Greek",
+      "date": "late fourth century (exact date uncertain)",
+      "original": "σαφῶς γὰρ ἐν τῷ τελευταίῳ τῶν εἰρημένων τὸ τῆς κακίας ἀνύπαρκτον τῷ λόγῳ παρίστησιν, ἐν τῷ εἰπεῖν ἐν πᾶσι γίνεσθαι τὸν Θεόν, πάντα ἑκάστῳ γινόμενον. δῆλον γὰρ ὅτι τότε ἀληθὲς ἔσται τὸ ἐν πᾶσι τὸν Θεὸν εἶναι, ὅταν μηδὲν κακὸν ἐνθεωρῆται τοῖς οὖσιν. οὐ γὰρ δὴ καὶ ἐν κακῷ τὸν Θεὸν εἰκός ἐστι γίνεσθαι. ὥστε ἢ οὐκ ἐν πᾶσιν ἔσται, ὅταν ὑπολειφθῇ τι κακὸν ἐν τοῖς οὖσιν· ἢ εἰ ἀληθῶς ἐν πᾶσι χρὴ πιστεύειν αὐτὸν εἶναι, τὸ μηδὲν κακὸν εἶναι τῇ περὶ τούτου πίστει συναποδείκνυται.",
+      "edition": "Standard critical edition: J. Kenneth Downing, in GNO III/2 (Leiden: Brill, 1987); page and line not confirmed, because I could not reach it. The text above is Migne's, PG 44.",
+      "checked_against": "OCR text of the Migne page images, 'OGL-PatrologiaGraecaDev' Vol.-44, scan hvd.32044012542270, scan page 667 (GitHub). OCR repairs, all certain from the sense: ὲ to ἐ throughout; ό to ὁ. The sentence just before this one in the scan quotes 1 Cor 15:22 to 28 in full.",
+      "english": "For clearly, in the last of the things he has said, the Apostle shows by his word that evil has no existence, by saying that God comes to be in all, becoming all things to each. It is plain that 'God is in all' will be true only then, when no evil is seen in the things that are; for it is surely not fitting that God come to be in evil. So either he will not be in all, if some evil is left among the things that are; or, if we must truly believe that he is in all, then by that very faith it is shown together that there is no evil.",
+      "english_source": "Own translation. I know of no public-domain English translation of this treatise (it is not in NPNF); a published translation exists in modern scholarly series, which I did not consult. Contested renderings: 'in all' (ἐν πᾶσι) as 'in all persons' or 'in all things'; 'has no existence' (ἀνύπαρκτον) as 'is without substance'.",
+      "why_it_matters": "This is Gregory's own argument from 1 Cor 15:28, put as a piece of logic: if God is to be in everything, there can be no evil left anywhere. Both sides agree this is the key text; they disagree about who 'all' includes.",
+      "readings": [
+        {
+          "scholar": "John R. Sachs, S.J.",
+          "work": "'Apocatastasis in Patristic Theology', Theological Studies 54 (1993), p. 635 and n. 112; Origen at p. 621",
+          "position": "Takes the treatise to say that every creature of God will return to the goodness it had before it absorbed any evil, but only after purgation. Like Origen, Gregory finds support in the Pauline vision of final subjection.",
+          "side": "reads the treatise as teaching the restoration of all",
+          "status": "V",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/08/54.4.1.pdf"
+        },
+        {
+          "scholar": "Craig Truglia",
+          "work": "'Questioning Gregory of Nyssa's Universalism in In Illud', Orthodox Christian Theology blog, 31 Jul 2020",
+          "position": "Reads 'God all in all' as realised in the faithful who make up the 'all', since God cannot be present in evil. He takes the subjection of the Son to mean reconciliation of human nature through the Church, and says the treatise 'never even talks about universalism'.",
+          "side": "reads the treatise as about the faithful, not every person",
+          "status": "S",
+          "source_url": "https://orthodoxchristiantheology.com/2020/07/31/questioning-gregory-of-nyssas-universalism-in-illud/"
+        },
+        {
+          "scholar": "Origen of Alexandria, as reported by Sachs",
+          "work": "Sachs 1993, p. 621",
+          "position": "Origen read 1 Cor 15:23 to 28 as showing the universal scope of God's saving action; Gregory is following a reading Origen had already used.",
+          "side": "ancient reader: 1 Cor 15:28 promises the end of evil",
+          "status": "S"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-44/master/hvd.32044012542270_ocr/667.txt"
+      ],
+      "textual_notes": "Gregory's quotation of the verse in this treatise reads ἵνα ᾖ ὁ Θεὸς τὰ πάντα ἐν πᾶσιν, with the article, matching his quotation in the De anima. I did not read the Migne apparatus for this treatise. Ramelli's 2022 article, which discusses the interpolation claim, does not single out this treatise (status S).",
+      "status": "V"
+    },
+    {
+      "id": "photius-germanus-interpolation",
+      "title": "Photius on Germanus of Constantinople: Origenists inserted their errors into Gregory of Nyssa",
+      "author_work_ref": "Photius, Bibliotheca, codex 233 (Germanus of Constantinople, 'Antapodotikos'), PG 103, about cols. 1105 to 1108 (page heads of the scan, partly garbled)",
+      "language": "Greek",
+      "date": "Germanus patriarch 715 to 730; Photius wrote the Bibliotheca in the mid-ninth century",
+      "original": "ἀνεγνώσθη βιβλίον τὸν ἐν ἁγίοις Γερμανὸν φέρον συγγραφέα […] ἀγωνίζεται δὲ ὁ λόγος τὸν ἐν ἁγίοις τῆς Νύσσης Γρηγόριον καὶ τὰ τούτου συγγράμματα τῆς Ὠριγενείου παρασχεῖν ἐλεύθερα λώβης. καὶ γὰρ οἷς τοῦ δαιμονίου φύλου καὶ τῶν εἰς κόλασιν ἀτελεύτητον παραπεμπομένων ἀνθρώπων ἡ λῆρος ἀποκατάστασις φίλον, οὗτοι δή […] ἐπεβάλοντο παρενεῖραι τοῖς ἐκείνου φωτιστικοῖς καὶ σωτηρίοις λόγοις τὰ ζοφώδη καὶ ὀλέθρια τῆς Ὠριγένους ὀνειρώξεως ἀμβλωθρίδια […] τοῦτο μὲν προσθήκαις νόθοις, τοῦτο δὲ καὶ διαστροφῇ τῶν ὀρθῶν λογισμῶν βεβιασμένῃ, πολλὰ τῶν ἀμωμήτων ἐκείνου συνταγμάτων κατακιβδηλεύειν ἐπειράθησαν.\n[… next leaf …] ἐπιρραπίζει μὲν οὖν πρότερον τὸ αἱρετικὸν δόγμα, ὃ τῆς ἀποκαταστάσεως τῶν δαιμόνων εἰς τὸ ἀρχαῖον καὶ τῶν ἐν ἁμαρτίαις καταλυσάντων τὸν βίον, μετά τινας ποινὰς ὡρισμένας εἰς τὸν χορὸν τῶν δικαίων μετελθεῖν τερατεύεται. […] τρανολογούσας ὥσπερ αἰώνιον τὴν τῶν δικαίων ἀνεκλάλητον ἀπόλαυσιν, οὕτω καὶ τὴν τῶν ἁμαρτωλῶν ἀτελεύτητόν τε καὶ ἀνυπόστατον κόλασιν. […] ὅ τε Περὶ ψυχῆς πρὸς τὴν ἀδελφὴν Μακρῖναν Διάλογος, καὶ δὴ καὶ ὁ Κατηχητικὸς καὶ ὁ Περὶ τελείου […]",
+      "edition": "Standard modern text: René Henry, Photius, Bibliothèque, vol. 6 (Paris: Les Belles Lettres, Budé, 1971), codex 233; I did not reach it, so page and line are not confirmed. Older: Immanuel Bekker, Photii Bibliotheca (Berlin 1824), codex 233 (page not confirmed). The text above is Migne's, PG 103.",
+      "checked_against": "OCR text of the Migne page images, 'OGL-PatrologiaGraecaDev' Vol.-103, scan hvd.32044018872861, scan pages 560 and 561 (GitHub). OCR repairs, all certain from the sense: ἀντ-αποδοτικύς and similar line-break splits were left out of the quotation; βιϐ to βιβ; ϐ to β throughout; λῆρος and Ὠριγενείου are as the scan prints them. The final sentence of the scan is damaged by OCR, so I give only its recognisable pieces and mark the gaps with […].",
+      "english": "A book was read that bears as author the holy Germanus [… He wrote it as bishop of Constantinople …]. The argument strives to present the holy Gregory of Nyssa and his writings free of the stain of Origenism. For those who are fond of the (to my mind foolish) restoration of the demonic race and of the people sent to endless punishment […] undertook to slip into his enlightening and saving discourses the gloomy and deadly abortions of Origen's dream-stuff […] partly by spurious additions, partly by a forced twisting of right reasoning, they tried to falsify many of his blameless works.\n[Next leaf:] He first strikes down the heretical teaching which marvels that the demons, and those who ended their life in sins, are restored to the original state and, after certain fixed penalties, pass over into the chorus of the righteous. […] stating plainly that, just as the righteous' ineffable enjoyment is aionios, so also the sinners' punishment is unending and unbearable. […] the Dialogue on the Soul with his sister Macrina, and also the Catechetical (Oration), and the one 'On the Perfect' […]",
+      "english_source": "Own translation. No English translation of codex 233 exists in the public domain (Freese's 1920 version of the Bibliotheca stops before it); Henry's French is the nearest modern translation. Contested renderings: ἀποκατάστασις is 'restoration'; αἰώνιον in Photius's report is 'eternal' or 'age-long'. Photius pairs it with ἀτελεύτητον, 'unending', which settles the sense Photius and Germanus intended.",
+      "why_it_matters": "This is the earliest surviving statement that the passages in which Gregory seems to teach apokatastasis are not his. It lets Byzantine readers keep Gregory a father of the Church while rejecting those lines, and it is the origin of the modern interpolation argument.",
+      "readings": [
+        {
+          "scholar": "Photius of Constantinople (ancient reader of Germanus)",
+          "work": "Bibliotheca, codex 233",
+          "position": "Reports Germanus's book approvingly, calls Germanus the defender of true faith, and says Germanus proved from the Lord's words, the apostles and the prophets that the punishment of sinners, like the joy of the righteous, is unending.",
+          "side": "ancient reader: Origenists interpolated Gregory; the lines are not his",
+          "status": "V"
+        },
+        {
+          "scholar": "Ilaria Ramelli",
+          "work": "'Why Was St Gregory of Nyssa Never Condemned for His Doctrine of Apokatastasis?', Studia UBB Philosophia 67.2 (2022), pp. 135 to 157",
+          "position": "Says Germanus 'denied that Gregory wrote' passages such as the De anima text, and treats this as a strategy to rescue Gregory. She also reports that Severus of Antioch (512 to 518) and Barsanuphius of Gaza (sixth century) read Gregory as a restorationist without claiming interpolation, and that a Byzantine scholiast in Codex A also appeals to interpolators.",
+          "side": "the claim is a defensive strategy; Gregory's apokatastasis is his own",
+          "status": "S",
+          "source_url": "https://studia.reviste.ubbcluj.ru/index.php/subbphilosophia/article/download/411/388/746"
+        },
+        {
+          "scholar": "Brian E. Daley, as reported by John R. Sachs",
+          "work": "Sachs, 'Apocatastasis in Patristic Theology', Theological Studies 54 (1993), p. 635 n. 114",
+          "position": "Sachs records Daley's observation that some textual variants omit every reference to universal salvation, which Sachs puts down to later rejection of the idea. Sachs does not himself name Germanus or Photius.",
+          "side": "the manuscripts show later discomfort, which supports neither side outright",
+          "status": "S",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/08/54.4.1.pdf"
+        },
+        {
+          "scholar": "Michael McClymond",
+          "work": "'Origenes Vindicatus vel Rufinus Redivivus?', Theological Studies 76.4 (2015), pp. 818 to 819",
+          "position": "Says Ramelli's habit of explaining unwelcome texts as interpolations is 'designed to protect' Origen's reputation (he discusses this for Origen and for Basil; the page I read does not name Germanus).",
+          "side": "doubts interpolation arguments as a general method",
+          "status": "V",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/11/7-McClymond-Origenes-Vindicatus.pdf"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-103/master/hvd.32044018872861_ocr/560.txt",
+        "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-103/master/hvd.32044018872861_ocr/561.txt"
+      ],
+      "textual_notes": "The title of Germanus's book is given in the scan as 'Antapodotikos or Anothevtos' (roughly 'Of the Unadulterated Recompense of Lives'); Germanus's book is lost, so everything we know of its argument is Photius's summary. The third work Photius names, 'On the Perfect' (Περὶ τελείου), I could not identify with certainty. 'Interpolation' means words inserted into a text by someone other than the author. One catch for the reader: Photius's own sentence says Germanus rescued these works, so the claim covers the De anima, the Catechetical Oration and a third work, which are the three most-cited restorationist texts.",
+      "status": "V"
+    },
+    {
+      "id": "basil-short-rules-267",
+      "title": "Basil (attributed), Short Rules 267: those who write down an end of punishment for themselves",
+      "author_work_ref": "Basil of Caesarea (attributed), Regulae brevius tractatae 267, PG 31.1264C to 1265D (the range Ramelli gives; the scan's page heads read 1263 to 1266)",
+      "language": "Greek",
+      "date": "about 365 to 378 if Basil's",
+      "original": "Question: Εἰ ὁ μέν τις δαρήσεται πολλάς, ὁ δὲ ὀλίγας, πῶς λέγουσί τινες μὴ εἶναι τέλος τῆς κολάσεως;\nAnswer: […] ἓν καὶ τοῦτο τῆς μεθοδείας τοῦ διαβόλου, τὸ τοὺς πολλοὺς τῶν ἀνθρώπων, ὥσπερ ἐπιλαθομένους τῶν τοσούτων καὶ τοιούτων τοῦ Κυρίου ῥημάτων καὶ ἀποφάσεων, τέλος κολάσεως εἰς τὸ μᾶλλον κατατολμᾶν τῆς ἁμαρτίας ἑαυτοῖς ὑπογράφειν. εἰ γὰρ τῆς αἰωνίου κολάσεως ἔσται ποτὲ τέλος, τέλος ἕξει πάντως καὶ ἡ αἰώνιος ζωή. εἰ δὲ ἐπὶ τῆς ζωῆς τοῦτο νοῆσαι οὐ καταδεχόμεθα, ποῖον ἔχει λόγον τῇ κολάσει τῇ αἰωνίᾳ τέλος διδόναι; ἡ γὰρ τοῦ αἰωνίου προσθήκη ἐφʼ ἑκατέρων ἴσως κεῖται. ἀπελεύσονται γάρ, φησιν, οὗτοι εἰς κόλασιν αἰώνιον, οἱ δὲ δίκαιοι εἰς ζωὴν αἰώνιον. τούτων οὖν οὕτως ὁμολογουμένων, εἰδέναι χρή, ὅτι καὶ τὸ, δαρήσεται πολλάς, καὶ τὸ, δαρήσεται ὀλίγας, οὐχὶ τέλος, ἀλλὰ διαφορὰν κολάσεως δηλοῖ.",
+      "edition": "Migne, PG 31 (Paris 1857), reprinting the Maurist edition of Garnier; no modern critical edition of the Greek text is known to me. Rufinus's Latin version of the Basilian rules has a modern edition in CSEL 86, which I did not consult. Column given as in Ramelli (2014).",
+      "checked_against": "OCR text of the Migne page images, 'OGL-PatrologiaGraecaDev' Vol.-31, scan hvd.32044048272629, scan pages 651 and 652 (GitHub). OCR repairs, all certain from the sense: ποτὶ to ποτὲ; ἔξιι to ἕξει; ἠ to ἡ; αἰωνίῳ to αἰωνίᾳ (agreeing with κολάσει); Ἐρώτησις heading numerals read as ΣΞΖ (267), checked against the neighbouring numbers; footnote numerals removed. The gap marked […] is the biblical-quotation run (Matt 25:46, 25:41, Mark 9:44, Isa 66:24) which the OCR garbled.",
+      "english": "Question: If one will be beaten with many stripes and another with few, how do some say there is no end to the punishment?\nAnswer: […] It is one more of the devil's contrivances that the many among mankind, as though forgetting so many and such words and pronouncements of the Lord, dare to write down for themselves an end of punishment, so as to venture the more in sin. For if there will ever be an end of aionios punishment, aionios life will surely have an end too. And if we refuse to understand that of life, what reason is there to give an end to the aionios punishment? For the addition of 'aionios' stands, presumably, over both. 'These will go away,' he says, 'into aionios punishment, but the righteous into aionios life.' With these things so agreed, one must know that 'he shall be beaten with many' and 'he shall be beaten with few' signify not an end but a difference of punishment.",
+      "english_source": "Own translation. For comparison, M. Monica Wagner, Saint Basil: Ascetical Works (Fathers of the Church 9, 1950), and W. K. L. Clarke, The Ascetic Works of Saint Basil (SPCK, 1925), neither opened. Contested renderings: αἰώνιος is left as aionios because the argument turns on it; 'the many among mankind' (οἱ πολλοὶ τῶν ἀνθρώπων) is read by Hart as a majority and by Pakaluk as the human race idealised as weak; 'write down for themselves' (ὑπογράφειν) can also be 'sign up to'.",
+      "why_it_matters": "If Basil wrote this, it is a fourth-century Cappadocian father saying plainly that some people in his world held that punishment ends and that the word aionios cannot be made to allow it. Whether it is Basil's, and what 'the many' means, are both disputed.",
+      "readings": [
+        {
+          "scholar": "David Bentley Hart, as reported by Michael Pakaluk",
+          "work": "Hart, That All Shall Be Saved (Yale, 2019); reported in Pakaluk, 'Theological Fraud', First Things, 6 Feb 2020",
+          "position": "According to Pakaluk, Hart reads the passage as Basil reporting that a large majority of fellow Eastern Christians believed hell would end and all be saved, and as proof that Basil made no lexical objection to that reading of Matt 25:46.",
+          "side": "the passage shows a widespread universalist belief in the fourth-century East",
+          "status": "S",
+          "source_url": "https://firstthings.com/theological-fraud/"
+        },
+        {
+          "scholar": "Michael Pakaluk",
+          "work": "'Theological Fraud', First Things, 6 Feb 2020",
+          "position": "Takes the passage as authentic Basil and reads 'the many' (hoi polloi ton anthropon) as the human race left to itself, an idealisation of weakness and not a head-count of believers. He says Basil argues that aionios binds life and punishment together and so does reject the lexical point Hart says he ignores.",
+          "side": "the passage is Basil, and it rejects the end of punishment",
+          "status": "V",
+          "source_url": "https://firstthings.com/theological-fraud/"
+        },
+        {
+          "scholar": "Ilaria Ramelli",
+          "work": "'Basil and Apokatastasis: New Findings', Journal of Early Christian History 4.2 (2014), pp. 116 to 136; and 'Reply to Professor McClymond', Theological Studies 76.4 (2015), p. 831",
+          "position": "Treats the passage as doubtful. She calls the Regulae 'a highly interpolated work' and suggests the answer 'might in fact come from a slightly later time and be inspired by Theodore's remarks'. Her reasons: it pictures hell as a physical place, it argues from aionios life to aionios punishment although Basil elsewhere keeps aidios and aionios apart, and the argument is attested with certainty only decades later, in late Augustine. She does not give a firm verdict.",
+          "side": "the passage may be a later interpolation",
+          "status": "V",
+          "source_url": "https://afkimel.wordpress.com/wp-content/uploads/2020/02/st-basil-and-apokatastasis.pdf"
+        },
+        {
+          "scholar": "Michael McClymond",
+          "work": "'Origenes Vindicatus vel Rufinus Redivivus?', Theological Studies 76.4 (2015), pp. 818 and 822",
+          "position": "Reports that Ramelli 'insists that Basil of Caesarea's statements on everlasting punishment' were likely interpolated, calls the habit of explaining such texts away a protection of Origen's reputation, and lists Basil, with Epiphanius and others, among writers who affirm everlasting punishment (following Daley).",
+          "side": "the passage is Basil's; the interpolation argument is special pleading",
+          "status": "V",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/11/7-McClymond-Origenes-Vindicatus.pdf"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-31/master/hvd.32044048272629_ocr/651.txt",
+        "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-31/master/hvd.32044048272629_ocr/652.txt"
+      ],
+      "textual_notes": "The Migne apparatus on the page notes (in Latin, read through OCR) that the particle μή in the question is a point of manuscript variation: without it, the question would ask how some can say there is an end of punishment. I could not resolve this from the scan. 'Interpolation' means words inserted by a later hand. The Regulae brevius tractatae are a question-and-answer collection that, by general agreement, grew by additions; Ramelli's phrase 'highly interpolated work' (V, from her 2014 article) is the basis for her doubt about question 267 in particular. I found no study that defends 267 against her in detail, and Pakaluk assumes it is Basil's without arguing the point.",
+      "status": "V"
+    },
+    {
+      "id": "augustine-city-of-god-21-17",
+      "title": "Augustine, City of God 21.17: 'our merciful ones' and the doctrine of Origen",
+      "author_work_ref": "Augustine, De civitate Dei 21.17",
+      "language": "Latin",
+      "date": "about 420 to 426",
+      "original": "Nunc iam cum misericordibus nostris agendum esse uideo et pacifice disputandum, qui uel omnibus illis hominibus, quos iustissimus iudex dignos gehennae supplicio iudicabit, uel quibusdam eorum nolunt credere poenam sempiternam futuram, sed post certi temporis metas pro cuiusque peccati quantitate longioris siue breuioris eos inde existimant liberandos. Qua in re misericordior profecto fuit Origenes, qui et ipsum diabolum adque angelos eius post grauiora pro meritis et diuturniora supplicia ex illis cruciatibus eruendos et sociandos sanctis angelis credidit. Sed illum et propter hoc et propter alia nonnulla et maxime propter alternantes sine cessatione beatitudines et miserias et statutis saeculorum interuallis ab istis ad illas adque ab illis ad istas itus ac reditus interminabiles non inmerito reprobauit ecclesia; quia et hoc, quod misericors uidebatur, amisit faciendo sanctis ueras miserias, quibus poenas luerent, et falsas beatitudines, in quibus uerum ac securum, hoc est sine timore certum, sempiterni boni gaudium non haberent.",
+      "edition": "Standard modern edition: B. Dombart and A. Kalb, CCSL 47 to 48 (Turnhout: Brepols, 1955), book 21, chapter 17; page and line not confirmed, because I did not reach it. The text I checked is the older critical text, Emanuel Hoffmann, CSEL 40.2 (Vienna/Prague/Leipzig, 1900), pp. 548 to 549, chapter 17 (page breaks read from the file; line numbers not confirmed).",
+      "checked_against": "The TEI file of CSEL 40 in the OpenGreekAndLatin/csel-dev repository on GitHub (data/stoa0040/stoa003/stoa0040.stoa003.opp-lat3.xml), chapter heading 'Caput XVII: De his, qui putant nullorum hominum poenas in aeternum esse mansuras'. I took the lines as printed, changed one stray full stop (after 'luerent') to a comma, and nothing else. I did not compare with Dombart-Kalb.",
+      "english": "Now I must deal with our merciful ones, and argue peaceably with those who are unwilling to believe that all the people whom the most just judge will find worthy of the punishment of Gehenna, or some of them, will have everlasting punishment, but think that after limits of a fixed time, longer or shorter according to the size of each one's sin, they will be freed from it. In this matter Origen was certainly more merciful, who believed that even the devil and his angels, after heavier and longer punishments suited to their deserts, will be rescued from those torments and joined to the holy angels. But the Church rightly rejected him, both for this and for several other things, and above all for the endless alternation of blessedness and misery, with set intervals of ages and unending journeys to and fro between them; for he lost even the mercy that seemed to be in his view, by making the saints suffer real miseries in which to pay for their sins, and false blessednesses in which they would have no true and secure joy, that is, joy of an everlasting good that is free of fear.",
+      "english_source": "Own translation. For comparison, the public-domain translation by Marcus Dods in NPNF 1st series, vol. 2 (1887), from which one phrase of Augustine's next sentence is worth knowing: 'this stream of mercy flows to all the human race and dries up as soon as it reaches the angelic' (Dods, as quoted on the New Advent page). Contested renderings: misericordibus nostris, 'our merciful ones' (some translators say 'tender-hearted'); the tone is gentle and a little ironic; reprobauit is 'rejected' or 'condemned'; sempiternam is 'everlasting'; ecclesia is 'the Church' with no council named.",
+      "why_it_matters": "In 21.17 Augustine says, around 420, that the Church had already rejected Origen for a doctrine of cycles, and that Origen's own restorationism was at least more merciful than the opinion of 'our merciful ones' that only some will be freed. It is the best Latin evidence that people inside the church of Augustine's day hoped for an end to punishment.",
+      "readings": [
+        {
+          "scholar": "Augustine of Hippo (ancient reader of the 'merciful')",
+          "work": "City of God 21.17 to 21.27, and Enchiridion 29 (112)",
+          "position": "Treats the merciful as sincere but mistaken: their argument from mercy would, he says, have to reach the devil too, and Origen's cycles are what the Church rightly rejected. He argues in 21.17 to 27 against several groups of 'merciful' opinion in turn.",
+          "side": "ancient reader: punishment is endless; the merciful are gently refuted",
+          "status": "V"
+        },
+        {
+          "scholar": "John R. Sachs, S.J.",
+          "work": "'Apocatastasis in Patristic Theology', Theological Studies 54 (1993), p. 639 n. 129",
+          "position": "States that in City of God 21.17 to 27 Augustine 'completely rejects any notion of universal salvation' and defends the eternity of punishment.",
+          "side": "Augustine decisively rejects universal salvation",
+          "status": "V",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/08/54.4.1.pdf"
+        },
+        {
+          "scholar": "Richard Bauckham, as reported by Aidan Kimel",
+          "work": "Bauckham, The Fate of the Dead (Brill, 1998), pp. 145 to 159, as discussed in Kimel, 'St Augustine of Hippo and the Misericordes', 2 Aug 2021",
+          "position": "Bauckham lays out seven positions among Augustine's 'merciful' and argues that the one resting on the saints' prayer for the damned must derive from apocalyptic tradition, such as the Apocalypse of Peter, and not from Origen. Augustine's interlocutors had 'derived from extra-canonical apocalyptic literature' what he is replying to (Bauckham p. 157, as Kimel quotes it).",
+          "side": "the merciful were a broader tradition than Origenism",
+          "status": "S",
+          "source_url": "https://afkimel.wordpress.com/2021/08/02/st-augustine-of-hippo-and-the-misericordes/"
+        },
+        {
+          "scholar": "Aidan Kimel",
+          "work": "'St Augustine of Hippo and the Misericordes', Eclectic Orthodoxy, 2 Aug 2021",
+          "position": "Counts seven groups of 'misericordes' in 21.17 to 27 and says only the first, Origen's followers, are called heretical; the rest Augustine answers cordially but argues are inconsistent. Kimel concludes that the intercessory hope is a genuine universalist position with roots in the second century and that Augustine's predestinarian reasoning is the weak point of his reply.",
+          "side": "the merciful were a real and respectable tradition",
+          "status": "S",
+          "source_url": "https://afkimel.wordpress.com/2021/08/02/st-augustine-of-hippo-and-the-misericordes/"
+        },
+        {
+          "scholar": "Ilaria Ramelli and Michael McClymond",
+          "work": "Ramelli, 'Reply to Professor McClymond', Theological Studies 76.4 (2015), pp. 830 to 831; McClymond, review, pp. 817 to 818",
+          "position": "On a related point: Ramelli says she has argued that Augustine 'embraced apokatastasis during his long anti-Manichaean phase' and later retracted it (Retractationes 1.6); McClymond denies that Augustine ever espoused Origen's apokatastasis. Neither page I read discusses City of God 21.17 itself.",
+          "side": "disagree on whether the young Augustine was a restorationist",
+          "status": "V",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/11/8-Ramelli-Reply-to-Professor.pdf"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa003/stoa0040.stoa003.opp-lat3.xml",
+        "https://www.thelatinlibrary.com/augustine/civ21.shtml"
+      ],
+      "textual_notes": "The CSEL apparatus lists only small manuscript variants in this chapter (spelling and word order). A marginal note in one manuscript (called g) beside the mention of Origen reads 'notandus locus atque tractandus', 'a place to be noted and discussed'. The CSEL text spells in the manner of Hoffmann (adque, uideo, inmerito); the Dombart-Kalb text may differ in spelling. The key phrase non inmerito reprobauit ecclesia names the Church and not a council, so it cannot by itself be dated to 543 or 553.",
+      "status": "V"
+    },
+    {
+      "id": "maximus-qd-19",
+      "title": "Maximus the Confessor, Questions and Doubts 19: the three senses of apokatastasis",
+      "author_work_ref": "Maximus the Confessor, Quaestiones et dubia 19 (Question 13 in the PG numbering), PG 90.796",
+      "language": "Greek",
+      "date": "seventh century (about the 630s; not confirmed)",
+      "original": "Ἐπειδὴ Γρηγόριος ὁ Νύσσης ἐν τοῖς ἑαυτοῦ συγγράμμασι φαίνεται τοῖς μὴ τὸ βάθος ἐπισταμένοις τῆς ὑψηλῆς αὐτοῦ θεωρίας πανταχοῦ [v.l. πολλαχοῦ] ἀποκατάστασιν ὑπεμφαίνειν, παρακαλῶ ὅπερ ἐπίστασαι περὶ τούτου εἰπέ. Ἀπόκρ. Τρεῖς ἀποκαταστάσεις οἶδεν ἡ Ἐκκλησία. μίαν μὲν, τὴν ἑκάστου κατὰ τὸν τῆς ἀρετῆς λόγον, ἐν ᾗ ἀποκαθίσταται, τὸν ἐπʼ αὐτῷ λόγον τῆς ἀρετῆς ἐκπληρώσας. δευτέραν δέ, τὴν τῆς ὅλης φύσεως ἐν τῇ ἀναστάσει, τὴν εἰς ἀφθαρσίαν καὶ ἀθανασίαν ἀποκατάστασιν. τρίτην δέ, ᾗ καὶ μάλιστα κατακέχρηται ἐν τοῖς ἑαυτοῦ λόγοις ὁ Νύσσης Γρηγόριος, ἐστιν αὕτη, ἡ τῶν ψυχικῶν δυνάμεων τῇ ἁμαρτίᾳ ἀποπεσουσῶν εἰς ὅπερ ἐκτίσθησαν πάλιν ἀποκατάστασις. […] καὶ περάσασαν τοὺς πάντας αἰῶνας, καὶ μὴ εὑρίσκουσαν στάσιν, εἰς τὸν Θεὸν ἐλθεῖν τὸν μὴ ἔχοντα πέρας. καὶ οὕτως τῇ ἐπιγνώσει, οὐ τῇ μεθέξει τῶν ἀγαθῶν, ἀπολαύειν τὰς δυνάμεις, καὶ εἰς τὸ ἀρχαῖον ἀποκαταστῆναι, καὶ δειχθῆναι τὸν δημιουργὸν ἀναίτιον τῆς ἁμαρτίας.",
+      "edition": "Standard critical edition: Jose H. Declerck, Maximi Confessoris Quaestiones et dubia, CCSG 10 (Turnhout: Brepols; Leuven University Press, 1982), question 19; I did not reach it, so page and line are not confirmed. The text above is Migne's, PG 90, in the older numbering where this is the thirteenth question.",
+      "checked_against": "OCR text of the Migne page images, 'OGL-PatrologiaGraecaDev' Vol.-90, scan hvd.32044019208016, scan page 405 (GitHub; the page heads read 795 and 796). OCR repairs, all certain from the sense: συηιοάμμασι to συγγράμμασι; ὲν to ἐν; ἠ to ἡ; tx-πληρώσας to ἐκπληρώσας; dno-πεσουσῶν to ἀποπεσουσῶν; ἀτωλαῦείν to ἀπολαύειν; ό to ὁ. I left out one sentence in the middle (marked […]), which the OCR does not give cleanly.",
+      "english": "Since Gregory of Nyssa in his writings seems, to those who do not know the depth of his lofty contemplation, to hint at apokatastasis everywhere [in many places], please tell me what you know about this. Answer: The Church knows three restorations. One is each person's, according to the principle (logos) of virtue, in which he is restored once he has fulfilled the logos of virtue that rests with him. The second is that of the whole nature at the resurrection, the restoration to incorruption and immortality. The third, which Gregory of Nyssa chiefly uses in his discourses, is this: the restoration, to what they were created for, of the powers of the soul that fell away through sin. […] and, having passed through all the ages and finding no place to stand, it must come to God, who has no limit. And so the powers enjoy, by knowledge and not by sharing in the good things, and are restored to the original state, and the Creator is shown to be blameless of sin.",
+      "english_source": "Own translation. For comparison, Despina D. Prassas, St Maximus the Confessor's 'Questions and Doubts' (Northern Illinois University Press, 2010), which is under copyright and which I could not open. Contested renderings: ἀποκατάστασις as 'restoration' (the point of the answer is that the word has three senses); τῇ ἐπιγνώσει, οὐ τῇ μεθέξει as 'by knowledge, not by participation', which some read as saying the restored powers know the good without sharing in it.",
+      "why_it_matters": "Maximus is asked directly about Gregory's apokatastasis and neither endorses nor condemns it. He sorts the word into three senses and says the third, the restoration of the soul's own powers, is what Gregory mainly means. Scholars divide over whether this is a defence of Gregory, a limit placed on him, or a deliberate silence.",
+      "readings": [
+        {
+          "scholar": "Andreas Andreopoulos",
+          "work": "'Eschatology in Maximus the Confessor', in The Oxford Handbook of Maximus the Confessor (Oxford, 2015), ch. 16, pp. 322 to 340; on QD 19 at pp. 329 to 332",
+          "position": "Reads QD 19 as describing three restorations, the third taken from Gregory and meaning the restoration of the soul's powers (natural will), and says 'Maximus never gives his clear support to the idea' of universal restoration. He reads Maximus's 'honourable silence' as keeping the question a mystery, and argues that automatic salvation 'would deny the freedom of the soul'.",
+          "side": "Maximus does not endorse universal salvation but does not reject Gregory",
+          "status": "V",
+          "source_url": "https://www.academia.edu/20492361/Eschatology_in_Maximus_the_Confessor"
+        },
+        {
+          "scholar": "Brian E. Daley",
+          "work": "'Apokatastasis and \"Honorable Silence\" in the Eschatology of Maximus the Confessor', in Maximus Confessor: Actes du Symposium sur Maxime le Confesseur, Fribourg 1982 (Fribourg, 1982), pp. 309 to 339",
+          "position": "As I understand it, Daley argues that Maximus does not himself teach universal restoration but keeps an 'honourable silence' rather than condemn Gregory. Title as listed in Makohon (2019); the position is from my background knowledge, not checked in the article.",
+          "side": "Maximus stays silent on whether all will be saved",
+          "status": "R"
+        },
+        {
+          "scholar": "Ilaria Ramelli",
+          "work": "'Reply to Professor McClymond', Theological Studies 76.4 (2015), pp. 830 and 834",
+          "position": "Says that 'both Origen's and Gregory's eschatological ideas will make their way into Maximus's' thought, that several scholars read Maximus as affirming apokatastasis, and that Maximus 'speaks only of punishment aionios, not aidios'.",
+          "side": "Maximus carries the restorationist tradition forward",
+          "status": "V",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/11/8-Ramelli-Reply-to-Professor.pdf"
+        },
+        {
+          "scholar": "Michael McClymond",
+          "work": "'Origenes Vindicatus vel Rufinus Redivivus?', Theological Studies 76.4 (2015), pp. 820, 823 and 825",
+          "position": "Says Gregory, Maximus and Eriugena 'all rejected Origen's static afterlife' in favour of a constantly changing and dynamic one, and lists Maximus among writers Daley classes as against universalism.",
+          "side": "Maximus differs from Origen and is not a clear universalist",
+          "status": "V",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/11/7-McClymond-Origenes-Vindicatus.pdf"
+        }
+      ],
+      "source_urls": [
+        "https://raw.githubusercontent.com/OGL-PatrologiaGraecaDev/Vol.-90/master/hvd.32044019208016_ocr/405.txt"
+      ],
+      "textual_notes": "The PG text has a variant at πανταχοῦ ('everywhere'), noted in the margin as πολλαχοῦ ('in many places'); the difference is the difference between 'Gregory hints at apokatastasis everywhere' and 'in many places'. A footnote letter after τῶν ἀγαθῶν in the scan flags a variant I could not read. Declerck's critical text may differ in small points.",
+      "status": "V"
+    },
+    {
+      "id": "isaac-nineveh-second-part-39-40",
+      "title": "Isaac of Nineveh, Second Part 39 and 40: hope for the end of Gehenna in the Church of the East",
+      "author_work_ref": "Isaac of Nineveh (Isaac the Syrian), The Second Part, chapters 39 and 40 (cited II/39 and II/40)",
+      "language": "Syriac",
+      "date": "late seventh century",
+      "original": "Syriac text not obtained. I reached only short English phrases from Brock's translation, as quoted by others. The edition is Sebastian Brock, ed. and trans., Isaac of Nineveh (Isaac the Syrian), 'The Second Part', Chapters IV to XLI, CSCO 554 (Syriac text, Scriptores Syri 224) and CSCO 555 (English translation, Scriptores Syri 225) (Leuven: Peeters, 1995).",
+      "edition": "Brock, CSCO 554 (Syriac) and 555 (English), 1995. John Zaleski's note gives the relevant passage at pp. 148 to 171 of the Syriac volume and pp. 160 to 182 of the English; whether those pages match chapters 39 and 40 exactly is not confirmed.",
+      "checked_against": "Not checked against the edition. English phrases only, as quoted in Alfeyev's paper (2008) and in Kimel's post (2013), who cite Brock's translation. I cannot say whether each phrase is Brock's wording word for word.",
+      "english": "Phrases as quoted from Brock's English: 'I am of the opinion that He is going to manifest some wonderful outcome' (II.39.6, quoted by Alfeyev); 'a matter of immense and ineffable compassion' (II.39.6, quoted by Kimel); the torment of Gehenna set for 'a fixed period' and 'temporary and short', ending in 'a single love, a single purpose, a single will' (II.40.5, as Alfeyev reports it); 'all the time towards forgiveness' (II.40.13, quoted by Kimel).",
+      "english_source": "Brock's translation, quoted only in short phrases through Alfeyev (2008) and Kimel (2013); not reproduced here, being under copyright. Contested rendering: whether Isaac's 'outcome' language is a hope (he writes 'I am of the opinion') or a teaching. The wording in the second sentence is my gloss on Alfeyev's report and not a quotation.",
+      "why_it_matters": "Isaac is the clearest voice of hope for the end of Gehenna in the Church of the East, a church that never received the council of 553. His Second Part only came to light in 1983, so earlier scholars of the debate did not have it.",
+      "readings": [
+        {
+          "scholar": "Hilarion Alfeyev",
+          "work": "'St Isaac the Syrian, a Theologian of Love and Mercy', paper at the World Congress on Divine Mercy, Rome, 4 April 2008 (reposted by Richard Beck, 30 Jan 2020); see also his The Spiritual World of Isaac the Syrian (2000)",
+          "position": "Says Isaac saw Gehenna as 'a sort of purgatory rather than hell', after which all who fell away return to God. He calls this 'eschatological optimism' and a 'personal theological vision' that 'has never been approved by the Orthodox Church', and distinguishes it from Origen's apokatastasis, tracing it more to Theodore of Mopsuestia and Diodore of Tarsus.",
+          "side": "a hope grounded in God's love, distinct from Origenism; not Church teaching",
+          "status": "S",
+          "source_url": "http://experimentaltheology.blogspot.com/2020/01/st-isaac-syrian-theologian-of-love-and.html"
+        },
+        {
+          "scholar": "Aidan Kimel, quoting Waclaw Hryniewicz",
+          "work": "'St Isaac the Syrian: The Triumph of the Kingdom over Gehenna', Eclectic Orthodoxy, 21 Mar 2013",
+          "position": "Quotes Alfeyev that Gehenna is a sort of purgatory, and Hryniewicz that Gehenna 'can only be temporary and provisional, permeated by God's love and mercy', and says Isaac's eschatology must be distinguished from the Origenist construals of apokatastasis.",
+          "side": "Isaac teaches that Gehenna is temporary",
+          "status": "S",
+          "source_url": "https://afkimel.wordpress.com/2013/03/21/st-isaac-the-syrian-the-triumph-of-the-kingdom-over-gehenna/"
+        },
+        {
+          "scholar": "John Zaleski, reporting Sebastian Brock",
+          "work": "'Discovering Universal Salvation', Manuscript Studies blog, University of Notre Dame (undated)",
+          "position": "Reports that Brock found the Second Part in a Bodleian manuscript in 1983 and published it in 1995, and that Isaac there 'rejected the idea of eternal punishment and argued instead for universal salvation'.",
+          "side": "Isaac teaches universal salvation",
+          "status": "S",
+          "source_url": "https://sites.nd.edu/manuscript-studies/?p=11156"
+        },
+        {
+          "scholar": "Michael McClymond",
+          "work": "'Origenes Vindicatus vel Rufinus Redivivus?', Theological Studies 76.4 (2015), pp. 819 and 823 to 824",
+          "position": "Counts Isaac among the 'in all likelihood' universalists but faults Ramelli's section on him (pp. 758 to 766 of her book) for losing the distinctions between Isaac, Origen and Gregory.",
+          "side": "Isaac is probably a universalist but not simply an Origenist",
+          "status": "V",
+          "source_url": "https://theologicalstudies.net/wp-content/uploads/2022/11/7-McClymond-Origenes-Vindicatus.pdf"
+        }
+      ],
+      "source_urls": [
+        "http://experimentaltheology.blogspot.com/2020/01/st-isaac-syrian-theologian-of-love-and.html",
+        "https://afkimel.wordpress.com/2013/03/21/st-isaac-the-syrian-the-triumph-of-the-kingdom-over-gehenna/",
+        "https://sites.nd.edu/manuscript-studies/?p=11156"
+      ],
+      "textual_notes": "Isaac's Second Part was unknown until Brock found it in a manuscript at the Bodleian Library in 1983 (status S, Zaleski and Kimel), which is why it is edited in 1995 and not in Bedjan's 1909 collection of Isaac's works. The English wording above is reported through two intermediaries and the 'I am of the opinion' phrase is a hedge: Alfeyev notes the same hedging and calls the passage a vision, not a doctrine. The claim that the Church of the East never received the council of 553 comes from this survey's brief, not from a source I opened (status R).",
+      "status": "S"
+    },
+    {
+      "id": "bee-60-diodore-theodore",
+      "title": "Book of the Bee 60 (Solomon of Basra): Diodore and Theodore on punishment that ends, and why 553 did not touch it",
+      "author_work_ref": "Solomon of Basra, Book of the Bee, chapter 60 (Budge's chapter LX), 'Whether mercy will be shewn to sinners and the devils in Gehenna, after they have been tormented...'; quoting Diodore of Tarsus, Book of the Dispensation, and Theodore of Mopsuestia",
+      "language": "Syriac",
+      "date": "Solomon about 1222; Diodore died about 390; Theodore about 350 to 428",
+      "original": "Syriac text not obtained. The Syriac edition is E. A. Wallis Budge, The Book of the Bee, Anecdota Oxoniensia, Semitic Series 1.2 (Oxford: Clarendon Press, 1886), which prints the Syriac with an English translation; I could not reach a readable scan of the Syriac. Only the English translation was read.",
+      "edition": "Budge 1886 (Syriac and English). A secondary site gives the English of chapter 60 at pp. 139 to 141 of Budge (not confirmed). Budge's note says the 'Book of the Dispensation' is also cited in J. S. Assemani, Bibliotheca Orientalis III.1, p. 29.",
+      "checked_against": "Budge's English translation as shown on the sacred-texts.com page for chapter LX (sacred-texts.com/chr/bb/bb60.htm); the passage was copied in short segments. The Syriac was not checked. The text has a gap of several words, which Budge marks with a row of asterisks and notes: 'This sentence seems to me to be untranslatable as it now stands.'",
+      "english": "Mâr Theodore the Expositor says: [Those who have here chosen fair things will receive in the world to come the pleasure of good things; the wicked …] when they are become ordered in their minds by penalties and the fear that springs from them … will be deemed worthy of the happiness of the Divine liberality. For He would never have said, 'Until thou payest the uttermost farthing,' unless it had been possible for us to be freed from our sins through having atoned for them by paying the penalty; neither would He have said, 'he shall be beaten with many stripes,' or 'he shall be beaten with few stripes,' unless it were that the penalties, being meted out according to the sins, should finally come to an end.\nSo also the blessed Diodorus, who says in the 'Book of the Dispensation:' … torment for sinners, but not everlasting … They must however be tormented for a short time, as they deserve, in proportion to the measure of their iniquity … Again he says: … in His mercy He shortens and reduces the length of the time … It has not been revealed whether the goodness of God wishes to punish without ceasing the blameworthy who have been found guilty of evil deeds (or not), as we have already said before. [gap] But if punishment is to be weighed out according to sin, not even so would punishment be endless. For as regards that which is said in the Gospel, 'These shall go away into everlasting punishment, but the righteous into life eternal;' this word 'eternal' (le-'âlam) is not definite: for if it be not so, how did Peter say to our Lord, 'Thou shalt never wash my feet,' and yet He washed him?",
+      "english_source": "E. A. Wallis Budge, The Book of the Bee (Oxford, 1886), public domain, quoted with ellipses and one bracketed summary of mine. Contested renderings: Syriac l'olam, 'for ever' or 'for an age', is the key word, and Budge himself notes its range in the passage; 'the Expositor' is Theodore's usual title in the East Syrian church.",
+      "why_it_matters": "This is where the East Syrian tradition preserves Diodore and Theodore speaking about punishment that is measured and finally ends. It shows that the doctrine sat in the Church of the East under the names of two Antiochene teachers, while the council of 553 condemned Theodore for his Christology (the Three Chapters) and the surviving evidence does not show that the council condemned him for this.",
+      "readings": [
+        {
+          "scholar": "Solomon of Basra (the compiler)",
+          "work": "Book of the Bee, chapter 60 (about 1222)",
+          "position": "Sets Theodore, Diodore and Mâr Isaac (probably Isaac of Nineveh; not confirmed) beside the Book of Memorials as Fathers who 'bid us rely on Divine mercy', argues that the Syriac word translated 'for ever' is not definite, and closes without giving a verdict of his own.",
+          "side": "ancient compiler: records the hope without endorsing or condemning it",
+          "status": "V"
+        },
+        {
+          "scholar": "Hilarion Alfeyev",
+          "work": "'St Isaac the Syrian, a Theologian of Love and Mercy' (2008)",
+          "position": "Traces Isaac's hope for the end of Gehenna more to Theodore of Mopsuestia and Diodore of Tarsus than to Origen, whose idea of a passing restoration before another world he calls alien to Christian tradition.",
+          "side": "Antiochene hope, distinct from Origenism",
+          "status": "S",
+          "source_url": "http://experimentaltheology.blogspot.com/2020/01/st-isaac-syrian-theologian-of-love-and.html"
+        },
+        {
+          "scholar": "Ilaria Ramelli, as reported by the Historical Christian site",
+          "work": "Ramelli, The Christian Doctrine of Apokatastasis (Brill, 2013), on Diodore; reported on historicalchristian.faith, 'Diodore of Tarsus on universal restoration'",
+          "position": "Counts Diodore, with Titus of Bostra, among Antiochene universalists who inherited Origen's providential framework while rejecting allegory and pre-existence; John of Dara and Theodore bar Konai also name Diodore as a restorationist. The site also admits that Diodore's own works are almost all lost, so the Bee fragment reaches us second-hand and its attribution is not tested.",
+          "side": "Diodore and Theodore taught the end of punishment",
+          "status": "S",
+          "source_url": "https://www.historicalchristian.faith/doctrine/doctrines/apokatastasis/diodore-of-tarsus.html"
+        },
+        {
+          "scholar": "Aidan Kimel",
+          "work": "'Did the Fifth Ecumenical Council Condemn Universal Salvation?', Eclectic Orthodoxy, 31 May 2020",
+          "position": "Notes that, per Gregory the Great, the general synod 'only anathematized one person, Theodore of Mopsuestia' (Ep. 51), for the Three Chapters, and argues that the bishops 'silently passed over' his teaching on the restoration of the wicked. He cites Cyril of Scythopolis's report of a 'common and universal anathema' on Origen and Theodore, but calls Cyril a partisan witness, with Hombergen saying Cyril 'seriously contradicts the historical evidence'.",
+          "side": "553 condemned Theodore for Christology, not for ending punishment",
+          "status": "S",
+          "source_url": "https://afkimel.wordpress.com/2020/05/31/did-the-fifth-ecumenical-council-condemn-universal-salvation/"
+        },
+        {
+          "scholar": "Cyril of Scythopolis (sixth-century monk and biographer)",
+          "work": "Lives of the Monks of Palestine, as reported by Truglia and Kimel from Price's translation",
+          "position": "Says that after the council a 'common and universal anathema' was laid on Origen and Theodore of Mopsuestia together.",
+          "side": "ancient reader: Origen and Theodore were condemned together",
+          "status": "S"
+        }
+      ],
+      "source_urls": [
+        "https://www.sacred-texts.com/chr/bb/bb60.htm",
+        "https://www.historicalchristian.faith/doctrine/doctrines/apokatastasis/diodore-of-tarsus.html"
+      ],
+      "textual_notes": "The Syriac Book of the Bee exists in several manuscripts; Budge's edition is based on manuscripts in Oxford, London and Munich (per the title page as listed in library records; not checked in the book). The Diodore quotation is drawn from his Book of the Dispensation, which does not survive independently, so the quotation cannot be checked against anything else. The quoted Diodore stops short of asserting that punishment ends: 'It has not been revealed whether the goodness of God wishes to punish without ceasing', and the more positive lines are conditional on punishment being weighed 'according to sin'. The Theodore passage rests on the same two Gospel texts, the last farthing and the many and few stripes, that Basil's question 267 treats. I did not find a text of the council's own quotations from Theodore that touches punishment (the Acts concern the Three Chapters), and I could not prove that absence.",
+      "status": "S"
+    }
+  ],
+  "other_findings": [
+    {
+      "claim": "Ramelli suggests Basil's Short Rules 267 may be a later insertion inspired by Theodore of Mopsuestia, and gives three reasons (physical hell, aionios/aidios usage, late attestation); she gives no firm verdict.",
+      "source": "Ramelli, 'Basil and Apokatastasis: New Findings', Journal of Early Christian History 4.2 (2014), pp. 116 to 136, via the PDF on Kimel's site.",
+      "status": "V"
+    },
+    {
+      "claim": "Pakaluk treats Short Rules 267 as authentic Basil and cites PG 31 cols. 1263 to 1266.",
+      "source": "Pakaluk, 'Theological Fraud', First Things, 6 Feb 2020.",
+      "status": "V"
+    },
+    {
+      "claim": "In Photius's account Germanus's book is called Antapodotikos (or Anothevtos) and claims Origenists inserted spurious additions into Gregory's works; the three works named are the Dialogue on the Soul with Macrina, the Catechetical (Oration) and one 'On the Perfect'.",
+      "source": "Photius, Bibliotheca, codex 233, PG 103 (scan pages 560 to 561), read in OCR.",
+      "status": "V"
+    },
+    {
+      "claim": "Severus of Antioch (512 to 518) and Barsanuphius of Gaza (sixth century) read Gregory as teaching apokatastasis and did not claim interpolation.",
+      "source": "Ramelli, 'Why Was St Gregory of Nyssa Never Condemned...?', Studia UBB Philosophia 67.2 (2022).",
+      "status": "S"
+    },
+    {
+      "claim": "Augustine in City of God 21.17 says the Church 'not undeservedly' rejected Origen for the endless alternation of blessedness and misery, and for other reasons, without naming any council.",
+      "source": "CSEL 40.2, pp. 548 to 549 (Hoffmann), from the csel-dev TEI file.",
+      "status": "V"
+    },
+    {
+      "claim": "Augustine reckons seven groups of 'merciful' opinion in City of God 21.17 to 27; only the first (Origen's followers) is called heretical.",
+      "source": "Kimel, 'St Augustine of Hippo and the Misericordes' (2021), giving Bauckham, Fate of the Dead, pp. 150 to 151 as the table of the seven.",
+      "status": "S"
+    },
+    {
+      "claim": "McClymond concedes that Ramelli's argument that aionios need not mean 'eternal' in the absolute sense 'has some merit'.",
+      "source": "McClymond, Theological Studies 76.4 (2015), p. 824 n. 23.",
+      "status": "V"
+    },
+    {
+      "claim": "Brock found the Second Part of Isaac of Nineveh in a Bodleian manuscript in 1983; the edition is CSCO 554 and 555 (1995).",
+      "source": "Zaleski, Notre Dame Manuscript Studies blog; Kimel 2013.",
+      "status": "S"
+    },
+    {
+      "claim": "Budge's Book of the Bee ch. LX is titled 'Whether Mercy Will Be Shewn to Sinners and the Devils in Gehenna, after They Have Been Tormented and Suffered and Been Punished, or not?', and names Mâr Isaac, Mâr Theodore the Expositor and Diodorus; its closing doxology gives no verdict.",
+      "source": "sacred-texts.com/chr/bb/bb60.htm (Budge 1886).",
+      "status": "V"
+    },
+    {
+      "claim": "Gregory the Great (Ep. 51) said the fifth council anathematized only one person, Theodore of Mopsuestia.",
+      "source": "As summarised in Kimel, 'Did the Fifth Ecumenical Council Condemn Universal Salvation?' (2020); the letter itself not opened.",
+      "status": "S"
+    },
+    {
+      "claim": "Aristotle, Rhetoric 1.10 (1369b), separates kolasis from timoria, the former being for the sake of the person punished; restorationist readers cite it for the corrective sense of kolasis.",
+      "source": "Standard citation from background knowledge; not opened in this pass.",
+      "status": "R"
+    },
+    {
+      "claim": "The Church of the East never received the council of 553.",
+      "source": "Stated in this survey's brief; not checked against a source in this pass.",
+      "status": "R"
+    },
+    {
+      "claim": "The Greek of the Migne Patrologia Graeca passages here comes from OCR text published by the Open Greek and Latin project on GitHub (organisation OGL-PatrologiaGraecaDev), made from scans of the printed volumes held in HathiTrust libraries.",
+      "source": "Repository folders listed on github.com/OGL-PatrologiaGraecaDev (Vol.-31, 44, 45, 46, 90, 103).",
+      "status": "V"
+    }
+  ],
+  "problems": "(1) The Syriac of Isaac of Nineveh, Second Part 39 and 40 (Brock, CSCO 554) and the Syriac of the Book of the Bee ch. 60 (Budge 1886) could not be reached; for Isaac I have only short English phrases quoted by Alfeyev and Kimel (status S), and for the Bee I have Budge's English only. (2) None of the Greek is from a modern critical edition: the Nyssa, Photius, Basil and Maximus lines are OCR of Migne's Patrologia Graeca, repaired by hand where the OCR was plainly wrong, and the repairs are listed under each passage. The critical editions (GNO III/2, III/3 and III/4; Henry's Photius; Declerck's CCSG 10 Maximus) were not accessible, so page and line are 'not confirmed' throughout. One reading in De anima 99 to 104 (μὴ χωρήσει) I could not settle. (3) Column numbers in PG are read from the scans' page heads, which are in places garbled; only Basil's 1264C to 1265D (from Ramelli) and the Nyssa/Maximus column ranges as stated are reliable to the page. (4) English: the NPNF, Dods and Srawley translations were not opened in full, because the tools available returned only short quotations, so nearly all English is my own translation; only the KJV and Budge's Bee are quoted from public-domain sources. (5) For modern scholars, the fetch tool gave summaries with short quotations, so status V means I saw the scholar's own words in a short quotation or from a page of their paper, not that I read the whole book. Ludlow (Universal Salvation, 2000), Daley's The Hope of the Early Church, Balthasar, Zachhuber, Maspero, Blowers, Louth, Sherwood, Ware, Konstan's own chapter, Hart's own text and Brock's own text were not read, and I have not attributed readings to them except Daley 1982 (status R). (6) For Acts 3:21 I found no modern commentary or article I could open that treats the verse alone; the ancient evidence is in the Maximus entry (three senses of the word). (7) Basil, Short Rules 267: I found Ramelli doubting the passage and Pakaluk assuming it is authentic, but no detailed defence of its authenticity; the brief's 'debate' is therefore one-sided in what I could reach. (8) The Hryniewicz, Bauckham and Hombergen positions come only through Kimel's posts. (9) The Jenkins, Truglia (on Matt 25:46) and Kimel treatments of 553 itself belong to other clusters and are not repeated here."
+}
